@@ -2,7 +2,7 @@ project:
   type: book
 
 book:
-  title: "VS Exam Prep Quarto"
+  title: "AB Exam Prep"
   author: "Jane Doe"
   date: "8/6/2022"
   chapters:
