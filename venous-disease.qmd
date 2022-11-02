@@ -52,7 +52,7 @@ But also you're looking for complications of venous disease. This is a clinical 
 
 Venous duplex imaging is obviously the first line, gold standard that pretty much anybody will go to around the world. And what that does is essentially gives you information about the venous flow, antegrade or retrograde or refluxing flow in superficial and deep veins.
 
-It'll give you information about the anatomy of the veins , which will help you to plan treatment, but it also gives you lots of other information as well. It gives you information in the common femoral vein, for example, if there's good phasicity of flow or if there's any scarring. It helps you to evaluate whether there might be some outflow obstruction, so duplex imaging is the absolute first line, gold standard. For more on venous duplex scanning, see \@ref(sec-venous).
+It'll give you information about the anatomy of the veins , which will help you to plan treatment, but it also gives you lots of other information as well. It gives you information in the common femoral vein, for example, if there's good phasicity of flow or if there's any scarring. It helps you to evaluate whether there might be some outflow obstruction, so duplex imaging is the absolute first line, gold standard. For more on venous duplex scanning, see @sec-venous.
 
 Now, once you've done the duplex imaging, if there's clinical suspicion, then of course we can move on to other investigations. So proximal CTV, MRV, venography, IVUS. But clinical assessments and duplex assessment are the bedrock of every assessment of every venous patient. So that's the foundation.
 
@@ -93,7 +93,7 @@ So I think the most important thing is not necessarily what you use, it's doing 
 You can spend an hour doing this, if you're being very diligent. But what I say to patients are that there are generic risks of venous thromboembolism, as is the risk of any intervention. And I think that's worthy of specific discussion after endovenous procedures, but I quote a risk of around one in 200 for most endovenous interventions. Extension of proximal thrombus into the deep system is termed endothermal heat-induced thrombosis (EHIT) and is evaluated and treated aggressively in the United States.[@sadek2013; @kabnick2021] EHIT is defined as:
 
 | EHIT Grade | Description                                            | Treatment                            |
-|:-------------:|----------------------------------|-----------------------|
+|:----------------:|--------------------------------|----------------------|
 |     1      | Extension to SFJ                                       | None                                 |
 |     2      | Extension into deep system \<50% of lumen diameter     | Close observation vs anticoagulation |
 |     3      | Extension into the deep system \>50% of lumen diameter | Anticoagulation                      |
@@ -117,7 +117,7 @@ There's nothing validated, there's nothing widely available, but we have a local
 
 In addition, it is important to implement mitigation. So traditionally things like a contraceptive pill, HRT and Tamoxifen, we wouldn't usually stop them for a local anesthetic procedure, but being on an estrogen containing pill doubles or triples your risk of VTE. It's an easily reversible thing in the short term that can be done. So for my patients, I would normally recommend that we stop the pill or HRT a full month before and after the procedure.
 
-For preventing EHIT specifically, the radiofrequency ablation (RFA) catheter should be placed 2cm from the SFJ. EHIT is a primarily technical complication.\@joh2014
+For preventing EHIT specifically, the radiofrequency ablation (RFA) catheter should be placed 2cm from the SFJ. EHIT is a primarily technical complication.@joh2014
 
 **You mentioned it an extended course of anticoagulation for those patients with risk factors. Is there a specific timescale locally that you use for this?**
 
@@ -263,7 +263,7 @@ The most important part is the first component of the algorithm, which is an ass
 
 If a DVT is likely, then the algorithm is to do a scan, very straightforward. If a DVT is unlikely, then the algorithm is to do a D-dimer. Because if that is negative, DVT is effectively excluded. The guidelines are very clear on the assessment process, but a lot of this won't reach our radars as vascular specialists at all until the DVT has been diagnosed, so we don't appreciate the importance of the early stages. So again, a quick plug for the guidelines, there's a very nice algorithm, beautiful colors---I definitely recommend having a look.
 
-On ultrasound, acute DVT is characterized by an enlarged vein with a non-compressible lumen and hypoechoic thrombus. Chronic post-thrombotic scarring is often contracted with echogenic appearance.[@yusof2019] For more details, see \@ref(sec-venous).
+On ultrasound, acute DVT is characterized by an enlarged vein with a non-compressible lumen and hypoechoic thrombus. Chronic post-thrombotic scarring is often contracted with echogenic appearance.[@yusof2019] For more details, see @sec-venous.
 
 ### Management
 
@@ -425,7 +425,7 @@ The other big group of patients of course, is malignant lymph node or retroperit
 
 **We may see patients who come in with severe venous disease with skin changes, for example. When would you consider imaging the proximal deep veins in addition to infrainguinal superficial and deep veins of the leg and what are the best modalities to do this?**
 
-So we are really getting down to the importance of a detailed assessment of the entire superficial and deep venous system. Every patient with venous disease should have a whole leg infrainguinal duplex to start with---that's deep and superficial veins. There's no real role for just looking at superficial veins. So you need to understand the context. In terms of if their obstructed or if they're refluxing. Again, remember that, reflux on a duplex, yes, all we see is arrows going in certain directions. But all reflux means is that after a calf augmentation maneuver, there is some retrograde flow---in a superficial vein, more than half a second and in a deep vein, more than one second. That's all it means. So for example, you can have retrograde flow for 0.6 seconds in a saphenous vein, and that will be labeled as reflux for all the rest of the time that superficial vein is doing the right job, it's returning the blood to the heart. So just be wary of interpreting what these arrows mean. For more, see \@ref(sec-venous).
+So we are really getting down to the importance of a detailed assessment of the entire superficial and deep venous system. Every patient with venous disease should have a whole leg infrainguinal duplex to start with---that's deep and superficial veins. There's no real role for just looking at superficial veins. So you need to understand the context. In terms of if their obstructed or if they're refluxing. Again, remember that, reflux on a duplex, yes, all we see is arrows going in certain directions. But all reflux means is that after a calf augmentation maneuver, there is some retrograde flow---in a superficial vein, more than half a second and in a deep vein, more than one second. That's all it means. So for example, you can have retrograde flow for 0.6 seconds in a saphenous vein, and that will be labeled as reflux for all the rest of the time that superficial vein is doing the right job, it's returning the blood to the heart. So just be wary of interpreting what these arrows mean. For more, see @sec-venous.
 
 In terms of how that affects your decision-making---one approach is to consider the overall burden of venous disease, such as those with venous hypertension. And what I try and do is draw a pie chart and say, you got venous hypertension, here are the different causes of your venous disease---that might include superficial reflux, deep venous reflux, deep venous obstruction, and other factors. You try and apply some clinical judgment as to what the different factors are.
 
@@ -519,7 +519,7 @@ For more on venous trauma, see @sec-trauma-venous.
 
 ## Lymphedema
 
-Here we will discuss lymphedema of the lower extremity. This is a broad topic, but the management decisions are relatively straightfoward and knowledge is required for examinations. For upper extremity lymphedema, see \@ref(sec-upper-extremity-lymphedema).
+Here we will discuss lymphedema of the lower extremity. This is a broad topic, but the management decisions are relatively straightfoward and knowledge is required for examinations. For upper extremity lymphedema, see @sec-upper-extremity-lymphedema
 
 ### Demographics
 
@@ -532,7 +532,7 @@ Lymphedema can be thought of as a primary dysfunction of the lymphatic channels 
 The management of lymphedema is determined primarily on its clinical stage at presentation.[@grada2017] The staging for lymphedema is as follows:
 
 | Lymphedema Stage |        Description         | Symptoms                                                                 |
-|:--------------:|:--------------:|-----------------------------------------|
+|:----------------:|:----------------:|-------------------------------------|
 |        0         |        Sub-clinical        | No swelling, heaviness or discomfort                                     |
 |        1         |    Sponteous Reversible    | Swelling improved with limb elevation                                    |
 |        2         |  Spontaneous Irreversible  | Pitting and swelling, not improved with elevation                        |
