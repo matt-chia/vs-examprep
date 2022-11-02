@@ -4,7 +4,7 @@ project:
 book:
   title: "Vascular Surgery Exam Prep"
   author: "Audible Bleeding"
-  date: "10/22/2022"
+  date: "11/2/2022"
   chapters:
     - index.qmd
     - authors.qmd
@@ -53,6 +53,7 @@ book:
   repo-url: https://github.com/adam-mdmph/vs-examprep.git
   sharing: [twitter]
   google-analytics: "G-T4DWNE55D1"
+  cookie-consent: true
   number-sections: true
   crossref:
     chapters: true
@@ -62,15 +63,15 @@ bibliography: references.bib
 format:
   html:
     theme: cosmo
-  pdf:
-    documentclass: scrreprt
-    include-in-header: 
-      text: |
-        \usepackage{makeidx}
-        \makeindex
-    include-after-body: 
-      text: |
-        \printindex
+#  pdf:
+#    documentclass: scrreprt
+#    include-in-header: 
+#      text: |
+#        \usepackage{makeidx}
+#        \makeindex
+#    include-after-body: 
+#      text: |
+#        \printindex
 
 editor: visual
 

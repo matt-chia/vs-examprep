@@ -1,6 +1,8 @@
 ## Acute Limb Ischemia
 
-**Accompanying Episode:** Acute Limb Ischemia: Alex Forsyth and Sarah Carlson
+Authors: *Alex Forsyth and Sarah Carlson*
+
+Contributors: *Eilidh Gunn*
 
 ```{r echo=FALSE}
 

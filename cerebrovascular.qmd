@@ -1,8 +1,8 @@
 # Cerebrovascular
 
-Authors: *Adam Johnson, MD, MPH; Nicole Rich, MD, MPH; Kevin Kniery, MD, MPH*
+Authors: *Adam P Johnson, Nicole Rich, and Kevin Kniery*
 
-Contributors: *Eilidh Gunn, MBChB, MRCSEd*
+Contributors: *Eilidh Gunn*
 
 ```{r echo=FALSE}
 

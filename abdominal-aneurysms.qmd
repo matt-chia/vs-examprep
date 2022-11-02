@@ -1,9 +1,6 @@
-# Abdominal Aneurysms
+# Aneurysms
 
-**UNDER CONSTRUCTION - This Chapter is Currently in DRAFT mode**
-
-**30 Mar 2021:** *Mia Miller, MD and Julie Duke, MD; University of
-Minnesota*
+Authors: *Mia Miller and Julie Duke*
 
 ```{r echo=FALSE}
 
@@ -15,174 +12,103 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_AAA_post_auphonic.
 
 ## Pathogenesis, presentation and risk factors
 
-**What is an abdominal aortic aneurysm (AAA)?**
-[@mooreVascularEndovascularSurgery2019]
+**What is an abdominal aortic aneurysm (AAA)?** [@mooreVascularEndovascularSurgery2019]
 
--   Defined as a localized dilation of an artery to a diameter greater
-    than 50% (1.5x) of its normal diameter. It is generally accepted
-    that \>3cm in adults is considered aneurysmal for the abdominal
-    aorta.
+-   Defined as a localized dilation of an artery to a diameter greater than 50% (1.5x) of its normal diameter. It is generally accepted that \>3cm in adults is considered aneurysmal for the abdominal aorta.
 
 -   AAAs can be described as:
 
-    -   Infrarenal -- distal to the renal arteries with normal aorta
-        between the renal arteries and the aneurysm origin.
+    -   Infrarenal -- distal to the renal arteries with normal aorta between the renal arteries and the aneurysm origin.
 
-    -   Juxtarenal -- aneurysm extends to the renal arteries but does
-        not involve them
+    -   Juxtarenal -- aneurysm extends to the renal arteries but does not involve them
 
-    -   Pararenal -- aneurysm involving the origin of at least one of
-        the renal arteries
+    -   Pararenal -- aneurysm involving the origin of at least one of the renal arteries
 
--   Estimated 1.1 million Americans have AAAs, which equates to a
-    prevalence of 1.4% in 50-84 year old general population.
+-   Estimated 1.1 million Americans have AAAs, which equates to a prevalence of 1.4% in 50-84 year old general population.
 
-    -   Men 65-75y with a history of smoking have a prevalence of 6-7% -
-        hence the need for screening.[@lefevre2014; @chaikof2018]
+    -   Men 65-75y with a history of smoking have a prevalence of 6-7% - hence the need for screening.[@lefevre2014; @chaikof2018]
 
     -   Men without a history of smoking have a prevalence of 2%.
 
-    -   Women who are current smokers 2%, and women with a history of
-        smoking 0.8%.[@wanhainen2006]
+    -   Women who are current smokers 2%, and women with a history of smoking 0.8%.[@wanhainen2006]
 
--   AAAs are 3-7x more prevalent than thoracic aortic aneurysms and can
-    co-exist with other aneurysms throughout the arterial vascular
-    system like popliteal artery aneurysms.
+-   AAAs are 3-7x more prevalent than thoracic aortic aneurysms and can co-exist with other aneurysms throughout the arterial vascular system like popliteal artery aneurysms.
 
-    -   In a 10-year review originating from Ireland, 50% of patients
-        that presented with unilateral popliteal artery aneurysms had
-        associated AAA. In patients with bilateral popliteal aneurysms,
-        63% of those had associated AAA.
-        [@duffyPoplitealAneurysms10year1998]
+    -   In a 10-year review originating from Ireland, 50% of patients that presented with unilateral popliteal artery aneurysms had associated AAA. In patients with bilateral popliteal aneurysms, 63% of those had associated AAA. [@duffyPoplitealAneurysms10year1998]
 
-    -   Patients with femoral aneurysms have an 85% chance of an
-        associated AAA. [@diwanIncidenceFemoralPopliteal2000]
+    -   Patients with femoral aneurysms have an 85% chance of an associated AAA. [@diwanIncidenceFemoralPopliteal2000]
 
-    -   Conversely, if a patient is first found to have a AAA, there is
-        an 11% chance of having associated popliteal artery aneurysms
-        \>15mm. [@tuvesonPatientsAbdominalAortic2016]
+    -   Conversely, if a patient is first found to have a AAA, there is an 11% chance of having associated popliteal artery aneurysms \>15mm. [@tuvesonPatientsAbdominalAortic2016]
 
-    -   Another study showed a rate of femoral-popliteal aneurysms in
-        AAA patients is approximately 14%.
-        [@diwanIncidenceFemoralPopliteal2000]
+    -   Another study showed a rate of femoral-popliteal aneurysms in AAA patients is approximately 14%. [@diwanIncidenceFemoralPopliteal2000]
 
-    -   This association stresses the importance of a good physical exam
-        when evaluating a patient with a AAA and is commonly tested on
-        exams.[@chaikof2018; @diwan2000]
+    -   This association stresses the importance of a good physical exam when evaluating a patient with a AAA and is commonly tested on exams.[@chaikof2018; @diwan2000]
 
-**What is the pathogenesis of an abdominal aortic aneurysm?**
-[@mooreVascularEndovascularSurgery2019]
+**What is the pathogenesis of an abdominal aortic aneurysm?** [@mooreVascularEndovascularSurgery2019]
 
 -   More than 90% of AAAs are associated with atherosclerosis.
 
--   Other causes include cystic medial necrosis, dissection, Marfan's
-    syndrome, Ehler's-Danlos syndrome, HIV and syphilis.
+-   Other causes include cystic medial necrosis, dissection, Marfan's syndrome, Ehler's-Danlos syndrome, HIV and syphilis.
 
--   Elastin and collagen are the major structural proteins responsible
-    for the integrity of the aortic wall and defects in these cause
-    degeneration and further aneurysmal change.
+-   Elastin and collagen are the major structural proteins responsible for the integrity of the aortic wall and defects in these cause degeneration and further aneurysmal change.
 
--   For example, a mutation in fibrillin in Marfan's syndrome causes
-    elastin fragmentation and pathological remodeling of the wall of the
-    artery to form cystic medial degeneration.
+-   For example, a mutation in fibrillin in Marfan's syndrome causes elastin fragmentation and pathological remodeling of the wall of the artery to form cystic medial degeneration.
 
--   Several investigations have also shown that upregulations of
-    metalloproteinase activity, specifically MMP-2 and MMP-9, have an
-    essential role in aneurysm formation. Imbalances between aortic wall
-    proteases and antiproteases cause degradation of the extracellular
-    matrix and loss of structural integrity of the aortic wall.
+-   Several investigations have also shown that upregulations of metalloproteinase activity, specifically MMP-2 and MMP-9, have an essential role in aneurysm formation. Imbalances between aortic wall proteases and antiproteases cause degradation of the extracellular matrix and loss of structural integrity of the aortic wall.
 
-    -   Nicotine increases MMP expression in vascular smooth muscle
-        cells.[@li2012; @rabkin2016]
+    -   Nicotine increases MMP expression in vascular smooth muscle cells.[@li2012; @rabkin2016]
 
--   Increased thrombus burden is associated with wall thinning, medial
-    loss of smooth muscle cells, elastin degradation, adventitial
-    inflammation and aortic wall hypoxia which all increase the rate of
-    AAA growth.
+-   Increased thrombus burden is associated with wall thinning, medial loss of smooth muscle cells, elastin degradation, adventitial inflammation and aortic wall hypoxia which all increase the rate of AAA growth.
 
-    -   Of note, intraluminal thrombus rarely embolizes and is not an
-        indication for anticoagulation.[@singh2019; @cameron2018]
+    -   Of note, intraluminal thrombus rarely embolizes and is not an indication for anticoagulation.[@singh2019; @cameron2018]
 
--   Infective aortitis is a rare but highly morbid cause for aortic
-    aneurysm formation. Treatment in this setting should be more
-    aggressive with the addition of antibiotic therapy and open surgical
-    repair with rifampin soaked graft whenever feasible.[@gornik2008;
-    @paravastu2009; @rasmussen1997]
+-   Infective aortitis is a rare but highly morbid cause for aortic aneurysm formation. Treatment in this setting should be more aggressive with the addition of antibiotic therapy and open surgical repair with rifampin soaked graft whenever feasible.[@gornik2008; @paravastu2009; @rasmussen1997]
 
 -   For more about aortitis, see \@ref(large-vasculitis).
 
-**What are the risk factors for AAA occurrence and growth?**
-[@mooreVascularEndovascularSurgery2019]
+**What are the risk factors for AAA occurrence and growth?** [@mooreVascularEndovascularSurgery2019]
 
--   Risk factors for AAAs are similar to the risk factors for occlusive
-    atherosclerosis and include age, tobacco use, hypertension, male
-    gender and hypercholesterolemia.
+-   Risk factors for AAAs are similar to the risk factors for occlusive atherosclerosis and include age, tobacco use, hypertension, male gender and hypercholesterolemia.
 
--   It has been found that diabetes is protective for AAA progression
-    and rupture.
+-   It has been found that diabetes is protective for AAA progression and rupture.
 
--   Cigarette smoking is the single most important modifiable risk
-    factor to prevent occurrence and growth of AAAs. Smoking increases
-    the rate of growth by 35% for abdominal aortic aneurysms.
+-   Cigarette smoking is the single most important modifiable risk factor to prevent occurrence and growth of AAAs. Smoking increases the rate of growth by 35% for abdominal aortic aneurysms.
 
-    -   Smoking has a dose dependent relationship with AAA, smoking 1/2
-        ppd has one third the risk of smoking 1 ppd.[@kent2010]
+    -   Smoking has a dose dependent relationship with AAA, smoking 1/2 ppd has one third the risk of smoking 1 ppd.[@kent2010]
 
--   Medical therapy has been studied with disappointing results.
-    Beta-blockers and ACE/ARB inhibitors have been studied but have not
-    shown any effect on growth of AAAs.
+-   Medical therapy has been studied with disappointing results. Beta-blockers and ACE/ARB inhibitors have been studied but have not shown any effect on growth of AAAs.
 
--   Men more likely to have AAA, but women develop at a later age with
-    more aggressive growth and risk for rupture.
-    [@loAbdominalAorticAneurysms2016]
+-   Men more likely to have AAA, but women develop at a later age with more aggressive growth and risk for rupture. [@loAbdominalAorticAneurysms2016]
 
     -   Stronger association with smoking in women.
 
-    -   Women have same outcomes from endo repair, higher complications
-        from open repair due to poorly managemend CV risk factors.
+    -   Women have same outcomes from endo repair, higher complications from open repair due to poorly managemend CV risk factors.
 
 -   Fluoroquinolones[@lee2015; @lee2018; @lemaire2018; @pasternak2018]
 
-    -   In a recent study just published in JAMA Surgery this January,
-        the group at UNC showed an increased short-term risk of
-        developing an aortic aneurysm with fluoroquinolone use.
-        [@newtonAssociationFluoroquinoloneUse2021a]
+    -   In a recent study just published in JAMA Surgery this January, the group at UNC showed an increased short-term risk of developing an aortic aneurysm with fluoroquinolone use. [@newtonAssociationFluoroquinoloneUse2021a]
 
-    -   They reviewed all prescription fills for fluoroquinolones or
-        comparative antibiotics from 2005-2017.
+    -   They reviewed all prescription fills for fluoroquinolones or comparative antibiotics from 2005-2017.
 
-    -   This included \>27 million US Adults aged 18-64 years old with
-        no history of aneurysms.
+    -   This included \>27 million US Adults aged 18-64 years old with no history of aneurysms.
 
     -   18% of the prescriptions were fluoroquinolones.
 
-    -   Fluoroquinolones were associated with increased incidence of
-        aortic aneurysms. Compared to the other antibiotics,
-        fluoroquinolones were associated with a higher 90-day incidence
-        of AAA and iliac aneurysms as well as more likely to undergo
-        aneurysm repair.
+    -   Fluoroquinolones were associated with increased incidence of aortic aneurysms. Compared to the other antibiotics, fluoroquinolones were associated with a higher 90-day incidence of AAA and iliac aneurysms as well as more likely to undergo aneurysm repair.
 
-    -   They recommended that fluoroquinolone use should be pursued with
-        caution in all adults, not just high risk individuals, and they
-        recommended broadening of the warnings from the FDA.
+    -   They recommended that fluoroquinolone use should be pursued with caution in all adults, not just high risk individuals, and they recommended broadening of the warnings from the FDA.
 
--   Fluoroquinolones playing a role in dissections and aneurysm
-    formation is often a highly tested question
+-   Fluoroquinolones playing a role in dissections and aneurysm formation is often a highly tested question
 
 **What is the dreaded complication of AAA?**
 
--   Aneurysm rupture is the fear with a diagnosis of AAA. The risk of
-    rupture increases yearly as the aneurysm expands. Once an aneurysm
-    develops, it tends to enlarge gradually yet progressively. This is
-    an important concept to grasp for testing.[@lindsay2019; @tracci]
+-   Aneurysm rupture is the fear with a diagnosis of AAA. The risk of rupture increases yearly as the aneurysm expands. Once an aneurysm develops, it tends to enlarge gradually yet progressively. This is an important concept to grasp for testing.[@lindsay2019; @tracci]
 
 -   Growth rate
 
-    -   For smaller aneurysms (3-5cm in size), the growth rate is
-        approximately 2-3mm/year
+    -   For smaller aneurysms (3-5cm in size), the growth rate is approximately 2-3mm/year
 
-    -   For larger aneurysms (\>5cm), the growth rate is higher at
-        3-5mm/year.
+    -   For larger aneurysms (\>5cm), the growth rate is higher at 3-5mm/year.
 
 -   Rupture risk, historically, has been described as:
 
@@ -196,53 +122,34 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_AAA_post_auphonic.
 
 : Historical reporting of AAA rupture risk[@tracci]
 
--   Newer data suggests the true rupture risk per year is decreasing
-    with time. Rupture risk has recently been reported to be much lower.
+-   Newer data suggests the true rupture risk per year is decreasing with time. Rupture risk has recently been reported to be much lower.
 
-    -   A systematic review from the UK published in JVS in 2015, the
-        rupture risks were far lower than previously reported and what
-        is documented in most textbooks. Data included 11 studies,
-        reviewing 1514 patients, published between 1995 and
-        2014.[@parkinsonRuptureRatesUntreated2015]
+    -   A systematic review from the UK published in JVS in 2015, the rupture risks were far lower than previously reported and what is documented in most textbooks. Data included 11 studies, reviewing 1514 patients, published between 1995 and 2014.[@parkinsonRuptureRatesUntreated2015]
 
-|  AAA Size  |          Cumulative Annual Rupture Risk           |
-|:----------:|:-------------------------------------------------:|
-|  \<5.5 cm  |            \<1%[@oliver-williams2019]             |
-| 5.5-6.0 cm | 3.5% [0-9%][@parkinsonRuptureRatesUntreated2015]  |
-| 6.1-7.0 cm | 4.1% [0-9%][@parkinsonRuptureRatesUntreated2015]  |
-|  \>7.0 cm  | 6.3% [0-14%][@parkinsonRuptureRatesUntreated2015] |
+|  AAA Size  |           Cumulative Annual Rupture Risk            |
+|:----------:|:---------------------------------------------------:|
+|  \<5.5 cm  |             \<1%[@oliver-williams2019]              |
+| 5.5-6.0 cm | 3.5% \[0-9%\][@parkinsonRuptureRatesUntreated2015]  |
+| 6.1-7.0 cm | 4.1% \[0-9%\][@parkinsonRuptureRatesUntreated2015]  |
+|  \>7.0 cm  | 6.3% \[0-14%\][@parkinsonRuptureRatesUntreated2015] |
 
 : AAA rupture risk based on most recent publications
 
--   Factors that increase the risk of rupture other than the size of the
-    aneurysm are smoking, COPD, hypertension, transplant recipient, and
-    rapid enlargement (defined as 1 cm/year or more).
+-   Factors that increase the risk of rupture other than the size of the aneurysm are smoking, COPD, hypertension, transplant recipient, and rapid enlargement (defined as 1 cm/year or more).
 
 ## Evaluation and Diagnosis
 
-**What is the work up for a AAA?**
-[@mooreVascularEndovascularSurgery2019]
+**What is the work up for a AAA?** [@mooreVascularEndovascularSurgery2019]
 
--   75% of all infrarenal AAAs are asymptomatic when first detected and
-    often incidentally discovered on unrelated imaging.
+-   75% of all infrarenal AAAs are asymptomatic when first detected and often incidentally discovered on unrelated imaging.
 
--   Symptoms - Some patients may report symptoms such as abdominal,
-    flank or back pain from pressure on adjacent somatic sensory nerves
-    or overlying peritoneum. Tenderness by itself is not a reliable
-    indicator of impending rupture. Other symptoms include thrombosis
-    and distal embolization.
+-   Symptoms - Some patients may report symptoms such as abdominal, flank or back pain from pressure on adjacent somatic sensory nerves or overlying peritoneum. Tenderness by itself is not a reliable indicator of impending rupture. Other symptoms include thrombosis and distal embolization.
 
 ### Imaging
 
--   Ultrasound, when feasible, is the preferred imaging modality for
-    aneurysm screening and surveillance.
+-   Ultrasound, when feasible, is the preferred imaging modality for aneurysm screening and surveillance.
 
-    -   The Society for Vascular Surgery (SVS) recommends a one-time
-        ultrasound screening in men and women ages 65 to 75 years with
-        either a history of smoking or a family history of AAA, as well
-        as men and women over the age of 75 with a smoking history in
-        otherwise good health who have not previously undergone
-        screening. [@chaikofSocietyVascularSurgery2018a]
+    -   The Society for Vascular Surgery (SVS) recommends a one-time ultrasound screening in men and women ages 65 to 75 years with either a history of smoking or a family history of AAA, as well as men and women over the age of 75 with a smoking history in otherwise good health who have not previously undergone screening. [@chaikofSocietyVascularSurgery2018a]
     -   For more technical details on duplex screening see \@ref(aorta).
 
 | Size on Imaging | Surveillance Interval |
@@ -252,103 +159,61 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_AAA_post_auphonic.
 |   4 - 4.9 cm    |        1 year         |
 |    5 - 5.4cm    |       6 months        |
 
-: Recommended Intervals for AAA Surveillance[@thompson2013;
-@chaikofSocietyVascularSurgery2018a]
+: Recommended Intervals for AAA Surveillance[@thompson2013; @chaikofSocietyVascularSurgery2018a]
 
--   It is important to note that these screening guidelines are Level 2,
-    Grade C evidence from the SVS.
+-   It is important to note that these screening guidelines are Level 2, Grade C evidence from the SVS.
 
--   Traditionally, once duplex reveals an aneurysm 5cm in size, an
-    initial CTA is performed and patients are followed with additional
-    CT scans to assist with operative planning.
+-   Traditionally, once duplex reveals an aneurysm 5cm in size, an initial CTA is performed and patients are followed with additional CT scans to assist with operative planning.
 
--   CT Angiograms are helpful in operative planning and determining
-    candidacy for EVAR. You can assess the relationship of the aneurysm
-    to the renal arteries, assess the access vessels, and measure seal
-    zones
+-   CT Angiograms are helpful in operative planning and determining candidacy for EVAR. You can assess the relationship of the aneurysm to the renal arteries, assess the access vessels, and measure seal zones
 
-    -   The maximum aneurysm diameter derived from the CTA should be
-        based on outer wall to outer wall measurement perpendicular to
-        the path of the aorta (the centerline of the aneurysm).
+    -   The maximum aneurysm diameter derived from the CTA should be based on outer wall to outer wall measurement perpendicular to the path of the aorta (the centerline of the aneurysm).
 
--   MRA is recommended for patients with renal insufficiency who cannot
-    tolerate iodinated contrast.
+-   MRA is recommended for patients with renal insufficiency who cannot tolerate iodinated contrast.
 
 ## Management
 
-**What are the indications for repair?**
-[@mooreVascularEndovascularSurgery2019]
+**What are the indications for repair?** [@mooreVascularEndovascularSurgery2019]
 
--   The current recommendation to repair a fusiform aneurysm is 5.5cm
-    for men (Level 1, Grade A evidence), 5.0cm for women as they have a
-    higher risk for rupture, and rapid growth (\>5mm over 6 months).
-    [@chaikofSocietyVascularSurgery2018a]
+-   The current recommendation to repair a fusiform aneurysm is 5.5cm for men (Level 1, Grade A evidence), 5.0cm for women as they have a higher risk for rupture, and rapid growth (\>5mm over 6 months). [@chaikofSocietyVascularSurgery2018a]
 
--   For saccular aneurysms, the SVS practice guidelines recommend
-    elective repair (Level 2, Grade C evidence).
-    [@chaikofSocietyVascularSurgery2018a]
+-   For saccular aneurysms, the SVS practice guidelines recommend elective repair (Level 2, Grade C evidence). [@chaikofSocietyVascularSurgery2018a]
 
-    -   Studies show equivalent wall stress in saccular aneurysms at
-        much smaller sizes when compared to fusiform aneurysms. This has
-        led to the notion that they have a higher rupture risk at
-        smaller sizes.
+    -   Studies show equivalent wall stress in saccular aneurysms at much smaller sizes when compared to fusiform aneurysms. This has led to the notion that they have a higher rupture risk at smaller sizes.
 
-    -   A study published in Annals of Vascular Surgery in 2016 showed a
-        significant portion of ruptures \<55mm in size were saccular in
-        nature. [@kristmundssonMorphologySmallAbdominal2016]
+    -   A study published in Annals of Vascular Surgery in 2016 showed a significant portion of ruptures \<55mm in size were saccular in nature. [@kristmundssonMorphologySmallAbdominal2016]
 
-        -   Specific size guidelines for repair are currently lacking
-            because of their infrequent presentation.
+        -   Specific size guidelines for repair are currently lacking because of their infrequent presentation.
 
-**What are the options for repair, and how do you choose?**
-[@mooreVascularEndovascularSurgery2019;
-@fairman72AortoiliacAneurysms2019]
+**What are the options for repair, and how do you choose?** [@mooreVascularEndovascularSurgery2019; @fairman72AortoiliacAneurysms2019]
 
--   Two options: open repair and endovascular aortic aneurysm repair
-    (EVAR).
+-   Two options: open repair and endovascular aortic aneurysm repair (EVAR).
 
-    -   When attempting to decide between the two, one must consider the
-        patient's perioperative risk as well as the patient's anatomy,
-        which will be reviewed further here.
+    -   When attempting to decide between the two, one must consider the patient's perioperative risk as well as the patient's anatomy, which will be reviewed further here.
 
--   When reviewing the patient's risk for surgery, there are many tools
-    to assist, which are outlined in the Society for Vascular Surgery's
-    practice guidelines.
+-   When reviewing the patient's risk for surgery, there are many tools to assist, which are outlined in the Society for Vascular Surgery's practice guidelines.
 
--   The VSGNE or Vascular Study Group of New England developed a risk
-    prediction model for mortality which can assist in your decision
-    making. This is endorsed by both SVS and the Vascular Quality
-    Initiative.[@chaikof2018; @eslami2015]
+-   The VSGNE or Vascular Study Group of New England developed a risk prediction model for mortality which can assist in your decision making. This is endorsed by both SVS and the Vascular Quality Initiative.[@chaikof2018; @eslami2015]
 
-    -   This risk model looks at open vs endovascular repair and further
-        delineates infrarenal vs suprarenal clamps
+    -   This risk model looks at open vs endovascular repair and further delineates infrarenal vs suprarenal clamps
 
     -   It includes aneurysm sizes with 6.5cm as the cut off.
 
     -   It includes age above or below 75yo.
 
-    -   Gender and comorbidities are included like heart disease,
-        cerebrovascular disease and COPD.
+    -   Gender and comorbidities are included like heart disease, cerebrovascular disease and COPD.
 
-    -   An important risk factor is also renal function which is
-        delineated by creatinine at 1.5-2 or \>2.
+    -   An important risk factor is also renal function which is delineated by creatinine at 1.5-2 or \>2.
 
     -   Each of these risk factors is assigned a point grading.
 
-    -   These points are added together and they place the patient on a
-        spectrum of mortality risk. Depending on the amount of points
-        accumulated, the risk is divided into low, medium, high or
-        prohibitively high-risk groups
+    -   These points are added together and they place the patient on a spectrum of mortality risk. Depending on the amount of points accumulated, the risk is divided into low, medium, high or prohibitively high-risk groups
 
-    -   This is something that can help both the patient and physician
-        in deciding on surgery and how to proceed.
+    -   This is something that can help both the patient and physician in deciding on surgery and how to proceed.
 
--   Recent studies have shown that decreased aerobic fitness and high
-    frailty score predicted increased morbidity and mortality after open
-    aneurysm repair.
+-   Recent studies have shown that decreased aerobic fitness and high frailty score predicted increased morbidity and mortality after open aneurysm repair.
 
--   High-risk patients are defined by the following in the SVS
-    guidelines:
+-   High-risk patients are defined by the following in the SVS guidelines:
 
     -   Unstable angina or angina at rest
 
@@ -356,38 +221,23 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_AAA_post_auphonic.
 
     -   Serum creatinine level \> 3 mg/dL
 
-    -   Pulmonary disease manifested by room air PaO2 \< 50 mmHg,
-        elevated PCO2, or both.
+    -   Pulmonary disease manifested by room air PaO2 \< 50 mmHg, elevated PCO2, or both.
 
--   To help delineate a patient's risk, a preoperative workup is
-    necessary. The SVS practice guidelines recommend the following:
-    [@chaikofSocietyVascularSurgery2018a]
+-   To help delineate a patient's risk, a preoperative workup is necessary. The SVS practice guidelines recommend the following: [@chaikofSocietyVascularSurgery2018a]
 
-    -   Determine if the patient has an active cardiovascular condition.
-        Coronary artery disease is responsible for at least 50% to 60%
-        of perioperative and late deaths after operations on the
-        abdominal aorta, therefore, it is important for patients to
-        undergo cardiac evaluation prior to surgery.
+    -   Determine if the patient has an active cardiovascular condition. Coronary artery disease is responsible for at least 50% to 60% of perioperative and late deaths after operations on the abdominal aorta, therefore, it is important for patients to undergo cardiac evaluation prior to surgery.
 
-        -   Unstable angina, decompensated heart failure, severe
-            valvular disease, significant arrythmia -\> Cardiology
-            consultation (Level 1, Grade B)
+        -   Unstable angina, decompensated heart failure, severe valvular disease, significant arrythmia -\> Cardiology consultation (Level 1, Grade B)
 
-        -   Significant clinical risk factors such as coronary artery
-            disease, congestive heart failure, stroke, diabetes
-            mellitus, and chronic kidney disease -\> Stress test (Level
-            2, Grade B)
+        -   Significant clinical risk factors such as coronary artery disease, congestive heart failure, stroke, diabetes mellitus, and chronic kidney disease -\> Stress test (Level 2, Grade B)
 
         -   Worsening dyspnea -\> Echocardiogram (Level 1, Grade A)
 
         -   All patients undergoing EVAR or open repair require EKG
 
-        -   In patients capable of moderate physical activities, such as
-            climbing two flights of stairs or running a short distance
-            (MET \>= 4), there is no benefit in further testing.
+        -   In patients capable of moderate physical activities, such as climbing two flights of stairs or running a short distance (MET \>= 4), there is no benefit in further testing.
 
-        -   If coronary intervention is required, this takes precedence
-            over aneurysm repair.
+        -   If coronary intervention is required, this takes precedence over aneurysm repair.
 
     -   History of COPD
 
@@ -397,70 +247,35 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_AAA_post_auphonic.
 
             C)  
 
-        -   Pulmonary bronchodilators at least 2 weeks before aneurysm
-            repair (Level 2, Grade C)
+        -   Pulmonary bronchodilators at least 2 weeks before aneurysm repair (Level 2, Grade C)
 
--   In patients who are deemed high risk, EVAR is the most attractive
-    option in anatomically suitable patients
+-   In patients who are deemed high risk, EVAR is the most attractive option in anatomically suitable patients
 
--   Morbidity and mortality rates are lower for EVAR than open repair in
-    the short term. This is illustrated in multiple studies.
+-   Morbidity and mortality rates are lower for EVAR than open repair in the short term. This is illustrated in multiple studies.
 
-    -   The EVAR-1 trial, a randomized prospective UK study including
-        1082 patients, compared EVAR with open AAA repair in patients
-        who were fit enough to undergo open surgical repair from
-        1999-2003. The 30-day mortality rate was reduced in the EVAR
-        group (1.7% vs 4.7%), although secondary interventions were more
-        common in the EVAR group (9.8% vs. 5.8%).
-        [@greenhalghComparisonEndovascularAneurysm2004]
+    -   The EVAR-1 trial, a randomized prospective UK study including 1082 patients, compared EVAR with open AAA repair in patients who were fit enough to undergo open surgical repair from 1999-2003. The 30-day mortality rate was reduced in the EVAR group (1.7% vs 4.7%), although secondary interventions were more common in the EVAR group (9.8% vs. 5.8%). [@greenhalghComparisonEndovascularAneurysm2004]
 
-    -   The DREAM trial, a multicenter randomized trial from 2000-2003,
-        compared open repair with EVAR in 345 patients with a reduction
-        in operative mortality (4.7% vs 9.8%) with the majority of
-        complications accounted for by pulmonary issues.
-        [@prinssenRandomizedTrialComparing2004]
+    -   The DREAM trial, a multicenter randomized trial from 2000-2003, compared open repair with EVAR in 345 patients with a reduction in operative mortality (4.7% vs 9.8%) with the majority of complications accounted for by pulmonary issues. [@prinssenRandomizedTrialComparing2004]
 
--   This early survival benefit with EVAR over open repair disappears by
-    the third postoperative year.
+-   This early survival benefit with EVAR over open repair disappears by the third postoperative year.
 
-    -   The Open vs Endovascular Repair (OVER) trial included 881
-        patients from 42 VA centers randomized to either EVAR or open
-        repair. This demonstrated that perioperative mortality was
-        improved in the EVAR group (0.5% vs 3.0%), yet no statistically
-        significant difference was seen in mortality at 2 years (7.0% vs
-        9.8%). [@lederleOpenEndovascularRepair2019]
+    -   The Open vs Endovascular Repair (OVER) trial included 881 patients from 42 VA centers randomized to either EVAR or open repair. This demonstrated that perioperative mortality was improved in the EVAR group (0.5% vs 3.0%), yet no statistically significant difference was seen in mortality at 2 years (7.0% vs 9.8%). [@lederleOpenEndovascularRepair2019]
 
-    -   Late mortality seems to be higher in EVAR due to ruptures from
-        endoleaks that do not occur in open repair.
-        [@rajendranLateRuptureAbdominal2017]
+    -   Late mortality seems to be higher in EVAR due to ruptures from endoleaks that do not occur in open repair. [@rajendranLateRuptureAbdominal2017]
 
--   Reviewing the anatomic criteria for traditional EVAR may rule out
-    EVAR as an option in some patients. These criteria vary slightly
-    depending on the particular device being used.
+-   Reviewing the anatomic criteria for traditional EVAR may rule out EVAR as an option in some patients. These criteria vary slightly depending on the particular device being used.
 
     -   Neck
 
-        -   A neck length of at least 10-15mm from the renal arteries to
-            the aneurysm start with a diameter of 18-32mm.
+        -   A neck length of at least 10-15mm from the renal arteries to the aneurysm start with a diameter of 18-32mm.
 
-        -   It is important that the neck is relatively free of thrombus
-            or calcification to decrease the risk of endoleaks.
+        -   It is important that the neck is relatively free of thrombus or calcification to decrease the risk of endoleaks.
 
-        -   Infrarenal necks 4-15mm would require fenestrated
-            endovascular repair. The only FDA approved device for
-            fenestrated repairs is the Cook Z-Fen
-            device.[@oderichResultsUnitedStates2014]
+        -   Infrarenal necks 4-15mm would require fenestrated endovascular repair. The only FDA approved device for fenestrated repairs is the Cook Z-Fen device.[@oderichResultsUnitedStates2014]
 
-            -   Z-fen requires diameter 19-31mm, angle \<45deg angle to
-                long axis of aneurysm, ipsilateral iliac fixation \>30mm
-                and 9-21mm in diam, contralateral iliac \>30mm and
-                7-21mm diam. Multiple or early branching renal arteries
-                can limit this reapir as well.
-                [@oderichTechnicalAspectsRepair2014]
+            -   Z-fen requires diameter 19-31mm, angle \<45deg angle to long axis of aneurysm, ipsilateral iliac fixation \>30mm and 9-21mm in diam, contralateral iliac \>30mm and 7-21mm diam. Multiple or early branching renal arteries can limit this reapir as well. [@oderichTechnicalAspectsRepair2014]
 
-            -   Parallel grafts for short necks (i.e. snorkel or
-                chimney) require 20mm seal for good outcomes.
-                [@donasCollectedWorldExperience2015]
+            -   Parallel grafts for short necks (i.e. snorkel or chimney) require 20mm seal for good outcomes. [@donasCollectedWorldExperience2015]
 
     -   Angulation
 
@@ -468,148 +283,89 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_AAA_post_auphonic.
 
     -   Access vessels
 
-        -   Access vessels must be adequate for delivery of the device
-            depending on the sheath size required (6-8mm)
+        -   Access vessels must be adequate for delivery of the device depending on the sheath size required (6-8mm)
 
     -   Aortic bifurcation
 
-        -   The aortic bifurcation must be \>20mm in size to accommodate
-            the graft opening to full caliber
+        -   The aortic bifurcation must be \>20mm in size to accommodate the graft opening to full caliber
 
     -   Iliac landing zone
 
-        -   Adequate seal zone in the distal common iliac arteries of
-            10-15mm in length and diameter of 7.5-25mm.
+        -   Adequate seal zone in the distal common iliac arteries of 10-15mm in length and diameter of 7.5-25mm.
 
-        -   If covering the hypogastric arteries is necessary
-            unilaterally to obtain a seal, you can embolize the
-            hypogastric artery (to prevent retrograde flow) and extend
-            the graft into the external iliac artery.
+        -   If covering the hypogastric arteries is necessary unilaterally to obtain a seal, you can embolize the hypogastric artery (to prevent retrograde flow) and extend the graft into the external iliac artery.
 
-        -   If this is an issue bilaterally, an iliac branch device can
-            assist in maintaining perfusion into the hypogastric
-            arteries.
+        -   If this is an issue bilaterally, an iliac branch device can assist in maintaining perfusion into the hypogastric arteries.
 
 Special considerations
 
--   Aortocaval fistula - sometimes aneurysms can be complicated by
-    fistula with the IVC. This can occur with primary fistula, rupture
-    and after repair. This is rare, 1% in elective AAA and 6% in
-    rupture.[@brightwell2013; @schmidt1994] High risk of persistent
-    endoleak due to ongoing flow into IVC. Open repair often
-    best.[@orion2016]
+-   Aortocaval fistula - sometimes aneurysms can be complicated by fistula with the IVC. This can occur with primary fistula, rupture and after repair. This is rare, 1% in elective AAA and 6% in rupture.[@brightwell2013; @schmidt1994] High risk of persistent endoleak due to ongoing flow into IVC. Open repair often best.[@orion2016]
 
 ### EVAR
 
-**Can you briefly go over the steps of an EVAR?**
-[@mooreVascularEndovascularSurgery2019]
+**Can you briefly go over the steps of an EVAR?** [@mooreVascularEndovascularSurgery2019]
 
--   EVAR now accounts for approximately 70-80% of elective abdominal
-    aortic aneurysm repairs and 65% of iliac aneurysm repairs in the
-    United States and many other countries.
+-   EVAR now accounts for approximately 70-80% of elective abdominal aortic aneurysm repairs and 65% of iliac aneurysm repairs in the United States and many other countries.
 
--   Performed in the operating room or IR suite with a fixed or portable
-    C-arm
+-   Performed in the operating room or IR suite with a fixed or portable C-arm
 
 -   Anesthesia
 
-    -   Regional block, local anesthesia or general anesthesia depending
-        on surgeon preference and patient risk
+    -   Regional block, local anesthesia or general anesthesia depending on surgeon preference and patient risk
 
 -   Groin access and short sheath placement
 
-    -   Percutaneous - Closure devices are introduced prior to inserting
-        the large sheaths containing the stent-grafts
+    -   Percutaneous - Closure devices are introduced prior to inserting the large sheaths containing the stent-grafts
 
     -   Cut-down
 
--   Pigtail catheter is used to perform an aortogram of the abdominal
-    aorta and iliac arteries
+-   Pigtail catheter is used to perform an aortogram of the abdominal aorta and iliac arteries
 
--   The renal artery orifices are marked. If there is any concern about
-    good visualization, IVUS (intravascular ultrasound) can be used to
-    assist.
+-   The renal artery orifices are marked. If there is any concern about good visualization, IVUS (intravascular ultrasound) can be used to assist.
 
 -   Systemic heparin is given
 
--   Bilateral femoral sheaths are exchanged over a stiff wire for the
-    necessary sheaths required for the device size chosen.
+-   Bilateral femoral sheaths are exchanged over a stiff wire for the necessary sheaths required for the device size chosen.
 
     -   Main trunk and ipsilateral limb sheath on one side
 
     -   Contralateral limb sheath on the other side
 
--   The main body is positioned in the proximal neck and a repeat
-    angiogram is commonly performed to confirm the positioning of the
-    device at the desired level just below the lowest renal artery. It
-    is best to position the main body so that the gate is directed at
-    the simplest angle to cannulate.
+-   The main body is positioned in the proximal neck and a repeat angiogram is commonly performed to confirm the positioning of the device at the desired level just below the lowest renal artery. It is best to position the main body so that the gate is directed at the simplest angle to cannulate.
 
 -   The main body is deployed to the point where the gate is opened
 
--   Contralateral limb gate cannulation is performed using a wire and
-    directional catheter.
+-   Contralateral limb gate cannulation is performed using a wire and directional catheter.
 
--   Once in the gate, a pigtail catheter is formed within the main body
-    and must be able to spin freely 360 degrees to confirm placement
-    within the endograft
+-   Once in the gate, a pigtail catheter is formed within the main body and must be able to spin freely 360 degrees to confirm placement within the endograft
 
--   The contralateral limb is introduced and deployed taking care to
-    preserve flow to the internal iliac artery.
+-   The contralateral limb is introduced and deployed taking care to preserve flow to the internal iliac artery.
 
--   The remainder of the main body is deployed and iliac extensions
-    deployed if required.
+-   The remainder of the main body is deployed and iliac extensions deployed if required.
 
--   The stent graft is ballooned at the neck, within the gate, at the
-    bifurcation, and distal iliac seal zones.
+-   The stent graft is ballooned at the neck, within the gate, at the bifurcation, and distal iliac seal zones.
 
--   An aortogram, usually multiple in different views, is performed to
-    exclude any endoleaks.
+-   An aortogram, usually multiple in different views, is performed to exclude any endoleaks.
 
--   The sheaths are removed, and the groin sites are closed using
-    Perclose devices if performed percutaneously, or primary repair if
-    open cutdown performed.
+-   The sheaths are removed, and the groin sites are closed using Perclose devices if performed percutaneously, or primary repair if open cutdown performed.
 
--   Check pedal signals at the end of the case to ensure no
-    thromboembolic events or femoral artery access injuries have
-    occurred. If there is concern, an ultrasound duplex can be performed
-    intraoperatively.
+-   Check pedal signals at the end of the case to ensure no thromboembolic events or femoral artery access injuries have occurred. If there is concern, an ultrasound duplex can be performed intraoperatively.
 
-**You mentioned endoleaks, can you discuss the complications specific to
-EVAR and the management?** [@mooreVascularEndovascularSurgery2019]
+**You mentioned endoleaks, can you discuss the complications specific to EVAR and the management?** [@mooreVascularEndovascularSurgery2019]
 
--   15 year follow up from EVAR-1 shows inferior late survival and
-    higher re-intervention in EVAR patients when compared with open
-    repair. [@patelEndovascularOpenRepair2016]
+-   15 year follow up from EVAR-1 shows inferior late survival and higher re-intervention in EVAR patients when compared with open repair. [@patelEndovascularOpenRepair2016]
 
--   Many of the cardiopulmonary complications inherent with open repair
-    do not occur with EVAR as there is no aortic cross clamping.
+-   Many of the cardiopulmonary complications inherent with open repair do not occur with EVAR as there is no aortic cross clamping.
 
-    -   In a study from Mayo clinic evaluating elective infrarenal AAA
-        repairs from 1999 to 2001, Elkouri et al found that cardiac and
-        pulmonary morbidity after EVAR was drastically reduced compared
-        to open repair (11% vs 22% and 3% vs 16%, respectively).
-        [@elkouriPerioperativeComplicationsEarly2004]
+    -   In a study from Mayo clinic evaluating elective infrarenal AAA repairs from 1999 to 2001, Elkouri et al found that cardiac and pulmonary morbidity after EVAR was drastically reduced compared to open repair (11% vs 22% and 3% vs 16%, respectively). [@elkouriPerioperativeComplicationsEarly2004]
 
--   Risk of ischemic colitis remains as the IMA is covered with EVAR. It
-    is lower than with open repair but remains 1-2%.
+-   Risk of ischemic colitis remains as the IMA is covered with EVAR. It is lower than with open repair but remains 1-2%.
 
--   Renal insufficiency may occur secondary to contrast administration
-    in a patient with underlying chronic kidney disease. Thromboembolic
-    events may occur from thrombus-laden aortic necks with wire and
-    device manipulation to the renal arteries as well.
+-   Renal insufficiency may occur secondary to contrast administration in a patient with underlying chronic kidney disease. Thromboembolic events may occur from thrombus-laden aortic necks with wire and device manipulation to the renal arteries as well.
 
--   Iliac limb occlusion - can occur within hours of EVAR (3-5%). Risk
-    factors included iliac artery tortuosity, calcified plaque burden or
-    occlusive disease, external iliac artery dissection[@vacirca2019],
-    inadequate outflow due to access site complication. Post operative
-    CFA duplex will show dampened waveforms.[@greenhalgh2010;
-    @taudorf2014]
+-   Iliac limb occlusion - can occur within hours of EVAR (3-5%). Risk factors included iliac artery tortuosity, calcified plaque burden or occlusive disease, external iliac artery dissection[@vacirca2019], inadequate outflow due to access site complication. Post operative CFA duplex will show dampened waveforms.[@greenhalgh2010; @taudorf2014]
 
--   Emergent conversion from EVAR to open are associated with
-    significant increase in morbidity and mortality. Risk factors
-    include aneurysm diameter, young age, female gender and nonwhite
-    race.[@ultee2016]
+-   Emergent conversion from EVAR to open are associated with significant increase in morbidity and mortality. Risk factors include aneurysm diameter, young age, female gender and nonwhite race.[@ultee2016]
 
 #### Endoleaks
 
@@ -617,322 +373,165 @@ Defined as persistent blood flow within the aneurysm sac following EVAR.
 
 1.  Type I
 
-    -   A leak at the graft ends secondary to inadequate seal proximally
-        (1a) or distally (1b)
+    -   A leak at the graft ends secondary to inadequate seal proximally (1a) or distally (1b)
 
-    -   If identified intraoperatively, Type I endoleaks require
-        attention with further balloon angioplasty, proximal or distal
-        extension, or endoanchors.
+    -   If identified intraoperatively, Type I endoleaks require attention with further balloon angioplasty, proximal or distal extension, or endoanchors.
 
-        -   Use of endoanchors in thrombus and calcium-laden aorta is
-            not recommended.[@jordan2014] Outcomes are similar with or
-            without suprarenal fixation.
+        -   Use of endoanchors in thrombus and calcium-laden aorta is not recommended.[@jordan2014] Outcomes are similar with or without suprarenal fixation.
 
     -   If seen in follow up surveillance, intervention is necessary.
 
 2.  Type II
 
-    -   Sac filling secondary to retrograde filling via a branch vessel
-        off of the aneurysm sac such as a lumbar artery or the IMA
+    -   Sac filling secondary to retrograde filling via a branch vessel off of the aneurysm sac such as a lumbar artery or the IMA
 
-    -   If identified intraoperatively, this typically does not need to
-        be addressed in the OR. Typically, type II endoleaks
-        spontaneously thrombose and therefore can be observed.
+    -   If identified intraoperatively, this typically does not need to be addressed in the OR. Typically, type II endoleaks spontaneously thrombose and therefore can be observed.
 
-    -   It is common to continue monitoring even if there is persistent
-        flow as long as there is no aneurysm sac growth. Type II
-        endoleaks persist in 5-25% of patients. Risk factors for
-        persistent endoleak include anticoagulation[@bobadilla2010],
-        patency/number/diameter of IMA/lumbar arteries[@ward2014],
-        hypogastric coil embolization, distal graft extension, absence
-        of COPD, age \>80yrs, and graft type. Risk of rupture is
-        1.5-3%.[@lo2016; @abularrage2010; @timaran2004; @shalaby2016;
-        @sarac2012; @jones2007]
+    -   It is common to continue monitoring even if there is persistent flow as long as there is no aneurysm sac growth. Type II endoleaks persist in 5-25% of patients. Risk factors for persistent endoleak include anticoagulation[@bobadilla2010], patency/number/diameter of IMA/lumbar arteries[@ward2014], hypogastric coil embolization, distal graft extension, absence of COPD, age \>80yrs, and graft type. Risk of rupture is 1.5-3%.[@lo2016; @abularrage2010; @timaran2004; @shalaby2016; @sarac2012; @jones2007]
 
-    -   If the leak persists for \> 6 months with sac enlargement \>5mm,
-        intervention is recommended. Several techniques exist to
-        eliminate type II endoleaks, most frequently embolization. After
-        multiple attempts at repair and if continued sac growth with
-        impending Type I leak, then consider open
-        conversion.[@kelso2009; @mohapatra2019]
+    -   If the leak persists for \> 6 months with sac enlargement \>5mm, intervention is recommended. Several techniques exist to eliminate type II endoleaks, most frequently embolization. After multiple attempts at repair and if continued sac growth with impending Type I leak, then consider open conversion.[@kelso2009; @mohapatra2019]
 
 3.  Type III
 
     -   Separation of graft components
 
-    -   Usually identified in follow-up surveillance and necessitates
-        intervention.
+    -   Usually identified in follow-up surveillance and necessitates intervention.
 
 4.  Type IV
 
-    -   Secondary to a porous graft which typically does not occur any
-        longer as endograft material and devices have improved. If seen,
-        no intervention is needed at the time, and they usually
-        thrombose on their own.
+    -   Secondary to a porous graft which typically does not occur any longer as endograft material and devices have improved. If seen, no intervention is needed at the time, and they usually thrombose on their own.
 
 5.  Type V
 
-    -   Increasing aneurysm sac size with no identifiable endoleak.
-        Commonly referred to as endotension.
+    -   Increasing aneurysm sac size with no identifiable endoleak. Commonly referred to as endotension.
 
-    -   Usually necessitates graft explantation and open repair or
-        re-lining of the graft.
+    -   Usually necessitates graft explantation and open repair or re-lining of the graft.
 
 ### Open Repair
 
-**Now we can move onto open repair. Describe an open infrarenal aneurysm
-repair.** [@mooreVascularEndovascularSurgery2019;
-@garygwindAnatomicExposuresVascular2013]
+**Now we can move onto open repair. Describe an open infrarenal aneurysm repair.** [@mooreVascularEndovascularSurgery2019; @garygwindAnatomicExposuresVascular2013]
 
--   After thorough preoperative evaluation and clearance, the patient is
-    taken back to the operating room. An epidural may be placed
-    preoperatively depending on institutional preference. The patient is
-    intubated, and arterial and central venous catheters are placed. The
-    abdomen is prepped from chest to bilateral thighs.
+-   After thorough preoperative evaluation and clearance, the patient is taken back to the operating room. An epidural may be placed preoperatively depending on institutional preference. The patient is intubated, and arterial and central venous catheters are placed. The abdomen is prepped from chest to bilateral thighs.
 
--   A cell-saver should be available to optimize resuscitation during
-    the procedure due to expected large amounts of blood loss. Balanced
-    resuscitation to prevent coagulopathy is important with significant
-    blood loss.
+-   A cell-saver should be available to optimize resuscitation during the procedure due to expected large amounts of blood loss. Balanced resuscitation to prevent coagulopathy is important with significant blood loss.
 
 -   Exposure
 
-    -   Trans-peritoneal or retro-peritoneal. First we will describe the
-        most common approach: trans-peritoneal.
+    -   Trans-peritoneal or retro-peritoneal. First we will describe the most common approach: trans-peritoneal.
 
 -   Surgical steps
 
     1.  Mid-line laparotomy, transverse or chevron-style incision
 
-    2.  A retractor system such as an Omni, Bookwalter or Balfour
-        retractor is used to assist in exposure depending on physician
-        preference.
+    2.  A retractor system such as an Omni, Bookwalter or Balfour retractor is used to assist in exposure depending on physician preference.
 
-    3.  The transverse colon is retracted cephalad, and the small bowel
-        is retracted to the patient's right to expose the aorta. The
-        duodenum is mobilized and the ligament of Treitz is divided. The
-        posterior peritoneum is opened along the anterior wall of the
-        aorta.
+    3.  The transverse colon is retracted cephalad, and the small bowel is retracted to the patient's right to expose the aorta. The duodenum is mobilized and the ligament of Treitz is divided. The posterior peritoneum is opened along the anterior wall of the aorta.
 
-    4.  The aneurysm sac is now in view and careful dissection
-        proximally for clamp site is achieved. Identification of the
-        left renal vein crossing the aorta is key and can be divided if
-        necessary.
+    4.  The aneurysm sac is now in view and careful dissection proximally for clamp site is achieved. Identification of the left renal vein crossing the aorta is key and can be divided if necessary.
 
-    5.  Identification of the renal arteries proximally is required if
-        there is a plan for suprarenal clamping.
+    5.  Identification of the renal arteries proximally is required if there is a plan for suprarenal clamping.
 
-    6.  Isolate bilateral common iliac arteries for distal clamp site.
-        Use caution when dissecting the fibro-areolar tissue overlying
-        the left common iliac artery as it contains nerves that control
-        sexual function. Damage can result in retrograde ejaculation.
+    6.  Isolate bilateral common iliac arteries for distal clamp site. Use caution when dissecting the fibro-areolar tissue overlying the left common iliac artery as it contains nerves that control sexual function. Damage can result in retrograde ejaculation.
 
-        -   You can avoid nerve injury with mobilization of the sigmoid
-            colon medially and identifying the iliac bifurcation
-            distally, thus avoiding transecting the tissue overlying the
-            left common iliac artery.
+        -   You can avoid nerve injury with mobilization of the sigmoid colon medially and identifying the iliac bifurcation distally, thus avoiding transecting the tissue overlying the left common iliac artery.
 
-        -   If the iliac arteries are severely calcified and pose risk
-            for injury with clamping, intraluminal balloon catheters can
-            be inserted for distal control instead.
+        -   If the iliac arteries are severely calcified and pose risk for injury with clamping, intraluminal balloon catheters can be inserted for distal control instead.
 
-        -   Also, you must be cognizant of the location of the ureters
-            crossing over the iliac bifurcation to prevent injury.
+        -   Also, you must be cognizant of the location of the ureters crossing over the iliac bifurcation to prevent injury.
 
-    7.  After proximal and distal clamp sites have been identified,
-        systemic heparin is administered by anesthesia.
+    7.  After proximal and distal clamp sites have been identified, systemic heparin is administered by anesthesia.
 
     8.  Clamp the distal vessels first to prevent distal embolization.
 
-    9.  Open the aneurysm sac in a longitudinal fashion toward the
-        patient's right to avoid the IMA and clear the sac of thrombus.
-        Extend proximally to normal aorta and then t off the incision on
-        the aortic wall.
+    9.  Open the aneurysm sac in a longitudinal fashion toward the patient's right to avoid the IMA and clear the sac of thrombus. Extend proximally to normal aorta and then t off the incision on the aortic wall.
 
-        -   Some physicians prefer to transect the aortic wall as
-            opposed to leaving the posterior wall intact for the
-            anastomosis.
+        -   Some physicians prefer to transect the aortic wall as opposed to leaving the posterior wall intact for the anastomosis.
 
-    10. Lumbar arteries on the posterior wall are ligated using
-        figure-of-eight sutures.
+    10. Lumbar arteries on the posterior wall are ligated using figure-of-eight sutures.
 
-        -   Back-bleeding lumbar vessels can be the source of
-            significant blood loss.
+        -   Back-bleeding lumbar vessels can be the source of significant blood loss.
 
     11. Graft
 
-        -   A tube graft or bifurcated graft depending on the patient's
-            anatomy and aortic diameter is chosen. Dacron or PTFE grafts
-            are most common, and the choice depends on physician
-            preference. This is anastomosed proximally in a continuous
-            fashion.
+        -   A tube graft or bifurcated graft depending on the patient's anatomy and aortic diameter is chosen. Dacron or PTFE grafts are most common, and the choice depends on physician preference. This is anastomosed proximally in a continuous fashion.
 
-        -   Once complete, the graft is flushed forward to flush out any
-            thrombus. The graft is then clamped and the aortic clamp
-            removed to test the anastomosis. Repair if needed.
+        -   Once complete, the graft is flushed forward to flush out any thrombus. The graft is then clamped and the aortic clamp removed to test the anastomosis. Repair if needed.
 
-        -   The distal anastomosis is completed to the aorta or
-            bilateral iliac arteries depending on extent of the
-            aneurysm.
+        -   The distal anastomosis is completed to the aorta or bilateral iliac arteries depending on extent of the aneurysm.
 
-        -   The graft is flushed forward prior to completion to remove
-            any thrombus within the graft. The anastomosis is completed
-            and clamps removed.
+        -   The graft is flushed forward prior to completion to remove any thrombus within the graft. The anastomosis is completed and clamps removed.
 
-    12. Hypotension may occur at this point from re-perfusion of the
-        lower extremities and pelvis. Anesthesia should be notified that
-        unclamping will occur soon prior to completion of the distal
-        anastomosis to allow for fluid resuscitation in preparation.
+    12. Hypotension may occur at this point from re-perfusion of the lower extremities and pelvis. Anesthesia should be notified that unclamping will occur soon prior to completion of the distal anastomosis to allow for fluid resuscitation in preparation.
 
-        -   The graft can be slowly unclamped or partially clamped to
-            assist with blood pressure management during this time. You
-            can also place manual pressure on the iliac arteries or
-            femoral arteries to slowly release flow and avoid
-            significant hypotension.
+        -   The graft can be slowly unclamped or partially clamped to assist with blood pressure management during this time. You can also place manual pressure on the iliac arteries or femoral arteries to slowly release flow and avoid significant hypotension.
 
-    13. Next, the IMA must be addressed. The IMA orifice is identified
-        within the aneurysm sac.
+    13. Next, the IMA must be addressed. The IMA orifice is identified within the aneurysm sac.
 
         -   Chronically occluded or pulsatile back bleeding -\> ligate.
 
-        -   Anything between occlusion and strong pulsatile back
-            bleeding requires further evaluation. This should be
-            performed at the end of the case after the internal iliacs
-            have been reperfused. Methods to measure perfusion:
+        -   Anything between occlusion and strong pulsatile back bleeding requires further evaluation. This should be performed at the end of the case after the internal iliacs have been reperfused. Methods to measure perfusion:
 
-            -   Place vessel loops or micro bulldog on IMA and assess
-                the sigmoid colon. If there is a poor doppler signal on
-                the antimesenteric border of the sigmoid colon, the IMA
-                should be reimplanted.
+            -   Place vessel loops or micro bulldog on IMA and assess the sigmoid colon. If there is a poor doppler signal on the antimesenteric border of the sigmoid colon, the IMA should be reimplanted.
 
-            -   Insert blunt-tip needle through the IMA orifice and pull
-                vessel loop around needle to secure and connect to a
-                transducer. Pressure less than 35 mmHg requires
-                reimplantation. [@hoballahInferiorMesentericArtery2021]
+            -   Insert blunt-tip needle through the IMA orifice and pull vessel loop around needle to secure and connect to a transducer. Pressure less than 35 mmHg requires reimplantation. [@hoballahInferiorMesentericArtery2021]
 
-        -   The Carrel patch technique involves excising a circular
-            button of the aortic wall around the IMA and anastomosing it
-            to the graft wall.
+        -   The Carrel patch technique involves excising a circular button of the aortic wall around the IMA and anastomosing it to the graft wall.
 
-        -   Newer studies have shown that IMA reimplantation does not
-            eliminate the risk of ischemic colitis after open AAA
-            repair. In a study out of George Washington University in DC
-            published in JVS in 2019, there was still significant risk
-            of ischemic colitis rates with IMA reimplantation.
-            [@leeInferiorMesentericArtery2019]
+        -   Newer studies have shown that IMA reimplantation does not eliminate the risk of ischemic colitis after open AAA repair. In a study out of George Washington University in DC published in JVS in 2019, there was still significant risk of ischemic colitis rates with IMA reimplantation. [@leeInferiorMesentericArtery2019]
 
-            -   Using NSQIP data collected prospectively and studied
-                retrospectively
+            -   Using NSQIP data collected prospectively and studied retrospectively
 
-            -   Out of 2397 patients undergoing AAA from 2012-2015, 135
-                patients (5.6%) had ischemic colitis.
+            -   Out of 2397 patients undergoing AAA from 2012-2015, 135 patients (5.6%) had ischemic colitis.
 
-            -   672 patients were evaluated further after exclusion
-                criteria applied (suprarenal clamp, emergent or
-                ruptured, occluded mesenteric vessels)
+            -   672 patients were evaluated further after exclusion criteria applied (suprarenal clamp, emergent or ruptured, occluded mesenteric vessels)
 
-            -   Of these, 637 patients had IMA ligation, 35 had IMA
-                reimplantation
+            -   Of these, 637 patients had IMA ligation, 35 had IMA reimplantation
 
-            -   Reimplantation was associated with - More frequent
-                return to the OR (20% vs 7.2%), Higher rates of wound
-                complications (17.1% vs 3%), Higher rates of ischemic
-                colitis (8.6% vs 2.4%)
+            -   Reimplantation was associated with - More frequent return to the OR (20% vs 7.2%), Higher rates of wound complications (17.1% vs 3%), Higher rates of ischemic colitis (8.6% vs 2.4%)
 
-        -   Difficult to interpret impact of revascularization of IMA on
-            ischemic colitis rates, due to selection bias, but should be
-            noted that patients who require revascularization still may
-            experience colon ischemia.
+        -   Difficult to interpret impact of revascularization of IMA on ischemic colitis rates, due to selection bias, but should be noted that patients who require revascularization still may experience colon ischemia.
 
-    14. To finish, the aneurysm sac is then closed over the graft to
-        protect the viscera, and the retro-peritoneum is reapproximated.
-        Occasionally, a vascularized omental pedicle flap may be used to
-        separate the graft from the duodenum to prevent an aorto-enteric
-        fistula if the peritoneum cannot be closed securely.
+    14. To finish, the aneurysm sac is then closed over the graft to protect the viscera, and the retro-peritoneum is reapproximated. Occasionally, a vascularized omental pedicle flap may be used to separate the graft from the duodenum to prevent an aorto-enteric fistula if the peritoneum cannot be closed securely.
 
 -   Steps for the retro-peritoneal approach:
 
-    -   Positioned semi-lateral with the left side up with bilateral
-        groins exposed for femoral artery access. This is done in a lazy
-        lateral position where the patients upper body is near complete
-        lateral but the hips are rotated to the patient's left in
-        attempt to keep both groins in the field in case they need to be
-        accessed.
+    -   Positioned semi-lateral with the left side up with bilateral groins exposed for femoral artery access. This is done in a lazy lateral position where the patients upper body is near complete lateral but the hips are rotated to the patient's left in attempt to keep both groins in the field in case they need to be accessed.
 
-    -   An oblique incision extends from the left 11th intercostal space
-        or tip of the 12th rib to the edge of the rectus abdominus
-        muscle, through the external and internal oblique muscles,
-        transversalis fascia until you are just superficial to the
-        peritoneum. Using blunt finger dissection, the peritoneum is
-        dissected from the abdominal wall posteriorly over the psoas
-        muscle until the aorta is reached.
+    -   An oblique incision extends from the left 11th intercostal space or tip of the 12th rib to the edge of the rectus abdominus muscle, through the external and internal oblique muscles, transversalis fascia until you are just superficial to the peritoneum. Using blunt finger dissection, the peritoneum is dissected from the abdominal wall posteriorly over the psoas muscle until the aorta is reached.
 
-        -   Benefits include less postoperative ileus, less
-            intraoperative hypothermia, lower IV fluid requirements, and
-            less post-op respiratory compromise.
+        -   Benefits include less postoperative ileus, less intraoperative hypothermia, lower IV fluid requirements, and less post-op respiratory compromise.
 
-        -   A disadvantage is the difficulty addressing the right iliac
-            artery from this approach.
+        -   A disadvantage is the difficulty addressing the right iliac artery from this approach.
 
 #### Complications
 
-**What are some of the complications with open aortic aneurysm repair?**
-[@mooreVascularEndovascularSurgery2019]
+**What are some of the complications with open aortic aneurysm repair?** [@mooreVascularEndovascularSurgery2019]
 
--   Recent studies have demonstrated equivalent outcomes in younger
-    healthy patients undergoing endovascular and open repair.
-    [@liangComparablePerioperativeMortality2018]
+-   Recent studies have demonstrated equivalent outcomes in younger healthy patients undergoing endovascular and open repair. [@liangComparablePerioperativeMortality2018]
 
--   Myocardial dysfunction which is usually secondary to cardiac
-    ischemia or hemorrhage.
+-   Myocardial dysfunction which is usually secondary to cardiac ischemia or hemorrhage.
 
-    -   Acute conditions associated with poor post-operative cardiac
-        outcomes include recent MI (30d), unstable angina, decompensated
-        heart failure, high-grade arrhythmias, severe valvular
-        disease.[@devereaux2015; @fleisher2014; @kristensen2014;
-        @tashiro2014]
+    -   Acute conditions associated with poor post-operative cardiac outcomes include recent MI (30d), unstable angina, decompensated heart failure, high-grade arrhythmias, severe valvular disease.[@devereaux2015; @fleisher2014; @kristensen2014; @tashiro2014]
 
--   Abdominal compartment syndrome secondary to coagulopathic bleeding
-    postoperatively or third spacing of fluids can cause abdominal
-    compartment syndrome requiring emergent laparotomy.[@cheatham2007;
-    @mehta2005; @rasmussen1997]
+-   Abdominal compartment syndrome secondary to coagulopathic bleeding postoperatively or third spacing of fluids can cause abdominal compartment syndrome requiring emergent laparotomy.[@cheatham2007; @mehta2005; @rasmussen1997]
 
-    -   Signs include unexplained oliguria, difficulty maintaining
-        adequate ventilation--elevated peak inspiratory pressure, and
-        hypotension with significant abdominal distension is concerning
-        for abdominal compartment syndrome. A sustained bladder pressure
-        \> 25 mmHg with associated organ dysfunction (elevated peak
-        airway pressures, new onset acute renal failure) is indicative
-        of abdominal compartment syndrome.
+    -   Signs include unexplained oliguria, difficulty maintaining adequate ventilation--elevated peak inspiratory pressure, and hypotension with significant abdominal distension is concerning for abdominal compartment syndrome. A sustained bladder pressure \> 25 mmHg with associated organ dysfunction (elevated peak airway pressures, new onset acute renal failure) is indicative of abdominal compartment syndrome.
 
-    -   Abdominal compartment syndrome can still occur after EVAR during
-        an aortic rupture in up to 10-20% of patients, therefore, one
-        must keep a heightened suspicion for this in the post-operative
-        period.[@veith2009]
+    -   Abdominal compartment syndrome can still occur after EVAR during an aortic rupture in up to 10-20% of patients, therefore, one must keep a heightened suspicion for this in the post-operative period.[@veith2009]
 
-    -   It is important to note that a patient with a soft abdominal
-        exam can still have abdominal compartment syndrome particularly
-        with an enlarged body habitus.
+    -   It is important to note that a patient with a soft abdominal exam can still have abdominal compartment syndrome particularly with an enlarged body habitus.
 
-    -   Laparotomy may initially worsen hypotension and hemodynamic
-        instability due to reperfusion injury.
+    -   Laparotomy may initially worsen hypotension and hemodynamic instability due to reperfusion injury.
 
--   Renal failure can occur due to suprarenal aortic clamping,
-    atheromatous embolization or hypotension causing acute tubular
-    necrosis (ATN).
+-   Renal failure can occur due to suprarenal aortic clamping, atheromatous embolization or hypotension causing acute tubular necrosis (ATN).
 
--   Postoperative ileus is common. Duodenal obstruction from dissection
-    of the ligament of Treitz can mimic a gastric outlet obstruction.
+-   Postoperative ileus is common. Duodenal obstruction from dissection of the ligament of Treitz can mimic a gastric outlet obstruction.
 
--   Ischemic colitis of the left colon and rectum is the most serious
-    gastrointestinal complication.[@moghadamyeghaneh2016]
+-   Ischemic colitis of the left colon and rectum is the most serious gastrointestinal complication.[@moghadamyeghaneh2016]
 
-    -   Incidence ranges from 0.2 - 10%, 3-4x more common after
-        operations for occlusive disease than aneurysmal disease.
+    -   Incidence ranges from 0.2 - 10%, 3-4x more common after operations for occlusive disease than aneurysmal disease.
 
-    -   It is important to study the collateral pathways on the
-        preoperative CT scan and the patient's history to assist in
-        surgical decisions regarding IMA reimplantation including:
+    -   It is important to study the collateral pathways on the preoperative CT scan and the patient's history to assist in surgical decisions regarding IMA reimplantation including:
 
         -   Stenosis/occlusion of the SMA
 
@@ -940,201 +539,99 @@ repair.** [@mooreVascularEndovascularSurgery2019;
 
         -   IMA or Hypogastric artery occlusion
 
-    -   Earliest manifestation is postoperative diarrhea, especially
-        bloody diarrhea.
+    -   Earliest manifestation is postoperative diarrhea, especially bloody diarrhea.
 
     -   Sigmoidoscopy is needed for diagnosis.
 
-        -   Mild colon ischemia with patchy mucosal involvement should
-            be treated with bowel rest, fluid resuscitation and
-            antibiotics. Transmural necrosis requires emergent operation
-            with colon resection. Patients can be left in discontinuity
-            or an end colostomy performed depending on stability.
+        -   Mild colon ischemia with patchy mucosal involvement should be treated with bowel rest, fluid resuscitation and antibiotics. Transmural necrosis requires emergent operation with colon resection. Patients can be left in discontinuity or an end colostomy performed depending on stability.
 
-        -   The mortality rate with colon ischemia after aneurysm
-            surgery is about 25% but reaches over 50% if bowel resection
-            is required.[@brewsterIntestinalIschemiaComplicating1991]
-            This is a very heavily tested topic for both general surgery
-            and vascular surgery boards.
+        -   The mortality rate with colon ischemia after aneurysm surgery is about 25% but reaches over 50% if bowel resection is required.[@brewsterIntestinalIschemiaComplicating1991] This is a very heavily tested topic for both general surgery and vascular surgery boards.
 
--   Distal ischemia from embolization downstream can lodge in larger
-    vessels or cause microembolization, colloquially known as "trash
-    foot".
+-   Distal ischemia from embolization downstream can lodge in larger vessels or cause microembolization, colloquially known as "trash foot".
 
--   Infection is rare but can be associated with graft-enteric fistula
-    which is another highly tested topic.[@fatima2013; @oderich2011;
-    @smeds2016]
+-   Infection is rare but can be associated with graft-enteric fistula which is another highly tested topic.[@fatima2013; @oderich2011; @smeds2016]
 
 #### Postoperative Surveillance
 
-**What is the post-operative surveillance required for open and
-endovascular approach, and how do they differ?**
-[@mooreVascularEndovascularSurgery2019]
+**What is the post-operative surveillance required for open and endovascular approach, and how do they differ?** [@mooreVascularEndovascularSurgery2019]
 
--   That is a great question because it highlights why open repair has
-    continued to be so important, especially for young, healthy
-    patients.
+-   That is a great question because it highlights why open repair has continued to be so important, especially for young, healthy patients.
 
--   Post-operative surveillance is necessary in the immediate
-    post-operative period for open repair to evaluate incisions.
-    Follow-up is only needed every 5-10 years, unless the patient
-    becomes symptomatic.
+-   Post-operative surveillance is necessary in the immediate post-operative period for open repair to evaluate incisions. Follow-up is only needed every 5-10 years, unless the patient becomes symptomatic.
 
-    -   Peri-anastomotic degeneration occurs in 0.5-10% of cases. Can be
-        diagnosed with CT scan or ultrasound.\@curl1992
+    -   Peri-anastomotic degeneration occurs in 0.5-10% of cases. Can be diagnosed with CT scan or ultrasound.\@curl1992
 
--   In contrast, EVAR patients require a strict postoperative
-    surveillance regimen to allow for detection of endoleaks, aneurysm
-    sac expansion, stent fracture, limb kinking and material fatigue.
+-   In contrast, EVAR patients require a strict postoperative surveillance regimen to allow for detection of endoleaks, aneurysm sac expansion, stent fracture, limb kinking and material fatigue.
 
-    -   CT scans at 1-, 6- and 12-month intervals initially then
-        annually are recommended which raises concerns related to cost,
-        cumulative radiation exposure, and contrast administration.
+    -   CT scans at 1-, 6- and 12-month intervals initially then annually are recommended which raises concerns related to cost, cumulative radiation exposure, and contrast administration.
 
-    -   Some physicians may elect to use ultrasound for surveillance
-        with CTA prompted if an endoleak is identified or the sac is
-        enlarged, particularly in patients with stable aneurysms.
+    -   Some physicians may elect to use ultrasound for surveillance with CTA prompted if an endoleak is identified or the sac is enlarged, particularly in patients with stable aneurysms.
 
-    -   The long-term follow-up is often inconsistent and a study of
-        19,962 Medicare beneficiaries undergoing EVAR from 2001 to 2008
-        showed that 50% of patients were lost to annual imaging
-        follow-up at 5 years after
-        surgery.[@schanzerFollowUpComplianceEndovascular2015]
+    -   The long-term follow-up is often inconsistent and a study of 19,962 Medicare beneficiaries undergoing EVAR from 2001 to 2008 showed that 50% of patients were lost to annual imaging follow-up at 5 years after surgery.[@schanzerFollowUpComplianceEndovascular2015]
 
--   Some patients will elect for open repair to avoid frequent
-    surveillance if they are a candidate for both, while other patients
-    will select endovascular management to avoid the short-term effects
-    like longer hospitalizations, post-operative pain, and longer
-    recovery time to baseline functioning in open surgery.
+-   Some patients will elect for open repair to avoid frequent surveillance if they are a candidate for both, while other patients will select endovascular management to avoid the short-term effects like longer hospitalizations, post-operative pain, and longer recovery time to baseline functioning in open surgery.
 
 ### Ruptured Aneurysms
 
-**Although elective repair is important, can you touch on the management
-of a ruptured AAA (RAAA) as our last topic of the session?**
-[@mooreVascularEndovascularSurgery2019; @lindsayChapter74Ruptured2019]
+**Although elective repair is important, can you touch on the management of a ruptured AAA (RAAA) as our last topic of the session?** [@mooreVascularEndovascularSurgery2019; @lindsayChapter74Ruptured2019]
 
--   Ruptured AAAs have declined secondary to improved medical
-    management, decreased rates of smoking and superior diagnostic
-    imaging and surveillance.
+-   Ruptured AAAs have declined secondary to improved medical management, decreased rates of smoking and superior diagnostic imaging and surveillance.
 
--   Traditionally, it has been taught that 50% of ruptured AAAs die in
-    the field and of those remaining, 50% will die in the hospital. With
-    time, the in-hospital mortality rate has decreased.
+-   Traditionally, it has been taught that 50% of ruptured AAAs die in the field and of those remaining, 50% will die in the hospital. With time, the in-hospital mortality rate has decreased.
 
-    -   In one study out of Finland, of 712 patients with ruptured AAAs
-        from 2003-2013, 52% died prior to arrival to the hospital. Of
-        those that were offered surgery, 67% of patients were alive at
-        30 days indicating a mortality rate of 33%.
-        [@lainePopulationbasedStudyRuptured2016]
+    -   In one study out of Finland, of 712 patients with ruptured AAAs from 2003-2013, 52% died prior to arrival to the hospital. Of those that were offered surgery, 67% of patients were alive at 30 days indicating a mortality rate of 33%. [@lainePopulationbasedStudyRuptured2016]
 
 -   Diagnostic triad on presentation:
 
     -   Pain, syncope and known or palpable AAA.
 
--   When a ruptured AAA is suspected or diagnosed, permissive
-    hypotension is key in the initial management before surgery.
+-   When a ruptured AAA is suspected or diagnosed, permissive hypotension is key in the initial management before surgery.
 
-    -   Allowing systolic arterial pressures of 50-70 mmHg as long as
-        the patient is mentating appropriately.
+    -   Allowing systolic arterial pressures of 50-70 mmHg as long as the patient is mentating appropriately.
 
-    -   Limits internal bleeding which further limits loss of platelets
-        and clotting factors.
+    -   Limits internal bleeding which further limits loss of platelets and clotting factors.
 
--   Initial management involves many considerations like patient
-    stability, patient's anatomy and the surgeon's experience with
-    either open or endovascular repair.
+-   Initial management involves many considerations like patient stability, patient's anatomy and the surgeon's experience with either open or endovascular repair.
 
--   Due to the developments of endovascular techniques, it is ideal to
-    have a CTA prior to the operating room to determine if the patient
-    is a candidate for an EVAR.
+-   Due to the developments of endovascular techniques, it is ideal to have a CTA prior to the operating room to determine if the patient is a candidate for an EVAR.
 
--   There are two options for expedient aortic control in an unstable
-    patient with a ruptured aneurysm.
+-   There are two options for expedient aortic control in an unstable patient with a ruptured aneurysm.
 
     -   Open supraceliac aortic clamping
 
-        -   Achieved by retracting the stomach caudally, entering and
-            dividing a portion of the gastrohepatic ligament, reaching
-            under and medial to the caudate lobe, dividing the pars
-            flaccida, and identifying the spine. The aorta lies to the
-            patient's left of the spine and is bluntly dissected
-            anteriorly and laterally for aortic clamp placement.
+        -   Achieved by retracting the stomach caudally, entering and dividing a portion of the gastrohepatic ligament, reaching under and medial to the caudate lobe, dividing the pars flaccida, and identifying the spine. The aorta lies to the patient's left of the spine and is bluntly dissected anteriorly and laterally for aortic clamp placement.
 
-        -   Another method of supraceliac exposure and control is to
-            mobilize and reflect the left lobe of the liver, sweep the
-            esophagus to the patient's left, divide the right crus of
-            the diaphragm and bluntly dissect both sides of the aorta
-            then apply the clamp.
+        -   Another method of supraceliac exposure and control is to mobilize and reflect the left lobe of the liver, sweep the esophagus to the patient's left, divide the right crus of the diaphragm and bluntly dissect both sides of the aorta then apply the clamp.
 
-        -   A nasogastric tube can help identify the esophagus when
-            placing this clamp to ensure the esophagus has been swept to
-            the patient's left and protected.
+        -   A nasogastric tube can help identify the esophagus when placing this clamp to ensure the esophagus has been swept to the patient's left and protected.
 
-        -   The clamp should be moved down to the desired position for
-            repair (supra or infrarenal depending on anatomy of the
-            aneurysm neck) to decrease ischemia time to visceral vessels
-            as soon as possible.
+        -   The clamp should be moved down to the desired position for repair (supra or infrarenal depending on anatomy of the aneurysm neck) to decrease ischemia time to visceral vessels as soon as possible.
 
     -   Percutaneous occlusive aortic balloon
 
-        -   Gain percutaneous access and place an occlusive aortic
-            balloon for stabilization in the distal thoracic aorta. This
-            will require a long support sheath, usually 12fr in size, to
-            prevent distal migration of the occlusive balloon.
+        -   Gain percutaneous access and place an occlusive aortic balloon for stabilization in the distal thoracic aorta. This will require a long support sheath, usually 12fr in size, to prevent distal migration of the occlusive balloon.
 
--   EVAR has been used increasingly to treat ruptured AAAs and offers
-    many theoretical advantages over open repair.
+-   EVAR has been used increasingly to treat ruptured AAAs and offers many theoretical advantages over open repair.
 
--   Less invasive, eliminates risk of damage to periaortic and abdominal
-    structures, decreases bleeding from surgical dissection, minimizes
-    hypothermia and third space losses, and lessens the requirement for
-    deep anesthesia.
+-   Less invasive, eliminates risk of damage to periaortic and abdominal structures, decreases bleeding from surgical dissection, minimizes hypothermia and third space losses, and lessens the requirement for deep anesthesia.
 
--   EVAR has been deemed superior to open repair for the treatment of
-    RAAA in many studies.
+-   EVAR has been deemed superior to open repair for the treatment of RAAA in many studies.
 
-    -   In a study out of UVA published in JVS in August 2020, they
-        looked at ruptures in the VQI database from 2003-2018. This
-        resulted in 724 pairs of open and endovascular pairs after
-        propensity matching. [@wangEndovascularRepairRuptured2020a]
+    -   In a study out of UVA published in JVS in August 2020, they looked at ruptures in the VQI database from 2003-2018. This resulted in 724 pairs of open and endovascular pairs after propensity matching. [@wangEndovascularRepairRuptured2020a]
 
-        -   There was a clear advantage of endovascular compared to open
-            repair in patient's with suitable anatomy.
+        -   There was a clear advantage of endovascular compared to open repair in patient's with suitable anatomy.
 
-        -   Length of stay was decreased with 5 vs 10 days in open. 30
-            day mortality was much lower at 18% vs 32%. Major adverse
-            events like MI, Renal failure, leg ischemia, mesenteric
-            ischemia, respiratory complications were much lower in the
-            EVAR group at 35% vs 68% in the open group.
+        -   Length of stay was decreased with 5 vs 10 days in open. 30 day mortality was much lower at 18% vs 32%. Major adverse events like MI, Renal failure, leg ischemia, mesenteric ischemia, respiratory complications were much lower in the EVAR group at 35% vs 68% in the open group.
 
-        -   All cause 1 year survival was much higher with EVAR at 73%
-            vs 59% in the open group.
+        -   All cause 1 year survival was much higher with EVAR at 73% vs 59% in the open group.
 
--   Despite improved RAAA results with EVAR, conversion from EVAR to
-    open AAA repair appears to have the most unfavorable outcomes in
-    terms of mortality.
+-   Despite improved RAAA results with EVAR, conversion from EVAR to open AAA repair appears to have the most unfavorable outcomes in terms of mortality.
 
-    -   Conversions can be early or late and are due to access-related
-        problems, errors in endograft deployment, graft migration,
-        persistent endoleak, graft thrombosis, or infection.
+    -   Conversions can be early or late and are due to access-related problems, errors in endograft deployment, graft migration, persistent endoleak, graft thrombosis, or infection.
 
-    -   In a study evaluating 32,164 patients from NSQIP with 300
-        conversions (7,188 standard open repairs and 24,676 EVARs),
-        conversion to open repair was associated with a significantly
-        higher 30-day mortality than standard open repair (10% vs 4.2%)
-        and EVAR (10% vs 1.7%). In addition, conversion patients
-        compared to standard open patients were more likely to undergo
-        new dialysis (6.0% vs. 3.5%), cardiopulmonary resuscitation
-        (5.3% vs. 1.9%), postoperative blood transfusion (42.3% vs.
-        31.6%), and have a myocardial infarction (5.0% vs. 2.2%).
-        [@ulteeConversionEVAROpen2016]
+    -   In a study evaluating 32,164 patients from NSQIP with 300 conversions (7,188 standard open repairs and 24,676 EVARs), conversion to open repair was associated with a significantly higher 30-day mortality than standard open repair (10% vs 4.2%) and EVAR (10% vs 1.7%). In addition, conversion patients compared to standard open patients were more likely to undergo new dialysis (6.0% vs. 3.5%), cardiopulmonary resuscitation (5.3% vs. 1.9%), postoperative blood transfusion (42.3% vs. 31.6%), and have a myocardial infarction (5.0% vs. 2.2%). [@ulteeConversionEVAROpen2016]
 
-    -   A more recent systematic review and meta-analysis found the
-        elective late open conversion has comparable outcomes to primary
-        open aneurysm repair. 36% are able to complete with infrarenal
-        clamp alone. Highest complication rate in urgent setting (10x
-        higher mortality).
-        [@goudekettingSystematicReviewMetaanalysis2019]
+    -   A more recent systematic review and meta-analysis found the elective late open conversion has comparable outcomes to primary open aneurysm repair. 36% are able to complete with infrarenal clamp alone. Highest complication rate in urgent setting (10x higher mortality). [@goudekettingSystematicReviewMetaanalysis2019]
 
 ## Iliac/Peripheral Aneurysms
 
@@ -1144,28 +641,21 @@ CIAA aneurysm defined as \>1.5cm.
 
 ### Presentation
 
-Often found incidentally, but carries risk of rupture and distal
-embolization.
+Often found incidentally, but carries risk of rupture and distal embolization.
 
--   Distal embolization is rare, but when it occurs patient should
-    undergo embolectomy and treatment of aneurysm thought to be the
-    embolic source.[@bacharach2008; @ferreira2010; @nachbur1991]
+-   Distal embolization is rare, but when it occurs patient should undergo embolectomy and treatment of aneurysm thought to be the embolic source.[@bacharach2008; @ferreira2010; @nachbur1991]
 
 ### Management
 
-Treatment threshold for CIAA is often accepted at 3.5cm.[@dix2005;
-@laine2017]
+Treatment threshold for CIAA is often accepted at 3.5cm.[@dix2005; @laine2017]
 
 Treatment options include
 
 -   Open repair
 
-    -   If open repair involves aneurysm or occlusive disease of
-        internal iliac arteries, should attempt to revascularize at
-        least one IIA via a jump graft.[@krupski1998; @huang2008]
+    -   If open repair involves aneurysm or occlusive disease of internal iliac arteries, should attempt to revascularize at least one IIA via a jump graft.[@krupski1998; @huang2008]
 
--   Iliac branched device to preserve hypogastric. Minimum size
-    requirements include:
+-   Iliac branched device to preserve hypogastric. Minimum size requirements include:
 
     -   CIA 17mm in diameter
 
@@ -1173,19 +663,10 @@ Treatment options include
 
     -   IIA 6.5-13.5mm in diameter, 10mm seal zone[@schneider2017]
 
--   Extension of EVAR into external iliac and coil of internal iliac
-    artery
+-   Extension of EVAR into external iliac and coil of internal iliac artery
 
-    -   If internal iliac arteries also aneurysmal, ensure that outflow
-        vessels are all coiled. Posterior branch gives rise to the
-        superior gluteal artery, which is high risk for retrograde
-        filling.[@ryer2012]
+    -   If internal iliac arteries also aneurysmal, ensure that outflow vessels are all coiled. Posterior branch gives rise to the superior gluteal artery, which is high risk for retrograde filling.[@ryer2012]
 
-    -   Coil embolization can result in ipsilateral buttock claudication
-        in 12-22% of patients. Treatment is with medical therapy and
-        walking regimen, resolution usually occurs at 6
-        months.[@papazoglou2012; @stokmans2013]
+    -   Coil embolization can result in ipsilateral buttock claudication in 12-22% of patients. Treatment is with medical therapy and walking regimen, resolution usually occurs at 6 months.[@papazoglou2012; @stokmans2013]
 
-    -   If the IMA is chronically occluded, then coverage of the IIA may
-        compromise colonic blood flow and increase risk of
-        ischemia.[@angiletta2011; @karch2000]
+    -   If the IMA is chronically occluded, then coverage of the IIA may compromise colonic blood flow and increase risk of ischemia.[@angiletta2011; @karch2000]
