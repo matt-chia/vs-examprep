@@ -187,33 +187,61 @@ Provocative maneuvers are largely used for nTOS. While these are described and m
 
 After the appropriate evaluation, if decompression of thoracic outlet is deemed appropriate, there are multiple approaches to the first rib resections.
 
-+---------------------+---------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
-|                     | Advantages                                                                            | Disadvantages                                                                                                                                 |
-+=====================+=======================================================================================+===============================================================================================================================================+
-| **Transa xillary**  | Cosmetically more appealing as it has a limited hidden scar                           | Difficult to visualize the anatomy, dependent on good assistance                                                                              |
-|                     |                                                                                       |                                                                                                                                               |
-|                     |                                                                                       | Risk of injury to T1 nerve root, phrenic nerve, long thoracic, brachial plexus , subclavian vein and arterial with limited exposure to repair |
-|                     |                                                                                       |                                                                                                                                               |
-|                     |                                                                                       | Not able to approach cervical ribs, scalene triangle or patch vein.                                                                           |
-+---------------------+---------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
-| -   \*Supracla      | Good for scalene triangle access and debulking and cervical rib resection             | Unable to decompress venous compression or visualize vein adequately                                                                          |
-|                     |                                                                                       |                                                                                                                                               |
-|     vicular\*\*     | Required for aTOS if arterial reconstruction necessary                                | Cosmetically less appealing                                                                                                                   |
-+---------------------+---------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
-| -   \*Infracla      | Good access for venous decompression                                                  | Unable to expose subclavian artery or decompress brachial plexus.                                                                             |
-|                     |                                                                                       |                                                                                                                                               |
-|     vicular\*\*     | Allows for excision of subclavius muscle and costoclavicular ligament                 | Difficult to access most posterior aspect of rib                                                                                              |
-|                     |                                                                                       |                                                                                                                                               |
-|                     |                                                                                       | Cosmetically less appealing                                                                                                                   |
-+---------------------+---------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
-| **Paracla vicular** | Useful if mixed etiology TOS to adequately decompression all neurovascular structures | Requires two incisions one above and below the clavicle                                                                                       |
-+---------------------+---------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
+**Transaxillary**
 
-@siracuseInfraclavicularFirstRib2015
+-   *Advantages:* Cosmetically more appealing as it has a limited hidden scar
+
+-   *Disadvantages:*
+
+    -   Difficult to visualize the anatomy, dependent on good assistance
+
+    -   Risk of injury to T1 nerve root, phrenic nerve, long thoracic, brachial plexus , subclavian vein and arterial with limited exposure to repair
+
+    -   Not able to approach cervical ribs, scalene triangle or patch vein.
+
+**Supraclavicular**
+
+-   *Advantages*
+
+    -   Good for scalene triangle access and debulking and cervical rib resection
+
+    -   Required for aTOS if arterial reconstruction necessary
+
+-   *Disadvantages*
+
+    -   Unable to decompress venous compression or visualize vein adequately
+
+    -   Cosmetically less appealing
+
+**Infraclavicular**[@siracuseInfraclavicularFirstRib2015]
+
+-   *Advantages*
+
+    -   Good access for venous decompression
+
+    -   Allows for excision of subclavius muscle and costoclavicular ligament
+
+-   *Disadvantages*
+
+    -   Unable to expose subclavian artery or decompress brachial plexus.
+
+    -   Difficult to access most posterior aspect of rib
+
+    -   Cosmetically less appealing
+
+**Paraclavicular**
+
+-   *Advantages*
+
+    -   Useful if mixed etiology TOS to adequately decompression all neurovascular structures
+
+-   *Disadvantages*
+
+    -   Requires two incisions one above and below the clavicle
 
 #### Post operative complications
 
--   Post operative patients with hemodynamic instability and ipsilateral effusion on xray should go back to OR for exploration and hemorrhage control. @rinehardtCurrentPracticeThoracic2017
+-   Post operative patients with hemodynamic instability and ipsilateral effusion on xray should go back to OR for exploration and hemorrhage control. [@rinehardtCurrentPracticeThoracic2017]
 
 -   Chyle leak often managed with adequate drainage and medium chain fatty acid diet. Persistent leak should undergo wound exploration and ligation of thoracic duct (most often encountered on the left) or VATS thoracic duct ligation.[@delaney2017] IR embolization has also been shown to be effective.[@cope1999]
 
