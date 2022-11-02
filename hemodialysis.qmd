@@ -1,8 +1,6 @@
-# Angioaccess
+# Hemodialysis
 
-**UNDER CONSTRUCTION - This Chapter is Currently in DRAFT mode**
-
-**28 Mar 2020**: *Young Lee, MD and Matthew Smeds, MD*
+Authors: *Young Lee and Matthew Smeds*
 
 ```{r echo=FALSE}
 
