@@ -18,6 +18,12 @@ We are excited to provide our readers and listeners a free and open opportunity 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/us/"><img src="https://i.creativecommons.org/l/by-nc-nd/3.0/us/88x31.png" alt="Creative Commons License" style="border-width:0"/></a><br />This ebook is (and will always be) free, and is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/us/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 United States License</a>.
 
+## Curriculum Calendar
+
+<iframe src="https://calendar.google.com/calendar/embed?height=300&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;showTitle=0&amp;showNav=1&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;src=MzU0NDIzYzdiNWVlNWE4ZDBjM2M2MDVmODdlOTc1ODU4MTExZDVkNDEyN2U0ZjgyODIwZTFkMmMwOWU0MWQwYkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23D50000" style="border-width:0" width="700" height="300" frameborder="0" scrolling="no">
+
+</iframe>
+
 ## Additional Resources
 
 We hope you use this e-book as a high level review for your exam preparation. This resource is by no means comprehensive. We have done our best to reference and link to more comprehensive resources throughout the text so that you can dive deeper into topics that are beyond the scope of this review. We try to prioritize open access publications and free, high quality, unbiased materials. A few highly recommended additional resources include:
