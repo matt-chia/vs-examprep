@@ -14,23 +14,23 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/PAOD_part_1_postEQ.mp3")
 
 ## Pathogenesis of peripheral arterial disease
 
-**What is Peripheral Artery Occlusive Disease (PAOD)?**
+**What is Peripheral Artery Occlusive Disease (PAD)?**
 
-Peripheral Arterial Disease encompasses extremity arterial disease but generally is used to describe lower limb arterial occlusive disease. Peripheral Artery Occlusive Disease (PAOD) is a more specific term and this encompasses atherosclerotic disease of the lower limb arteries.
+Peripheral Arterial Disease encompasses extremity arterial disease but generally is used to describe lower limb arterial occlusive disease. Peripheral Artery Occlusive Disease (PAD) is a more specific term and this encompasses atherosclerotic disease of the lower limb arteries.
 
 The disease has a step-wise spectrum of presentations from asymptomatic disease to intermittent claudication and finally chronic limb threatening ischemia (CLTI) formerly known as Critical Limb Ischemia (CLI) [@aboyans2017ESCGuidelines2018]
 
-**What is the underlying pathophysiology of PAOD?**
+**What is the underlying pathophysiology of PAD?**
 
 The understanding of the underlying pathophysiology which results in occlusive arterial disease of the lower limb has evolved over the last 50 years. Atherosclerosis remains the main pathological process resulting in occlusive disease with smoking being the primary modifiable risk factor.\
-Although with the rising incidence of diabetes a second population of patients with a significant PAOD burden has developed.
+Although with the rising incidence of diabetes a second population of patients with a significant PAD burden has developed.
 
 Atherosclerosis begins with an injury to the intimal lining of the arterial wall, which, for example, can result from smoking, hypertension, hyperglycemia, or advanced age. Repeated injury leads to a chronic inflammatory process resulting in the uptake and oxidation of LDL, resulting in foam cells.[@hiltunen1998; @tsimikas2005; @witztum1994] Foam cells result when unregulated scavenger receptors promote uptake of oxidized LDL by marophages and smooth muscle cells. These foam cells become necrotic and then create the central core of the atheroma.[@owens2019] This oxidized LDL form into intimal plaque, build up and calcification that may result in progressive vessel stenosis and subsequent occlusion, or plaque rupture with acute occlusion.
 
 Atherosclerosis is particularly prone to developing at sites of arterial bifurcation (i.e. carotid bifurcation, femoral bifurcation) because turbulent flow and low laminar shear stress results in the down regulation of eNOS and NO production. This in turn increases V-CAM-1 and reduces inhibition of KF-kB (resulting in it's elevation.[@owens2019]
 
 | Classification | Description                                                             |
-|:------------------:|----------------------------------------------------|
+|:--------------------:|--------------------------------------------------|
 |       0        | Normal artery                                                           |
 |       1        | Initial atherosclerotic lesion                                          |
 |       2        | Fatty streak                                                            |
@@ -39,7 +39,7 @@ Atherosclerosis is particularly prone to developing at sites of arterial bifurca
 |       5        | Fibroatheroma - development of fibrotic cap, vascularization or calcium |
 |       6        | Complicated lesion                                                      |
 
-: AHA lesion classification - defines plaque risk for rupture/thrombosis. Extrapolated from the coronary artery disease literature.[@mcgill2000]
+: **AHA lesion classification** - defines plaque risk for rupture/thrombosis. Extrapolated from the coronary artery disease literature.[@mcgill2000]
 
 **What are the risk factors for atherosclerosis?**
 
@@ -79,7 +79,7 @@ Atherosclerosis is particularly prone to developing at sites of arterial bifurca
 
     -   The Incidence of PAD increases to 2.5-fold in patients with Hypertension. [@kannelUpdateEpidemiologicFeatures1985]
 
-    -   Each 20mg increase in BP, results in a 35-63% increase risk in PAOD. Recommend keeping BP \<140/90 or \<130/80 in diabetics or CKD.[@adler2000; @bavry2010; @emdin2015; @itoga2018]
+    -   Each 20mg increase in BP, results in a 35-63% increase risk in PAD. Recommend keeping BP \<140/90 or \<130/80 in diabetics or CKD.[@adler2000; @bavry2010; @emdin2015; @itoga2018]
 
 4.  ***Dyslipidemia***
 
@@ -121,7 +121,7 @@ Atherosclerosis is particularly prone to developing at sites of arterial bifurca
 
 5.  ***The Edinburgh Study***: The EAS began as a cross sectional study of 1592 men and women in Edinburgh with the goal of examining the frequency of risk factors for peripheral arterial disease. The subjects were followed over 20 years. [@fowkesEdinburghArteryStudy1991]
 
-**How does Diabetes confound the clinical picture of PAOD?**
+**How does Diabetes confound the clinical picture of PAD?**
 
 -   Increasing Incidence of Diabetes world-wide.[@boultonGlobalBurdenDiabetic2005]
 
@@ -131,9 +131,9 @@ Atherosclerosis is particularly prone to developing at sites of arterial bifurca
 
     -   Diabetic foot ulcers have a very high rate of recurrence with 40% of patients developing a new ulcer within 12 months of healing a previous ulcer. [@armstrong2017]
 
-    -   Limb Loss occurs every 20 seconds world-wide to due to Diabetes related PAOD or infection.
+    -   Limb Loss occurs every 20 seconds world-wide to due to Diabetes related PAD or infection.
 
-**What's the pathophysiology of Diabetes and PAOD** [@armstrong26PathophysiologyPrinciplesManagement2012]
+**What's the pathophysiology of Diabetes and PAD** [@armstrong26PathophysiologyPrinciplesManagement2012]
 
 -   Neuropathy. The loss of the basic nociceptive mechanisms in the foot among diabetics, presents as a loss of protective sensation (LOPS). Neuropathy can be divided into three types:
 
@@ -155,9 +155,9 @@ Atherosclerosis is particularly prone to developing at sites of arterial bifurca
 
 -   Foot infection[@bandyk2018; @kayssi2019; @lepäntalo2011]
 
-Given the pathological effect of diabetes upon multiple structures and systems the normal progressive history of diabetes related PAOD is somewhat different to smoking related PAOD. Clinically due to the combined effect of peripheral neuropathy and microvascular arterial disease, foot ulceration for many patients tends to be the initial presentation. This results in a lack of a 'safety net' where presenting with progressive claudication allows for a period of detection, management and and risk factor modification before they develop tissue loss and are at risk of amputation, leading to poor outcomes and greater morbidity and mortality.
+Given the pathological effect of diabetes upon multiple structures and systems the normal progressive history of diabetes related PAD is somewhat different to smoking related PAD. Clinically due to the combined effect of peripheral neuropathy and microvascular arterial disease, foot ulceration for many patients tends to be the initial presentation. This results in a lack of a 'safety net' where presenting with progressive claudication allows for a period of detection, management and and risk factor modification before they develop tissue loss and are at risk of amputation, leading to poor outcomes and greater morbidity and mortality.
 
-Since the publication of WIfI in 2014 a lot has changed in the way we view PAOD leading up to last years new Global Vascular Guidelines on CLTI, which as a term has replaced CLI (see \@ref(chronic-limb-threatening-ischemia)). [@millsSocietyVascularSurgery2014a; @conteGlobalVascularGuidelines2019a]
+Since the publication of WIfI in 2014 a lot has changed in the way we view PAD leading up to last years new Global Vascular Guidelines on CLTI, which as a term has replaced CLI (see @sec-clti). [@millsSocietyVascularSurgery2014a; @conteGlobalVascularGuidelines2019a]
 
 ## Intermittent Claudication
 
@@ -195,13 +195,13 @@ Rutherford et al. Ad Hoc Committee on Reporting Standards, SVS/North American Ch
 
 **Neurogenic Claudication** - Differentiating neurogenic claudication from vasculogenic claudication can be difficult. Vasculogenic claudication is relieved by cessation of ambulation and mostly affects a unilateral calf. Neurogenic improves with postural changes, more often bilateral and affects the thighs. [@nadeauReliabilityDifferentiatingNeurogenic2013]
 
-**What is involved in the work up of patients with PAOD/Intermittent Claudication?**
+**What is involved in the work up of patients with PAD/Intermittent Claudication?**
 
 ### History / Clinical Examination
 
 ***SVS Guidelines:***
 
-"We recommend using ABPI as the first-line non-invasive test to establish a diagnosis of PAOD in individuals with symptoms or signs suggestive of disease. When the ABI is borderline or normal (\>0.9) and symptoms of claudication are suggestive, we recommend an exercise ABPI."
+"We recommend using ABPI as the first-line non-invasive test to establish a diagnosis of PAD in individuals with symptoms or signs suggestive of disease. When the ABI is borderline or normal (\>0.9) and symptoms of claudication are suggestive, we recommend an exercise ABPI."
 
 *Grade 1 Level of Evidence A*
 
@@ -238,9 +238,9 @@ Walking distance has been shown to correlate with level and severity of POAD. [@
 
 Furthermore patients with single level iliac disease may present with buttock/thigh claudication with preserved pulses. Exercise treadmill ABPI particularly useful in determining the severity of disease in these patients. [@aboyansGeneralPrognosisPatients2010]
 
-For more on exercise testing see \@ref(lower-extremity).
+For more on exercise testing see @sec-lab-lower-extremity
 
-**What is the ultrasound duplex criteria for defining PAOD?**
+**What is the ultrasound duplex criteria for defining PAD?**
 
 | Stenosis Category |       Peak Systolic Velocity       | Velocity Ratio | Distal Artery Spectral Waveform |
 |:----------------:|:----------------:|:----------------:|:----------------:|
@@ -252,7 +252,7 @@ For more on exercise testing see \@ref(lower-extremity).
 
 Adapted from Stone and Hass. Vascular Laboratory: Arterial Duplex Scanning. Rutherford's Vascular Surgery and Endovascular Therapy. 2019.[@stone21VascularLaboratory2019]
 
-**What Guidelines are there pertaining to PAOD Management.**
+**What Guidelines are there pertaining to PAD Management.**
 
 ***SVS Guidelines (2015)***
 
@@ -270,12 +270,12 @@ Other Guidelines:
 
 #### Medical Management
 
-**What is the initial management of Asymptomatic Patients with PAOD?**
+**What is the initial management of Asymptomatic Patients with PAD?**
 
 1.  Smoking Cessation -- Multidisciplinary comprehensive smoking cessation interventions -- repeatedly until tobacco use has stopped (Grade A -- 1)
 2.  Intervention is not only not recommended, but invasive treatment is recommended against, in the absence of symptoms (Grade A -1)
 
-**How can we medically manage asymptomatic PAOD based on the SVS Guidelines?**
+**How can we medically manage asymptomatic PAD based on the SVS Guidelines?**
 
 -   ***Anti-Platelet Therapy***
 
@@ -286,9 +286,9 @@ Other Guidelines:
 
     -   The Heart Protection Study [@heartprotectionstudycollaborativegroupRandomizedTrialEffects2007] - this study looked at statins in patients with PAD but not completely asymptomatic, they had other risk factors such as diabetes, IHD, cerebrovascular disease, or hypertension. Without these risk factors the benefit of Statin therapy remains unclear.
 
-    -   However, the AHA from the Framingham Study does recommend using statins if 10-year risk based on risk calculators \>7.5% (which would be positive if PAOD present).
+    -   However, the AHA from the Framingham Study does recommend using statins if 10-year risk based on risk calculators \>7.5% (which would be positive if PAD present).
 
-    -   Statins are particularly useful for risk reduction of cardiovascular events in diabetics.[@cholesteroltreatmenttrialists(ctt)collaborators2008; @colhoun2004; @stamler1993]
+    -   Statins are particularly useful for risk reduction of cardiovascular events in diabetics.[@cholesteroltreatmenttrialists2008; @colhoun2004; @stamler1993]
 
     -   Statin-associated muscle symptoms (SAMS) is the most common side effect and occurence has been reported as high as 30% in some cohorts.[@keen2014] Other side effects are rare (1.5-5% of patients) and include DM2 new onset, neurocognitive effects, hepatotoxicity, renal toxicity and pancreatitis.[@bitzur2013; @saxon2016; @ward2019]
 
@@ -315,7 +315,7 @@ Other Guidelines:
 
 -   **Dyslipidaemia:** Statin Therapy Recommended -- most recent evidence on lipid therapy has suggested focusing on reducing 10-year cardiovascular event risk rather than specifically reducing lipid levels. *(Grade 1-A)*
 
--   **Anti-Platelet Therapy:** Aspirin therapy (75-325mg daily) is recommended to reduce cardiovascular events in patients with PAD *(Grade 1-Level A)* [@collaborationCollaborativeMetaanalysisRandomised2002; @antithrombotictrialists(att)collaboration2009]
+-   **Anti-Platelet Therapy:** Aspirin therapy (75-325mg daily) is recommended to reduce cardiovascular events in patients with PAD *(Grade 1-Level A)* [@collaborationCollaborativeMetaanalysisRandomised2002; @antithrombotictrialists2009]
 
     -   There is evidence that Clopidogrel 75mg compared to Aspirin is better in event reduction. (CAPRIE)[@capriesteeringcommitteeRandomisedBlindedTrial1996]-- replacing Aspirin with Clopidogrel *(Grade 1-Level B)*
     -   Recent evidence from the COMPASS trial has suggested that the addition of low dose rivaroxaban (2.5mg BID) to aspirin (100mg daily) has lowere MALE, composite endpoint of cardiovascular death, stroke and MI. Subgroup analysis suggested clopidogrel may be better with reduced risk of GI bleed and MACE.[@anand2018; @eikelboom2017]
@@ -330,7 +330,7 @@ Other Guidelines:
 
 -   **Homocysteine** -- Recommendation against Folic Acid and Vit B12*(Grade 2 -- C)*
 
-    -   Higher homocysteine levels are associated with PAOD and risk of venous and arterial thrombosis.[@dangelo1997; @khandanpour2009; @liebman2019]
+    -   Higher homocysteine levels are associated with PAD and risk of venous and arterial thrombosis.[@dangelo1997; @khandanpour2009; @liebman2019]
 
 **To improve Limb Function in patients with IC:**
 
