@@ -1,4 +1,4 @@
-# CLTI
+# CLTI {#sec-clti}
 
 Authors: *Nedal Katib and Danielle Bajakian*
 
@@ -14,7 +14,7 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/PAOD_part2_postAuphonic.
 
 ## Etiology and Presentation
 
-**How does PAOD pathologically progress clinically into Chronic Limb Threatening Ischemia (CLTI)?**
+**How does PAD pathologically progress clinically into Chronic Limb Threatening Ischemia (CLTI)?**
 
 The latter stages of both the Rutherford and Fontaine Classification systems highlight this progression, with the Rutherford classification of Stage 5 being specifically minor tissue loss with focal gangrene, and stage 6 as major tissue loss identified by spreading of gangrene beyond the Trans metatarsal level.
 
@@ -84,7 +84,7 @@ Etologically the prevalence of smokers(Ex and Current) in the population has dec
 
 **What is the WIFI Classification?** [@millsSocietyVascularSurgery2014a]
 
-Interestingly in the original article by Bob Rutherford regarding Diabetes and PAOD:
+Interestingly in the original article by Bob Rutherford regarding Diabetes and PAD:
 
 \- "It was generally agreed that diabetic patients who have a varied clinical picture of neuropathy, ischemia and sepsis make the definition even more difficult and it is desirable that these patients be excluded...diabetic patients should be clearly defined as a separate category or should be clearly defined as a separate category."
 
@@ -114,7 +114,7 @@ Acute lower limb ischemia has a different clinical presentation, but there may s
 
 Other causes of ischemic pain include:
 
--   Buergers Disease, or Thromboangiitis Obliterans - for more see \@ref(buergers-disease)
+-   Buergers Disease, or Thromboangiitis Obliterans - for more see @sec-buergers-disease
 
 -   Scleroderma
 
@@ -128,7 +128,7 @@ Other causes of ischemic pain include:
 
 **What is the Rutherford Acute Ischemia Grading System?**
 
-Although acute ischemia is very different from chronic ischemia, patients with progressive chronic PAD can develop an acute picture whether from embolism or in-situ thrombosis secondary to plaque rupture. See \@ref(acute-limb-ischemia) for more.
+Although acute ischemia is very different from chronic ischemia, patients with progressive chronic PAD can develop an acute picture whether from embolism or in-situ thrombosis secondary to plaque rupture. See @sec-acute-limb-ischemia for more.
 
 **What are the current CLTI Guidelines?**
 
@@ -168,7 +168,7 @@ It is important to note that compared to most guidelines, unfortunately in the m
 
 In addition to history, examination, and WIfI assessment mentioned above, for patients with diabetes and an ulcer a full assessment of neuropathy and a "probe to bone" test for any open ulcers is recommended as part of good practice.
 
-In the PAOD and intermittent claudication sub chapters the non-invasive methods of assessment for these patients have been discussed. In addition it is important to emphasize the role of Toe Pressures (TP) and Toe Pressure Index (TPI) in this cohort of patients.
+In the PAD and intermittent claudication sub chapters the non-invasive methods of assessment for these patients have been discussed. In addition it is important to emphasize the role of Toe Pressures (TP) and Toe Pressure Index (TPI) in this cohort of patients.
 
 Healing of an ulcer or tissue loss is unlikely if a patient's toe pressures are less than 55mmHg. And Toe Pressures have been validated in multiple studies to correlate with Amputation free survival and wound healing: Amputation Free Survival TP \<30mmHg 2.13 HR (1.52-2.98). [@wickström2017; @hicks2018]
 
@@ -280,7 +280,7 @@ Patients with rest pain do not necessarily require direct in line flow are those
 
 The evidence is largely of poor quality, and is largely retrospective or non-controlled, or industry sponsored. **BASIL** (Bypass versus Angioplasty in Severe Ischemia of the Leg) remains the only multicenter RCT (BASIL -2 and 3 underway) directly comparing an endo versus open management strategy for CLTI and Infra-inguinal occlusive disease. 
 
-BASIL compared POBA and Bypass across multiple centers (27 centers, n=452, 1999-2004) in the UK. Primary endpoint was Amputation-Free Survival (**AFS**). [@bradburyBypassAngioplastySevere2005]
+BASIL compared POBA and Bypass across multiple centers (27 centers, n=452, 1999-2004) in the UK. Primary endpoint was Amputation-Free Survival (AFS). [@bradburyBypassAngioplastySevere2005]
 
 Major Findings:
 
@@ -330,12 +330,12 @@ Optimal follow up for endovascular interventions of the lower extremity has not 
 
 -   Planning distal bypasses should take into account the angiosome of the wound and the most distal healthy inflow vessel to result in the shortest bypass possible.[@hingorani2016; @jongsma2017]
 
--   Intensified anti-thrombotic therapy may be needed in patients with "high risk" infrainguinal bypasses--prosthetic conduit, below the knee targget, suboptimal conduit, poor arterial runoff, extensive lesions or tissue loss. Single anti-platelet may not be sufficient, and should be intensified to asa/rivaroxaban, dual antiplatelet, or anticoagulation with Vit K antagonist.[@conte2015; @hussain2018; @strobl2013; @tepe2012]
+-   Intensified anti-thrombotic therapy may be needed in patients with "high risk" infrainguinal bypasses--prosthetic conduit, below the knee target, suboptimal conduit, poor arterial runoff, extensive lesions or tissue loss. Single anti-platelet may not be sufficient, and should be intensified to asa/rivaroxaban, dual antiplatelet, or anticoagulation with Vit K antagonist.[@conte2015; @hussain2018; @strobl2013; @tepe2012]
 
 ### Complications
 
 **What are some complications of lower extremity revascularization procedures?**
 
-For a comprehensive list of access complications after endovascular therapy, see \@ref(access-comp).
+For a comprehensive list of access complications after endovascular therapy, see @sec-access-comp
 
 Femoral exploration carries high risk of infection or lymphatic leak. Lymphatic leaks often resolve spontaneously. Infected lymphatic leaks, particularly in the setting of prosthetic bypass require exploration. Should a lymph leak not resolve with conservative management, definitive therapy requires alcohol ablation or muscle flap coverage. The most important aspect of lymph leak is prevention with careful dissection and tissue management during femoral exploration.[@obara2014; @weaver2014]
