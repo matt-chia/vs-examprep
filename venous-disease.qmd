@@ -1,8 +1,6 @@
 # Venous Disease
 
-**UNDER CONSTRUCTION - This Chapter is Currently in DRAFT mode**
-
-**28 Nov 2021**: *Mr. Andrew Nickinson, Mr. Aminder Singh and Mr Manj Gohel*
+Authors: *Leanna Erete, Andrew Nickinson, Aminder Singh and Manj Gohel*
 
 ```{r echo=FALSE}
 
@@ -95,7 +93,7 @@ So I think the most important thing is not necessarily what you use, it's doing 
 You can spend an hour doing this, if you're being very diligent. But what I say to patients are that there are generic risks of venous thromboembolism, as is the risk of any intervention. And I think that's worthy of specific discussion after endovenous procedures, but I quote a risk of around one in 200 for most endovenous interventions. Extension of proximal thrombus into the deep system is termed endothermal heat-induced thrombosis (EHIT) and is evaluated and treated aggressively in the United States.[@sadek2013; @kabnick2021] EHIT is defined as:
 
 | EHIT Grade | Description                                            | Treatment                            |
-|:----------:|--------------------------------------------------------|--------------------------------------|
+|:-------------:|----------------------------------|-----------------------|
 |     1      | Extension to SFJ                                       | None                                 |
 |     2      | Extension into deep system \<50% of lumen diameter     | Close observation vs anticoagulation |
 |     3      | Extension into the deep system \>50% of lumen diameter | Anticoagulation                      |
@@ -534,7 +532,7 @@ Lymphedema can be thought of as a primary dysfunction of the lymphatic channels 
 The management of lymphedema is determined primarily on its clinical stage at presentation.[@grada2017] The staging for lymphedema is as follows:
 
 | Lymphedema Stage |        Description         | Symptoms                                                                 |
-|:----------------:|:--------------------------:|--------------------------------------------------------------------------|
+|:--------------:|:--------------:|-----------------------------------------|
 |        0         |        Sub-clinical        | No swelling, heaviness or discomfort                                     |
 |        1         |    Sponteous Reversible    | Swelling improved with limb elevation                                    |
 |        2         |  Spontaneous Irreversible  | Pitting and swelling, not improved with elevation                        |

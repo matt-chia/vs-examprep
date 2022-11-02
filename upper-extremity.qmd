@@ -1,6 +1,6 @@
 # Upper Extremity
 
-Authors: *Kush Sharma, MD and Ashraf Mansour, MD*
+Authors: *Kush Sharma and Ashraf Mansour*
 
 ```{r echo=FALSE}
 
