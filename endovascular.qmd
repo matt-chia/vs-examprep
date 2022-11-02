@@ -1,4 +1,4 @@
-# Endovascular
+# Endovascular {#sec-endovascular}
 
 ## Vascular Access
 
@@ -138,7 +138,7 @@ Micropuncture technique is the most commonly used method for percutaneous access
 
 Ultrasound is used to cannulate the artery with a 21-gauge needle. It is best to visualize the needle entering the artery and to be intraluminal without being against the wall Blood return is then seen and a floppy tip micropuncture (0.018) wire is inserted under fluoroscopic guidance to make sure the wire passes into the vessel easily. A 4 Fr introducer sheath is placed over the wire gently to avoid kinking the wire. The inner cannula of the sheath is removed, and a 0.035 guidewire is placed under fluoroscopic guidance. It is important to remember that there are two types of introducer sheath depending on amount of subcutaneous scar tissue containing either a soft or a stiffened cannula. The 4 Fr is removed over the wire while holding manual pressure and desired sheath (usually 5 or 6 Fr) is placed for definitive access. The side port is then aspirated for arterial blood and flushed with heparinized saline.
 
-### Complications {#access-comp}
+### Complications {#sec-access-comp}
 
 **With any invasive procedure, there are risks of complications. What are some of the complications of percutaneous vascular access?**
 
@@ -146,7 +146,7 @@ Hematomas are the most common complication and have an incidence of about 3%. Mo
 
 Groin hematomas are not uncommon and are usually self-limiting. An expanding hematoma that is seen early can be treated with simple manual pressure at the bedside. If the hematoma is large and compressing surrounding structures or threatening skin integrity or if the patient is hemodynamically unstable, then surgical evacuation may be necessary
 
-Pseudoaneurysms are an uncommon complication with an incidence of about 0.6%. Most pseudoaneurysms are treated with ultrasound-guided compression or thrombin injection. Thrombin injection requires a narrow neck into the pseudoaneurysm. If the pseudoaneurysm is \>2cm, compresses surrounding structures, threatens skin integrity, or has failed thrombin injection, then surgical repair is required.[@morgan2003; @stone2014] For a representative image, see \@ref(psa)
+Pseudoaneurysms are an uncommon complication with an incidence of about 0.6%. Most pseudoaneurysms are treated with ultrasound-guided compression or thrombin injection. Thrombin injection requires a narrow neck into the pseudoaneurysm. If the pseudoaneurysm is \>2cm, compresses surrounding structures, threatens skin integrity, or has failed thrombin injection, then surgical repair is required.[@morgan2003; @stone2014] For a representative image, see @sec-lab-psa
 
 Thrombosis of the CFA is a known complication but fortunately is rare with an incidence of 0.2%. This can result from manual compression of the CFA that has severe atherosclerotic disease or prior groin reconstruction. This generally requires a cutdown, endarterectomy, thrombectomy, and patch angioplasty.
 
@@ -177,7 +177,7 @@ Lastly, AV fistula can form and are usually between the femoral artery and vein 
 The effects can impact both patients and clinicians. Patients often receive a higher dose during a single procedure, where as clinician doses, even with proper shielding, accumulate over multiple procedures throughout their careers. The effects of radiation are defined as either deterministic or stochastic.
 
 |  Dose   | Effect                                                                                             |
-|:--------------:|--------------------------------------------------------|
+|:-------------------:|---------------------------------------------------|
 |  0-2Gy  | No observable effects                                                                              |
 |  2-5Gy  | Transient skin erythema and dermatitis, full recovery 6w-1yr[@guesnier-dopagne2019; @kirkwood2014] |
 | 5-10Gy  | Erythema and epilation (hair loss), prolonged erythema up to 1y                                    |
