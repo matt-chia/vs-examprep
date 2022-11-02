@@ -1,4 +1,4 @@
-## Trauma - Endo
+# Trauma - Endo
 
 Authors: *Kevin Kniery, Marlin "Wayne" Causey, Nakia Sarad, and Todd Rasmussen*
 
@@ -12,9 +12,9 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/Rasmussen_Endovascular_T
 
 Although open surgical treatment is the mainstay of trauma management, there are some unique injuries where endovascular management has started to become the standard of care in centers with the resources and expertise to perform it.\@katsanos2009
 
-### **Blunt Thoracic Aortic Injury (BTAI)**
+## Blunt Thoracic Aortic Injury (BTAI)
 
-#### Demographics
+### Demographics
 
 Guidelines
 
@@ -134,7 +134,7 @@ Grading Systems
 
             -   BTAI takes first priority
 
-#### Evaluation
+### Evaluation
 
 -   Be aware that patients likely have other injuries
 
@@ -142,7 +142,7 @@ Grading Systems
 
 -   Perform CTA follow-through to upper/lower extremities if those areas are of concern for injury
 
-#### Management
+### Management
 
 Overview
 
@@ -282,9 +282,9 @@ Timing of Repair
 
     -   More urgent repair (within 24 hours)
 
-### **Blunt Abdominal Aortic Injuries**
+## Blunt Abdominal Aortic Injuries
 
-#### Demographics
+### Demographics
 
 Epidemiology
 
@@ -302,13 +302,13 @@ Anatomy
 
 -   Zone 3: Inferior renal artery to aortic bifurcation
 
-#### Evaluation
+### Evaluation
 
 -   CTA
 
 -   IVUS - Also used for operative planning and evaluating extent of defects into branches of the mesentery
 
-#### Management
+### Management
 
 Overview
 
@@ -332,9 +332,9 @@ Types of Endografts Used - Can use combination of all grafts types to get the ap
 
 -   Aortic cuffs
 
-### **Blunt Axillo-Subclavian Injuries**
+## Blunt Axillo-Subclavian Injuries
 
-#### Demographics
+### Demographics
 
 Epidemiology
 
@@ -357,6 +357,8 @@ Anatomy
         -   More lateral than the axillo-subclavian vein
 
         -   Courses posteriorly to anterior scalene
+
+### Management
 
 Access
 
