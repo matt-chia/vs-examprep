@@ -1,4 +1,4 @@
-## Acute Limb Ischemia
+## Acute Limb Ischemia {#sec-acute-limb-ischemia}
 
 Authors: *Alex Forsyth and Sarah Carlson*
 
@@ -292,7 +292,7 @@ Best diagnosed with axial cross-sectional imaging from the MRA to identify the a
 
 Symptomatic PAES should be treated, even if presenting with mild or moderate claudication, due to risk of progression and thrombosis from scaring.[@forbes2019]
 
-### Cystic Adventitial Disease
+### Cystic Adventitial Disease {#sec-cystic-adventitial-disease}
 
 #### Etiology and Presentation
 
@@ -300,7 +300,7 @@ Controversial etiology, often considered related to repeated popliteal trauma du
 
 #### Evaluation
 
-Often diagnosed on duplex ultrasound or CTA. For a representative image, see \@ref(cad).
+Often diagnosed on duplex ultrasound or CTA. For a representative image, see @sec-lab-cystic-adventitial-disease
 
 #### Management
 
