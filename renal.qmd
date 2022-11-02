@@ -465,7 +465,7 @@ Unfortunately, randomized trials showed no additional benefit from stenting when
 
     -   No deaths in 105 procedures for fibromuscular dysplasia (FMD).
 
-## Fibromuscular Dysplasia (FMD)
+## Fibromuscular Dysplasia (FMD) {#sec-fibromuscular-dysplasia}
 
 **You mentioned FMD as a cause of renovascular hypertension, tell me more about that...**
 
