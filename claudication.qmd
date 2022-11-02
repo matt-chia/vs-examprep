@@ -1,0 +1,668 @@
+# Peripheral Arterial Disease and Claudication
+
+## Pathogenesis of peripheral arterial disease
+
+Authors: Nedal Katib and Danielle Bajakian
+
+```{r echo=FALSE}
+
+library(embedr)
+
+embed_audio("https://traffic.libsyn.com/audiblebleeding/PAOD_part_1_postEQ.mp3")
+
+```
+
+**What is Peripheral Artery Occlusive Disease (PAOD)?**
+
+Peripheral Arterial Disease encompasses extremity arterial disease but
+generally is used to describe lower limb arterial occlusive disease.
+Peripheral Artery Occlusive Disease (PAOD) is a more specific term and
+this encompasses atherosclerotic disease of the lower limb arteries.
+
+The disease has a step-wise spectrum of presentations from asymptomatic
+disease to intermittent claudication and finally chronic limb
+threatening ischemia (CLTI) formerly known as Critical Limb Ischemia
+(CLI) [@aboyans2017ESCGuidelines2018]
+
+**What is the underlying pathophysiology of PAOD?**
+
+The understanding of the underlying pathophysiology which results in
+occlusive arterial disease of the lower limb has evolved over the last
+50 years. Atherosclerosis remains the main pathological process
+resulting in occlusive disease with smoking being the primary modifiable
+risk factor.\
+Although with the rising incidence of diabetes a second population of
+patients with a significant PAOD burden has developed.
+
+Atherosclerosis begins with an injury to the intimal lining of the
+arterial wall, which, for example, can result from smoking,
+hypertension, hyperglycemia, or advanced age. Repeated injury leads to a
+chronic inflammatory process resulting in the uptake and oxidation of
+LDL, resulting in foam cells.[@hiltunen1998; @tsimikas2005;
+@witztum1994] Foam cells result when unregulated scavenger receptors
+promote uptake of oxidized LDL by marophages and smooth muscle cells.
+These foam cells become necrotic and then create the central core of the
+atheroma.[@owens2019] This oxidized LDL form into intimal plaque, build
+up and calcification that may result in progressive vessel stenosis and
+subsequent occlusion, or plaque rupture with acute occlusion.
+
+Atherosclerosis is particularly prone to developing at sites of arterial
+bifurcation (i.e. carotid bifurcation, femoral bifurcation) because
+turbulent flow and low laminar shear stress results in the down
+regulation of eNOS and NO production. This in turn increases V-CAM-1 and
+reduces inhibition of KF-kB (resulting in it's elevation.[@owens2019]
+
+| Classification | Description                                                             |
+|:----------------:|------------------------------------------------------|
+|       0        | Normal artery                                                           |
+|       1        | Initial atherosclerotic lesion                                          |
+|       2        | Fatty streak                                                            |
+|       3        | Fatty plaque/raised fatty streak                                        |
+|       4        | Atheroma                                                                |
+|       5        | Fibroatheroma - development of fibrotic cap, vascularization or calcium |
+|       6        | Complicated lesion                                                      |
+
+: AHA lesion classification - defines plaque risk for
+rupture/thrombosis. Extrapolated from the coronary artery disease
+literature.[@mcgill2000]
+
+**What are the risk factors for atherosclerosis?**
+
+**Modifiable:**
+
+1.  ***Smoking***
+
+    -   The **most significant modifiable risk factor** for developing
+        peripheral arterial disease.
+
+    -   Causes endothelial dysfunction by reducing nitric oxide and
+        triggering reactive-oxygen species, platelet ahesion, and
+        permeability of endothelial surface to
+        fibrinogen.[@unitedstatessurgeongeneralHealthConsequencesSmoking2014;
+        @hackam2003].
+
+    -   Causes a prothrombotic environment by causing an increase in
+        thromboxane A2 and decreasing prostacyclin thus overall
+        resulting in increased prothrombotic environment for platelets.
+
+    -   Smoking has a stronger association with Intermittent
+        claudication than with Coronary Artery Disease!
+        [@gordonPredispositionAtherosclerosisHead1972]
+
+2.  ***Diabetes, Metabolic Syndrome, and Insulin Resistance***
+
+    -   Diabetes Mellitus, after smoking, is the most significant
+        modifiable risk factor for developing peripheral arterial
+        disease. Both insulin resistance and hyperinsulinemia are
+        independent risk factors for developing peripheral arterial
+        disease.
+
+    -   The Odds Risk for developing PAD in patients with DM ranges from
+        1.89 to 4.05.
+
+    -   Factors associated with developing PAD in diabetics include
+        female gender, chronicity/severity of DM, insulin dependence,
+        African American race or hispanic ethnicity.[@regensteiner2015;
+        @selvin2006; @wattanakit2005] An increase in HbA1C by 1%
+        correlates with a 28% increase risk of developing PAD.
+        [@adlerUKPDS59Hyperglycemia2002]
+
+    -   The following mechanisms may lead to PAD in diabetics
+
+        -   Hyperglycemia reduces bioavailability of NO, which is a
+            vasodilator, enhances endothelial function, and inhibits
+            both platelet activation and smooth muscle
+            migration.[@higashi2009]
+
+        -   Hyperglycemia activates protein kinase C and thus
+            accumulation of mitochondrial ROS and
+            prostanoids.[@geraldes2010]
+
+        -   Endothelial dysfunction leads to increased endothelin-1 and
+            vasoconstriction.[@ahlborg2007]
+
+3.  ***Hypertension***
+
+    -   The **most common** cardiovascular risk factor worldwide.
+
+        -   USPSTF Grade A recommendation for HTN screening confirm
+            readings outside clinical setting or at home before
+            initiating treatment.[@piper2014]
+
+    -   The Incidence of PAD increases to 2.5-fold in patients with
+        Hypertension. [@kannelUpdateEpidemiologicFeatures1985]
+
+    -   Each 20mg increase in BP, results in a 35-63% increase risk in
+        PAOD. Recommend keeping BP \<140/90 or \<130/80 in diabetics or
+        CKD.[@adler2000; @bavry2010; @emdin2015; @itoga2018]
+
+4.  ***Dyslipidemia***
+
+    -   A strong association has long been identified as a risk factor
+        for cardiovascular disease.[@langlois2018; @diehm2004]
+
+    -   25% cardiovascular event reduction for each 39 mg/dL (1mmol/L)
+        reduction in LDL.
+        [@heartprotectionstudycollaborativegroupRandomizedTrialEffects2007]
+
+    -   JUPITER Study - Randomized rosuvastatin 20mg to placebo in
+        healthy patients. Found significant decrease in unstable angina,
+        myocardial infarction and stroke. However, patients had a higher
+        incidence of physician-reported diabetes, but no difference in
+        myopathy.[@ridker2008]
+
+    -   Fish oil is also indicated for secondary prevention among
+        patients with known cardiovascular disease.[@grenon2012;
+        @kris-etherton2002; @siscovick2017]
+
+**Non-Modifiable:**
+
+1.  ***Age***
+
+    -   Age is identified as a risk factor for PAD regardless of gender.
+
+    -   Prevalence of PAD increases with age: 15% \> 70 years of age.
+
+2.  ***Gender***
+
+    -   The Framingham Study has found that the risk of developing PAD
+        is doubled in men.
+
+3.  ***Race and Ethnicity***
+
+    -   The MESA study showed a higher prevalence of PAD (ABPI \<0.9) in
+        African Americans compared to Whites. 7.2% versus 3.6%.
+        [@bildMultiEthnicStudyAtherosclerosis2002]
+
+    -   Cross Sectional analysis 6653 subjects all with ABPI assessment
+        revealed a prevalence of PAD (\<0.9) of 4%. Non-Hispanic Whites:
+        3.6%, Asian: 2%, African American: 7.2% and Hispanic: 2.4%.
+        (p\<0.01) [@allisonEffectNovelCardiovascular2006]
+
+**What are the some of the major population-based trials looking at the
+natural history of atherosclerotic disease?**
+
+1.  ***The Framingham Heart Study***: The original Cohort from the town
+    of Framingham, n=5183 patients, followed over time for over 30
+    years. There have been multiple subsequent recruited populations
+    since. The majority of information we have about risk factors
+    related to cardiovascular health comes from this study.
+    [@mahmoodFraminghamHeartStudy2014]
+
+2.  ***The Rotterdam Study***: 1990, Longitudinal Study, \>7000
+    participants.
+
+3.  ***CVHS***: 1989-1999 Longitudinal Study : n\>5000 Multicenter
+    Study.
+
+4.  ***MESA***: Cross Sectional analysis 6653 subjects all with ABPI
+    assessment revealed a prevalence of PAD (\<0.9) of 4%. Non-Hispanic
+    Whites: 3.6%, Asian: 2%, African American: 7.2% and Hispanic: 2.4%.
+    (p\<0.01) [@allisonEffectNovelCardiovascular2006]
+
+5.  ***The Edinburgh Study***: The EAS began as a cross sectional study
+    of 1592 men and women in Edinburgh with the goal of examining the
+    frequency of risk factors for peripheral arterial disease. The
+    subjects were followed over 20 years.
+    [@fowkesEdinburghArteryStudy1991]
+
+**How does Diabetes confound the clinical picture of PAOD?**
+
+-   Increasing Incidence of Diabetes
+    world-wide.[@boultonGlobalBurdenDiabetic2005]
+
+    -   2.8% of the global population affected by diabetes in 2000,
+        estimated to be 4.4% by 2030.
+
+    -   25% of patients with diabetes develop a diabetic foot ulcer
+        (DFU), at some stage in their lives.
+
+    -   Diabetic foot ulcers have a very high rate of recurrence with
+        40% of patients developing a new ulcer within 12 months of
+        healing a previous ulcer. [@armstrong2017]
+
+    -   Limb Loss occurs every 20 seconds world-wide to due to Diabetes
+        related PAOD or infection.
+
+**What's the pathophysiology of Diabetes and PAOD**
+[@armstrong26PathophysiologyPrinciplesManagement2012]
+
+-   Neuropathy. The loss of the basic nociceptive mechanisms in the foot
+    among diabetics, presents as a loss of protective sensation (LOPS).
+    Neuropathy can be divided into three types:
+
+    -   Sensory: "stocking-glove" distribution
+
+    -   Motor: Intrinsic muscle wasting -- resulting in deformities
+
+    -   Autonomic: Sympathetic nervous system pathology
+
+-   Structural deformaties and gait distrubances
+
+-   Arterial disease of large and small vessels.
+
+    -   Large Vessel
+
+    -   Small Vessel
+
+    -   Both
+
+-   Foot infection[@bandyk2018; @kayssi2019; @lepäntalo2011]
+
+Given the pathological effect of diabetes upon multiple structures and
+systems the normal progressive history of diabetes related PAOD is
+somewhat different to smoking related PAOD. Clinically due to the
+combined effect of peripheral neuropathy and microvascular arterial
+disease, foot ulceration for many patients tends to be the initial
+presentation. This results in a lack of a 'safety net' where presenting
+with progressive claudication allows for a period of detection,
+management and and risk factor modification before they develop tissue
+loss and are at risk of amputation, leading to poor outcomes and greater
+morbidity and mortality.
+
+Since the publication of WIfI in 2014 a lot has changed in the way we
+view PAOD leading up to last years new Global Vascular Guidelines on
+CLTI, which as a term has replaced CLI (see
+\@ref(chronic-limb-threatening-ischemia)).
+[@millsSocietyVascularSurgery2014a; @conteGlobalVascularGuidelines2019a]
+
+## Intermittent Claudication
+
+**What is Intermittent Claudication and the classic patient
+presentation?**
+
+The original population studies we mentioned determined the epidemiology
+and natural history of Intermittent Claudication based on historically
+validated and widely accepted questionnaires, namely the ***Rose***
+[@roseDiagnosisIschaemicHeart1962] (which later was adopted by the WHO)
+and subsequently the ***Edinburgh questionnaire***.
+[@lendEdinburghClaudicationQuestionnaire1992].
+
+All questionnaires are based on a number of key diagnostic clinical
+factors that define claudication, they are:
+
+-   Onset
+
+-   Calf Involvement
+
+-   Reproducibility
+
+-   Relief with Rest
+
+-   Not Occurring at Rest
+
+The progression of intermittent claudication was historically graded by
+Fontaine (1954) [@fontaineSurgicalTreatmentPeripheral1954] followed by
+the Rutherford Grading System (1986, Revised 1997)
+[@rutherfordRecommendedStandardsReports1997]
+
+Rutherford et al. Ad Hoc Committee on Reporting Standards, SVS/North
+American Chapter ISCVS:
+
+| Grade | Category |                     Clinical Description                     |
+|:----------------------:|:----------------------:|:----------------------:|
+|   0   |    0     | A symptomatic - no hemodynamic significant occlusive disease |
+|   I   |    1     |                      Mild Claudication                       |
+|   I   |    2     |                    Moderate Claudication                     |
+|   I   |    3     |                     Severe Claudication                      |
+|  II   |    4     |                      Ischemic Rest Pain                      |
+|  III  |    5     |                      Minor Tissue Loss                       |
+|  III  |    6     |                      Major Tissue Loss                       |
+
+**Leriche Syndrome** - Is a clinical triad of: claudication (buttock,
+thigh, and calf), impotence, and decreased lower limb pulses, which
+signifies aortoiliac occlusive disease. [@frederick2010; @leriche1948;
+@setacci2012]
+
+**Neurogenic Claudication** - Differentiating neurogenic claudication
+from vasculogenic claudication can be difficult. Vasculogenic
+claudication is relieved by cessation of ambulation and mostly affects a
+unilateral calf. Neurogenic improves with postural changes, more often
+bilateral and affects the thighs.
+[@nadeauReliabilityDifferentiatingNeurogenic2013]
+
+**What is involved in the work up of patients with PAOD/Intermittent
+Claudication?**
+
+### History / Clinical Examination
+
+***SVS Guidelines:***
+
+"We recommend using ABPI as the first-line non-invasive test to
+establish a diagnosis of PAOD in individuals with symptoms or signs
+suggestive of disease. When the ABI is borderline or normal (\>0.9) and
+symptoms of claudication are suggestive, we recommend an exercise ABPI."
+
+*Grade 1 Level of Evidence A*
+
+-   ABPI
+
+-   Exercise ABPI
+
+-   Ultrasound
+
+**What is an ABPI and how is it measured?**
+
+The AHA released guidelines on how to perform an ABPI in an attempt to
+standardize the method to allow for more comparable results from
+studies:
+
+Divide the higher of the PT or DP pressure by the higher of the right or
+left Brachial SBP *(Class 1 Level of Evidence A)*
+[@aboyansMeasurementInterpretationAnkleBrachial2012]
+
+Sensitivity and Specificity both \>95% (when ABPI cut off \</=0.9 -- in
+detecting \>/= 50% stenosis) [@yaoAnkleSystolicPressure2005;
+@ourielCriticalEvaluationStress1982]
+
+|  **ABPI**  |  Interpretation  |
+|:----------:|:----------------:|
+|   \>1.4    | Non-compressible |
+| \>0.9-1.39 |      Normal      |
+|  0.5-0.9   | Mild to Mod PAD  |
+|  0.0-0.5   |    Severe PAD    |
+
+: Interpretation of ABPIs.
+
+**What are Exercise ABPI studies?**
+
+Constant Load Testing -- (unlike the Graded Test -- Bruce Protocol).
+
+The physiological changes in ABPI related to exercise are due to the
+fact that exercise increases SBP and decreases SVR and, therefore, will
+affect flow through a stenosis making it more physiologically relevant
+during exercise. [@nicolaiReliabilityTreadmillTesting2009;
+@alqahtaniPredictorsChangeAnkleBrachial2018]
+
+Walking distance has been shown to correlate with level and severity of
+POAD. [@strandnessHemodynamicsSurgeons1975a]
+
+Furthermore patients with single level iliac disease may present with
+buttock/thigh claudication with preserved pulses. Exercise treadmill
+ABPI particularly useful in determining the severity of disease in these
+patients. [@aboyansGeneralPrognosisPatients2010]
+
+For more on exercise testing see \@ref(lower-extremity).
+
+**What is the ultrasound duplex criteria for defining PAOD?**
+
+| Stenosis Category |       Peak Systolic Velocity       | Velocity Ratio | Distal Artery Spectral Waveform |
+|:----------------:|:----------------:|:----------------:|:----------------:|
+|      Normal       |               \<150                |     \<1.5      |      Triphasic, Normal PSV      |
+|      30-49%       |              150-200               |     1.5-2      |      Triphasic, Normal PSV      |
+|      50-75%       |              200-400               |      2-4       |     Monophasic, reduced PSV     |
+|       \>75%       |               \>400                |      \>4       | Damped, monophasic, reduced PSV |
+|     Occlusion     | No Flow -- B -mode, Terminal Thump |       NA       |               NA                |
+
+Adapted from Stone and Hass. Vascular Laboratory: Arterial Duplex
+Scanning. Rutherford's Vascular Surgery and Endovascular Therapy.
+2019.[@stone21VascularLaboratory2019]
+
+**What Guidelines are there pertaining to PAOD Management.**
+
+***SVS Guidelines (2015)***
+
+-   The SVS published the SVS practice guidelines for atherosclerotic
+    occlusive disease of the lower extremities:**Management of
+    asymptomatic disease and claudication**. *Conte and Pomposelli et
+    al. JVS 2015* [@conteSocietyVascularSurgery2015]
+
+Other Guidelines:
+
+-   TASC 1 -2
+
+-   European Guidelines (2017)
+
+-   AHA Guidelines (last update 2016)
+
+### Management
+
+#### Medical Management
+
+**What is the initial management of Asymptomatic Patients with PAOD?**
+
+1.  Smoking Cessation -- Multidisciplinary comprehensive smoking
+    cessation interventions -- repeatedly until tobacco use has stopped
+    (Grade A -- 1)
+2.  Intervention is not only not recommended, but invasive treatment is
+    recommended against, in the absence of symptoms (Grade A -1)
+
+**How can we medically manage asymptomatic PAOD based on the SVS
+Guidelines?**
+
+-   ***Anti-Platelet Therapy***
+
+    -   The Aspirin for Asymptomatic Atherosclerosis Trial -- n=3350,
+        aspirin versus placebo. 8 years follow up no difference in
+        events [@fowkesAspirinPreventionCardiovascular2010] -- therefore
+        benefit unknown
+    -   Literature reviews find benefits in secondary prevention with
+        antiplatelet monotherapy (aspirin or clopidogrel) in symptomatic
+        PAD.[@banerjee2015] Some initial studies did demonstrate benefit
+        from vorapaxar as well.\@rooke2013
+
+-   ***Statin Therapy***
+
+    -   The Heart Protection Study
+        [@heartprotectionstudycollaborativegroupRandomizedTrialEffects2007] -
+        this study looked at statins in patients with PAD but not
+        completely asymptomatic, they had other risk factors such as
+        diabetes, IHD, cerebrovascular disease, or hypertension. Without
+        these risk factors the benefit of Statin therapy remains
+        unclear.
+
+    -   However, the AHA from the Framingham Study does recommend using
+        statins if 10-year risk based on risk calculators \>7.5% (which
+        would be positive if PAOD present).
+
+    -   Statins are particularly useful for risk reduction of
+        cardiovascular events in
+        diabetics.[@cholesteroltreatmenttrialists(ctt)collaborators2008;
+        @colhoun2004; @stamler1993]
+
+    -   Statin-associated muscle symptoms (SAMS) is the most common side
+        effect and occurence has been reported as high as 30% in some
+        cohorts.[@keen2014] Other side effects are rare (1.5-5% of
+        patients) and include DM2 new onset, neurocognitive effects,
+        hepatotoxicity, renal toxicity and pancreatitis.[@bitzur2013;
+        @saxon2016; @ward2019]
+
+-   ***Exercise and Limb Function***
+
+    -   No clear evidence that physical therapy improves the patient
+        outcomes or quality of life.
+
+-   ***Surveillance***
+
+    -   No benefit from US surveillance, unclear benefit of ABPI
+        surveillance.
+    -   Patients are at higher risk of depression (almost 20%),
+        therefore PHQ-9 and -2 are good screening tools.[@jha2019;
+        @mcdermott2016; @ramirez2018]
+
+**How can we medically manage Intermittent Claudication based on the SVS
+Guidelines?**
+
+-   **Smoking Cessation:** Multidisciplinary comprehensive smoking
+    cessation interventions -- repeatedly until tobacco use has stopped
+    *(Grade A -- 1)* First line therapy is behavioral therapy +
+    varenicline/bupropion or nicotine replacement therapy (NRT) per
+    EAGLES trial.[@anthenelli2016; @vogeler2016]
+
+    -   Preloading with varenicline (4wks) or bupropion (5-7d) prior to
+        quitting has demonstrated higher abstinence at
+        12w.[@ratchford2011]
+
+        -   Varenicline is a partial nicotine receptor
+            agonist.[@cahill2016]
+
+        -   Buproprion is a selective dopamine and norepinephrine uptake
+            inhibitor.[@hughes2014]
+
+    -   NRT is preferred if rapid onset of action is
+        needed.[@thomsen2014] However, contraindicated in setting of
+        recent MI, severe angina, or life threatening arrhythmias.
+
+-   **Dyslipidaemia:** Statin Therapy Recommended -- most recent
+    evidence on lipid therapy has suggested focusing on reducing 10-year
+    cardiovascular event risk rather than specifically reducing lipid
+    levels. *(Grade 1-A)*
+
+-   **Anti-Platelet Therapy:** Aspirin therapy (75-325mg daily) is
+    recommended to reduce cardiovascular events in patients with PAD
+    *(Grade 1-Level A)*
+    [@collaborationCollaborativeMetaanalysisRandomised2002;
+    @antithrombotictrialists(att)collaboration2009]
+
+    -   There is evidence that Clopidogrel 75mg compared to Aspirin is
+        better in event reduction.
+        (CAPRIE)[@capriesteeringcommitteeRandomisedBlindedTrial1996]--
+        replacing Aspirin with Clopidogrel *(Grade 1-Level B)*
+    -   Recent evidence from the COMPASS trial has suggested that the
+        addition of low dose rivaroxaban (2.5mg BID) to aspirin (100mg
+        daily) has lowere MALE, composite endpoint of cardiovascular
+        death, stroke and MI. Subgroup analysis suggested clopidogrel
+        may be better with reduced risk of GI bleed and
+        MACE.[@anand2018; @eikelboom2017]
+
+-   **Diabetes Mellitus:** -- Optimization of HbA1C \< 7% *(Grade
+    1-Level B)*[@lajoie2019]
+
+-   **Hypertension** -- Indicated B-Blockers for hypertension. *(Grade
+    1-Level B)* (there's no evidence that Beta Blockers worsens IC)
+
+    -   Initiation of beta-blockers in the immediate preoperative period
+        is associated with worse outcomes.[@blessberger2018;
+        @poisestudygroup2008]
+
+    -   ACE Inhibitors are first line in patients with heart failure,
+        diabetes or kidney disease but should be avoided in patients
+        with renal artery stenosis (RAS).[@barrons2016]
+
+-   **Homocysteine** -- Recommendation against Folic Acid and Vit
+    B12*(Grade 2 -- C)*
+
+    -   Higher homocysteine levels are associated with PAOD and risk of
+        venous and arterial thrombosis.[@dangelo1997; @khandanpour2009;
+        @liebman2019]
+
+**To improve Limb Function in patients with IC:**
+
+-   **Cilostozol** use -- IC without CHF -- 3-month Trial (Grade 2 - A)
+
+    -   If unable to tolerate Cilostozol -- Pentoxifylline (400mg TDS)
+        *(Grade 2 -- B)*
+
+    -   Based on Meta-analysis 26 trials
+        [@stevensSystematicReviewEfficacy2012]
+
+-   **Supervised Exercise Therapy**
+
+    -   First Line Therapy recommended SEP: minimum three times / week
+        (30-60 min/session) for at least 12 weeks (*Grade 1 Level A*)
+
+    -   More durable functional improvements than angioplasty alone,
+        however no current data demonstrating impact on need for
+        revascularization or amputation rate.[@fakhry2013; @fakhry2015;
+        @murphy2012; @murphy2015]
+
+    -   Meta-analysis of 32 RCTs: Placebo versus exercise: Walking Time,
+        Walking Ability, Pain Free Walking and maximum walking distance
+        improves. BUT no difference in ABPI, Mortality or amputation.
+        [@laneExerciseIntermittentClaudication2017]
+
+    -   Meta-analysis of 14 RCTs: SEP better than Non-Supervised
+        Programs. [@hagemanSupervisedExerciseTherapy2018]
+
+#### Open and Endovascular Management
+
+**What is the surgical management for patients with Intermittent
+Claudication?**
+
+-   With appropriate medical management and risk modification, 25% of
+    patients will improve, 50% will remain stable and 25% will progress
+    and requiring intervention. [@conte2015; @norgren2007]
+
+-   **Patient Selection for Intervention:**
+
+    -   20-30% of patients with IC who adhere to risk factor
+        modification will have progressive symptoms that will eventually
+        be treated with intervention.
+
+    -   Patient selection should be based on QoL and functional
+        impairment in an active person (loss of ability to perform
+        occupation or that limits basic activities of daily living)
+        rather than hemodynamic (ABPI or US) or anatomical disease
+        progression/severity.
+
+-   **Always remember multifactorial causes of immobility --
+    particularly in the elderly.**
+
+    -   SVS recommends that invasive therapy for IC have a \>50%
+        likelihood of sustained clinical improvement for at least 2
+        years.
+
+-   **Anatomical Selection:**
+
+    -   ***Aortoiliac Disease:***
+
+        -   Previous TASC Classification has attempted to categorize
+            anatomy of disease and subsequent recommendation of
+            Endovascular versus open surgery. But as the authors of the
+            SVS guidelines highlight, "improvements in technology and
+            endovascular techniques have resulted in EVT replacing open
+            surgical bypass as a primary treatment for both focal and
+            advanced AIOD in many cases."
+
+        -   **The majority of evidence is non randomized and meta
+            analyses of non-randomized series.**
+
+        -   Endovascular procedures over open surgery for focal AIOD
+            causing IC. *(Grade 1 Evidence B)*
+
+        -   Endovascular interventions as first line for CIA or EIZ
+            occlusive disease-causing IC. *(Grade 1 Level B)*
+
+        -   Hybrid recommended for Iliac disease involving CFA. *(Grade
+            1 Level B)*
+
+        -   Direct Surgical reconstruction (bypass, endarterectomy) in
+            patients with reasonable surgical risk and diffuse AIOD not
+            amenable to endovascular approach, after one or more failed
+            attempts at EVT, or combined occlusive and aneurysmal
+            disease. *(Grade 1 Evidence B)*
+
+    -   ***Infrainguinal Disease:***
+
+        -   Reviewing historical data comparing all EVT compared with
+            surgical bypass EVTs are less durable, especially when
+            there's diffuse or long segments of occlusion/multilevel
+            infrainguinal disease.
+
+        -   **Most recommendations are based on low level evidence when
+            comparing EVT versus Open Surgery**
+
+        -   Focal + Not involving SFA origin = EVT *(Grade 1 Level C)*
+
+        -   SFA 5-15cm, self-expanding stent (with or without
+            paclitaxel) *(Grade 1 Level B)* -- NB: (This was in 2015 pre
+            Katsanos Paper[@katsanos2018])
+
+            -   After SFA stenting, SVS and ACC recommend at least 30d
+                dual anti-platelet, then single anti-platelet or
+                anti-platelet and rivaroxaban.[@hussain2018;
+                @societyforvascularsurgerylowerextremityguidelineswritinggroup2015;
+                @strobl2013; @tepe2012]
+
+        -   Recommend against infrapopliteal treatment for IC *(Grade 1
+            Level C)*
+
+        -   Initial Surgical Bypass *(with vein: Grade 1 Level A)*: If
+
+            -   Diffuse FP Disease
+
+            -   Small Caliber \<5mm
+
+            -   Extensive Calcification in SFA
+
+            -   Average or Low Operative Risk *(Grade 1 Level B)*

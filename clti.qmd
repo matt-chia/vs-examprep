@@ -1,0 +1,591 @@
+# Chronic Limb Threatening Ischemia
+
+**Accompanying Episode:** PAOD (Part 2), Chronic Limb Threatening
+Ischemia: Nedal Katib and Danielle Bajakian
+
+```{r echo=FALSE}
+
+library(embedr)
+
+embed_audio("https://traffic.libsyn.com/audiblebleeding/PAOD_part2_postAuphonic.mp3")
+
+```
+
+## Etiology and Presentation
+
+**How does PAOD pathologically progress clinically into Chronic Limb
+Threatening Ischemia (CLTI)?**
+
+The latter stages of both the Rutherford and Fontaine Classification
+systems highlight this progression, with the Rutherford classification
+of Stage 5 being specifically minor tissue loss with focal gangrene, and
+stage 6 as major tissue loss identified by spreading of gangrene beyond
+the Trans metatarsal level.
+
+Rutherford et al. Ad Hoc Committee on Reporting Standards, SVS/North
+American Chapter ISCVS:
+
+| Grade | Category |                    Clinical Description                    |
+|:----------------------:|:----------------------:|:----------------------:|
+|   0   |    0     | Asymptomatic -no hemodynamic significant occlusive disease |
+|   I   |    1     |                     Mild Claudication                      |
+|   I   |    2     |                   Moderate Claudication                    |
+|   I   |    3     |                    Severe Claudication                     |
+|  II   |    4     |                     Ischemic Rest Pain                     |
+|  III  |    5     |                     Minor Tissue Loss                      |
+|  III  |    6     |                     Major Tissue Loss                      |
+
+**What is Chronic Limb Threatening Ischemia (CLTI), sometimes previously
+called Critical Limb Ischemia (CLI)?**
+
+In the last decade leading up to the 2021 Global Vascular Guidelines
+(GVG), the term (Chronic Limb threatening Ischemia) CLTI has been
+gradually replacing CLI. The GVG mentions that their "promotion" of the
+term CLTI is partly due to terms such as "critical or severe limb
+ischemia" failing to "recognize the full spectrum and inter-relatedness
+of components beyond ischemia that contribute to major limb
+amputation..."
+
+**What was the original definition and threshold for CLI, and how can we
+make sure we elicit the right symptoms from the patient?**
+
+John Cranley back in his publication in 1969 defined Ischemic Rest Pain
+as,
+
+"...pain that occurs in the toes or in the area of the metatarsal heads.
+Occasionally...in the foot proximal to the metatarsal heads. Elevation
+of the limb above or at the horizontal position aggravates the pain and
+pendency...brings relief..." [@cranleyIschemicRestPain1969]
+
+***Nocturnal Rest Pain:*** Worse due to horizontal positioning (no
+gravitational assistance) and systolic BP drop during sleep.
+
+## Evaluation
+
+**What aspects of the clinical assessment is important?**
+
+Clinical Assessment involves a full history (the differential mentioned
+in Intermittent Claudication) and examination.
+
+-   **Clinical Examination:**
+
+    -   ***Buergers Test (Beurger 1908) / AKA Ratschows Test***
+        (Max-Ratschow-Klinic) identifies when there is critical ischemia
+        without necrosis yet or gangrene, and is characterized by pallor
+        when the leg is elevated above the level of the heart, which
+        then turns red when hanging down over the edge of the bed. This
+        redness is referred to as "Sunset appearance" and its due to
+        abnormal autoregulation. Its been described that normally only a
+        third of the capillary bed is open at any time but in a state of
+        critical ischemia because of the autoregulation being paralyzed
+        a significantly higher portion of the capillaries open up.
+
+    -   ***The ischemic Angle:*** A refinement to Berger's Test: The
+        angle of elevation from the horizontal at which the Doppler
+        Signal of the PT or DP disappears. This is also referred to as
+        the 'pole test', whereby the foot is raised alongside a
+        calibrated pole marked in mmHg.
+
+-   **Tissue Loss:**
+
+    -   Gangrene Dry or Wet (infection)
+
+    -   Level of tissue Loss
+
+    -   Probing To Bone/ Exposed structures: Tendons, Soft Tissue, bone,
+        Joint Capsule.
+
+    -   Examination of an Ulcer (may have many etiologies) -- important
+        not only to identify extent of disease but also to exclude other
+        etiologies:
+
+        -   Such as venous, mixed, infective, autoimmune, inflammatory,
+            malignancy or trauma.
+
+-   **Foot Infection** - Signs of infection, erythema, rubor,
+    cellulitis, tenderness or unexplained hyperglycemia in diabetic
+    patients should prompt urgent referral.[@kalish2010]
+
+**What is the natural history of CLTI and what do we know about its
+prognosis?**
+
+Fortunately, only a small portion of patients with Intermittent
+Claudication will go on to develop rest pain or tissue loss. Its
+estimated that anywhere between 5% -29% of patients with PAD or IC go on
+to develop CLTI over 5 years.
+
+However, those that do develop CLTI, have a high risk of limb loss
+(greater than 20% annual risk).
+
+CLTI measurements most predictive of non-healing are ankle pressure
+\<50mmHg, ABI \<0.4, TcPO2 \<20mmHg, and TP
+\<20mmHg.[@gerhard-herman2017; @wickström2017]
+
+Patients with CLTI have a high mortality risk (10-15% annual risk), the
+majority of terminal events being related to cardiovascular events. Limb
+loss or mortality may reach as high as 50% in 1 year. [@adam2005;
+@norgren2007]
+
+**What has changed in the last few decades?**
+
+Etologically the prevalence of smokers(Ex and Current) in the population
+has decreased and the prevalence of diabetes has increased.
+
+**What is the WIFI Classification?** [@millsSocietyVascularSurgery2014a]
+
+Interestingly in the original article by Bob Rutherford regarding
+Diabetes and PAOD:
+
+\- "It was generally agreed that diabetic patients who have a varied
+clinical picture of neuropathy, ischemia and sepsis make the definition
+even more difficult and it is desirable that these patients be
+excluded...diabetic patients should be clearly defined as a separate
+category or should be clearly defined as a separate category."
+
+Since then, the SVS, while acknowledging that we can no longer exclude
+these patients and treat them separately given the overlap, have decided
+that a new classification system is necessary, as one of the key authors
+(Joseph Mills) states:
+
+-   "We classify things into groups to differentiate, remember and
+    compare, observe and predict their behavior over time." --Joseph
+    Mills
+
+***WIfI stands for: Wound, Ischemia and foot Infection***. Most of the
+existing Vascular and non-Vascular classification systems don't include
+all three components or fail to stratify the degree of ischemia and
+presence of gangrene.
+
+Principles of WIfI:
+
+1.  ***Grades, Classes and Stages*** -- Each of the three categories
+    (WIfI) have Grades 0,1,2,3: Resulting in 64 Classes.
+
+2.  ***Delphi Consensus*** -- Clinical Stages 1 (Very Low),2 (Low), 3
+    (Moderate), 4 (High Risk/Benefit).
+
+    1.  What is the one-year risk of amputation with medical therapy
+        alone?
+
+    2.  What is the potential benefit from successful revascularization?
+
+    3.  Analogous to TNM Staging
+
+"It is intended to be an iterative process with the goal of more
+precisely stratifying patients according to their initial disease
+burden, analogous to TNM cancer staging, but not to dictate therapy."
+
+**What about a differential diagnosis or other causes of similar pain as
+rest pain?**
+
+Acute lower limb ischemia has a different clinical presentation, but
+there may some overlap with Acute on Chronic disease such as in the case
+of in situ thrombosis in the lower limb arterial system.
+
+Other causes of ischemic pain include:
+
+-   Buergers Disease, or Thromboangiitis Obliterans - for more see
+    \@ref(buergers-disease)
+
+-   Scleroderma
+
+-   Fibromuscular Dysplasia
+
+-   Popliteal Artery Entrapment
+
+-   Cystic Adventitial Disease
+
+-   Persistent Sciatic Artery Disease
+
+**What is the Rutherford Acute Ischemia Grading System?**
+
+Although acute ischemia is very different from chronic ischemia,
+patients with progressive chronic PAD can develop an acute picture
+whether from embolism or in-situ thrombosis secondary to plaque rupture.
+See \@ref(acute-limb-ischemia) for more.
+
+**What are the current CLTI Guidelines?**
+
+In 2019 the SVS, the ESVS and the World federation of Vascular Societies
+(WFVS) joined forces to put together the structure and funding of the
+***Global Vascular Guidelines Initiative (GVG)***. Importantly all
+sponsorship was directly from the societies and any direct industry
+sponsorship or external sources were excluded. They put together a
+steering committee responsible for recruiting a large and diverse
+writing group and outlined the scope and developed the section briefs of
+the guideline.
+
+They determined that:
+
+-   "The term"critical limb ischemia" (CLI) is outdated and fails to
+    encompass the full spectrum of patients who are evaluated and
+    treated for limb-threatening ischemia in modern practice."
+
+-   CLTI was promoted as the term of choice and was defined by the
+    target population.
+
+-   The target population were:
+
+    1.  ***Ischemic Rest Pain*** with confirmatory hemodynamic studies.
+
+    2.  ***Diabetic Foot Ulcer*** or any lower limb ulceration present
+        for at least 2 weeks.
+
+    3.  ***Gangrene*** involving any portion of the lower limb or foot.
+
+-   Exclusion from the population:
+
+    1.  ***Purely Venous Ulcers***
+
+    2.  ***Acute Limb Ischemia***/acute trash foot/ischemia due to
+        emboli
+
+    3.  ***Acute Trauma*** or mangled extremity
+
+    4.  ***Wounds secondary to non-atherosclerotic conditions***
+
+Methodology of the guidelines utilized the structure of the ***GRADE***
+certainty of evidence system.
+
+They highlighted particular important sections in the evaluation and
+management of patients with CLTI: ***Patient Risk stratification***,
+***Limb Assessment and Severity of Limb Threat*** and the development of
+a specific ***evidence-based revascularisation guideline in CLTI***.
+
+It is important to note that compared to most guidelines, unfortunately
+in the management of CLTI, particularly when it comes to
+revascularisation, the level of evidence is generally **LOW**. Again, it
+is important to highlight that the significance of these guidelines in
+developing a standard approach and appropriately stratifying patients in
+not only management but ongoing research.
+
+**What clinical evaluation is necessary for the patient with CLTI?**
+
+In addition to history, examination, and WIfI assessment mentioned
+above, for patients with diabetes and an ulcer a full assessment of
+neuropathy and a "probe to bone" test for any open ulcers is recommended
+as part of good practice.
+
+In the PAOD and intermittent claudication sub chapters the non-invasive
+methods of assessment for these patients have been discussed. In
+addition it is important to emphasize the role of Toe Pressures (TP) and
+Toe Pressure Index (TPI) in this cohort of patients.
+
+Healing of an ulcer or tissue loss is unlikely if a patient's toe
+pressures are less than 55mmHg. And Toe Pressures have been validated in
+multiple studies to correlate with Amputation free survival and wound
+healing: Amputation Free Survival TP \<30mmHg 2.13 HR (1.52-2.98).
+[@wickström2017; @hicks2018]
+
+Patients with ESRD or DM develop medial calcification and often have
+elevated ABPI (\>1.3) - which is associated with an elevated risk of
+cardiovascular mortality. Outcomes in patients with ESRD are worse in
+relation to amputation free survival and amputation rates, regardless of
+revascularization strategy.\@meyer2018 Toe pressures are particularly
+important in this scenario. [@resnick2004; @vitti1994]
+
+Regarding non-invasive assessment for wound healing, a tcPO2 greater
+than 40mmHg has the greatest correlation with amputation stump
+healing.[@malone1987]
+
+## Management
+
+**What are the recommendations for patients with CLTI when it comes to
+Medical Therapy and Risk Factor Modification?**
+
+-   Treat all patients with CLTI with an **antiplatelet** agent *(Grade
+    1 Level A)*
+
+-   Consider **Clopidogrel** as the single agent (*Grade 2 Level B*) --
+    CAPRIE[@capriesteeringcommittee1996]
+
+-   **High-intensity statin therapy** to reduce all-cause and
+    cardiovascular mortality - Atorvastatin 80mg or Rosuvastatin 40mg.
+    These can be titrated down to atorvastatin 40mg or rosuvastatin 20mg
+    if unable to tolerate. (*Grade 1 Level A*) [@arya2018; @grundy2019]
+
+-   Control **Hypertension** to BP target \<140mm Hg systolic and \<90mm
+    Hg diastolic in patients with CLTI (*Grade 1 Level B*)
+
+-   Offer **Smoking Cessation** interventions and ask all smokers or
+    former smokers about status of tobacco use every visit (*Grade 1
+    Level A*)
+
+-   Diabetic foot wounds with signs of infection, erythema, swelling,
+    pain and foul smelling drainage should be investigated with plain
+    radiography, ESR, CRP, cultures and, managed with iv antibiotics.
+    Signs of systemic sepsis, such as fevers, tachycardia or shock, such
+    as hypotension, should warrant urgent debridement and drainage,
+    regardless of vascular status.
+
+**What imaging assessment is required?**
+
+The CLTI Guidelines outline an algorithm of attaining Arterial
+Anatomical Imaging. Starting with US and then depending on the
+information required, CTA, MRA, or eventually digital subtraction
+angiography. They emphasize the importance of obtaining good quality
+imaging to appropriately stage and be able to compare the level and
+degree of disease.
+
+For wounds with concern for underlying osteomyelitis - initial workup is
+with plain radiography, which can identify soft tissue emphysema,
+evidence of osteomyelitis, or presence of a foreign body. High suspicion
+of early osteomyelitis with negative x-ray may warrant an
+MRI.[@giurato2017]
+
+**What is the Global Limb Anatomic Staging System (GLASS)?**
+[@conteGlobalVascularGuidelines2019a]
+
+Because the existing arterial anatomical staging of disease is vague,
+"lesion focused", and not all encompassing (beyond the concept of
+'in-line pulsatile flow to the foot'), **GLASS** focuses on
+infrainguinal disease, and attempts to incorporate all aspects in its
+staging to improve vascular care and evidence-based revascularisation
+(EBR) outcomes. 
+
+GLASS is a grading system based on anatomical and subjective assessment
+of calcification and incorporates two novel and important concepts:
+
+1.  The Target Arterial Path (TAP)
+
+2.  Estimated Limb-Based Patency (LBP)
+
+As GLASS focuses on Infrainguinal disease, with the aortoIliac (AI)
+segment considered the inflow disease which includes the Common Femoral
+Artery and the Profunda Artery. Therefore, the GLASS grades assume the
+inflow vessels are treated and adequately 'dealt with'. 
+
+Infrainguinal disease assessment for Femoropoliteal (FP) and
+Infrapopliteal (IP) is based on length of disease and the extent of
+CTOs. The FP and IP GLASS Grades are then combined into Stages 1-3. 
+
+The calcification scale is a dichotomous subjective assessment of the
+degree of calcification and if there is \>50% circumference of
+calcification, diffuse or bulky calcification or "coral reef" plaques,
+then there is an increase in the within-segment grade by one numerical
+value.
+
+There is also mention of the Inframaleolar (IM) degree of disease (PO,
+P1-absent arch, P2-no target artery crossing into foot) which is not
+included in the GLASS staging given little evidence on the outcomes this
+difference makes on overall patency and limb salvage.
+
+Once the GRADES (0-4) of FP and IP disease are determined then staging
+(1-3) can be performed based on the matrix or grid that is provided.
+Staging then allows for estimated Peripheral endoVascular Intervention
+outcomes (PVI) to be predicted, Immediate Technical Failure (ITF - \<10%
+or \< 20% or \> 20%)) and 1-year Limb Based Patency (LBP - \>70%, 50-75%
+or \<50%). 
+
+**What is the Target Arterial Path (TAP)?**
+
+"The selected continuous route of in-line flow from groin to ankle. The
+TAP typically involves the least diseased IP artery but may be angiosome
+based."
+
+**Which revascularisation management strategies exist for CLTI?**
+
+The mainstay of management for patients with CLTI have always been based
+on the fundamental principle of limb salvage. Given the high risk of
+limb loss in these patients there is a low threshold to revascularize
+these patients if they have occlusive disease that is treatable. But
+strategy has varied significantly.
+
+The CLTI Guidelines provide an approach to dealing with this complex
+condition on planning three aspects to each case:
+
+1.  **Patient Risk Estimation**
+
+2.  **Limb Staging**
+
+3.  **Anatomic Pattern of Disease**
+
+**What is involved with the Patient Risk Estimation?**
+
+***Good Practice Statements (Recommendations section 6)***
+
+"Refer all patients with suspected CLTI to a vascular specialist for
+consideration of limb salvage, unless major amputation is considered
+medically urgent."
+
+"Offer primary amputation or palliation to patients with limited life
+expectancy, poor functional status (e.g. non ambulatory), or an
+unsalvageable limb after shared decision-making."
+
+***Recommendation 6.3:***
+
+-   Estimate periprocedural risk and life expectancy in patients with
+    CLTI who are candidates for revascularization. *Grade 1 (Strong)
+    Level of Evidence C (Low)*
+
+-   Average Surgical Risk: \\\<5% operative mortality and 2-year
+    survival \>50%
+
+-   Severe Surgical Risk: \\\>/= 5% operative mortality and 2-year
+    survival \</=50%
+
+Understanding disparities is important when interpreting risk for
+amputation. Observational studies have found certain populations to be
+at higher risk of amputation regardless of disease severity. These
+groups include African Americans, lowest median income, medicaid
+insurance, uninsured, or those from regions with less access to vascular
+surgeons.[@hughes2019; @ho2005; @eslami2007]
+
+**What is involved and recommended with the Limb Staging and
+recommendation for Management?**
+
+-   Use an integrated threatened limb classification system (such as
+    WIfI) to stage all CLTI patients who are candidates for limb
+    salvage. *Grade 1 (Strong) Level of Evidence C (Low)*
+
+-   Perform urgent surgical drainage and debridement (including minor
+    amputation if needed) and commence antibiotic treatment in all
+    patients with suspected CLTI who present with deep space foot
+    infection or wet gangrene. (Good Practice Statement)
+
+-   Offer Revascularisation to all "average surgical risk patients"
+    (\\\<5% operative mortality and 2-year survival \>50%) with advanced
+    limb-threatening conditions (e.g. WIfI stage 4) and significant
+    perfusion deficits (e.g. ischemia grades 2 and 3). Particularly if
+    they have good saphenous vein. *Grade 1 (Strong) Level of Evidence C
+    (Low)* [@adam2005; @norgren2007]
+
+**What is involved in the Planning of the Anatomic pattern of disease
+and its effects of revascularisation strategy?**
+
+The overall pattern of arterial occlusive disease is a dominant factor
+in guiding type of revascularisation and timing of such.
+
+**Do all patients require direct in-line flow to the foot as a primary
+technical outcome with revascularisation?**
+
+Patients with rest pain do not necessarily require direct in line flow
+are those with rest pain "for which correction of inflow disease alone
+or treatment of FP disease even without continuous tibial runoff to the
+foot may provide relief of symptoms. This may also be the case in
+patients presenting with minor degrees of tissue loss."
+
+**What are some essential Key Factors to consider before deciding Open
+versus Endovascular according to the CLTI guidelines?**
+
+1.  **The "availability of and quality of autogenous vein conduit"7**
+
+2.  **Patient overall risk (as mentioned above) and Limb Staging**
+
+3.  **The Target EndoVascular Intervention (TVI) outcomes**
+
+**What evidence do we have for deciding between Endo and Open
+management? What is the BASIL trial?**
+
+The evidence is largely of poor quality, and is largely retrospective or
+non-controlled, or industry sponsored. **BASIL** (Bypass versus
+Angioplasty in Severe Ischemia of the Leg) remains the only multicenter
+RCT (BASIL -2 and 3 underway) directly comparing an endo versus open
+management strategy for CLTI and Infra-inguinal occlusive disease. 
+
+BASIL compared POBA and Bypass across multiple centers (27 centers,
+n=452, 1999-2004) in the UK. Primary endpoint was Amputation-Free
+Survival (**AFS**). [@bradburyBypassAngioplastySevere2005]
+
+Major Findings:
+
+1.  At 6-months follow up: no difference in AFS.
+
+2.  Intention-To-Treat Analysis of overall follow up showed no
+    significant difference in AFS and overall survival.
+
+3.  Among patients who survived \>2 years, overall survival was better
+    for those treated with Bypass as a first approach
+
+4.  Analysis to treat:
+
+    -   Prosthetic Bypass Patients did very poorly (even compared to
+        POBA).
+
+    -   Patients who had bypass after failed POBA had significantly
+        worse AFS compared to those treated with a bypass as initial
+        treatment.
+
+Criticism of BASIL:
+
+1.  Majority had POBA alone (not currently best endovascular option)
+
+2.  25 % of Open Bypass were Prosthetic
+
+3.  The technology and technical Skill with growing operator experience
+    in Endovascular has improved.
+
+For isolated tibial disease, first line endovascular treatment of choice
+is transluminal, or subintimal angioplasty. Atherectomy, stenting, and
+drug coated balloons are often used, but should currently not be
+considered first line, but this data is rapidly evolving. Patency is
+often poor but limb salvage is reasonable.[@popplewell2019; @kayssi2016;
+@mustapha2016]
+
+Optimal follow up for endovascular interventions of the lower extremity
+has not yet been established, but should at least include a pulse exam,
+ABPI and duplex to establish a new baseline after
+intervention.[@zierler2018; @mohler2012]
+
+**What are the BASIL 2, BASIL 3, and BEST-CLI Trials?**
+
+**BASIL 2:** Infrapopliteal Disease: Vein Bypass First vs. Best
+Endovascular Treatment first.
+
+**BASIL 3:** PBA +/- BMS vs. DCB +/- BMS vs. DES
+
+(Both Follow up 24-60 months, Primary Endpoint AFS)
+
+**BEST-CLI:** Open Bypass versus Endovascular Intervention, Primary
+Endpoint: MALE-Free Survival. Major Above-the-Ankle Amputation, Major
+Bypass or Jump/interposition graft revision or the need for thrombectomy
+or thrombolysis (MALE).
+
+**Some important take away lessons for unique scenarios in operative
+planning for CLTI based on anatomy and conduit.**
+
+-   Single segment GSV best conduit for infrageniculate bypass.
+    [@arvela2010; @avgerinos2015; @moreira2016]
+
+-   Fem-AK pop bypass with prosthetic may be preferred to contralateral
+    GSV. [@moreira2016] If the target is below the knee, then all
+    autogenous conduits--contralateral GSV, SSV, and spliced arm
+    vein--are preferred over prosthetic grafts.[@brochadoneto2014;
+    @faries2000; @taylor1987]
+
+-   Bilateral external iliac occlusion may be best treated with end to
+    side aorto-bifemoral bypass to allow for continued perfusion of the
+    pelvis. [@jaquinandi2008; @vandenakker1992; @brewster1978]
+
+-   Profunda-popliteal collateral index (Segmental pressures AK-BK/AK)
+    of less than 0.25 may suggest that there is sufficient collateral
+    network between profunda and popliteal that SFA treatment may not be
+    necessary. [@boren1980; @mawatari2000]
+
+-   Planning distal bypasses should take into account the angiosome of
+    the wound and the most distal healthy inflow vessel to result in the
+    shortest bypass possible.[@hingorani2016; @jongsma2017]
+
+-   Intensified anti-thrombotic therapy may be needed in patients with
+    "high risk" infrainguinal bypasses--prosthetic conduit, below the
+    knee targget, suboptimal conduit, poor arterial runoff, extensive
+    lesions or tissue loss. Single anti-platelet may not be sufficient,
+    and should be intensified to asa/rivaroxaban, dual antiplatelet, or
+    anticoagulation with Vit K antagonist.[@conte2015; @hussain2018;
+    @strobl2013; @tepe2012]
+
+### Complications
+
+**What are some complications of lower extremity revascularization
+procedures?**
+
+For a comprehensive list of access complications after endovascular
+therapy, see \@ref(access-comp).
+
+Femoral exploration carries high risk of infection or lymphatic leak.
+Lymphatic leaks often resolve spontaneously. Infected lymphatic leaks,
+particularly in the setting of prosthetic bypass require exploration.
+Should a lymph leak not resolve with conservative management, definitive
+therapy requires alcohol ablation or muscle flap coverage. The most
+important aspect of lymph leak is prevention with careful dissection and
+tissue management during femoral exploration.[@obara2014; @weaver2014]
