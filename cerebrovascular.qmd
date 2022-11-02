@@ -1,4 +1,4 @@
-# Cerebrovascular
+# Cerebrovascular {#sec-cerebrovascular}
 
 Authors: *Adam P Johnson, Nicole Rich, and Kevin Kniery*
 
@@ -44,7 +44,7 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/E7_-_Carotid_VSITE.mp3")
 
 3.  **Ultrasound Imaging**
 
-    -   US is considered the best, least invasive, and cost effective method for detecting carotid stenosis on screening.[@shaalan2008] For more see \@ref(extracranial).
+    -   US is considered the best, least invasive, and cost effective method for detecting carotid stenosis on screening.[@shaalan2008] For more see @sec-extracranial
 
     -   50-69% stenosis of ICA - US has a low sensitivity for 50-69% stenosis. A negative ultrasound in symptomatic patients necessitates additional imaging. Typically on scanning if 50-69% ICA stenosis is present:
 
@@ -170,7 +170,7 @@ While we are not often directly involved in the management of acute stroke, vasc
 
     -   Cerebral Oximetry - 15% decrease in either hemisphere should be shunted.
 
-    -   Transcranial Doppler (TCD) - severe slowing in the middle cerebral artery. An RCT demonstrated that TCD and cerebral oximetry changes most accurately predicted cerebral ischemia. Detection of a greater than 50% drop in middle cerebral artery velocity using transcranial Doppler is 100% sensitive for detecting cerebral ischemia. [@moritz2007] For more see \@ref(intracranial).
+    -   Transcranial Doppler (TCD) - severe slowing in the middle cerebral artery. An RCT demonstrated that TCD and cerebral oximetry changes most accurately predicted cerebral ischemia. Detection of a greater than 50% drop in middle cerebral artery velocity using transcranial Doppler is 100% sensitive for detecting cerebral ischemia. [@moritz2007] For more see @sec-intracranial.
 
     -   Non-selective shunting - the surgeon uses a shunt for all CEAs as standard practice, this is often done for all CEAs performed under general anesthesia
 
@@ -208,7 +208,7 @@ While we are not often directly involved in the management of acute stroke, vasc
 
     -   Can identify technical issues with carotid endarterectomy such as clamp site injury, thrombosis, intimal flap or dissection, or missed disease.[@lipski1996]
 
-        -   Acute thrombus may be hypoechoic and difficult to see on B-mode, color flow necessary to determine luminal narrowing or occlusion. For more see \@ref(extracranial).
+        -   Acute thrombus may be hypoechoic and difficult to see on B-mode, color flow necessary to determine luminal narrowing or occlusion. For more see @sec-extracranial.
 
     -   Revision required if residual plaque identified with severe velocity elevation.[@weinstein2015]
 
@@ -413,11 +413,11 @@ While we are not often directly involved in the management of acute stroke, vasc
 
 -   Redundant ICA - should be repaired if patient symptomatic due to kinking. Treated with resection and primary repair with shortening and straightening.[@ballotta2005]
 
--   Fibromuscular Dysplasia (FMD)[@olin2011] - for more, see \@ref(fibromuscular-dysplasia-fmd)
+-   Fibromuscular Dysplasia (FMD)[@olin2011] - for more, see @sec-fibromuscular-dysplasia
 
     -   Asymptomatic disease can often be treated with antiplatelets alone.
 
-    -   Duplex ultrasound demonstrates classic "chain of lakes" appearance. For more see \@ref(extracranial)
+    -   Duplex ultrasound demonstrates classic "chain of lakes" appearance. For more see @sec-extracranial
 
     -   Associated with intracranial aneurysms (13%), therefore may be reasonable to also pursue brain imaging if identified. However, no formal guidelines exist.[@lather2017]
 
