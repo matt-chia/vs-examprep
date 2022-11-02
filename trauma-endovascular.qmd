@@ -1,6 +1,6 @@
-## Trauma - Endovascular
+## Trauma - Endo
 
-Authors: *Kevin Kniery, MD, MPH; Marlin "Wayne" Causey MD; Nakia Sarad, DO, MS; Todd Rasmussen, MD*
+Authors: *Kevin Kniery, Marlin "Wayne" Causey, Nakia Sarad, and Todd Rasmussen*
 
 ```{r echo=FALSE}
 

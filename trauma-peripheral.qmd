@@ -1,6 +1,6 @@
 # Trauma - Peripheral
 
-Authors: *Kevin Kniery, MD, MPH; Nakia Sarad, DO, MS; Todd Rasmussen, MD*
+Authors: *Kevin Kniery, Nakia Sarad, and Todd Rasmussen*
 
 ```{r echo=FALSE}
 

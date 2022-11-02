@@ -1,6 +1,6 @@
 # Trauma - Arterial
 
-Authors: *Kevin Kniery, MD, MPH; Adham Elmously, MD; Nakia Sarad, DO, MS; Todd Rasmussen, MD*
+Authors: *Kevin Kniery, Adham Elmously, Nakia Sarad, and Todd Rasmussen*
 
 ```{r echo=FALSE}
 

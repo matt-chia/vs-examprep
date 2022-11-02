@@ -1,6 +1,6 @@
 # Trauma - Cerebrovascular
 
-Authors: *Kevin Kniery, MD, MPH; Adam Johnson, MD, MPH; Nicole Rich, MD, MPH; Nakia Sarad, DO, MS; Todd Rasmussen, MD*
+Authors: *Kevin Kniery, Adam P Johnson, Nicole Rich, Nakia Sarad, and Todd Rasmussen*
 
 ```{r echo=FALSE}
 
