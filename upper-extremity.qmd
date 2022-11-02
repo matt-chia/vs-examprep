@@ -279,7 +279,7 @@ Upper extremity ischemia (i.e. digital ulceration) in the setting of ergot alkal
 
 -   Surgical: for thrombosis, consider thrombolysis
 
-### Buerger's Disease
+### Buerger's Disease {#sec-buergers-disease}
 
 **How is Buerger's disease categorized?**
 
@@ -329,9 +329,9 @@ Although rarely are biopsy sent, pathology will show panvasculitis within small 
 
 6.  Amputation-reported in 30-40% who are followed longer than 5 years[@olin2018]
 
-### Large Artery Vasculitis {#large-vasculitis}
+### Large Artery Vasculitis {#sec-large-vasculitis}
 
-**What are common characteristics for patients who are suspected to have a large vessel vasculitis?** [@shanmugam137VasculitisOther2019; @weyand2003]
+**What are common characteristics for patients who are suspected to have a large vessel vasculitis?** [@shanmugam2019; @weyand2003]
 
 -   Affect aorta and major branches
 
@@ -497,7 +497,7 @@ Behçet Disease - recurrent oral pathos ulcers, genital ulcers and uveitis.[@sha
 
 -   False aneurysms secondary to repetitive trauma
 
--   Iatrogenic complications - Seen in 1-3% of brachial artery access - increased risk in older age, female patients, and larger sheaths.[@treitl2015] More on appropriate access technique can be found in \@ref(endovascular)
+-   Iatrogenic complications - Seen in 1-3% of brachial artery access - increased risk in older age, female patients, and larger sheaths.[@treitl2015] More on appropriate access technique can be found in @sec-endovascular
 
 -   IV drug abuse (infected pseudoaneurysms in antecubital fossa)
 
@@ -645,7 +645,7 @@ Athletes who engage in strenuous or exaggerated hand/shoulder activity may be su
 
 ## Vascular Trauma-Upper Extremity
 
-**This is discussed in detail here:** \@ref(peripheral), **so we will go over some important specifics for upper extremity vascular injury.** [@kauvar184VascularTrauma2020]
+**This is discussed in detail here:** @sec-trauma-peripheral, **so we will go over some important specifics for upper extremity vascular injury.** [@kauvar184VascularTrauma2020]
 
 ### Subclavian Artery Trauma
 
