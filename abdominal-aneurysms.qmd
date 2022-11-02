@@ -1,4 +1,4 @@
-# Aneurysms
+# Aneurysms {#sec-abd-aneurysms}
 
 Authors: *Mia Miller and Julie Duke*
 
@@ -64,7 +64,7 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_AAA_post_auphonic.
 
 -   Infective aortitis is a rare but highly morbid cause for aortic aneurysm formation. Treatment in this setting should be more aggressive with the addition of antibiotic therapy and open surgical repair with rifampin soaked graft whenever feasible.[@gornik2008; @paravastu2009; @rasmussen1997]
 
--   For more about aortitis, see \@ref(large-vasculitis).
+-   For more about aortitis, see @sec-large-vasculitis
 
 **What are the risk factors for AAA occurrence and growth?** [@mooreVascularEndovascularSurgery2019]
 
@@ -150,7 +150,7 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_AAA_post_auphonic.
 -   Ultrasound, when feasible, is the preferred imaging modality for aneurysm screening and surveillance.
 
     -   The Society for Vascular Surgery (SVS) recommends a one-time ultrasound screening in men and women ages 65 to 75 years with either a history of smoking or a family history of AAA, as well as men and women over the age of 75 with a smoking history in otherwise good health who have not previously undergone screening. [@chaikofSocietyVascularSurgery2018a]
-    -   For more technical details on duplex screening see \@ref(aorta).
+    -   For more technical details on duplex screening see @aorta.
 
 | Size on Imaging | Surveillance Interval |
 |:---------------:|:---------------------:|
