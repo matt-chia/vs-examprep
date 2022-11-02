@@ -1,0 +1,283 @@
+# Aortopathies
+
+**18 May 2020**: *Dr. Anna Ohlsson and Dr Sherene Shalhub; University of
+Washington*
+
+```{r echo=FALSE}
+
+library (embedr)
+
+embed_audio("https://traffic.libsyn.com/audiblebleeding/Aortopathies_post_auphonic.mp3")
+
+```
+
+**What are the common genetic aortopathies?**
+
+There are several well-known genetic disorders which account for genetic
+aortopathies. The most well-known are Marfan syndrome, Loeys-Dietz
+Syndrome, and Vascular Ehlers-Danlos Syndrome,
+
+There are less commonly known ones such as Familial Thoracic Aortic
+Aneurysms and Dissections due to pathogenic variants smooth muscle cells
+genes such as *ACTA2*. There are others in which the causative gene is
+not known.
+
+**Why are they such a big deal?**
+
+These are cases in which the building blocks of the aortic wall are
+defective. What I mean by this, is that these patients have pathogenic
+variants in the genes that affect cell signaling or smooth muscle cell
+structure that lead to suboptimal composition of the aortic wall. These
+alterations ultimately lead to cystic medial necrosis in the aortic
+wall.
+
+As such they are at more risk for aortic aneurysms and dissections that
+can lead to the premature death of the patient.
+
+To put the frequency in perspective, Marfan syndrome occurs in 1:5000 of
+the population while Vascular Ehlers-Danlos syndrome (also known as
+VEDS) occur in 1:50000 of the population.
+
+**Let's dive into them then -- what are the defining features of each
+and the high yield information?**
+
+The high yield information is being able to pair the genetic syndrome
+and phenotype with its associated genetic mutation. A useful exercise
+following this broadcast is to list the disorders in a table and write
+out their associated gene mutation, what protein defect or deficit
+occurs, the typical phenotype, and the common vascular pathology
+associated.
+
+But before we dive in, I want you to keep in mind some of shared
+features. One is that the associated aneurysms and dissections tend to
+occur at younger ages and dissect at lower blood pressures than what we
+see with sporadic dissections (these are the dissections that are not
+familial or associated with a syndrome)
+
+One is that these are inherited in an autosomal dominant matter but
+there can be variation in how the pathogenic variants are expressed
+among affected people and even within families. The other thing to
+remember, is that in roughly half of these cases, the affected patient
+is the first in their family to have a given pathogenic mutation. The
+flip side of this, is in half the cases, there is a family history of
+aortic aneurysms, dissections, and sudden death.
+
+**We will start with Marfan syndrome.**
+
+[Marfan syndrome]{.underline} is caused by pathogenic variants in the
+*FBN1* gene (also known as fibrillin-1 gene). These variants lead to
+improper formation of the microfibrils that maintain elastin, a key
+component of the arterial wall.
+
+These patients are prone to aneurysmal degeneration and dissections of
+the aortic root but can also dissect the descending thoracic aorta. They
+commonly have lens dislocations (ectopia lentis). They have common
+skeletal features such as
+
+being tall, thin, with long arms and legs, scoliosis, pectus deformities
+(carnitatum or exicavtum), and club feet. They can also have a history
+of spontaneous pneumothoraces and mitral valve prolapse.
+
+**How is Marfan syndrome similar or different from the other genetically
+triggered aortopathies that you mentioned?**
+
+[Loeys Dietz Syndrome]{.underline} is similar to Marfan syndrome in all
+the features including the aortic root aneurysms. They don't seem to
+have lens dislocation and they have other unique features such as bifid
+uvula or cleft palate, and hypertelorism (which is an abnormally
+increased distance between the eyes). What is different about Loeys
+Dietz Syndrome from Marfan syndrome is that they can have arterial
+aneurysms of other arteries instead of the aorta, such as the SMA,
+axillary, or other peripheral arteries.
+
+[Vascular Ehlers-Danlos syndrome]{.underline} has some shared features
+to Marfan Syndrome with both such as spontaneous pneumothoraces, but
+these patients tend to be short and can have easy bruising. They also
+have similar features to Loeys Dietz syndrome in terms of arterial
+aneurysms. Common features of VEDS would be thin translucent skin where
+you can easily see their veins, thin lips, thin bridge of the nose,
+large eyes, easy bruising, acrogeria -- or an aged appearance of the
+hands
+
+However, unlike Marfan and Loey Dietz, the majority of VEDS patients
+tend to not have aortic root aneurysms. One thing to remember about VEDS
+is that it is a *subtype* of Ehlers Danlos syndromes. It's very
+important to distinguish it from the other subtypes because most of the
+other 12 Ehlers-Danlos syndromes are not associated with arterial
+pathology. So people with vascular EDS are prone to arterial, uterine,
+and intestinal rupture and their average lifespan is 48 due to these
+highly morbid pathologies. 25% of patients with vEDS will have
+experienced some clinical manifestation by age 20, and that number is
+close to 90% by age 40.
+
+**I remember learning about classic Ehler's Danlos presenting with
+hypermobile skin and joints. Is this something you see with Vascular EDS
+as well?**
+
+Patient's with vEDS don't have the same hypermobile skin or joint laxity
+as we classically think of with classic Ehler's Danlos. In fact, some
+vEDS patients report losing confidence in their physicians who ask them
+about joint and skin hypermobility because it suggests to them that
+their doctor doesn't know about their disease process. These patients
+often know more than most of the doctors they meet about their
+condition, and it's a source of constant frustration for them. It can
+also be a problem if the severity of the disease is underestimated, as
+we discussed they can present much younger than most patients with
+highly morbid issues -- like arterial rupture.
+
+**You mentioned arterial pathology in Loeys Dietz and VEDS. Can you tell
+me more about that?**
+
+In both types you can see subclavian, carotid, SMA, and iliac artery
+aneurysms and dissections, as well as less frequently vertebral, SFA,
+and popliteal aneurysms and dissections.
+
+**How do you diagnose these genetically triggered aortopathies?**
+
+There are clinical diagnostic criteria for each, but ultimately genetic
+and laboratory testing is very important for the final diagnosis.
+
+Ghent's criteria is used to clinically diagnose Marfan's syndrome. The
+big ones are aortic root dilation, known family history of Marfan's or
+not, the diagnosis of ectopia lentis which clinically is manifested as
+iridonesis (lens shimmering). Additionally, genetic testing for
+pathogenic FBN1 variants is also diagnostic.
+
+To date, there are 5 types of Loeys-Dietz as of last check. These are
+due to pathogenic variants in the TGF-B signaling pathway, such as
+TGF-beta receptors and SMAD3 genes.
+
+Vascular EDS is caused by a mutation in the COL3A1 gene which encodes a
+defective type of III procollagen. The defect in the procollagen makes
+it unable to properly fold into a triple helix that forms the normal
+collagen structure. This causes the defective procollagen to be degraded
+intracellularly and as a result there is an overall deficit in type III
+collagen which is an important component of arterial walls and other
+structures. The confirmatory test for VEDS is collagen testing which can
+confirm the collagen III defect.
+
+**How would you manage these patients?**
+
+Medical optimization and surveillance is key to try to extend the time
+as much as possible before they get a dissection and avoid it if at all
+possible.
+
+We start with lifestyle modification. Avoid "burst" exertions such as
+sprinting and weight-lifting. Anything that very strenuous. That's not
+to say that they shouldn't exercise. Light exercise is encouraged, but
+this would be activities like light jogging, swimming laps, or biking.
+
+In order to minimize aortic shear stress, a resting heart rate of under
+70 beats per minute and an exercising heart rate under 100 should be the
+goal. This can be accomplished with beta blockers. Propranolol has been
+shown to significantly decrease the rate of aortic growth in Marfans
+patients with a baseline aortic root diameter under 4cm. There is
+research into the use of Losartan in murine models that suggests it
+inhibits TGF-beta in the aortic wall, which is an important pathway that
+contributes to the breakdown of the wall. However, randomized controlled
+studies have failed to show an increased benefit of Losartan over beta
+blockers in Marfans patients. ACE inhibitors are also being tested and
+are shown to decrease the risk of type b aortic dissection over 6 years.
+
+In vascular EDS instead of propranolol, celiprolol has been studied by
+the French and shown to reduce vascular rupture from 50 down to 20% in
+vEDS, although the mechanism of this is not yet clear and does not
+appear to be necessarily the same as decreasing shear stress as in
+Marfan's syndrome. In general taking care of these patients involves
+trying to minimize complications from procedures and interventions. For
+instance, use ultrasound for any line that is necessary and avoid
+arterial lines, intramuscular injections, or other invasive lines if
+possible to minimize the chance of a complication. Patients are advised
+to wear medical bracelets notifying that they have vEDS.
+
+We also discuss the importance of forming a care team based on their
+needs. This usually includes a cardiologist, a cardiac surgeon, a
+vascular surgeon, and a primary care physician.
+
+**What about surgical treatment for those who need it?**
+
+For patients with Marfan's, prophylactic surgery is recommended for
+aortic root dilation \>5cm or thoracic aorta \>5.5cm. Often times the
+thoracic and abdominal aorta are involved. Open and endovascular surgery
+are options for these patients. Open procedures often include open
+thoracoabdominal aortic aneurysm repairs, open cardiac surgery for arch
+replacement, or cervical debranching procedures. Endovascular procedures
+can include regular TEVARs or branched TEVARs which require extensive
+aortic coverage. Open surgery can be well tolerated and is ideal in the
+sense that you can replace the entire aorta which avoids the future
+complications from continued aneurysmal degeneration, loss of proximal
+or distal seal zones, or device issues that can plague endovascular
+methods. However open surgery, of course caries higher complication risk
+and morbidity up front and does share some complications with
+endovascular treatments as well. Sometimes these patients will have
+hybrid procedures and often their care will require multiple surgery
+teams including cardiac and vascular surgery. An important thing to be
+up front with all of these patients about is that this is a long term
+relationship with their surgeon, as they often require multiple staged
+procedures, things aren't fixed in one procedure, and even after they
+have been surgically addressed there is a lifetime of maintenance and
+surveillance. Ultimately, the decision for open vs. endovascular
+approaches will vary between patients based on their specific anatomy
+and arterial issues, what their body can tolerate, and ultimately what
+their goals of care are.[@lumEndovascularProceduresPatients2012a] Some
+may require having their entire aorta replaced, while others may only
+need ongoing medical therapy and surveillance and it's important to set
+expectations early.
+
+**What about VEDS, when surgery cannot be avoided? How do you mitigate
+the risk of complications?**
+
+The tissue is very fragile. So using instruments that are the least
+traumatic is key -- like fogarty clamps for vessels. Sutures often must
+be pledgetted to reinforce them. Leave no tension on anastomoses or
+suture lines. Always keep a backup plan in mind-- when arteries cannot
+be repaired, can they safely be ligated or embolized? Generally any
+large bore access for endovascular treatment is avoided because access
+site complications are high and can lead to devastating consequences. In
+situations of extremis, like a rupture, these patients' tissues have
+been known to completely breakdown. Try to avoid the worst case
+scenario, but of course sometimes it's the only option left to get out
+of the OR. Be upfront with the patient about how complications may
+arise, set expectations, and think about goals of care early.
+
+**We discussed earlier that these aortopathies can have shared
+phenotypic characteristics, some of which can be used in a clinical
+diagnosis, but are all of these genetic aortopathies syndromic?**
+
+Let's start by saying that all patients with Marfan syndrome and VEDS
+can have the syndromic features we just talked about. However, it's not
+always the case and the absence of these feature does not exclude the
+diagnosis. In fact, we recently treated a middle-aged woman with an
+aortic dissection who had Marfan Syndrome confirmed with genetic
+testing. She had been diagnosed prior to her dissection because her
+daughter had undergone genetic testing. However, on meeting her, I would
+not have guessed she had Marfan Syndrome, had I not known. She was
+average height, obese, and had no other relevant physical findings on
+exam or history.
+
+This ties into another genetic aortopathy that we have not discussed yet
+which are the familial thoracic aortic aneurysms and dissections. They
+do not have any syndromic features. For example, patients with ACTA2
+pathogenic variants that cause alpha actin mutations which again
+contribute to degeneration of the arterial wall. These patients tend to
+present 10 years younger than sporadic thoracic aortic aneurysms,
+generally in their late 50s compared to late 60s, and women seem to be
+less often effected than men.
+
+**Dr. Shalhub, I know vascular genetics is one of your passions. Is
+there anything else you want people to remember from this broadcast?**
+
+Don't forget the family. Once you've made the diagnosis in one of them,
+remember it is autosomal dominant, so it's important to make sure the
+family understands and that they are set up with the appropriate care
+team and monitoring. They may not all develop the same medical issues,
+however as we discussed, ongoing medical management and lifestyle
+changes are the key.
+
+## LINKS:
+
+VEDS Research Colaborative study:
+
+[[https://www.vedscollaborative.org/get-involved]{.underline}](https://www.vedscollaborative.org/get-involved)
+
+[[https://depts.washington.edu/vedscoll/]{.underline}](https://depts.washington.edu/vedscoll/)

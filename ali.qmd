@@ -1,0 +1,325 @@
+## Acute Limb Ischemia
+
+**Accompanying Episode:** Acute Limb Ischemia: Alex Forsyth and Sarah Carlson
+
+```{r echo=FALSE}
+
+library(embedr)
+
+embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_ALI_postauphonic.mp3")
+
+```
+
+**What is Acute Limb Ischemia and what does it encompass?**
+
+Acute Limb Ischemia (ALI) is defined as any process that leads to an abrupt cessation of blood flow to a limb resulting in ischemia. There are several causes, but the most common two are embolic and thrombotic.
+
+-   **Embolism**
+
+    -   ***Cardiac***
+
+        -   Typically due to atrial fibrillation.
+
+        -   Acute upper limb ischemia is most commonly due to cardiac embolism. 
+
+        -   Endocarditis -- as seen in IV drug users or patients with bacteremia from other causes.
+
+        -   Cardiac tumors -- such as atrial myxoma.
+
+    -   ***Atherosclerosis*** -- e.g. iliac disease embolizing downstream to the lower leg.
+
+    -   ***Paradoxical Embolism*** -- Thromboembolic venous system with PFO. 
+
+    -   ***Aneurysm*** -- e.g. thrombus from within an aortic aneurysm embolizing downstream to the leg.
+
+-   **Thrombosis**
+
+    -   ***Aneurysm***
+
+    -   ***Bypass Graft***
+
+    -   ***Acute on Chronic Progression of Atherosclerosis***
+
+    -   ***Dissection***
+
+    -   ***Thoracic Outlet Syndrome*** -- in the upper extremity
+
+    -   ***Vasospasm*** (severe)
+
+For clarification:
+
+1.  Acute on Chronic Progression of Atherosclerosis: Once a chronic stenosis becomes critically tight, platelet thrombus can develop leading to an acute occlusion; or unstable plaque can "rupture" leading to an acute occlusion of a chronic lesion.
+
+2.  Regarding Aneurysms: Small aneurysms (such as popliteal) are less likely to rupture, but more likely to thrombose and cause an acute limb ischemic event.
+
+### Presentation and Diagnosis
+
+**What is the patient presentation of ALI? Are there any differences between upper and lower extremity presentations?**
+
+Classically remembered by the 5 or 6 Ps (depending on who you ask)
+
+-   ***Pain***: Usually located distal to the occlusion and gradually increases in severity as the ischemic time increases until neuroischemic sensory loss occurs.
+
+-   ***Pallor***: the limb appears pale compared to the non ischemic limb. There is delayed or absent capillary refill.
+
+-   ***Poikiolothermia***: (just a way to make "cold" into a "P" -- really means cold limb) Literally the inability to regulate one's body temperature, or dependent on ambient temperature as cold blooded animals are. If there is no limb perfusion, it acclimates to the ambient temperature and feels cold to the touch. 
+
+-   ***Pulseless***: Self explanatory. It is worth examining the contralateral limb, if it has normal pulses, it suggests the absence of PAOD or CLTI making thrombosis in situ less likely to be the cause of ALI. 
+
+-   ***Paresthesia and Paralysis*** are the last two Ps. Paresthesia is an earlier sign of ischemic nerve dysfunction, and paralysis is a later sign. In the lower leg, ischemic changes often affects the anterior compartment first, and sensory loss over the dorsum of the foot is, therefore, one of the earlier neurologic deficits in ALI.
+
+This is why a thorough physical exam is key; comparing both limbs and including handheld doppler exam. It can be difficult to tell whether a limb is acutely threatened, especially in patients with chronic disease where the presentation of an acute change can be more subtle. This is why it is also essential to assess sensory and motor function in addition to the pulse exam. This helps gauge the urgency of intervention.
+
+Acute paralysis, mottling of bilateral lower extremities and absent femoral pulses should raise concern for aortic occlusion.[@wang2016]
+
+**How is ALI classified?**
+
+From Rutherford RB, Baker JD, Ernst C, et  al. Recommended standards for reports dealing with lower extremity ischemia: revised version. J Vasc Surg. 1997;26:517--538. [@rutherfordRecommendedStandardsReports1997]
+
+1.  Viable - Not immediately threatened
+
+    -   Sensory Loss: None; Motor Weakness: None
+
+    -   Arterial Signal: Present; Venous Signal; Present
+
+2.  Threatened
+
+    a\. Marginally - Salvageable if promptly treated (\<24hrs)
+
+    -   Sensory Loss: Minimal (toes) or none; Motor Weakness: None
+
+    -   Arterial Signal: Weak/absent; Venous Signal: Present
+
+    b\. Immediately - Salvageable if immediately treated (\<6hrs)
+
+    -   Sensory Loss: More than toes; Motor Weakness: Mild/Moderate
+
+    -   Arterial Signal: Absent; Venous Signal: Absent
+
+3.  Irreversible - Major tissue loss or permanent nerve damage inevitable; Minimal benefit from revasc
+
+    -   Sensory Loss: Profound anesthesia; Motor Weakness: Dense paralysis (rigor)
+
+    -   Arterial Signal: Absent; Venous Signal: Absent
+
+**What does the work up for ALI entail? How is the diagnosis made?**
+
+-   The diagnosis can often be made on history, physical exam, and bilateral ABPIs. Imaging can be done in patients in who the diagnosis is uncertain.
+
+-   As with most urgent cases, the type of imaging done depends on the availability at your institution, but generally CT angiography or arteriography should be done on viable and marginally threatened limbs. Arteriography often can distinguish between embolic vs arterial thrombosis which may help to direct management.
+
+-   Bedside ultrasound can also be very helpful, especially color flow doppler US.
+
+The decision to perform cross-sectional imaging before angiography varies depending on how severe the presentation is and how quickly you can obtain imaging. The patient's renal function may also influence the decision to administer two contrast loads (CT followed by endovascular intervention). If a femoral pulse is present it could be feasible to proceed with on-table angiogram without a CT scan. If femoral pulses are absent there is increased suspicion of aortoiliac disease and therefore CT angiogram will be beneficial for both diagnosis and operative planning.
+
+In patients with severe renal insufficiency, MRA or MR time-of-flight can be helpful, but these studies usually take longer to obtain and may not be quickly available in an acute threatened limb situation. Therefore going straight to angiography should be considered, as to get the most immediate and best imaging of the tibial vessels. [@creagerClinicalPracticeAcute2012; @earnshaw100AcuteLimb2019]
+
+### Management
+
+**What is normally done in the initial management of ALI?**
+
+-   ***Anticoagulation***: IV unfractionated heparin should be immediately administered to prevent proximal and distal progression of secondary thrombus as long as heparin is not contraindicated. The dose should be titrated to maintain activated partial thromboplastin time between 50 and 80 seconds (2-3 times normal values). A good rule of thumb for IV heparin is to start with a bolus of 80-100 units/kg, and then drop at 18units/kg/hr -- titrating to PTT at 2-3x normal -- or follow local protocol.
+
+-   ***Supportive Care***: Analgesia, iv fluids.
+
+-   ***Labs***: A full panel including serum chemistry with BUN, Cr, CBC, and coagulation studies should be obtained. Baseline plasma CPK can be helpful to monitor for evidence of rhabdomyolysis after reperfusion.
+
+**What are some of the options for treatment of ALI?**
+
+-   **Medical**: Primarily with anticoagulation using heparin or a direct Xa inhibitor.
+
+-   **Open Surgical Management**:
+
+    -   ***Thrombectomy***: Balloon catheter based (Fogarty embolectomy balloon -- Dr. Fogarty invented this while he was a medical student)
+
+        -   Patients with acute limb ischemia, neuro deficit and distal pop embolism may be best treated with popliteal exposure and open thrombectomy. [@darwoodSurgeryThrombolysisInitial2018; @kempeResultsSurgicalManagement2014]
+
+    -   ***Bypass***
+
+        -   Patients with aortic occlusion and significant comorbidities, and significant aortoiliac baseline disease may likely benefit from primary axillo-bifemoral bypass. [@mohapatraRiskFactorsPerioperative2018]
+
+    -   ***Endarterectomy*** -- not necessarily required but might be used for common femoral exposure and distal access depending on vessel disease burden.
+
+-   **Endovascular**
+
+    -   ***Pharmacological Catheter Directed Thrombolysis***
+
+        -   Absolute contraindications include active bleeding disorder, CVA (\<6mo), CNS injury or head injury (\<3mo), or GI bleed (\<10d).
+
+        -   Relative contraindications include recent major surgery, uncontrolled hypertension, intracranial tumor, pregnancy, recent eye surgery, hepatic failure, CPR (\<10d), or bacterial endocarditis.
+
+        -   1-2% risk of hemorrhagic stroke. If neurologic deficit develops during thrombolysis, stop lysis and perform immediate CT head. [@ourielComparisonRecombinantUrokinase1998]
+
+        -   If fibrinogen drops below 100mg/dl, recommend immediate cessation of lytic agent and consider cyroprecipitate (includes fibrinogen, factor VIII, von Willebrand's factor, factor XIII).[@mann2019]
+
+    -   ***Percutaneous Thrombus Aspiration***: Useful for small fresh thrombi such as after angioplasty, as distal diameter of the catheter tip limits the size of the thrombus that can be removed. 
+
+    -   ***Mechanical Thrombolysis and Aspiration***: Are also useful for patients with contraindications for thrombolytic therapy, and also may allow for a lower dose of a thrombolytic agent, but risk damage to the arterial wall.
+
+**Who gets which kinds of treatment? Who needs emergent treatment?**
+
+-   **Class I** patients might just need medical therapy like anticoagulation and revascularization can be elective. 
+
+-   **Class IIb** patients do not need immediate revascularization
+
+    -   If symptoms have been present for less than 2 weeks endovascular therapy is preferred
+
+    -   If more than 2 weeks or lytic therapy has failed then surgical intervention is preferred 
+
+-   **Class IIb** need immediate revascularization. Historically surgical revascularization has been preferred because of its immediacy, but catheter directed thrombolysis and percutaneous mechanical thrombectomy have shortened time to revascularization. 
+
+-   Related Studies:
+
+    -   ***STILE Trial***: One of the first large RCTs comparing catheter thrombolysis with open surgery. Overall the study showed some short term benefit to open surgery however this can probably be attributed to: (1) in 28% of patients randomized to CDT they weren't able to get a catheter in place so these patients were considered treatment failures and crossed over to the surgery arm, and (2) patients with very long duration of ischemia, up to 6 months, were also included in the study. When outcomes for patients who had been symptomatic for less than 2 weeks were analysed, the thrombolysis patients actually did better. [@thestileinvestigatorsResultsProspectiveRandomized1994]
+
+    -   ***TOPAS Trial***: Larger RCT which enrolled patients who had an acute arterial occlusion of less than 14 days. This showed no difference in mortality or amputation-free survival between the open surgery and CDT groups but higher major bleeding in the CDT group. [@ourielComparisonRecombinantUrokinase1998]
+
+    -   ***Meta Analysis***: Originally published in 2002 but updated in 2013 and 2018. Demonstrated no difference in mortality or limb salvage between surgical and thrombolytic therapy, but endovascular demonstrated higher rates of complications including ongoing limb ischemia and bleeding within 30 days of treatment. Previously they had reported higher rates of stroke in the thrombolysis category but the most recent update is unable to support this finding. [@darwoodSurgeryThrombolysisInitial2018]
+
+        -   Evidence considered it is very reasonable to think about a catheter-directed therapy especially if the presentation is acute, less than 2 weeks or so. There are, however, certain anatomical locations that most surgeons would favor a simple open procedure such as balloon thrombectomy , such as embolism to the common femoral or brachial arteries.   
+
+-   **Class III** ALI is usually treated with primary amputation because revascularization is unlikely to restore function to the limb and restoring blood flow can cause the patient serious harm. 
+
+**What are the risks of revascularization for a class III or prolonged ischemia?**
+
+Myonephropathic metabolic syndrome: muscle cells undergo liquefaction necrosis due to ischemia. Potassium, myoglobin, lactic acid, and superoxide accumulate and can perfuse through the body or can have a sudden increase in the event of revascularization which leads to hyperkalemia, arrhythmias, pulmonary edema, metabolic acidosis, myoglobinuria, and can even cause sudden death from heart and/or renal failure. [@obaraAcuteLimbIschemia2018] Treatment of this is largely supportive with fluids.
+
+## Compartment Syndrome
+
+**What is the pathophysiology and presentation of compartment syndrome?**
+
+-   Increased intramuscular compartment pressure results from increases in capillary permeability due to ischemic reperfusion. The increase in pressure leads to neuromuscular dysfunction and interferes with circulation. Irreversible damage occurs when pressures exceed 30mmHg in each compartment.  
+
+-   Ischemia reperfusion causes increased capillary permeability due to free oxygen radicals, neutrophils and endothelial factors that collect during ischemia. Severity depends on time to reperfusion, muscle mass, and flow pattern (i.e. direct or collateral). Symptoms often develop within 6 hours of reperfusion. [@vonkeudell2015]
+
+-   The pathophysiology underlying acute extremity compartment syndrome is related to the arteriovenous pressure gradient theory. Increased compartment pressure reduces the gradient, reducing arterial pressure and increasing venous pressure.[@frink2010; @mcqueen1996; @elliott2003; @papalambros1989]
+
+-   Clinically patients can have neurological dysfunction with sensory motor deficits, but the most common presentation is a tense extremity with severe pain on passive movement of the muscles in the compartment. If the lower leg is affected this is often on dorsiflexion/plantar flexion of the ankle. A sensitive indicator is loss of two point discrimination (proprioception).
+
+**How do you diagnose compartment syndrome?**
+
+-   **Physical Exam**: Tenderness, (especially over anterior compartment) and paresthesiae, (especially between first and second toes).
+
+    -   ***Anterior Compartment***: Sensory distribution and muscular innervation from the deep peroneal nerve (this is a VSITE favorite).
+
+    -   ***Deep Posterior Compartment***: Sensory distribution and muscular innervation from the tibial nerve[@velmahos2002].
+
+-   **Compartment Pressures**:
+
+    -   A needle is required to access the compartment and a pressure monitoring system (this can be handheld Stryker kit, or just a hollow bore needle connected to an arterial pressure bag).
+
+    -   ***Normal compartment pressure is \<10-20mmHg***; greater than 30 is highly concerning.  More accurate than an absolute number is comparing the compartment pressure to the mean arterial pressure or diastolic pressure.  If the compartment pressure is within 40mmHg of the MAP (for example, MAP is 60 and compartment pressure is 25 -- this is concerning) -- OR -- if the difference between compartment pressure and diastolic pressure is less than 10 (for example, diastolic pressure is low at 30, and compartment pressure is 22).
+
+If the clinical suspicion of compartment syndrome is high, do not be reassured by "normal" compartment pressures.  It is relatively low risk to do fasciotomies, but the risk of limb loss is high for a missed compartment syndrome.
+
+**Management of compartment syndrome is a fasciotomy, what are the types of fasciotomies?**
+
+-   **Forearm and Upper Arm Fasciotomies**: Often performed by orthopedic or hand surgeons. The forearm fasciotomy includes dorsal and volar incisions to release the dorsal and volar compartment, and mobile wad, while avoiding numerous superficial cutaneous nerves. The arm fasciotomy releases the medial, lateral, and deltoid compartments through medial lateral incisions.
+
+-   **Thigh**: Performed through medial and lateral incisions to release the lateral, medial and posterior compartment.
+
+-   **Lower Leg**: The most common type is a lower leg 4 compartment fasciotomy and is explained in more detail below.  
+
+**How is a lower leg 4 compartment fasciotomy for the lower extremity performed?**
+
+1.  A longitudinal incision is created between the fibular shaft and the crest of the tibia over the intermuscular septum and the anterior and lateral compartments are opened. If tissues are swollen occluding the view of the intermuscular septum, the perforating vessels can be followed down to it. Nerves including the peroneal nerve are most at risk near the fibular head.
+
+2.  A second incision is created on the medial surface of the lower leg approx. 1cm posterior to the edge of the tibia to avoid the greater saphenous vein. The superficial posterior compartment is incised. The gastrocnemius-soleus complex is taken down from its attachments to the tibia in order to access the deep posterior compartment. 
+
+3.  The incisions should be made generously. Sometimes the skin incision can be a little short of the fascial incision, but they should be long in order to fully release the compartments.
+
+4.  After hemostasis loose dressings should be applied. The leg should be elevated to reduce edema that can complicate closure. Closure can be done in 48-72 hours, but may be delayed and dressed with wound vacs to attempt primary closure. If primary closure is not possible, a split thickness skin graft can be used.
+
+**Who should a prophylactic fasciotomy be performed on?**
+
+-   Patients with high occlusion and extensive ischemia.  
+
+-   Acute ischemia of greater than 6 hours with few collaterals.
+
+-   Patients with combined arterial and venous injury.
+
+-   Patients who are obtunded making serial examination difficult.
+
+**What is the prognosis for a patient with ALI? What are some patient factors that lead to a poor prognosis?**
+
+Amputation rates after acute limb ischemia are typically described in the 10-20% range, and mortality is also in the 10-25% range whether you're talking about surgery or catheter-directed procedures (that's excluding the patients who present with Rutherford class III and by definition have an unsalvageable limb). Many factors determine likelihood of amputation; typically, patients with more medical comorbid conditions tend to do worse as you might expect: baseline CAD, kidney disease and smoking are predictive of worse outcomes. There is a trend toward improved limb salvage rates (decreased amputation rate) over time, and I think this speaks to wider availability of different limb salvage techniques among vascular surgeons across the globe.
+
+## Blue Toe Syndrome
+
+### Etiology and Presentation
+
+Blue toe syndrome is characterized as a painful discolored toe in the setting of a normal vascular examination or palpable pulses.
+
+Acute onset of blue toe after MI - consider cholesterol embolization from wire manipulation in the aorta. [@saricAorticAtherosclerosisEmbolic2012]
+
+### Evaluation
+
+Patients should have a work up for investigation of an embolic source. Patients without a clear recent source of embolization on history or physical examination, should undergo:
+
+-   CTA of chest/abdomen/pelvis to look for an arterial lesion.
+
+-   Echocardiogram to identify a cardiac source.
+
+-   Holter monitor to evaluate for an underlying arrhythmias.
+
+If no obvious source of embolism can be identified, further investigation for underlying cancer may be required due to malignancy leading to prothombotic state.
+
+### Management
+
+**Cholesterol Embolization**: Medical management with a single antiplatelet agent and statin. Anticoagulation may precipitate further embolization. [@ghahramaniPostproceduralBlueToes2016; @quinonesCholesterolEmboliSyndrome2013]
+
+**Specific Thrombogenic Arterial Lesion**: Medical management with anticoagulation. Recurrent symptoms on anticoagulation may require stent coverage or, in a young patient, thrombectomy. [@reyesvaldiviaAnticoagulationAloneAortic2017; @jeyabalanEndovascularStrategiesTreatment2014; @vermaContemporaryManagementSymptomatic2014]
+
+## Non-atheromatous Popliteal Artery Disease
+
+### Popliteal Artery Entrapment Syndrome (PAES)
+
+#### Etiology and Presentation
+
+Most often seen in young healthy patients (often athletes) who present with claudication.
+
+Etiologically due to embryologically abnormal lateral attachment of the medial head of the gastrocnemius muscle.[@gokkus2014; @lejay2014] Type IV PAES caused by compression with popliteus muscle.
+
+#### Evaluation
+
+Physical examination findings will be loss of pedal pulse on active plantar flexion or passive dorsiflexion of the foot.[@gokkus2014; @lejay2014]
+
+Best diagnosed with axial cross-sectional imaging from the MRA to identify the abnormal muscle course and insertion. [@sinha2012; @lejay2014]
+
+#### Management
+
+Symptomatic PAES should be treated, even if presenting with mild or moderate claudication, due to risk of progression and thrombosis from scaring.[@forbes2019]
+
+### Cystic Adventitial Disease
+
+#### Etiology and Presentation
+
+Controversial etiology, often considered related to repeated popliteal trauma due to knee flexion, causing fluid to collect between the adventia and media layers of the artery wall. Presentation overlaps with atherosclerotic lesions of the popliteal segment, but in patients without traditional risk factors.
+
+#### Evaluation
+
+Often diagnosed on duplex ultrasound or CTA. For a representative image, see \@ref(cad).
+
+#### Management
+
+Compression can sometimes be relieved by percutaneous drainage of large cystic portion that is causing luminal compression. PTA and stenting should be avoided as often poor durability. Operative resection and reconstruction with an interposition graft can be effective but should be considered as a final management strategy.[@li2017]
+
+## Amputations
+
+The majority of questions regarding amputations stem from decision making around peripheral arterial disease. You may not see many questions asking uniquely about amputation technique or management, however this topic is VERY important for the successful management of peripheral arterial disease. Rutherford's has two fantastic chapters on decision making[@bianchi2018] and techniques[@eidt2019].
+
+The most commonly performed lower extremity amputations include:
+
+### Above-knee, trans-femoral amputation
+
+Above the knee amputations are most often performed with a fish mouth incision. Suture ligation of the neurovascular bundle at the level of the mid SFA and transection of the femur.
+
+### Below-knee, trans-tibial amputation
+
+Below the knee amputation often performed with a long posterior, or Burgess, flap. Each tibial neuro vascular bundle is ligated individually. The fibula is transected 2-3cm more proximally than the tibia to avoid weight bearing from the prosthetic.
+
+Although hotly debated, a Cochrane review demonstrated no difference in outcomes based on flap type. Although it does recommend performing in two stages in the setting of wet gangrene.[@tisi2014]
+
+### Transmetatarsal amputation
+
+Transmetatersal amputation is performed with transection of the metatarsal bones just distal to the heads. Best to transect in a graduated parabola with the 5th metatarsal most proximal. Patients may benefit from concomitant Achilles tendon lengthening to prevent equinous deformity that can result in ulceration of the medial aspect of the TMA.[@eidt2019]

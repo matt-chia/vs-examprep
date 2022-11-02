@@ -8,22 +8,54 @@ book:
   chapters:
     - index.qmd
     - authors.qmd
-    - cerebrovascular.qmd
-    - upper-extremity.qmd
-    - hemodialysis.qmd
-    - thoracic-aorta.qmd
-    - abdominal-aneurysms.qmd
-    - lower-extremity.qmd
-    - renal.qmd
-    - mesenteric.qmd
-    - vascular-trauma.qmd
-    - venous-disease.qmd
-    - vascular-lab.qmd
-    - endovascular.qmd
+
+    - part: "Head and Neck"
+      chapters:
+       - cerebrovascular.qmd
+       - trauma-cerebrovascular.qmd
+
+    - part: "Upper Extremity"
+      chapters: 
+        - upper-extremity.qmd
+        - tos.qmd
+        - hemodialysis.qmd
+        
+    - part: "Thorax"
+      chapters:
+        - dissection.qmd
+        - taaa.qmd
+        - aortopathies.qmd
+        - trauma-endovascular.qmd
+    
+    - part: "Abdomen"
+      chapters:
+        - abdominal-aneurysms.qmd
+        - mesenteric.qmd #need updating
+        - renal.qmd #needs updating
+        - trauma-arterial.qmd
+        - trauma-venous.qmd
+         
+    - part: "Lower Extremity"
+      chapters:
+        - claudication.qmd
+        - clti.qmd
+        - ali.qmd
+        - venous-disease.qmd
+        - trauma-peripheral.qmd
+        
+    - part: "General"
+      chapters:
+        - vascular-lab.qmd
+        - endovascular.qmd
+
     - references.qmd
+
   repo-url: https://github.com/adam-mdmph/vs-examprep.git
   sharing: [twitter]
   google-analytics: "G-T4DWNE55D1"
+  number-sections: true
+  crossref:
+    chapters: true
   
 bibliography: references.bib
 
