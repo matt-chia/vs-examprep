@@ -28,7 +28,7 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/Vascular_Venous_Auphonic
 
 ## Inferior Vena Cava
 
-Anatomy
+**Anatomy**
 
 -   Can be divided into 4 segments
 
@@ -50,7 +50,7 @@ Anatomy
 
         -   Includes phrenic veins and pericardium to right atrium
 
-Exposure
+**Exposure**
 
 -   Infrarenal
 
@@ -82,15 +82,13 @@ Exposure
 
             -   Divide xiphoid to open costal margins (approximately 2-3 cm cephalad)
 
-### Management - IVC General Principles
+### Management
 
-Resuscitation is key in damage-control surgery
+#### General Principles
 
-Management is dependent on location of injury
+Resuscitation is key in damage-control surgery. Management is dependent on location of injury. Interposition grafts are not readily performed due to inefficiency of time.
 
-Interposition grafts not readily performed due to inefficiency of time
-
-Control of Bleeding
+**Control of Bleeding**
 
 -   IVC injuries considered Zone I retroperitoneal hematomas
 
@@ -138,7 +136,7 @@ Control of Bleeding
 
         -   [Click here for an image](https://pbs.twimg.com/media/EXxZTaGXsAIdAiO?format=jpg&name=4096x4096){.uri}
 
-Non-operative management
+**Non-operative management**
 
 -   Generally well-tolerated due to low pressure system and difficulty of exposure increasing risk of more bleeding
 
@@ -148,7 +146,7 @@ Non-operative management
 
 -   If patient is hemodynamically stable and there are no other associated injuries, can consider non-operative management with serial imaging (CT with contrast)
 
-Operative management
+**Operative management**
 
 -   Primary repair
 
@@ -169,13 +167,13 @@ Operative management
     -   Well-tolerated for infrarenal segment IVC
     -   Not a viable option renal/suprarenal, retrohepatic, and suprahepatic IVC due to compromised outflow of vital organ structures (ie kidneys and liver)
 
-### Management - Infrarenal IVC
+#### Infrarenal IVC
 
-Non-operative management
+**Non-operative management**
 
 -   Patient with blunt injuries and hemodynamically stables
 
-Operative Repair
+**Operative Repair**
 
 -   Preferred as exposure is easiest in comparison to all other segments
 
@@ -195,15 +193,15 @@ Operative Repair
 
     -   Recommend fasciotomy if patient received large volumes of fluids/products, continues to be hemodynamically tenuous, anticipate long recovery
 
-### Management - Renal/Suprarenal IVC
+#### Renal/Suprarenal IVC
 
-Non-operative Management
+**Non-operative Management**
 
 -   Preferred due to location of injury \>\> similar to retrohepatic and suprahepatic segments
 
 -   Exposure of segment may increase risk of bleeding, increase size of defect, or unroof hemostasis formed
 
-Operative
+**Operative**
 
 -   Primary Repair
 
@@ -213,9 +211,9 @@ Operative
 
 -   Ligation - Not as well tolerated as infrarenal segment due to compromised of outflow to renal veins
 
-### Management - Retrohepatic IVC
+#### Retrohepatic IVC
 
-Non-operative Management
+**Non-operative Management**
 
 -   Preferred due to location of injury
 
@@ -223,7 +221,7 @@ Non-operative Management
 
 -   If liver mobilized, can cause more significant bleeding
 
-Operative
+**Operative**
 
 -   Primary Repair
 
@@ -235,9 +233,9 @@ Operative
 
 -   Ligation - Not as well tolerated due to compromised outflow of both renal and hepatic veins, can cause both kidney and liver ischemia
 
-### Management - Suprahepatic IVC
+#### Suprahepatic IVC
 
-Non-operative Management
+**Non-operative Management**
 
 -   Preferred due to location of injury, difficult to access
 
@@ -245,7 +243,7 @@ Non-operative Management
 
 -   If liver mobilized, can cause more significant bleeding
 
-Operative
+**Operative**
 
 -   Primary Repair
 
@@ -259,11 +257,9 @@ Operative
 
 ## Portal Vein and Superior Mesenteric Vein Injuries
 
-Injuries to portal vein and SMV can be very catastrophic.
+Injuries to portal vein and SMV can be very catastrophic. Non-isolated injury --- usually associated with other injuries (ie pancreatic + celiac vessels).
 
-Non-isolated injury --- usually associated with other injuries (ie pancreatic + celiac vessels).
-
-Exposure
+**Exposure**
 
 -   Pringle maneuver to gain control of porta hepatis
 
