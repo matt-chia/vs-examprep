@@ -1,0 +1,302 @@
+# Trauma - Venous {#sec-trauma-venous}
+
+Authors: *Kevin Kniery, MD, MPH; Adham Elmously, MD; Nakia Sarad, DO, MS; Todd Rasmussen, MD*
+
+```{r echo=FALSE}
+
+library(embedr)
+
+embed_audio("https://traffic.libsyn.com/audiblebleeding/Vascular_Venous_Auphonic.mp3")
+
+```
+
+**Three Types of Major Abdominal Venous Injuries**
+
+1.  Inferior Vena Cava (IVC) - Most commonly seen in blunt liver injury due to relationship of liver with IVC
+
+2.  Portal Vein
+
+3.  Superior Mesenteric Vein (SMV)
+
+**General Principles**
+
+1.  Pre-operative planning with appropriate resuscitation and blood products available
+
+2.  Keep in mind coordination with other surgical teams and anesthesia
+
+3.  Patients with abdominal venous injuries likely to be polytrauma patients, approach to assess and repair injuries should be time efficient
+
+## Inferior Vena Cava
+
+Anatomy
+
+-   Can be divided into 4 segments
+
+    -   Infrarenal segment
+
+    -   From inferior portions of renal veins to iliac bifurcation
+
+    -   Renal/Suprarenal segment
+
+        -   2-3 cm of IVC, from renal vein to inferior portion of hepatic veins
+
+        -   Includes renal veins and gonadal veins
+
+    -   Retrohepatic segment
+
+        -   Includes hepatic veins
+
+    -   Suprahepatic segment
+
+        -   Includes phrenic veins and pericardium to right atrium
+
+Exposure
+
+-   Infrarenal
+
+    -   Right medial visceral rotation (Cattell-Braasch maneuver)
+
+    -   Exposes in the proximal portion the IVC, inferior renal veins, 4th portion of duodenum, and pancreatic head
+
+    -   Be aware of lumbar vessels posteriorly \>\> control with vessel loop or clamp
+
+-   Renal/Suprarenal
+
+    -   Right medial visceral rotation (Cattell-Braasch) and mobilizing liver cephalad
+
+    -   Liver mobilization
+
+        -   Divide the attachments of the liver to the diaphragm to be able to move liver cephalad
+
+        -   Caution as there are posterior lumbar veins and other branches that can cause more significant bleeding
+
+    -   Retrohepatic
+
+        -   Right medial visceral rotation (Cattell-Braasch) and mobilizing liver cephalad
+
+        -   However, usually ideal to not expose because hemostasis is lost when liver is lifted off segment
+
+            -   Prior defect with formed hemostatic thrombus can be torn off with this maneuver and cause more bleeding
+
+        -   Better to leave liver in place and not expose area id not necessary - Suprahepatic
+
+            -   Divide xiphoid to open costal margins (approximately 2-3 cm cephalad)
+
+### Management - IVC General Principles
+
+Resuscitation is key in damage-control surgery
+
+Management is dependent on location of injury
+
+Interposition grafts not readily performed due to inefficiency of time
+
+Control of Bleeding
+
+-   IVC injuries considered Zone I retroperitoneal hematomas
+
+-   Follow general principles of gaining proximal and distal control
+
+    -   Can use low profile sponge sticks (Kittner sponge stick) or manual pressure
+
+    -   Be prepared to refine where you control as the dissection progresses
+
+-   May require Total Hepatic Isolation to locate bleeding behind the liver - Isolate all bleeding from IVC and hepatic vein confluence
+
+    -   Control liver inflow - PORTA HEPATIS (via Pringle maneuver)
+
+        -   Portal Vein - Accounts for 70-80% of hepatic inflow
+
+        -   Hepatic Artery
+
+    -   Control liver outflow - HEPATIC VEINS
+
+        -   Confluence of hepatic vein with IVC
+
+        -   Can be accessed below diaphragm or in the chest
+
+-   Other options for bleeding control if total hepatic isolation not successful
+
+    -   Supraceliac aortic clamp
+
+        -   Can be considered if bleeding continues to help identify injury
+
+        -   Last option, usually unsurvivable
+
+    -   Place patient on bypass
+
+    -   Atriocaval Shunt (Schrock shunt)[@schrock1968]
+
+        -   Shunts lower body blood to the right atrium
+
+        -   Can be accomplished with large chest tube with extra hole cut near base
+
+        -   Chest tube clamped at base and inserted via purse string suture at the right atrial appendage \> advanced to infrarenal IVC
+
+        -   Place Rommel tourniquet below area of suprarenal IVC (above the renal veins and last hole in tube)
+
+        -   Second Rommel tourniquet placed above hepatic veins in intrapericardial IVC
+
+        -   [Click here for an image](https://pbs.twimg.com/media/EXxZTaGXsAIdAiO?format=jpg&name=4096x4096){.uri}
+
+Non-operative management
+
+-   Generally well-tolerated due to low pressure system and difficulty of exposure increasing risk of more bleeding
+
+    -   Especially for suprarenal and retrohepatic segments
+
+-   Option for blunt mechanism of injuries
+
+-   If patient is hemodynamically stable and there are no other associated injuries, can consider non-operative management with serial imaging (CT with contrast)
+
+Operative management
+
+-   Primary repair
+
+    -   Option for partial tears without risk of narrowing lumen
+
+        -   Narrowing lumen increases risk of thrombosis and thromboembolism
+
+    -   Recommend figure of 8 of 16 to repair with 4-0 prolene suture on SH (small half circle) needle
+
+    -   Tips
+
+        -   Larger needles are easier to visualize in cases with high amounts of bleeding
+
+        -   When first suture is placed, recommend lifting on either side of suture with both strands to elevate the defect and maintain tension \>\> improves visualization and placement of subsequent sutures to achieve full thickness bites
+
+-   Ligation
+
+    -   Well-tolerated for infrarenal segment IVC
+    -   Not a viable option renal/suprarenal, retrohepatic, and suprahepatic IVC due to compromised outflow of vital organ structures (ie kidneys and liver)
+
+### Management - Infrarenal IVC
+
+Non-operative management
+
+-   Patient with blunt injuries and hemodynamically stables
+
+Operative Repair
+
+-   Preferred as exposure is easiest in comparison to all other segments
+
+-   Primary Repair
+
+    -   SH needle on 4-0 prolene
+
+    -   Avoid luminal narrowing of IVC to prevent thrombosis/thromboembolism
+
+-   Ligation
+
+    -   Ligation can be tolerated
+
+    -   Ligation is appropriate when primary repair narrows lumen or if primary repair cannot be performed due to damage-control nature of operation
+
+    -   Empirical 4-compartment fasciotomies of lower extremities is dependent on patient's resuscitation status
+
+    -   Recommend fasciotomy if patient received large volumes of fluids/products, continues to be hemodynamically tenuous, anticipate long recovery
+
+### Management - Renal/Suprarenal IVC
+
+Non-operative Management
+
+-   Preferred due to location of injury \>\> similar to retrohepatic and suprahepatic segments
+
+-   Exposure of segment may increase risk of bleeding, increase size of defect, or unroof hemostasis formed
+
+Operative
+
+-   Primary Repair
+
+    -   Option if liver mobilization does not increase size of defect/tear
+
+    -   Follow principles as described above
+
+-   Ligation - Not as well tolerated as infrarenal segment due to compromised of outflow to renal veins
+
+### Management - Retrohepatic IVC
+
+Non-operative Management
+
+-   Preferred due to location of injury
+
+-   Liver provides hemostasis due to overlying pressure
+
+-   If liver mobilized, can cause more significant bleeding
+
+Operative
+
+-   Primary Repair
+
+    -   Not preferred
+
+    -   Option if patient continues to be hemodynamically unstable, requires blood products
+
+    -   Careful liver mobilization due to multiple branch points and high risk of tear \> will likely require total hepatic isolation for bleeding control
+
+-   Ligation - Not as well tolerated due to compromised outflow of both renal and hepatic veins, can cause both kidney and liver ischemia
+
+### Management - Suprahepatic IVC
+
+Non-operative Management
+
+-   Preferred due to location of injury, difficult to access
+
+-   Liver provides hemostasis due to overlying pressure
+
+-   If liver mobilized, can cause more significant bleeding
+
+Operative
+
+-   Primary Repair
+
+    -   Not preferred
+
+    -   Will likely require total hepatic isolation for bleeding control
+
+    -   Can consider supraceliac aortic clamp and/or atriocaval shunt for further control if needed
+
+-   Ligation - Not as well tolerated due to compromised outflow of both renal and hepatic veins, can cause both kidney and liver ischemia
+
+## Portal Vein and Superior Mesenteric Vein Injuries
+
+Injuries to portal vein and SMV can be very catastrophic.
+
+Non-isolated injury --- usually associated with other injuries (ie pancreatic + celiac vessels).
+
+Exposure
+
+-   Pringle maneuver to gain control of porta hepatis
+
+-   Division of pancreatic head for better visualization
+
+### Management
+
+-   Resuscitation is key
+
+    -   50% of blood volume is sequestered by splanchnic circulation
+
+    -   Coordination with surgical team and anesthesia to resuscitate appropriately
+
+    -   Consider insensible losses with open abdomen during OR time
+
+-   Repair these injuries if possible
+
+    -   Primary repair
+
+    -   Interposition graft conduits
+
+        -   Great saphenous vein
+
+        -   PTFE
+
+        -   Bovine pericardium
+
+    -   Ligation an option in damage-control (high mortality)
+
+        -   Temporizing measure to prepare for reconstruction once bleeding is controlled
+
+Check out Dr. Rasmussen's book
+
+<https://www.elsevier.com/books/richs-vascular-trauma/9781455712618>
+
+<https://www.amazon.com/Richs-Vascular-Trauma-Todd-Rasmussen/dp/1455712612>

@@ -1,0 +1,395 @@
+## Trauma - Endovascular
+
+Authors: *Kevin Kniery, MD, MPH; Marlin "Wayne" Causey MD; Nakia Sarad, DO, MS; Todd Rasmussen, MD*
+
+```{r echo=FALSE}
+
+library(embedr)
+
+embed_audio("https://traffic.libsyn.com/audiblebleeding/Rasmussen_Endovascular_Trauma.mp3")
+
+```
+
+Although open surgical treatment is the mainstay of trauma management, there are some unique injuries where endovascular management has started to become the standard of care in centers with the resources and expertise to perform it.\@katsanos2009
+
+### **Blunt Thoracic Aortic Injury (BTAI)**
+
+#### Demographics
+
+Guidelines
+
+SVS Guidelines for Blunt Thoracic Aortic Injury can be seen here: <https://www.jvascsurg.org/article/S0741-5214(10)01924-5/fulltext>
+
+Seminal Papers in Blunt Thoracic Aortic Injury
+
+-   AAST 1997 Paper: <https://pubmed.ncbi.nlm.nih.gov/9095103/>
+
+-   AAST 2008 Paper: <https://pubmed.ncbi.nlm.nih.gov/18545103/>
+
+-   JVS 2011 Paper: <https://pubmed.ncbi.nlm.nih.gov/20974523/>
+
+-   Timing of repair of BTAI JVS 2020: <https://www.jvascsurg.org/article/S0741-5214(20)31575-5/fulltext>
+
+Dr. Ben Starnes' podcast on Behind The Knife on BTAI: <https://bit.ly/2LuycWq>
+
+Epidemiology
+
+-   Rare, but lethal
+
+-   Less than 1% of all blunt traumas
+
+-   Second leading cause of death in blunt trauma
+
+-   Due to high velocity mechanism of injury, usually are polytrauma patients with other severe injuries (ie intracranial injury)
+
+-   Common mechanisms
+
+    -   High-speed motor vehicle collision
+
+    -   Motorcycle collisions
+
+    -   Pedestrian vs. motor vehicle
+
+    -   Falls from heights
+
+-   Most patients have unsurvivable devastating injuries (75%) and pass prior to arrival to hospital for definitive care
+
+-   Rates of paraplegia, rates of blood utilization, and mortality rates have decreased with prominence of endovascular repair of injuries
+
+Anatomy
+
+-   Aortic arch \>\> relatively mobile
+
+    -   Not common location for blunt injury
+
+-   Descending Thoracic aorta
+
+    -   Tethered
+
+    -   Junction just distal to left subclavian artery is where most injuries occur (within 0.5-2cm)
+
+    -   Tear injury due to deceleration
+
+Grading Systems
+
+-   SVS BTAI Grading System[@lee2011]
+
+    -   Grade I: Intimal Tear
+
+    -   Grade II: Intramural Hematoma
+
+    -   Grade III: Pseudoaneurysm
+
+    -   Grade IV: Rupture
+
+-   Harborview Grading System[@heneghan2016; @starnes2012; @quiroga2019]
+
+    -   Classification scheme helps dictate which patients can be managed operatively vs. non-operatively
+
+    -   Minimal Injury
+
+        -   Absence of aortic external contour abnormality
+
+        -   Intimal tear and/or thrombus of \<10mm in length or width
+
+        -   Treatment: No intervention
+
+        -   Surveillance with follow-up imaging
+
+            -   Antiplatelet therapy
+
+            -   CTA at least within 30 days of injury, progression is rare (5-7%) and often identified early\@osgood2014
+
+    -   Moderate Injury
+
+        -   External contour abnormality, includes pseudoaneurysms
+
+        -   Intimal tear ≥10mm in length or width
+
+        -   Treatment: Delayed repair, semi-elective
+
+            -   Stabilization of concomitant injuries\@azizzadeh2009
+
+            -   Impulse control
+
+                -   Short-acting beta blocker (ie esmolol)
+
+            -   SBP \< 120 (coordinate with neurosurgery for TBI patients)
+
+            -   Repair within 1 week (TEVAR)
+
+                -   For those patients with severe TBI who are unable to undergo anti-impulse therapy due to maintenance of cerebral perfusion pressure, will recommend repair sooner
+
+        -   Repeat CTA chest within 5-7 days for follow-up
+
+    -   Severe Injury
+
+        -   Active extravasation (free contrast extravasation or hemothorax at thoracotomy)
+
+        -   Hemodynamic instability
+
+        -   Left subclavian artery (LSA) hematoma \> 15 mm
+
+        -   Treatment: Emergent repair
+
+            -   BTAI takes first priority
+
+#### Evaluation
+
+-   Be aware that patients likely have other injuries
+
+-   Recommend CTA chest, abdomen, pelvis
+
+-   Perform CTA follow-through to upper/lower extremities if those areas are of concern for injury
+
+#### Management
+
+Overview
+
+-   Endovascular repair of BTAI has better outcomes than Open repair
+
+-   Need to consider that most TEVAR devices are designed for aneurysmal disease
+
+    -   Generally require a larger diameter and their compliance is not ideal for these smaller/normal caliber aortic arche sizes
+
+    -   Average size of aorta proximal to injury site is 19mm (smallest devices are at 22mm)
+
+    -   Previously, iliac devices used to treat aortic injuries
+
+-   There are new advanced TEVAR devices that are available for non-aneurysmal disease with normal caliber aortic sizes.
+
+    -   ex: GORE TAG Conformable Thoracic Stent Graft with ACTIVE CONTROL System
+
+-   Recommend heparinization if not contraindicated
+
+    -   i.e. TBI, femoral shaft fracture with hematoma, solid organ injury, etc.
+
+    -   TEVAR can still be performed safely without heparin
+
+    -   Higher threshold for heparinization in COVID+ patients due to their hypercoagulable state
+
+    -   Goal Activated Clotting Time (ACT) \> 250 - Ensure that ACT machine is available prior to start of case
+
+Methods of Endograft Size Measurement
+
+-   CTA imaging
+
+    -   Used to help measure aortic size
+
+    -   Need to consider that patient is usually hypovolemic, constricted, and young (so aorta more compliant/elastic) --- true aortic size may be under-represented, 40% discrepency between pre- and post-resuscitation, on imaging when choosing the appropriate device for repair
+
+    -   Recommend over-sizing stent graft by 20-25% from original measurement
+
+-   Intravascular Ultrasound (IVUS)
+
+    -   During angiogram, can confirm or redirect sizing in real-time during systole[@azizzadeh2011; @shi2015]
+
+Access
+
+-   If iliac size is \>7-8 mm, can use transfemoral access
+
+-   Small iliacs (\< 6mm) may need conduits
+
+    -   Recommend retroperitoneal approach for exposing common femoral and/or external iliac and using a dacron conduit[@criado2007]
+
+-   If iliacs are diseased (ie calcium burden), use of conduits would be difficult
+
+    -   Can consider putting mineral oil over sheath to help pass and deliver the endograft
+
+-   Femoral cutdowns considered to ensure safe delivery and removal of device
+
+Positioning of Device
+
+-   Most important aspect is to cover the proximal defect and seal the entry point
+
+-   Average distance between the injury and the LSA is approximately 5.8mm (located at aortic isthmus)
+
+-   Recommend 2cm coverage proximally of healthy vessel and 2cm coverage distally
+
+    -   With these recommendations, approximately 40% of TEVAR repairs cover the LSA
+
+    -   Pre-emptive revascularization of LSA is not necessarily required, most patients do fine without arm claudication
+
+        -   Complications to consider when covering LSA
+
+            -   Stroke
+
+                -   If there is concern for vertebral perfusion, LSA must be revascularized prior to covering
+
+                -   Left vertebral artery may be dominant or significant disease in right vertebral artery
+
+            -   Arm claudication and ischemia
+
+            -   Spinal cord ischemia
+
+                -   Rare
+
+                -   Collateral pathways between LSA and IMA (internal mammary artery) can be compromised
+
+                -   Spinal cord ischemia can present at end of case or delayed 24-72 hours post-operatively
+
+                -   Spinal cord drainage not routinely done to prevent paraplegia unless there is concern if abnormal neuro-exam.
+
+                    -   If abnormal neuroexam at end of case, elevate blood pressure to improve perfusion and consider placing a drain at that time
+
+                    -   There is high risk of placing and monitoring drains if not needed
+
+        -   Relative contraindications to covering LSA without revascularization
+
+            -   Dominant Left Vertebral Artery perfusion to brain
+
+            -   Right Vertebral Artery atherosclerotic disease
+
+            -   Hemodialysis access on ipsilateral arm
+
+            -   Prior CABG with LIMA (left internal mammary) to LAD (left anterior descending artery)
+
+-   Some devices (ie GORE conformable as above) allow control of first stent ring to better conform/lay down the stent within the arch
+
+Malpositioning of Devices
+
+-   Can deploy too proximal or too distal
+
+-   "Bird Beaking"
+
+    -   Where the lesser curve of the graft is not well approximated to the lesser curve of the aorta (ie the lifting of the inferior aspect of the most proximal endograft with the first covered stent ring now lifted off into the inner curve of the aortic arch)[@frohlich2020]
+
+    -   Can cause endoleaks
+
+    -   Methods to avoid "bird beaking"
+
+        -   Use stiff wire to get into the aortic root (ie Amplatz or Lunderquist wires) with forward pressure to have a constant tension
+
+        -   Wire should be snug against the greater curvature of the aorta
+
+        -   Can consider taking the graft over the origin of the LSA
+
+        -   Allows more room in the flatter inner arch to lay the graft down
+
+Timing of Repair
+
+-   SVS Grade 3 or Harborview Classification of Moderate Injury
+
+    -   Delayed repair 24-48 hours after injury is acceptable and there is a survivable benefit[@alarhayem2021]
+
+    -   Some delays can be up to 5-7 days with medical management
+
+    -   Allows time for operative planning and optimization with anti-impulse therapy/resuscitation
+
+    -   Also enables evaluation of any underlying infectious process that may compromise and infect the endograft
+
+-   SVS Grade 4 or Evolving SVS Grade 3/Harborview Moderate injuries
+
+    -   More urgent repair (within 24 hours)
+
+### **Blunt Abdominal Aortic Injuries**
+
+#### Demographics
+
+Epidemiology
+
+-   Very Rare
+
+-   Commonly associated with polytrauma patients, especially with concomitant blunt thoracic aortic injuries
+
+-   Similar mechanisms of injury as BTAI
+
+Anatomy
+
+-   Zone 1: Diaphragm to SMA (superior mesenteric artery)
+
+-   Zone 2: SMA to renal arteries
+
+-   Zone 3: Inferior renal artery to aortic bifurcation
+
+#### Evaluation
+
+-   CTA
+
+-   IVUS - Also used for operative planning and evaluating extent of defects into branches of the mesentery
+
+#### Management
+
+Overview
+
+-   Zone 1 and 3 can be repaired endovascularly (above the SMA and below the renal arteries)
+
+-   Can cover the celiac artery safely if there is no obvious compromise of the other mesenteric arteries (ie: inferior mesenteric artery, internal iliac arteries, prior gastrectomy or other complex intra-abdominal operation)
+
+-   Zone 2 injuries typically repaired with open approach
+
+-   Endovascular approach can minimize risk of contamination if there is bowel spillage etc.
+
+-   Want to use minimum amount of endograft that will appropriately cover injury 2cm coverage proximally and 2 cm coverage distally
+
+-   Injury can sometimes result in occlusion, which can also be treated endovascularly.
+
+Types of Endografts Used - Can use combination of all grafts types to get the appropriate coverage
+
+-   TEVARs
+
+-   Covered stents
+
+-   Aortic cuffs
+
+### **Blunt Axillo-Subclavian Injuries**
+
+#### Demographics
+
+Epidemiology
+
+-   Very rare, 9% of all vascular trauma
+
+-   Low incidence due to protection of vessels from surrounding bony structures and high degree of exsanguination with devastating injuries
+
+-   Endovascular repair preferred due to location of these injuries and highly morbid open repair due to central hemorrhage and risk of brachial plexus injury.[@branco2016; @dubose2012]
+
+-   Difficult to access via open methods with proximal/distal control due to protective anatomic nature of overlying skeleton
+
+Anatomy
+
+-   Thoracic Outlet
+
+    -   Axillo-subclavian vein located anterior to anterior scalene and runs between the first rib and clavicle through the subclavius muscle/tendon
+
+    -   Axillo-subclavian artery is located in the arterial triangle
+
+        -   More lateral than the axillo-subclavian vein
+
+        -   Courses posteriorly to anterior scalene
+
+Access
+
+-   Transbrachial or transradial access preferred
+
+-   Can combine transbrachial and transfemoral
+
+    -   Provides more options for delivering stent grafts with difficult aortic arches (anterograde and retrograde approach) via a through wire
+
+-   With transbrachial access, brachial cutdown can be more reliable in trauma setting
+
+-   Can also consider HYBRID approach
+
+    -   Gain proximal and distal control via through wires from transbrachial/transradial and then perform the open repair
+
+    -   Can perform coil embolization of subclavian arteries to gain control
+
+        -   Caution to vertebral perfusion
+
+    -   Stent graft to temporize injury and maintain in-line flow, then have interval axillary artery repair with a bypass (within a week to a month later)
+
+Types of Endografts used
+
+-   Self-expanding stents (ie Viabahn)
+
+    -   Traditional approach
+
+    -   May provide greater flexibility - important for mid-subclavian penetrating trauam due to mobility of this region. Stents in the axilla have particularly poor patency for this reason.[@chopra2016; @gray2017; @shalhub2011]
+
+    -   Helpful for more distal injuries
+
+-   Balloon-expandable stents
+
+    -   Newer devices, also flexible
+
+    -   Has more precise landing (especially if injury is near branch points)

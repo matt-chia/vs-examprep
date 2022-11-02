@@ -1,0 +1,427 @@
+# Trauma - Cerebrovascular
+
+Authors: *Kevin Kniery, MD, MPH; Adam Johnson, MD, MPH; Nicole Rich, MD, MPH; Nakia Sarad, DO, MS; Todd Rasmussen, MD*
+
+```{r echo=FALSE}
+
+library(embedr)
+
+embed_audio("https://traffic.libsyn.com/audiblebleeding/Cerbrovascular_Trauma_auphonic.mp3")
+
+```
+
+## Neck Exposure Techniques
+
+### Carotid Artery
+
+**Anatomy**
+
+-   Right common carotid -- originates from brachiocephalic artery
+
+    -   External landmark: right sternoclavicular joint
+
+-   Left common carotid -- originates from aortic arch in superior mediastinum
+
+-   Common carotid artery (CCA) is within the carotid sheath
+
+    -   Contents:
+
+        -   Common and Internal carotid (medially)
+
+        -   Internal jugular vein (laterally)
+
+        -   Vagus nerve (posteriorly)
+
+    -   Anterior margin: sternocleidomastoid (SCM) and omohyoid muscle
+
+    -   Posterior margin: longus colli and longus capitis muscles
+
+    -   Medial margin: esophagus/trachea
+
+-   Common carotid bifurcates to external and internal at level of superior border of thyroid cartilage
+
+    -   External carotid artery
+
+        -   Medial to internal carotid artery (majority of course)
+
+        -   First branch is superior thyroid artery (near bifurcation)
+
+        -   Terminate in parotid gland, divide into superificial temporal and maxillary arteries
+
+    -   Internal carotid artery
+
+        -   No extracranial branches
+
+        -   Lateral to external carotid artery until level of skull base, where it crosses medially
+
+        -   Enters the skull base through the carotid canal behind the styloid process
+
+    -   Facial vein is the anatomical landmark that approximates the location of the carotid bifurcation (deep to it).
+
+    -   Hypoglossal nerve (CN XII) and posterior belly of digastric muscle superficially cross the internal and external carotid arteries at the angle of the mandible
+
+    -   Glossopharyngeal nerve (CN IX) crosses in front of internal carotid artery, superior to hypoglossal nerve (CN XII)
+
+**Exposure**
+
+-   Longitudinal incision along anterior border of SCM, extending from suprasternal notch to mastoid process
+
+    -   For proximal common carotid artery control, would do combination of SCM incision with median sternotomy
+
+-   Incise platysma and expose anterior border of SCM, retract laterally
+
+    -   Identify and avoid Accessory nerve (CN XI) that enters SCM
+
+    -   Small branches of external carotid should be ligated to adequately mobilize the SCM and expose carotid sheath
+
+-   Carotid sheath is visualized and incised longitudinally
+
+    -   Omohyoid muscle may require division if proximal exposure required
+
+-   Identify Internal jugular vein, mobilize, and retract laterally
+
+-   Identify Vagus Nerve and avoid injury (posterior between internal jugular vein and common carotid)
+
+-   Place vessel loops around CCA, internal jugular, and vagus nerve
+
+-   Identify facial vein (overlying CCA bifurcation), Hypoglossal nerve (CN XII) and Ansa cervicalis
+
+    -   Ligate facial vein to further mobilize the internal jugular vein laterally and expose the underlying carotid bifurcation
+
+    -   Identify and protect Hypoglossal nerve (CN XII)
+
+    -   Ansa cervicalis may be ligated if necessary for exposure
+
+-   Dissect carotid bifurcation
+
+    -   Careful to not stimulate carotid body and cause hemodynamic instability
+
+    -   If access to distal internal carotid artery is required, may consider subluxation of mandible or mandibular osteotomy to gain appropriate exposure
+
+### Vertebral Artery
+
+**Anatomy**
+
+-   First cephalad branch of subclavian artery
+
+-   Divided into 3 parts
+
+    -   Part I (proximal)
+
+        -   Origin at subclavian artery to C6 (enters transverse foramen)
+
+        -   External landmarks: found between two heads of SCM (sternal and clavicular) and clavicle
+
+        -   Vertebral artery runs between anterior scalene and longus colli muscles
+
+    -   Part II - Courses through bony vertebral canal (transverse foramen) from C6 to C1
+
+    -   Part III (distal) - Courses outside vertebral canal from C1 to base of skull (enters through foramen magnum) and joins contralateral vertebral artery to form basilar artery (part of circle of Willis)
+
+**Exposure**
+
+-   Will focus on exposure of Proximal Vertebral Artery
+
+-   Supraclavicular transverse incision extending between the sternal and clavicular heads of the sternocleidomastoid (SCM) muscle
+
+-   Incise platysma and continue dissection into base of triangle
+
+-   Carotid sheath is first vascular structure identified
+
+    -   Jugular vein -- lateral
+
+    -   Common carotid -- medial
+
+    -   Vagus nerve -- posterior
+
+-   Identify scalene fat pad between two heads of SCM and clavicle, dissect to expose anterior scalene muscle
+
+    -   Careful of phrenic nerve as it runs on surface of anterior scalene muscle
+
+-   Divide anterior scalene muscle to visualize the subclavian artery and two of its branches (thyrocervical trunk and internal mammary artery). Control each branch.
+
+-   Proximal VA is located deep to supraclavicular artery and anterior to groove between C7 vertebral body and transverse process
+
+-   Proximal VA is between anterior scalene (laterally) and longus colli (medially)
+
+-   Best found through palpation with tip of index finger within groove of C7 vertebral body and transverse process
+
+-   Avoid injury to vertebral venous plexus as it is anterior to VA
+
+-   Use right angle clamp to dissect out VA
+
+Detailed exposure techniques can be found here[@kwon2019]
+
+## Tenets of Cerebrovascular Injury
+
+-   Control of catastrophic bleeding --- with manual compression and resuscitation
+-   Ensure that injury is not causing airway compromise
+-   Evaluate the neurological status of patient --- have a thorough baseline neuro exam and look for signs of ischemia, hemispheric stroke, arousability/mental status
+-   Prevent secondary injury --- maintain blood pressure to maintain cerebral perfusion pressure and prevent hypoxia
+-   After appropriate exposure and control, recommend that patient be heparinized during carotid artery repair. Be prepared for bleeding, especially in patients with polytrauma. Resuscitate appropriately until repair completed.
+
+## Blunt Trauma
+
+-   Mechanism of Injury: history of a motor vehicle collision, blunt force to neck, severe hyperextension/rotation/flexion injuries, etc.
+-   External signs of injury: marks on neck or around the thoracic inlet (ie "seatbelt sign"), unilateral neurodeficits (suggestive of hemispheric ischemia or stroke)
+-   Accompanying injuries: concomitant closed head injuries (TBIs), complex facial fractures, cervical vertebral body and transverse foramen fractures
+
+### Evaluation
+
+-   CTA is gold standard. Limitation, image is static.
+
+-   US duplex combines B mode ultrasound with pulse doppler. Limitation in visualization of injury above the angle of the mandible (distal internal carotid and proximal thoracic outlet)
+
+-   These imaging modalities are used to assess visibility of defect (ie dissection, thrombus, intimal flap) and degree of flow limitation by measured velocity.
+
+**Denver Grading Scale for Blunt Vascular Carotid Injury (BCVI)**[@biffl2001]
+
+-   Grade I: Luminal irregularity or dissection with \< 25% luminal narrowing
+-   Grade II: Dissection or intraluminal hematoma with ≥ 25% luminal narrowing, intraluminal thrombus, or raised intimal flap
+-   Grade III: Pseudoaneurysm
+-   Grade IV: Occlusion
+-   Grade V: Transection with Free Extravasation
+
+### Managment
+
+**Considerations**
+
+-   Consider the overall injury severity of the trauma patient with any concomitant injuries that may prevent antiplatelet/anticoagulation initiation (ie TBI) or intervention
+
+    -   Oftentimes have other blunt vascular injuries, such as aortic injuries, that need to be addressed as well
+
+    -   Can consider delay of intervention (approx. 7 days) to decrease risk of neurological events
+
+-   If there is a change in the neurological exam after initiation of medical management, considered as failure of medical therapy and surgical intervention is indicated
+
+-   If unable to obtain a reliable neurological exam, can consider transcranial doppler or EEG if accessible, but is not mandatory
+
+-   Continue supportive measures to prevent secondary injuries, ie optimize cerebral perfusion pressure
+
+-   Repeat imaging with change in neurological status
+
+-   Serial imaging important in assessing whether injury has evolved
+
+-   Endovascular repair usually involves transfemoral approach for access with arch aortogram, selection of defective carotid vessel, and placement of the endovascular treatment (ie: stent graft, bare metal stent, coil embolization of pseudoaneurysm)
+
+**Carotid Artery Injury Treatments**
+
+-   Grade I and II injuries are recommended to be treated medically with antiplatelet/anticoagulation therapy if patient is able to tolerate
+
+    -   Repeat CTA imaging in 5-7 days while inpatient to ensure that injury has not evolved in acute phase
+
+    -   Follow-up CTA imaging within 1 month of discharge as outpatient to assess healing. Imaging needs to be continued until there is resolution of lesion.
+
+    -   Grade I lesions typically improve over time, Grade II lesions or higher have a greater chance of evolving (approximately 60%)
+
+-   Accessible Grade III and V carotid injuries should be repaired.
+
+    -   Grade III pseudoaneurysms should be repaired endovascularly with a covered stent (ie stent graft that covers the opening of the pseudoaneurysm) or bare metal stent (maintains integrity of the wall). Through these stents, coils can be placed to thrombose the pseudoaneurysm. Flow needs to be maintained.
+
+    -   Open approach can be considered for Zone II injuries
+
+-   Grade I and IV carotid injuries, and inaccessible Grade II and III carotid injuries should be treated with medical management (antiplatelet/anticoagulation)
+
+    -   Grade IV injuries without associated injuries that preclude use of anticoagulation, would heparinize and proceed with anticoagulation (avoid bolus of heparin, goal PTT 50-70 within first 24 hours). Monitor for bleeding. Transition to oral anticoagulant for 30-90 days.
+
+    -   Grade IV injuries with contraindications for anticoagulation, would recommend dual antiplatelet therapy (aspirin and clopidogrel)
+
+    -   Overall, anticoagulation is preferred if there are no contraindications. If there are, then dual antiplatelet therapy is preferred.
+
+-   Grade V and persistent Grade III should be repaired surgically
+
+**Vertebral Artery Injury Treatments**
+
+-   Special Considerations
+
+    -   Attempt to determine whether the dominant or diminutive vertebral artery is involved
+
+    -   Treatment is again based on severity with grading system (Denver Grading Scale), consider location and extent
+
+    -   Consider any associations with a basilar artery defect or posterior circulation stroke
+
+    -   Grade I-IV vertebral injuries should be treated with medical management as first line, approximately 90% self-resolve
+
+    -   Endovascular interventions can be considered for those patients with severe injury and/or who are symptomatic
+
+        -   Usually performed by neuro-interventional as the injury is located within the skull base
+
+    -   Serial imaging still needs to be performed to evaluate healing (similar manner to carotid injury)
+
+    -   In the setting of trauma, if there is an expanding hematoma due to vertebral artery injury and open approach is performed to control bleeding, vertebral artery is usually ligated in this scenario
+
+        -   Vertebral reconstructions are not well-suited for traumas
+
+Guidelines and treatment algorithm can be found here[@geddes2016]
+
+## Penetrating Trauma
+
+**Levels**
+
+-   Zone I: thoracic inlet (sternal notch) to level of cricothyroid cartilage
+
+-   Zone II: cricothyroid cartilage to angle of mandible
+
+-   Zone III: angle of the mandible to the base of the skull
+
+[Images of the neck zones can be found here](https://aneskey.com/penetrating-neck-trauma-2/){.uri}
+
+### Management
+
+**Injury to Zone I and Zone III**
+
+-   If hemodynamically stable, requires imaging prior to consideration of intervention/repair
+
+    -   Imaging: CTA and/or angiogram
+
+    -   CTA positive \>\> Endovascular intervention vs. OR
+
+    -   Consider concomitant injury to aerodigestive tract as well
+
+-   If hemodynamically unstable with/without hard signs (aerodigestive or neurovascular injuries)
+
+    -   Tamponade \>\> Secure Airway for Air leak/hematoma \>\> OR
+
+**Injury to Zone II (violation of platysma)**
+
+-   Direct to OR for exploration, especially with high suspicion of carotid injury and neurovascular deficits (hard sign)
+
+-   Repair carotid artery if injured, even if thrombosed
+
+    -   The risk of reperfusion injury causing an intracranial hemorrhage was traditionally considered a reason to not repair.
+
+    -   However, overall mortality and final neurostatus has shown to be better with intervention, even if patient started with neurodeficits.
+
+    -   Requires communication with operative team (ie anesthesia) to mitigate hypoperfusion
+
+-   Consider concomitant injury to aerodigestive tract
+
+-   Scenario: Patient has large cerebral infarct on same side as carotid injury.
+
+    -   Continue to OR to explore
+
+    -   Preferred management is to repair and attempt reperfusion of hemisphere, possibly perfusing a previously ischemic penumbra
+
+    -   Ligation usually not an option.
+
+        -   Unless carotid is completely occluded and there is no retrograde bleeding after attempted thrombectomy \>\> there is potential for ligation, but not readily considered.
+
+    -   Observation without repair can risk evolvement of injury into pseudoaneurysm with need to repair and reoperate days/weeks later - Outcome of this repair is likely a stroke
+
+**Repair Techniques**
+
+-   Appropriate exposure of carotid artery (see above for details)
+
+-   Gain proximal and distal control
+
+-   Identify injury
+
+-   Remove burden of thrombus (if present)
+
+    -   Thrombus burden must be removed prior to repair
+
+    -   Via flushing from back-bleeding and forward-bleeding of internal carotid artery - Via Fogarty or thrombectomy catheter, carefully
+
+        -   Recommend 2 French or 3 French size
+
+        -   Pass only 1-2 cm up into distal internal carotid
+
+    -   Debride any devitalized tissue prior to repair
+
+        -   May cause defect to be larger, but repair requires healthy tissue planes
+
+    -   Repair carotid
+
+        -   Heparinization required when repairing carotid artery and/or clamping
+
+            -   Be efficient, as these patients usually have significant polytrauma and other areas that are susceptible to bleeding which will need to be controlled when heparin administered
+
+        -   Repair options
+
+            -   Primary Repair
+
+            -   Patch Repair
+
+                -   Used for short-segment injuries
+
+                -   Conduits
+
+                    -   Dacron or bovine pericardium
+
+                    -   Autologous vein
+
+                        -   Not first-line due to extra time required for harvest
+
+                        -   Used if there is concern for contamination (ie shot gun wound with large soft tissue injury, aerodigestive injury, etc)
+
+            -   Interposition Graft
+
+                -   Used for long-segment injuries
+
+                -   Conduits:
+
+                    -   Autologous vein (great saphenous vein)
+
+                        -   Good option when there is concomitant aerodigestive injury
+
+                        -   Consider shunting while waiting for harvest
+
+                    -   Synthetic (ie Dacron/PTFE/Goretex)
+
+            -   Transposition of Internal Carotid Artery to External Carotid artery
+
+                -   Can avoid need for shunting
+
+**Consideration of Shunting**
+
+-   In most cases, shunting not required because adds extra level of complexity to trauma case that may not have the luxury of time
+
+-   Cases where shunting can be used:
+
+    -   Interposition graft repair for long-segment carotid injury that requires vein harvest \> shunting can be performed to reperfuse the affected brain hemisphere while waiting for conduit preparation
+
+-   Typical shunts used: Argyle or Sundt
+
+**Assessment of Repair**
+
+-   Assess repair with removal of thrombus and once back-bleeding restored
+
+-   Duplex US (continuous wave doppler)
+
+    -   Best option when time is limited to assess flow
+
+    -   Usually also used most often with elective carotid repairs
+
+-   Intraoperative Arteriograms
+
+    -   If have luxury of time to perform and set up is appropriate, used for completion studies
+
+    -   Documents complete evacuation of distal thrombus
+
+    -   Performed by placing 18-gauge butterfly needle in CCA (remove air) and inject contrast to view repair and distal internal carotid to ensure lack of thrombus
+
+**Consideration of Drains**
+
+-   If there is contamination (aerodigestive injury), then can place a small JP drain (7mm) to protect the repair
+
+-   Buttressing repair in contaminated cases usually not used as the neck is highly vascular
+
+    -   Can consider a muscle flap to separate arterial injury from esophageal injury (commonly not seen) with gross contamination
+
+Guideline Algorithm for Penetrating Neck Trauma[@sperry2013]
+
+Paper that first presented the anatomic neck zones[@roon1979]
+
+## Internal Jugular Vein Injuries
+
+-   If patient has significant TBI, consider repairing Internal Jugular venous injuries to maintain venous outflow to that side of the brain --- especially if there is a transduced venous pressure gradient. Cases include patients who have intracranial hypertension and require a decompressive craniectomy.
+
+-   Otherwise, able to ligate without much consequential effects in most patients due to appropriate amounts of collateral outflow.
+
+EAST Blunt Cerebrovascular Injury Guidelines
+
+<https://www.east.org/education/practice-management-guidelines/blunt-cerebrovascular-injury>
+
+Check out Rich's Vascular Trauma
+
+<https://www.elsevier.com/books/richs-vascular-trauma/9781455712618>
