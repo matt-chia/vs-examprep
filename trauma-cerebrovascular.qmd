@@ -163,7 +163,7 @@ Detailed exposure techniques can be found here[@kwon2019]
 ## Blunt Trauma
 
 -   Mechanism of Injury: history of a motor vehicle collision, blunt force to neck, severe hyperextension/rotation/flexion injuries, etc.
--   External signs of injury: marks on neck or around the thoracic inlet (ie "seatbelt sign"), unilateral neurodeficits (suggestive of hemispheric ischemia or stroke)
+-   External signs of injury: marks on neck or around the thoracic inlet (i.e. "seatbelt sign"), unilateral neurodeficits (suggestive of hemispheric ischemia or stroke)
 -   Accompanying injuries: concomitant closed head injuries (TBIs), complex facial fractures, cervical vertebral body and transverse foramen fractures
 
 ### Evaluation
@@ -172,7 +172,7 @@ Detailed exposure techniques can be found here[@kwon2019]
 
 -   US duplex combines B mode ultrasound with pulse doppler. Limitation in visualization of injury above the angle of the mandible (distal internal carotid and proximal thoracic outlet)
 
--   These imaging modalities are used to assess visibility of defect (ie dissection, thrombus, intimal flap) and degree of flow limitation by measured velocity.
+-   These imaging modalities are used to assess visibility of defect (i.e. dissection, thrombus, intimal flap) and degree of flow limitation by measured velocity.
 
 **Denver Grading Scale for Blunt Vascular Carotid Injury (BCVI)**[@biffl2001]
 
@@ -180,13 +180,13 @@ Detailed exposure techniques can be found here[@kwon2019]
 -   Grade II: Dissection or intraluminal hematoma with ≥ 25% luminal narrowing, intraluminal thrombus, or raised intimal flap
 -   Grade III: Pseudoaneurysm
 -   Grade IV: Occlusion
--   Grade V: Transection with Free Extravasation
+-   Grade V: Transection with free extravasation
 
-### Managment
+### Management
 
 **Considerations**
 
--   Consider the overall injury severity of the trauma patient with any concomitant injuries that may prevent antiplatelet/anticoagulation initiation (ie TBI) or intervention
+-   Consider the overall injury severity of the trauma patient with any concomitant injuries that may prevent antiplatelet/anticoagulation initiation (i.e. TBI) or intervention
 
     -   Oftentimes have other blunt vascular injuries, such as aortic injuries, that need to be addressed as well
 
@@ -244,7 +244,7 @@ Detailed exposure techniques can be found here[@kwon2019]
 
     -   Endovascular interventions can be considered for those patients with severe injury and/or who are symptomatic
 
-        -   Usually performed by neuro-interventional as the injury is located within the skull base
+        -   Usually performed by neuro-interventionalist as the injury is located within the skull base
 
     -   Serial imaging still needs to be performed to evaluate healing (similar manner to carotid injury)
 
@@ -292,7 +292,7 @@ Guidelines and treatment algorithm can be found here[@geddes2016]
 
     -   However, overall mortality and final neurostatus has shown to be better with intervention, even if patient started with neurodeficits.
 
-    -   Requires communication with operative team (ie anesthesia) to mitigate hypoperfusion
+    -   Requires communication with operative team (i.e. anesthesia) to mitigate hypoperfusion
 
 -   Consider concomitant injury to aerodigestive tract
 
@@ -306,17 +306,17 @@ Guidelines and treatment algorithm can be found here[@geddes2016]
 
         -   Unless carotid is completely occluded and there is no retrograde bleeding after attempted thrombectomy \>\> there is potential for ligation, but not readily considered.
 
-    -   Observation without repair can risk evolvement of injury into pseudoaneurysm with need to repair and reoperate days/weeks later - Outcome of this repair is likely a stroke
+    -   Observation without repair can risk evolution of the injury into pseudoaneurysm with need to repair and reoperate days/weeks later - Outcome of this repair is likely a stroke
 
 **Repair Techniques**
 
--   Appropriate exposure of carotid artery (see above for details)
+1.  Appropriate exposure of carotid artery (see above for details)
 
--   Gain proximal and distal control
+2.  Gain proximal and distal control
 
--   Identify injury
+3.  Identify injury
 
--   Remove burden of thrombus (if present)
+4.  Remove burden of thrombus (if present)
 
     -   Thrombus burden must be removed prior to repair
 
@@ -326,51 +326,27 @@ Guidelines and treatment algorithm can be found here[@geddes2016]
 
         -   Pass only 1-2 cm up into distal internal carotid
 
-    -   Debride any devitalized tissue prior to repair
+5.  Debride any devitalized tissue prior to repair
 
-        -   May cause defect to be larger, but repair requires healthy tissue planes
+    -   May cause defect to be larger, but repair requires healthy tissue planes
 
-    -   Repair carotid
+6.  Repair carotid - Heparinization required when repairing carotid artery and/or clamping. Be efficient, as these patients usually have significant polytrauma and other areas that are susceptible to bleeding which will need to be controlled when heparin administered. Repair options, include:
 
-        -   Heparinization required when repairing carotid artery and/or clamping
+    -   Primary Repair
 
-            -   Be efficient, as these patients usually have significant polytrauma and other areas that are susceptible to bleeding which will need to be controlled when heparin administered
+    -   Patch Repair - Used for short-segment injuries. Conduits include:
 
-        -   Repair options
+        -   Dacron or bovine pericardium
 
-            -   Primary Repair
+        -   Autologous vein - Not first-line due to extra time required for harvest. Used if there is concern for contamination (i.e. shot gun wound with large soft tissue injury, aerodigestive injury, etc)
 
-            -   Patch Repair
+    -   Interposition Graft - Used for long-segment injuries. Conduits include:
 
-                -   Used for short-segment injuries
+        -   Autologous vein (great saphenous vein) - Good option when there is concomitant aerodigestive injury. Consider shunting while waiting for harvest
 
-                -   Conduits
+        -   Synthetic (i.e. Dacron/PTFE)
 
-                    -   Dacron or bovine pericardium
-
-                    -   Autologous vein
-
-                        -   Not first-line due to extra time required for harvest
-
-                        -   Used if there is concern for contamination (ie shot gun wound with large soft tissue injury, aerodigestive injury, etc)
-
-            -   Interposition Graft
-
-                -   Used for long-segment injuries
-
-                -   Conduits:
-
-                    -   Autologous vein (great saphenous vein)
-
-                        -   Good option when there is concomitant aerodigestive injury
-
-                        -   Consider shunting while waiting for harvest
-
-                    -   Synthetic (ie Dacron/PTFE/Goretex)
-
-            -   Transposition of Internal Carotid Artery to External Carotid artery
-
-                -   Can avoid need for shunting
+    -   Transposition of Internal Carotid Artery to External Carotid artery - Can avoid need for shunting
 
 **Consideration of Shunting**
 
@@ -392,7 +368,7 @@ Guidelines and treatment algorithm can be found here[@geddes2016]
 
     -   Usually also used most often with elective carotid repairs
 
--   Intraoperative Arteriograms
+-   Intraoperative arteriograms
 
     -   If have luxury of time to perform and set up is appropriate, used for completion studies
 

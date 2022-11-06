@@ -1,4 +1,4 @@
-## Thoracic Outlet
+# Thoracic Outlet
 
 Author: *Nedal Katib*
 
@@ -18,6 +18,8 @@ Types: Neurogenic, Venous and Arterial
 -   aTOS -- 1%
 
 -   nTOS -- \>95% [@humphries124ThoracicOutlet2019]
+
+## Demographics
 
 ### Anatomy
 
@@ -139,9 +141,9 @@ vTOS
 
 -   Patients with aTOS need to be investigated and assessed urgently given risk of ischemia.
 
-### Evaluation
+## Evaluation
 
-#### Clinical Examination
+### Clinical Examination
 
 Provocative maneuvers are largely used for nTOS. While these are described and mentioned in most texts their utility largely is beyond the scope of a vascular surgeon's assessment and diagnosis of nTOS.
 
@@ -165,9 +167,9 @@ Provocative maneuvers are largely used for nTOS. While these are described and m
 
 -   If pain is elicited as wrists dorsiflexed then test is positive.
 
--   A further manoeuvre is then performed, laterally flex the head on each side, if pain is elicited on the contralateral side to which the head is flexed then test is positive. [@humphries124ThoracicOutlet2019]
+-   A further maneuver is then performed, laterally flex the head on each side, if pain is elicited on the contralateral side to which the head is flexed then test is positive. [@humphries124ThoracicOutlet2019]
 
-#### Non-invasive imaging or vascular lab studies
+### Non-invasive imaging or vascular lab studies
 
 -   DBI
 
@@ -183,7 +185,7 @@ Provocative maneuvers are largely used for nTOS. While these are described and m
 
 -   Electromyography and Nerve Conduction Studies for nTOS
 
-### Management
+## Management
 
 After the appropriate evaluation, if decompression of thoracic outlet is deemed appropriate, there are multiple approaches to the first rib resections.
 
@@ -239,15 +241,15 @@ After the appropriate evaluation, if decompression of thoracic outlet is deemed 
 
     -   Requires two incisions one above and below the clavicle
 
-#### Post operative complications
+### Post operative complications
 
 -   Post operative patients with hemodynamic instability and ipsilateral effusion on xray should go back to OR for exploration and hemorrhage control. [@rinehardtCurrentPracticeThoracic2017]
 
 -   Chyle leak often managed with adequate drainage and medium chain fatty acid diet. Persistent leak should undergo wound exploration and ligation of thoracic duct (most often encountered on the left) or VATS thoracic duct ligation.[@delaney2017] IR embolization has also been shown to be effective.[@cope1999]
 
-### vTOS
+## vTOS
 
-#### Demographics
+### Demographics
 
 -   Incidence: 2/100,000 persons
 
@@ -259,11 +261,11 @@ After the appropriate evaluation, if decompression of thoracic outlet is deemed 
 
     -   First defined by Hughes in 1949 in reference to Sir James Paget who in a hundred years earlier defined acute arm swelling and pain as possibly related to vasospasm and then von Schroetter who in 1884 attributed to the presentation to subclavian and axillary vein thrombosis. [@humphries123ThoracicOutlet2019]
 
-    -   Now vTOS and Paget Schroetter Syndrome are used synonymously.
+    -   Now vTOS and Paget Schroetter Syndrome are synonymous.
 
     -   Paget Schroetter Syndrome accounts for 10-20% of all upper extremity deep vein thrombosis. [@sekharYearbookVascularEndovascular2018]
 
-#### Presentation
+### Presentation
 
 -   Upper Limb edema, pain and cyanosis. Edema affects the shoulder, arm and hand and characteristically non pitting.
 
@@ -273,7 +275,7 @@ After the appropriate evaluation, if decompression of thoracic outlet is deemed 
 
 -   The reported incidence of PE following Upper Limb DVT is \<12%. [@humphries123ThoracicOutlet2019]
 
-#### Evaluation
+### Evaluation
 
 Upper extremity venogram is a very useful modality for diagnosis. Compression likely will not be seen in normal orientation, however can be demonstrated with provocative maneuvers including 90 degree arm abduction and external rotation.[@moriarty2015]
 
@@ -293,7 +295,7 @@ Upper extremity venogram is a very useful modality for diagnosis. Compression li
 
 -   Exclude Venous Gangrene and Phlegmasia of the upper limb
 
-#### Management
+### Management
 
 Limited evidence due to lack of RCT's. Majority of evidence based on retrospective studies.
 
@@ -305,7 +307,7 @@ Limited evidence due to lack of RCT's. Majority of evidence based on retrospecti
 
 -   Prevent long term Post Phlebitic Limb Syndrome
 
-##### Medical Management
+#### Medical Management
 
 -   As per ACCP Guidelines: Initial management is anticoagulation regardless of etiology. [@kearonAntithromboticTherapyVTE2016]
 
@@ -323,7 +325,7 @@ Limited evidence due to lack of RCT's. Majority of evidence based on retrospecti
 
     -   Within 14 days of onset of thrombosis. Excellent results have been reported following CDT if initiated before 14 days. [@wilsonFibrinolyticTherapyIdiopathic1990]
 
-##### Surgery
+#### Surgery
 
 -   After initial management patients are generally divided into two groups, unsuccessful or successful thrombolysis.
 
@@ -335,9 +337,9 @@ Limited evidence due to lack of RCT's. Majority of evidence based on retrospecti
 
 -   Venous occlusion in vTOS may be treated with jugular turn down or venous bypass to IJ of SVC if patients remain symptomatic. [@vemuriDiagnosisTreatmentEffortinduced2016]
 
-#### Summary
+### Summary
 
-##### Controversy
+#### Controversy
 
 -   There is a lack of consensus around the necessity of surgical rib resection, the timing and the requirement for vein patch plasty.
 
@@ -349,7 +351,7 @@ Limited evidence due to lack of RCT's. Majority of evidence based on retrospecti
 
     -   Post decompression venography and treatment 2 weeks post rib resection may help to prevent recurrence and long term vein patency. [@changRoutineVenographyFollowing2012]
 
-##### Landmark papers
+#### Landmark papers
 
 1.  Lugo J et al -- Acute Paget Schroetter syndrome: does the first rib routinely need to be removed after thrombolysis? Annals of Vascular Surgery 2015 [@lugoAcutePagetSchroetter2015]
 
@@ -375,9 +377,9 @@ Limited evidence due to lack of RCT's. Majority of evidence based on retrospecti
 
     -   Comprehensive summary of management strategy for effort induced thrombosis.
 
-### aTOS
+## aTOS
 
-#### Presentation
+### Presentation
 
 -   Most common: Hand ischemia due to arterial compression or microembolization with subclavian artery aneurysm and pulsatile supraclavicular mass [@boll122ThoracicOutlet2019]
 
@@ -395,7 +397,7 @@ Limited evidence due to lack of RCT's. Majority of evidence based on retrospecti
 
     -   Thromboangiitis Obliterans
 
-    -   Arterial Embolisation -- Aortic or Central Source
+    -   Arterial Embolization -- Aortic or Central Source
 
     -   Radiation Arteritis
 
@@ -413,7 +415,7 @@ Limited evidence due to lack of RCT's. Majority of evidence based on retrospecti
 
     -   Enlarged C7 transverse process (1%)
 
-#### Evaluation
+### Evaluation
 
 Clinical Examination
 
@@ -427,7 +429,7 @@ Clinical Examination
 
 Most useful studies are pulse volume recordings (PVR) and duplex to identify aneurysm or sites of embolization. Stress test is not reliable for diagnosis. [@vemuriClinicalPresentationManagement2017; @criadoSpectrumArterialCompression2010]
 
-#### Management
+### Management
 
 -   Symptomatic patients are generally indicated for treatment. Unlike asymptomatic patients in whom it may be appropriate to manage conservatively. [@boll122ThoracicOutlet2019]
 
@@ -445,9 +447,9 @@ Most useful studies are pulse volume recordings (PVR) and duplex to identify ane
 
 -   Subclavian artery repair is necessary in Scher Stages 2 and 3 and in some cases 1. Arterial repair with conduit either GSV, Femoral Vein or prosthetic have been described. Ringed PTFE offers good patency and resistance to kinking in this functional anatomical location.
 
-### nTOS
+## nTOS
 
-#### Demographics
+### Demographics
 
 Neurogenic TOS is largely a clinical diagnosis with symptoms and signs pertaining to nerve compression most commonly the lower trunk of the brachial plexus.
 
@@ -493,7 +495,7 @@ Neurogenic TOS is largely a clinical diagnosis with symptoms and signs pertainin
 
     -   Inability to carry out activities of daily living
 
-#### Management
+### Management
 
 As the patient has already seen multiple specialists and physiotherapists, the role of the vascular surgeon with nTOS is often limited but should focus on:
 

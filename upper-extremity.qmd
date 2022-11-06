@@ -287,7 +287,7 @@ Non-atherosclerotic, segmental, inflammatory disease of small/medium sized arter
 
 **What clinical criteria can help diagnose Buerger's?**
 
-Diagnosis of Beurger's disease requires 5 criteria[@akar2019]
+Diagnosis of Buerger's disease requires 5 criteria[@akar2019]
 
 1.  Smoking history
 
@@ -319,7 +319,7 @@ Although rarely are biopsy sent, pathology will show panvasculitis within small 
 
 1.  Smoking cessation! Only treatment to improve symptoms and reduce amputation risk if achieved before onset of gangrene or tissue loss. May even require inpatient admission for intensive smoking cessation therapy.[@hooten1998] It is important to remember following treatments will likely fail without smoking cessation.[@olin2000]
 
-2.  If smoking cessation does not improve, medical management with antiplatelet agents, immunomodulators, vasodilators (Calcium channel blockers and cilastazole[@dean2001]), anticoagulants[@kubota1997], and IPC[@montori2002]
+2.  If smoking cessation does not improve, medical management with antiplatelet agents, immunomodulators, vasodilators (Calcium channel blockers and cilostazol[@dean2001]), anticoagulants[@kubota1997], and IPC[@montori2002]
 
 3.  Endovascular-distal small vessel intervention
 
@@ -501,13 +501,13 @@ Behçet Disease - recurrent oral pathos ulcers, genital ulcers and uveitis.[@sha
 
 -   IV drug abuse (infected pseudoaneurysms in antecubital fossa)
 
--   Connective tissue disorders (ex. type IV Ehlers danlos)
+-   Connective tissue disorders (ex. type IV Ehlers Danlos)
 
 #### Presentation:
 
 -   Exam: pulsatile mass
 
--   Local pain or symptoms of median nerve compressions
+-   Local pain or symptoms of median nerve compression
 
 -   Hand/digital ischemia from thrombosis/distal embolization
 
@@ -527,7 +527,7 @@ Behçet Disease - recurrent oral pathos ulcers, genital ulcers and uveitis.[@sha
 
 -   Iatrogenic injuries-due to access and nonoperative treatment for small/asymptomatic pseudoaneurysms that are likely to thrombose spontaneously. Direct suture repair with evacuation of hematoma is possible. Thrombin injection is less favorable due to location and short neck.
 
--   Neurologic symptoms often from median nerve compression an require urgent repair, open surgery best for decompression.
+-   Neurological symptoms often from median nerve compression an require urgent repair, open surgery best for decompression.
 
 ### Radial Artery Pseudoaneurysm
 
@@ -545,7 +545,7 @@ Can also be seen as a result of trauma.[@bagir2017]
 
 #### Etiology
 
--   Vibrating handheld machines (eg pneumatic hammers and drills, grinders, and chain saws)
+-   Vibrating handheld machines (i.e. pneumatic hammers and drills, grinders, and chain saws)
 
 -   Linear relationship between exposure over years and onset of this syndrome
 
@@ -571,7 +571,7 @@ Can also be seen as a result of trauma.[@bagir2017]
 
 -   Nifedipine (Ca2+ channel blocker) in advanced cases
 
--   IV prostanoid (ie prostacyclin) for digital gangrene
+-   IV prostanoid (i.e. prostacyclin) for digital gangrene
 
 -   Surgery-cervical sympathetectomy or digital sympathectomy rarely needed\
 
@@ -653,7 +653,7 @@ Athletes who engage in strenuous or exaggerated hand/shoulder activity may be su
 
 Critically ill patients can be treated effectively with the use of a closure device or covered stent placement.[@yoon2015; @tran2009; @cohen2014] Cut down in the mid subclavian artery is very difficult to perform and results in increased blood loss and worse outcomes.
 
-Trauma to the proximal subclavian should be accessed on R through a median sternotomy or trapdoor incision. On the left, the proximal subclavian is accessed best through an anterolateral thoracotomy. For more on exposures, see \@ref(upper-extremity).
+Trauma to the proximal subclavian should be accessed on R through a median sternotomy or trapdoor incision. On the left, the proximal subclavian is accessed best through an anterolateral thoracotomy.
 
 ### Axillary Artery Trauma
 
@@ -727,13 +727,13 @@ Trauma to the proximal subclavian should be accessed on R through a median stern
 
 ### Quadrilateral space syndrome
 
-Anatomy
+#### Anatomy
 
 -   Bordered by teres minor superiorly, humeral shaft laterally, and teres major inferiorly, and long head of triceps muscle medially
 
 -   Posterior humeral circumflex artery and axillary nerve in space
 
-Etiology
+#### Etiology
 
 -   Compression of posterior humeral circumflex occurs with abduction/external rotation
 
@@ -743,11 +743,11 @@ Etiology
 
 -   Neurogenic-fixed structural impaction of quadrilateral space by fibrous bands or space-occupying lesions
 
-Presentation
+#### Presentation
 
 -   Muscle atrophy, paresthesias, poorly localized shoulder pain and pain in quadrilateral space
 
-Management
+#### Management
 
 -   Medical: Oral anti-inflammatory medications, PT, limitation of activities
 
@@ -755,29 +755,29 @@ Management
 
 ### Humeral head compression of axillary artery
 
-Anatomy
+#### Anatomy
 
 -   3rd portion of axillary artery compressed by head of humerus
 
-Etiology
+#### Etiology
 
 -   Arm is abducted and externally rotated with downward compression of humeral head to axillary artery
 
-Presentation
+#### Presentation
 
 -   Arm fatigue, loss of pitch velocity, finger numbness, Raynaud, cutaneous embolization
 
-Evaluation
+#### Evaluation
 
 -   Provocative maneuvers with impedance of flow through axillary artery on ultrasonography
 
 -   Arteriography with rest and provocative position
 
-TManagement
+#### Management
 
 -   Supportive with avoidance of throwing motion
 
--   Surgical-saphenous vein patch for no improvement or structural injury may require resection with saphenous vein bypass anatomically or extra-anatomic tunneling above pec minor
+-   Surgical-saphenous vein patch for no improvement or structural injury may require resection with saphenous vein bypass anatomically or extra-anatomic tunneling above pectoralis minor muscle
 
 ## Upper Extremity Lymphedema {#sec-upper-extremity-lymphedema}
 
