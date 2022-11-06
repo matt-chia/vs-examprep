@@ -28,7 +28,7 @@ And silly little things like great saphenous vein and small saphenous vein--I th
 
 Chronic venous disease is very common, with the weather getting a bit nicer, people wearing shorts, you're spotting, venous disease all over the place. The studies that have been done indicate that at least a quarter, probably up to a third of people have C2 to C6 disease. So a very common problem, with lots of people that need treatment.
 
-The Edinburgh Vein Study found that half of the general populatino with chronic venous disease deteriorated over the 13 year study. Factors associated with disease progression included family/personal history of DVT. Of note, female gender, obesity, number of pregnancies, and smoking status were not associated with progression.[@lee2015]
+The Edinburgh Vein Study found that half of the general population with chronic venous disease deteriorated over the 13 year study. Factors associated with disease progression included family/personal history of DVT. Of note, female gender, obesity, number of pregnancies, and smoking status were not associated with progression.[@lee2015]
 
 **Now we would like to discuss the classification and scoring systems, you mentioned CAEP, could you expand on that?**
 
@@ -117,7 +117,7 @@ There's nothing validated, there's nothing widely available, but we have a local
 
 In addition, it is important to implement mitigation. So traditionally things like a contraceptive pill, HRT and Tamoxifen, we wouldn't usually stop them for a local anesthetic procedure, but being on an estrogen containing pill doubles or triples your risk of VTE. It's an easily reversible thing in the short term that can be done. So for my patients, I would normally recommend that we stop the pill or HRT a full month before and after the procedure.
 
-For preventing EHIT specifically, the radiofrequency ablation (RFA) catheter should be placed 2cm from the SFJ. EHIT is a primarily technical complication.@joh2014
+For preventing EHIT specifically, the radiofrequency ablation (RFA) catheter should be placed 2cm from the SFJ. EHIT is a primarily technical complication.[@joh2014]
 
 **You mentioned it an extended course of anticoagulation for those patients with risk factors. Is there a specific timescale locally that you use for this?**
 
@@ -141,7 +141,7 @@ Open surgery remains the most commonly used superficial venous intervention arou
 
 Having said that, all the randomized trials have shown the same thing while the effectiveness may be as good in open surgery done well, the recovery is much better after endovenous ablation. So it's difficult to make the case for open surgery when you've got something that is so well established and the complications just so low, and it's cheaper when you look at their theater capacity, et cetera.
 
-So, I think there has to be a move towards endovenous, but there are lots of things stopping this. In Germany, for example, the reimbursement is greatest for open surgery. So surprise, surprise, there are still lots and lots of open varicose vein operations. For trainees, it is important to recognise that if you want to change practice, the single biggest driver for change is reimbursement. You can change whatever you like. So, I've treated maybe three patients with open surgery in the last five years. One was a GP, who I had treated the other leg with open surgery a few years earlier, and she said, "I want the same operation, please." So I did struggle to argue with that. The other two were big three, four, five centimeters saphenovarices in the groin. So specific indications, but not really for most patients.
+So, I think there has to be a move towards endovenous, but there are lots of things stopping this. In Germany, for example, the reimbursement is greatest for open surgery. So surprise, surprise, there are still lots and lots of open varicose vein operations. For trainees, it is important to recognize that if you want to change practice, the single biggest driver for change is reimbursement. You can change whatever you like. So, I've treated maybe three patients with open surgery in the last five years. One was a GP, who I had treated the other leg with open surgery a few years earlier, and she said, "I want the same operation, please." So I did struggle to argue with that. The other two were big three, four, five centimeters saphenovarices in the groin. So specific indications, but not really for most patients.
 
 For deep venous reflux, surgical management follows a relatively complex algorithm.[@odonnell2014] Valve prolapse due to vein wall dilation may be treated with external banding. Isolated valve prolapse may be treated with external valvuloplasty, and in severe cases an internal valvuloplasty. When no adequate valve exists, then valve transplant from a distant source, such as the axilla, may be necessary.[@kabbani2011] These are not commonly performed procedures and should be referred to centers with significant experience.
 
@@ -287,7 +287,7 @@ Reversal agents are also another tested topic in the medical management of vascu
 
 -   Dabigitran - Idarucizumab.[@glund2019]
 
--   Edoxaban, apixiban and rivaroxaban - andexanet-alfa.[@connolly2019]
+-   Edoxaban, apixiban and rivaroxaban - andexanet alfa.[@connolly2019]
 
 -   Nonspecific with some effect on other DOACs - PPC, Factor 7, and activated PPC.[@cuker2019; @kearon2016]
 
@@ -325,7 +325,7 @@ However, if a patient becomes hemodynamically unstable, such as develops hypoten
 
 -   Active bleeding or known bleeding disorder
 
--   Nonhemorrhagic stroke within the past 3 months.
+-   Non-hemorrhagic stroke within the past 3 months.
 
 Patients who do not immediately respond to systemic thrombolysis, are a high risk of bleeding, or in shock that may cause death before thrombolytics take effect, then catheter based thrombus removal may be considered. This complex decision making is best made through the previously mentioned PERT.[@xenos2019] Endovascular techniques include:
 
@@ -469,7 +469,7 @@ So that's a sort of protocol that we have and in general, what we've seen is tha
 
 There was a systematic review done a few years ago where all of the published literature for deep venous stenting was reviewed and I think the authors identified 28 different regimens for anticoagulation of the stenting.[@notten2021] The honest answer is nobody knows, our approach is to have low molecular weight heparin as the primary anticoagulant for the initial two week period. And then at the two week point, they undergo a stent. If there's no issues, they get transitioned to a DOAC.
 
-In addition, the patients get six weeks of clopidogrel as an anti-platelet. And again, the reason for that is that it's a foreign material into the vein. Yes, the role of anti-platelets in prev enting venous thrombosis is very limited but there has to be some platelet related activity and platelet activation involved there. So it makes logical sense to have some anti-platelet activity. Of course the downside is that there's an increasing bleeding risk. These are the constant tightropes that you're walking with these patients.
+In addition, the patients get six weeks of clopidogrel as an anti-platelet. And again, the reason for that is that it's a foreign material into the vein. Yes, the role of anti-platelets in preventing venous thrombosis is very limited but there has to be some platelet related activity and platelet activation involved there. So it makes logical sense to have some anti-platelet activity. Of course the downside is that there's an increasing bleeding risk. These are the constant tightropes that you're walking with these patients.
 
 #### Surgery
 
@@ -519,7 +519,7 @@ For more on venous trauma, see @sec-trauma-venous.
 
 ## Lymphedema
 
-Here we will discuss lymphedema of the lower extremity. This is a broad topic, but the management decisions are relatively straightfoward and knowledge is required for examinations. For upper extremity lymphedema, see @sec-upper-extremity-lymphedema
+Here we will discuss lymphedema of the lower extremity. This is a broad topic, but the management decisions are relatively straightforward and knowledge is required for examinations. For upper extremity lymphedema, see @sec-upper-extremity-lymphedema
 
 ### Demographics
 
@@ -532,11 +532,11 @@ Lymphedema can be thought of as a primary dysfunction of the lymphatic channels 
 The management of lymphedema is determined primarily on its clinical stage at presentation.[@grada2017] The staging for lymphedema is as follows:
 
 | Lymphedema Stage |        Description         | Symptoms                                                                 |
-|:----------------:|:----------------:|-------------------------------------|
+|:----------------:|:----------------:|------------------------------------|
 |        0         |        Sub-clinical        | No swelling, heaviness or discomfort                                     |
-|        1         |    Sponteous Reversible    | Swelling improved with limb elevation                                    |
+|        1         |   Spontaneous Reversible   | Swelling improved with limb elevation                                    |
 |        2         |  Spontaneous Irreversible  | Pitting and swelling, not improved with elevation                        |
-|        3         | Lymphostatic elaphantiasis | Skin hardening, non-pitting edema, verrucas changes, recurrent infection |
+|        3         | Lymphostatic elephantiasis | Skin hardening, non-pitting edema, verrucas changes, recurrent infection |
 
 ### Evaluation
 
