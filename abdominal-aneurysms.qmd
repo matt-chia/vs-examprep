@@ -48,13 +48,13 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_AAA_post_auphonic.
 
 -   More than 90% of AAAs are associated with atherosclerosis.
 
--   Other causes include cystic medial necrosis, dissection, Marfan's syndrome, Ehler's-Danlos syndrome, HIV and syphilis.
+-   Other causes include cystic medial necrosis, dissection, Marfan's syndrome, Ehlers-Danlos syndrome, HIV and syphilis.
 
 -   Elastin and collagen are the major structural proteins responsible for the integrity of the aortic wall and defects in these cause degeneration and further aneurysmal change.
 
 -   For example, a mutation in fibrillin in Marfan's syndrome causes elastin fragmentation and pathological remodeling of the wall of the artery to form cystic medial degeneration.
 
--   Several investigations have also shown that upregulations of metalloproteinase activity, specifically MMP-2 and MMP-9, have an essential role in aneurysm formation. Imbalances between aortic wall proteases and antiproteases cause degradation of the extracellular matrix and loss of structural integrity of the aortic wall.
+-   Several investigations have also shown that upregulation of metalloproteinase activity, specifically MMP-2 and MMP-9, have an essential role in aneurysm formation. Imbalances between aortic wall proteases and antiproteases cause degradation of the extracellular matrix and loss of structural integrity of the aortic wall.
 
     -   Nicotine increases MMP expression in vascular smooth muscle cells.[@li2012; @rabkin2016]
 
@@ -68,7 +68,7 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_AAA_post_auphonic.
 
 **What are the risk factors for AAA occurrence and growth?** [@mooreVascularEndovascularSurgery2019]
 
--   Risk factors for AAAs are similar to the risk factors for occlusive atherosclerosis and include age, tobacco use, hypertension, male gender and hypercholesterolemia.
+-   Risk factors for AAAs are similar to the risk factors for occlusive atherosclerosis and include age, tobacco use, hypertension, male gender and hyperlipidemia.
 
 -   It has been found that diabetes is protective for AAA progression and rupture.
 
@@ -82,7 +82,7 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_AAA_post_auphonic.
 
     -   Stronger association with smoking in women.
 
-    -   Women have same outcomes from endo repair, higher complications from open repair due to poorly managemend CV risk factors.
+    -   Women have same outcomes from endo repair, higher complications from open repair due to poorly managed CV risk factors.
 
 -   Fluoroquinolones[@lee2015; @lee2018; @lemaire2018; @pasternak2018]
 
@@ -165,9 +165,9 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_AAA_post_auphonic.
 
 -   Traditionally, once duplex reveals an aneurysm 5cm in size, an initial CTA is performed and patients are followed with additional CT scans to assist with operative planning.
 
--   CT Angiograms are helpful in operative planning and determining candidacy for EVAR. You can assess the relationship of the aneurysm to the renal arteries, assess the access vessels, and measure seal zones
+-   CT angiograms are helpful in operative planning and determining candidacy for EVAR. You can assess the relationship of the aneurysm to the renal arteries, assess the access vessels, and measure seal zones
 
-    -   The maximum aneurysm diameter derived from the CTA should be based on outer wall to outer wall measurement perpendicular to the path of the aorta (the centerline of the aneurysm).
+    -   The maximum aneurysm diameter derived from the CTA should be based on outer wall to outer wall measurement perpendicular to the path of the aorta (the center-line of the aneurysm).
 
 -   MRA is recommended for patients with renal insufficiency who cannot tolerate iodinated contrast.
 
@@ -227,7 +227,7 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_AAA_post_auphonic.
 
     -   Determine if the patient has an active cardiovascular condition. Coronary artery disease is responsible for at least 50% to 60% of perioperative and late deaths after operations on the abdominal aorta, therefore, it is important for patients to undergo cardiac evaluation prior to surgery.
 
-        -   Unstable angina, decompensated heart failure, severe valvular disease, significant arrythmia -\> Cardiology consultation (Level 1, Grade B)
+        -   Unstable angina, decompensated heart failure, severe valvular disease, significant arrhythmia -\> Cardiology consultation (Level 1, Grade B)
 
         -   Significant clinical risk factors such as coronary artery disease, congestive heart failure, stroke, diabetes mellitus, and chronic kidney disease -\> Stress test (Level 2, Grade B)
 
@@ -367,7 +367,7 @@ Special considerations
 
 -   Emergent conversion from EVAR to open are associated with significant increase in morbidity and mortality. Risk factors include aneurysm diameter, young age, female gender and nonwhite race.[@ultee2016]
 
-#### Endoleaks
+#### Endoleak
 
 Defined as persistent blood flow within the aneurysm sac following EVAR.
 
@@ -559,7 +559,7 @@ Defined as persistent blood flow within the aneurysm sac following EVAR.
 
 -   Post-operative surveillance is necessary in the immediate post-operative period for open repair to evaluate incisions. Follow-up is only needed every 5-10 years, unless the patient becomes symptomatic.
 
-    -   Peri-anastomotic degeneration occurs in 0.5-10% of cases. Can be diagnosed with CT scan or ultrasound.\@curl1992
+    -   Peri-anastomotic degeneration occurs in 0.5-10% of cases. Can be diagnosed with CT scan or ultrasound.[@curl1992]
 
 -   In contrast, EVAR patients require a strict postoperative surveillance regimen to allow for detection of endoleaks, aneurysm sac expansion, stent fracture, limb kinking and material fatigue.
 

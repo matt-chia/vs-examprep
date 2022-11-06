@@ -38,21 +38,21 @@ One is that these are inherited in an autosomal dominant matter but there can be
 
 These patients are prone to aneurysmal degeneration and dissections of the aortic root but can also dissect the descending thoracic aorta. They commonly have lens dislocations (ectopia lentis). They have common skeletal features such as
 
-being tall, thin, with long arms and legs, scoliosis, pectus deformities (carnitatum or exicavtum), and club feet. They can also have a history of spontaneous pneumothoraces and mitral valve prolapse.
+being tall, thin, with long arms and legs, scoliosis, pectus deformities (carnitatum or excavatum), and club feet. They can also have a history of spontaneous pneumothorax and mitral valve prolapse.
 
 **How is Marfan syndrome similar or different from the other genetically triggered aortopathies that you mentioned?**
 
 [Loeys Dietz Syndrome]{.underline} is similar to Marfan syndrome in all the features including the aortic root aneurysms. They don't seem to have lens dislocation and they have other unique features such as bifid uvula or cleft palate, and hypertelorism (which is an abnormally increased distance between the eyes). What is different about Loeys Dietz Syndrome from Marfan syndrome is that they can have arterial aneurysms of other arteries instead of the aorta, such as the SMA, axillary, or other peripheral arteries.
 
-[Vascular Ehlers-Danlos syndrome]{.underline} has some shared features to Marfan Syndrome with both such as spontaneous pneumothoraces, but these patients tend to be short and can have easy bruising. They also have similar features to Loeys Dietz syndrome in terms of arterial aneurysms. Common features of VEDS would be thin translucent skin where you can easily see their veins, thin lips, thin bridge of the nose, large eyes, easy bruising, acrogeria -- or an aged appearance of the hands
+[Vascular Ehlers-Danlos syndrome]{.underline} has some shared features to Marfan Syndrome with both such as spontaneous pneumothorax, but these patients tend to be short and can have easy bruising. They also have similar features to Loeys Dietz syndrome in terms of arterial aneurysms. Common features of VEDS would be thin translucent skin where you can easily see their veins, thin lips, thin bridge of the nose, large eyes, easy bruising, acrogeria -- or an aged appearance of the hands
 
-However, unlike Marfan and Loey Dietz, the majority of VEDS patients tend to not have aortic root aneurysms. One thing to remember about VEDS is that it is a *subtype* of Ehlers Danlos syndromes. It's very important to distinguish it from the other subtypes because most of the other 12 Ehlers-Danlos syndromes are not associated with arterial pathology. So people with vascular EDS are prone to arterial, uterine, and intestinal rupture and their average lifespan is 48 due to these highly morbid pathologies. 25% of patients with vEDS will have experienced some clinical manifestation by age 20, and that number is close to 90% by age 40.
+However, unlike Marfan and Loeys-Dietz, the majority of VEDS patients tend to not have aortic root aneurysms. One thing to remember about VEDS is that it is a *subtype* of Ehlers Danlos syndromes. It's very important to distinguish it from the other subtypes because most of the other 12 Ehlers-Danlos syndromes are not associated with arterial pathology. So people with vascular EDS are prone to arterial, uterine, and intestinal rupture and their average lifespan is 48 due to these highly morbid pathologies. 25% of patients with vEDS will have experienced some clinical manifestation by age 20, and that number is close to 90% by age 40.
 
-**I remember learning about classic Ehler's Danlos presenting with hypermobile skin and joints. Is this something you see with Vascular EDS as well?**
+**I remember learning about classic Ehlers-Danlos presenting with hypermobile skin and joints. Is this something you see with Vascular EDS as well?**
 
-Patient's with vEDS don't have the same hypermobile skin or joint laxity as we classically think of with classic Ehler's Danlos. In fact, some vEDS patients report losing confidence in their physicians who ask them about joint and skin hypermobility because it suggests to them that their doctor doesn't know about their disease process. These patients often know more than most of the doctors they meet about their condition, and it's a source of constant frustration for them. It can also be a problem if the severity of the disease is underestimated, as we discussed they can present much younger than most patients with highly morbid issues -- like arterial rupture.
+Patient's with vEDS don't have the same hypermobile skin or joint laxity as we classically think of with classic Ehlers-Danlos. In fact, some vEDS patients report losing confidence in their physicians who ask them about joint and skin hypermobility because it suggests to them that their doctor doesn't know about their disease process. These patients often know more than most of the doctors they meet about their condition, and it's a source of constant frustration for them. It can also be a problem if the severity of the disease is underestimated, as we discussed they can present much younger than most patients with highly morbid issues -- like arterial rupture.
 
-**You mentioned arterial pathology in Loeys Dietz and VEDS. Can you tell me more about that?**
+**You mentioned arterial pathology in Loeys-Dietz and vEDS. Can you tell me more about that?**
 
 In both types you can see subclavian, carotid, SMA, and iliac artery aneurysms and dissections, as well as less frequently vertebral, SFA, and popliteal aneurysms and dissections.
 
@@ -60,7 +60,7 @@ In both types you can see subclavian, carotid, SMA, and iliac artery aneurysms a
 
 There are clinical diagnostic criteria for each, but ultimately genetic and laboratory testing is very important for the final diagnosis.
 
-Ghent's criteria is used to clinically diagnose Marfan's syndrome. The big ones are aortic root dilation, known family history of Marfan's or not, the diagnosis of ectopia lentis which clinically is manifested as iridonesis (lens shimmering). Additionally, genetic testing for pathogenic FBN1 variants is also diagnostic.
+Ghent criteria is used to clinically diagnose Marfan syndrome. The big ones are aortic root dilation, known family history of Marfan's or not, the diagnosis of ectopia lentis which clinically is manifested as iridodonesis (lens shimmering). Additionally, genetic testing for pathogenic FBN1 variants is also diagnostic.
 
 To date, there are 5 types of Loeys-Dietz as of last check. These are due to pathogenic variants in the TGF-B signaling pathway, such as TGF-beta receptors and SMAD3 genes.
 
@@ -84,7 +84,7 @@ For patients with Marfan's, prophylactic surgery is recommended for aortic root 
 
 **What about VEDS, when surgery cannot be avoided? How do you mitigate the risk of complications?**
 
-The tissue is very fragile. So using instruments that are the least traumatic is key -- like fogarty clamps for vessels. Sutures often must be pledgetted to reinforce them. Leave no tension on anastomoses or suture lines. Always keep a backup plan in mind-- when arteries cannot be repaired, can they safely be ligated or embolized? Generally any large bore access for endovascular treatment is avoided because access site complications are high and can lead to devastating consequences. In situations of extremis, like a rupture, these patients' tissues have been known to completely breakdown. Try to avoid the worst case scenario, but of course sometimes it's the only option left to get out of the OR. Be upfront with the patient about how complications may arise, set expectations, and think about goals of care early.
+The tissue is very fragile. So using instruments that are the least traumatic is key -- like fogarty clamps for vessels. Sutures often must be pledgeted to reinforce them. Leave no tension on anastomoses or suture lines. Always keep a backup plan in mind-- when arteries cannot be repaired, can they safely be ligated or embolized? Generally any large bore access for endovascular treatment is avoided because access site complications are high and can lead to devastating consequences. In situations of extremis, like a rupture, these patients' tissues have been known to completely breakdown. Try to avoid the worst case scenario, but of course sometimes it's the only option left to get out of the OR. Be upfront with the patient about how complications may arise, set expectations, and think about goals of care early.
 
 **We discussed earlier that these aortopathies can have shared phenotypic characteristics, some of which can be used in a clinical diagnosis, but are all of these genetic aortopathies syndromic?**
 
@@ -98,7 +98,7 @@ Don't forget the family. Once you've made the diagnosis in one of them, remember
 
 ## LINKS:
 
-VEDS Research Colaborative study:
+VEDS Research Collaborative study:
 
 [[https://www.vedscollaborative.org/get-involved]{.underline}](https://www.vedscollaborative.org/get-involved)
 

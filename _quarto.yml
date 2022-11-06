@@ -4,7 +4,7 @@ project:
 book:
   title: "Vascular Surgery Exam Prep"
   author: "Audible Bleeding"
-  date: "11/2/2022"
+  date: "11/6/2022"
   chapters:
     - index.qmd
     - authors.qmd

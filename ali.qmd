@@ -200,7 +200,7 @@ Myonephropathic metabolic syndrome: muscle cells undergo liquefaction necrosis d
 
 **How do you diagnose compartment syndrome?**
 
--   **Physical Exam**: Tenderness, (especially over anterior compartment) and paresthesiae, (especially between first and second toes).
+-   **Physical Exam**: Tenderness, (especially over anterior compartment) and paresthesias (especially between first and second toes).
 
     -   ***Anterior Compartment***: Sensory distribution and muscular innervation from the deep peroneal nerve (this is a VSITE favorite).
 
@@ -234,7 +234,7 @@ If the clinical suspicion of compartment syndrome is high, do not be reassured b
 
 **Who should a prophylactic fasciotomy be performed on?**
 
--   Patients with high occlusion and extensive ischemia.  
+-   Patients with high occlusion and extensive ischemia.
 
 -   Acute ischemia of greater than 6 hours with few collaterals.
 
@@ -312,16 +312,16 @@ The majority of questions regarding amputations stem from decision making around
 
 The most commonly performed lower extremity amputations include:
 
-### Above-knee, trans-femoral amputation
+### Above-knee, trans-femoral amputation (AKA)
 
 Above the knee amputations are most often performed with a fish mouth incision. Suture ligation of the neurovascular bundle at the level of the mid SFA and transection of the femur.
 
-### Below-knee, trans-tibial amputation
+### Below-knee, trans-tibial amputation (BKA)
 
 Below the knee amputation often performed with a long posterior, or Burgess, flap. Each tibial neuro vascular bundle is ligated individually. The fibula is transected 2-3cm more proximally than the tibia to avoid weight bearing from the prosthetic.
 
 Although hotly debated, a Cochrane review demonstrated no difference in outcomes based on flap type. Although it does recommend performing in two stages in the setting of wet gangrene.[@tisi2014]
 
-### Transmetatarsal amputation
+### Transmetatarsal amputation (TMA)
 
 Transmetatersal amputation is performed with transection of the metatarsal bones just distal to the heads. Best to transect in a graduated parabola with the 5th metatarsal most proximal. Patients may benefit from concomitant Achilles tendon lengthening to prevent equinous deformity that can result in ulceration of the medial aspect of the TMA.[@eidt2019]
