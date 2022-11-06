@@ -80,7 +80,7 @@ Patients with CLTI have a high mortality risk (10-15% annual risk), the majority
 
 **What has changed in the last few decades?**
 
-Etologically the prevalence of smokers(Ex and Current) in the population has decreased and the prevalence of diabetes has increased.
+Etiologically the prevalence of smokers(Ex and Current) in the population has decreased and the prevalence of diabetes has increased.
 
 **What is the WIFI Classification?** [@millsSocietyVascularSurgery2014a]
 
@@ -172,9 +172,9 @@ In the PAD and intermittent claudication sub chapters the non-invasive methods o
 
 Healing of an ulcer or tissue loss is unlikely if a patient's toe pressures are less than 55mmHg. And Toe Pressures have been validated in multiple studies to correlate with Amputation free survival and wound healing: Amputation Free Survival TP \<30mmHg 2.13 HR (1.52-2.98). [@wickström2017; @hicks2018]
 
-Patients with ESRD or DM develop medial calcification and often have elevated ABPI (\>1.3) - which is associated with an elevated risk of cardiovascular mortality. Outcomes in patients with ESRD are worse in relation to amputation free survival and amputation rates, regardless of revascularization strategy.\@meyer2018 Toe pressures are particularly important in this scenario. [@resnick2004; @vitti1994]
+Patients with ESRD or DM develop medial calcification and often have elevated ABPI (\>1.3) - which is associated with an elevated risk of cardiovascular mortality. Outcomes in patients with ESRD are worse in relation to amputation free survival and amputation rates, regardless of revascularization strategy.[@meyer2018] Toe pressures are particularly important in this scenario. [@resnick2004; @vitti1994]
 
-Regarding non-invasive assessment for wound healing, a tcPO2 greater than 40mmHg has the greatest correlation with amputation stump healing.[@malone1987]
+Regarding non-invasive assessment for wound healing, a TcPO2 greater than 40mmHg has the greatest correlation with amputation stump healing.[@malone1987]
 
 ## Management
 
@@ -208,7 +208,7 @@ GLASS is a grading system based on anatomical and subjective assessment of calci
 
 2.  Estimated Limb-Based Patency (LBP)
 
-As GLASS focuses on Infrainguinal disease, with the aortoIliac (AI) segment considered the inflow disease which includes the Common Femoral Artery and the Profunda Artery. Therefore, the GLASS grades assume the inflow vessels are treated and adequately 'dealt with'. 
+As GLASS focuses on Infrainguinal disease, with the aortoiliac (AI) segment considered the inflow disease which includes the Common Femoral Artery and the Profunda Artery. Therefore, the GLASS grades assume the inflow vessels are treated and adequately 'dealt with'. 
 
 Infrainguinal disease assessment for Femoropoliteal (FP) and Infrapopliteal (IP) is based on length of disease and the extent of CTOs. The FP and IP GLASS Grades are then combined into Stages 1-3. 
 

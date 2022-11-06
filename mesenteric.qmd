@@ -1,8 +1,6 @@
-# Mesenteric
+# Mesenteric Disease
 
-**UNDER CONSTRUCTION - This Chapter is Currently in DRAFT mode**
-
-Authors: *Matthew Chia and Nicolas J Mouawad*
+Authors: *Matt Chia, MD and Nick Mouawad, MD*
 
 ```{r echo=FALSE}
 
@@ -14,7 +12,7 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/Mesenteric_Ischemia.mp3"
 
 Mesenteric vascular disease can be broken down into three disease states that we'll cover today. There's the arterial disease, which is clearly separated into acute mesenteric ischemia and chronic mesenteric ischemia. Then there is venous disease, which we'll touch on briefly. There are also a handful of somewhat related diseases that we'll also sprinkle into these discussions, like median arcuate ligament syndrome and SMA syndrome, but that's overall where we're headed.
 
-Mesenteric collatorals are important for protecting against mesenteric ischemia. The gastroduodenal and pacreaticoduodenal arteries connect the celiac and SMA. The meandering artery (arc of riolan) and marginal artery of Drummond connect IMA and SMA. Hemorrhoidal branches connect internal iliacs and IMA. [@chandraChronicMesentericIschemia2010; @vangulikAnastomosisRiolanRevisited2005]
+Mesenteric collatorals are important for protecting against mesenteric ischemia. The gastroduodenal and pacreaticoduodenal arteries connect the celiac and SMA. The meandering artery (Arc of Riolan) and marginal artery of Drummond connect IMA and SMA. Hemorrhoidal branches connect internal iliacs and IMA. [@chandraChronicMesentericIschemia2010; @vangulikAnastomosisRiolanRevisited2005]
 
 ## Acute Mesenteric Ischemia
 
@@ -116,7 +114,7 @@ Other options include a retroperitoneal exposure, like you were preparing to tre
 
 4.  [Proceed with temporizing or definitive bowel repair]{.underline}. Resection, leaving in discontinuity, primary anastomosis, diversion, etc. All of these are options on the table, but the key here is that all of the previous steps occur before addressing the bowel. 
 
-5.  [Consider second-look laparotomy.]{.underline} Many times, bowel may look questionable even after revascularization and thorough re-assessment. To preserve the most bowel length, it may be reasonable to leave borderline bowel alone at the index operation and do a "second look" to fully reassess the bowel, especially after the patient has benefitted from aggressive resuscitation in the ICU.
+5.  [Consider second-look laparotomy.]{.underline} Many times, bowel may look questionable even after revascularization and thorough re-assessment. To preserve the most bowel length, it may be reasonable to leave borderline bowel alone at the index operation and do a "second look" to fully reassess the bowel, especially after the patient has benefited from aggressive resuscitation in the ICU.
 
 Endovascular approaches to acute mesenteric ischemia have been described but data is limited. Exploratory laparotomy and embolectomy should be preferred management.[@wyersmarkcandmartin2019]
 
@@ -136,7 +134,7 @@ This bypass takes is origin off of the aorta just below the SMA, anastomosing ty
 
 [Long retrograde R iliac-SMA bypass ("C-loop"):]{.underline}
 
-This bypass originates from the right common iliac artery, which presents a number of distinct advantages over an aorto-mesenteric bypass. First, using the iliacs avoids the hemodynamic consequences of an aortic cross-clamp, which may be contraindicated depending on your patient's medical condition. Second, you can avoid showering, causing dissection, or otherwise injuring your clamp sites if you have significant disease in the mesenteric segment of the aorta, which is common in patients with chronic mesenteric ischemia. The graft should be tunneled in a gentle C-loop towards the SMA to avoid kinging or twisting. The proximal anastomosis is performed end-side on the iliac artery, and the distal can be performed either end-end or end-side depending on the anatomy of the disease. Especially when using prosthetic in a contaminated field, you can consider taking an omental flap to wrap or cover the prosthetic.
+This bypass originates from the right common iliac artery, which presents a number of distinct advantages over an aorto-mesenteric bypass. First, using the iliacs avoids the hemodynamic consequences of an aortic cross-clamp, which may be contraindicated depending on your patient's medical condition. Second, you can avoid showering, causing dissection, or otherwise injuring your clamp sites if you have significant disease in the mesenteric segment of the aorta, which is common in patients with chronic mesenteric ischemia. The graft should be tunneled in a gentle C-loop towards the SMA to avoid kinking or twisting. The proximal anastomosis is performed end-side on the iliac artery, and the distal can be performed either end-end or end-side depending on the anatomy of the disease. Especially when using prosthetic in a contaminated field, you can consider taking an omental flap to wrap or cover the prosthetic.
 
 [Antegrade supraceliac aorta-SMA bypass:]{.underline}
 
@@ -146,7 +144,7 @@ This bypass originates from the supraceliac aorta. If revascularization of both 
 
 [Retrograde open mesenteric stenting (ROMS)]{.underline}
 
-So ROMS is a hybrid procedure involving an upper midline laparotomy that is used to evaluate the bowel. Through this incision, SMA exposure is obtained just as in a traditional open fashion at the root of the mesentery. The mid-SMA is then punctured under direct vision, and the area of disease is attempted to be treated from a retrograde approach back into the aorta. If bowel ischemia is found, the upper midline is easily lengthened into a traditional vertical laparotomy incision.
+So ROMS is a hybrid procedure involving an upper mid-line laparotomy that is used to evaluate the bowel. Through this incision, SMA exposure is obtained just as in a traditional open fashion at the root of the mesentery. The mid-SMA is then punctured under direct vision, and the area of disease is attempted to be treated from a retrograde approach back into the aorta. If bowel ischemia is found, the upper mid-line is easily lengthened into a traditional vertical laparotomy incision.
 
 [Endovascular treatment (percutaneous thrombectomy / thrombolysis / pharmacomechanical thrombectomy)]{.underline}
 
@@ -206,7 +204,7 @@ Frequently they're going to get some kind of axial imaging, either CTA or MRA, t
 
 Single vessel SMA revascularization is widely accepted for chronic mesenteric ischemia without necessarily needing to revascularize the celiac axis. [@oderich132ChronicMesenteric2019; @foleyRevascularizationSuperiorMesenteric2000]
 
-**Any other technical tips for endo intervention on the mesenterics?**
+**Any other technical tips for endo intervention on the mesenteric arteries?**
 
 The best view for diagnostic angiography in mesenteric ischemia is the lateral view.
 
@@ -240,7 +238,7 @@ Splenic artery embolization also an effective way to treat thrombocytopenia, par
 
 **Can you tell me about median arcuate ligament syndrome and how that differs from chronic mesenteric ischemia?**
 
-Sure, so median arcuate ligament syndrome (MALS), which has many names (Dunbar syndrome, celiac axis compression syndrome, etc.) is a somewhat controversial entity that occurs when repeated compression of the celiac artery occurs against the median arcuate ligament during respiratory variation. The thing you want to visualize here is that during full exhalation, the lungs are completely emptied, and the diaphragm moves up at a sharper angle. This angulation kinks off the celiac artery more severely, so velocities in **exhalation** are **higher** in MALS. However, these findings are common in asymptomatic patients, and so just like chronic mesenteric ischemia, the clinical presentation is key. They'll have a similar presentation as chronic mesenteric ischemia patients, with post-prandial pain, food fear, and weight loss, but often the symptomatology is a little more indolent in these patients. Because of this, these patients have frequently gotten the million dollar workup for nonspecific GI pain. Duplex ultrasound of shows celiac PSV \>200 and EDV \>50, normalizes during deep inspiration, and post-stenotic spectral broadening.[@zwolakMesentericCeliacDuplex1998]
+Median arcuate ligament syndrome (MALS), which has many names (Dunbar syndrome, celiac axis compression syndrome, etc.) is a somewhat controversial entity that occurs when repeated compression of the celiac artery occurs against the median arcuate ligament during respiratory variation. The thing you want to visualize here is that during full exhalation, the lungs are completely emptied, and the diaphragm moves up at a sharper angle. This angulation kinks off the celiac artery more severely, so velocities in **exhalation** are **higher** in MALS. However, these findings are common in asymptomatic patients, and so just like chronic mesenteric ischemia, the clinical presentation is key. They'll have a similar presentation as chronic mesenteric ischemia patients, with post-prandial pain, food fear, and weight loss, but often the symptomatology is a little more indolent in these patients. Because of this, these patients have frequently gotten the million dollar workup for nonspecific GI pain. Duplex ultrasound of shows celiac PSV \>200 and EDV \>50, normalizes during deep inspiration, and post-stenotic spectral broadening.[@zwolakMesentericCeliacDuplex1998]
 
 The treatment of choice for suspected MALS is a laparoscopic median arcuate ligament release, frequently performed by a MIS/foregut surgeon. A key point here is that you don't want to be fooled into putting a stent in these patients before they've gotten their median arcuate ligament release, because the dynamic motion of the diaphragm is likely to crimp or bend the stent if that hasn't been treated yet. It may be that some patients benefit from endovascular treatment after release, though, as some think that the chronic damage from MALS can result in intimal damage/scarring that persists even after the extrinsic compression is treated by the median arcuate ligament release.
 
@@ -248,7 +246,7 @@ The treatment of choice for suspected MALS is a laparoscopic median arcuate liga
 
 **What is SMA syndrome?**
 
-So SMA syndrome, also called Wilkie's Syndrome is a rare entity where the 3rd portion of the duodenum gets compressed between the SMA and the aorta, causing a functional gastric outlet obstruction. Patients are typically emaciated, having lost a significant amount of weight before their symptom onset. What's happened is they've lost the retroperitoneal fat pat that normally surrounds the SMA, and so the angle between the SMA and the aorta becomes more acute, pinching off the duodenum.
+SMA syndrome, also called Wilkie's Syndrome is a rare entity where the 3rd portion of the duodenum gets compressed between the SMA and the aorta, causing a functional gastric outlet obstruction. Patients are typically emaciated, having lost a significant amount of weight before their symptom onset. What's happened is they've lost the retroperitoneal fat pat that normally surrounds the SMA, and so the angle between the SMA and the aorta becomes more acute, pinching off the duodenum.
 
 Classic findings in fluoroscopic swallow in SMA syndrome are delayed gastric emptying, a dilated duodenum, to and fro peristalsis in the proximal duodenum and cutoff in the third portion. EGD can show pulsation in the 3rd portion of the duodenum.[@warnckeSuperiorMesentericArtery2019]
 

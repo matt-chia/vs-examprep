@@ -54,7 +54,7 @@ It is important to find out recent history of:
 
 -   Trauma or surgery to the upper extremities
 
-Moreover, you also want to consider the patient's quality of life, thus, noting which extremity is dominant is important. If possible, you want to create your dialysis access in the nondominant arm so that when the patient is receiving dialysis multiple times a week, they are able to use their dominant arm during their dialysis sessions.
+Moreover, you also want to consider the patient's quality of life, thus, noting which extremity is dominant is important. If possible, you want to create your dialysis access in the non-dominant arm so that when the patient is receiving dialysis multiple times a week, they are able to use their dominant arm during their dialysis sessions.
 
 However, placing a fistula with lowest rate of failure is preferred to using non-dominant hand. Therefore, placement of access on the patients dominant side would be preferred over placement of access with high risk of failure (i.e. on the side of an implantable cardiac device).[@sgroi2019]
 
@@ -122,7 +122,7 @@ For lower extremity AV access, femoral vein transposition has been shown to have
 
 For patients where lower extremity access may not be appropriate, the hemodialysis reliable outflow (HeRO) device can come to the rescue. These devices may not have been encountered in your training, so we will go into detail here. This device is composed of 2 components: a graft which is made of 6mm PTFE with a titanium coupler at one end, and a venous outflow component of a 19 Fr silicone catheter reinforced with a nitinol braid to prevent kinking. The graft portion is anastomosed to an artery, usually brachial, and is tunneled subcutaneously and the venous component is percutaneously placed into the right atrium via the IJ or subclavian vein. The two components are connected with a titanium coupler at the deltopectoral groove. If you need more immediate dialysis, the super HeRO comes to the rescue in which the graft portion is the early cannulation graft.
 
-For patients with thoracic central venous occlusion, there is also the SURFACER inside-out access catheter system. This is a device used to cross central occlusions from the right femoral vein. It allows placement of a tunneled central venous catheter, but it can also be utilized as an adjunct for HeRO placement. In a multicenter study, the results from the SAVE (Surfacer System to Facilitate Access in Venous Obstructions) registry showed that in 29 or 30 patients with thoracic central venous occlusion, a central venous catheter was successfully placed. Moreoever, there were no device-related adverse events, catheter malposition, or intra- or postprocedural complications. [@gallieni2020]
+For patients with thoracic central venous occlusion, there is also the SURFACER inside-out access catheter system. This is a device used to cross central occlusions from the right femoral vein. It allows placement of a tunneled central venous catheter, but it can also be utilized as an adjunct for HeRO placement. In a multicenter study, the results from the SAVE (Surfacer System to Facilitate Access in Venous Obstructions) registry showed that in 29 or 30 patients with thoracic central venous occlusion, a central venous catheter was successfully placed. Moreover, there were no device-related adverse events, catheter malposition, or intra- or postprocedural complications. [@gallieni2020]
 
 Hybrid catheter/grafts are good alternatives in patients with previous line infections, central stenosis, peripheral vascular disease and no suitable vein in the upper extremities. They have shown fewer bacteremia episodes than catheter, low primary patency rate and acceptable secondary patency rates.[@alshakarchi2015] Absolute contraindications include donor artery \<3mm, inability to dilate outflow vein to 19f, allergy to device materials (ePTFE, silicone, titanium, nitinol), and current active infection.[@meritmedical]
 
@@ -206,7 +206,7 @@ Performing a first rib resection in a hemodialysis patient is high risk and cont
 
 **Earlier, you mentioned steal syndrome, can you explain to us what this is?**
 
-Steal syndrome is also known as Access Related Hand Ischemis = ARHI. It is an uncommon but devastating complication of access creation. All patients with arteriovenous fistulas have some degree of physiologic steal or reversal of flow in part of the artery distal to the fistula. However, this is not sufficient enough to cause ischemia. Rather, ischemia results from inadequate collateral circulation and inability of peripheral arteries to meet the increased demand. Diseased vessels do not dilate and stenosis of arteries leads to decreased distal perfusion pressure. Furthermore, hypotension during dialysis further decreases perfusion causing symptoms. Steal can be limb threatening and is graded as follows:
+Steal syndrome is also known as Access Related Hand Ischemia = ARHI. It is an uncommon but devastating complication of access creation. All patients with arteriovenous fistulas have some degree of physiologic steal or reversal of flow in part of the artery distal to the fistula. However, this is not sufficient enough to cause ischemia. Rather, ischemia results from inadequate collateral circulation and inability of peripheral arteries to meet the increased demand. Diseased vessels do not dilate and stenosis of arteries leads to decreased distal perfusion pressure. Furthermore, hypotension during dialysis further decreases perfusion causing symptoms. Steal can be limb threatening and is graded as follows:
 
 -   Grade 0 - asymptomatic, no flow augmentation or steal
 
@@ -256,7 +256,7 @@ Access creation can result in neuropathy. It is important to note that over 2/3s
 
 -   Grade 3 - severe sensory changes with progressive motor loss (motion, strength, muscle wasting).
 
-Ischemic monomelic neuropathy is rare but occurs acutely after AV access creation. Within hours of surgery, patients develop acute pain, weakness, or paralysis of hand and forearm muscles with prominent sensory loss. However, the hand is warm with palpable pulse or audible signal in distal radial and ulnar arteries. It is important to note that pain out of proportion is what differentiates IMN from ARHI. Treatment is access ligation or emergent augmentation of flow.
+Ischemic Monomelic Neuropathy (IMN) is rare but occurs acutely after AV access creation. Within hours of surgery, patients develop acute pain, weakness, or paralysis of hand and forearm muscles with prominent sensory loss. However, the hand is warm with palpable pulse or audible signal in distal radial and ulnar arteries. It is important to note that pain out of proportion is what differentiates IMN from ARHI. Treatment is access ligation or emergent augmentation of flow.
 
 ### Perioperative neuropraxia
 

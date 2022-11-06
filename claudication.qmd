@@ -25,12 +25,12 @@ The disease has a step-wise spectrum of presentations from asymptomatic disease 
 The understanding of the underlying pathophysiology which results in occlusive arterial disease of the lower limb has evolved over the last 50 years. Atherosclerosis remains the main pathological process resulting in occlusive disease with smoking being the primary modifiable risk factor.\
 Although with the rising incidence of diabetes a second population of patients with a significant PAD burden has developed.
 
-Atherosclerosis begins with an injury to the intimal lining of the arterial wall, which, for example, can result from smoking, hypertension, hyperglycemia, or advanced age. Repeated injury leads to a chronic inflammatory process resulting in the uptake and oxidation of LDL, resulting in foam cells.[@hiltunen1998; @tsimikas2005; @witztum1994] Foam cells result when unregulated scavenger receptors promote uptake of oxidized LDL by marophages and smooth muscle cells. These foam cells become necrotic and then create the central core of the atheroma.[@owens2019] This oxidized LDL form into intimal plaque, build up and calcification that may result in progressive vessel stenosis and subsequent occlusion, or plaque rupture with acute occlusion.
+Atherosclerosis begins with an injury to the intimal lining of the arterial wall, which, for example, can result from smoking, hypertension, hyperglycemia, or advanced age. Repeated injury leads to a chronic inflammatory process resulting in the uptake and oxidation of LDL, resulting in foam cells.[@hiltunen1998; @tsimikas2005; @witztum1994] Foam cells result when unregulated scavenger receptors promote uptake of oxidized LDL by macrophages and smooth muscle cells. These foam cells become necrotic and then create the central core of the atheroma.[@owens2019] This oxidized LDL form into intimal plaque, build up and calcification that may result in progressive vessel stenosis and subsequent occlusion, or plaque rupture with acute occlusion.
 
 Atherosclerosis is particularly prone to developing at sites of arterial bifurcation (i.e. carotid bifurcation, femoral bifurcation) because turbulent flow and low laminar shear stress results in the down regulation of eNOS and NO production. This in turn increases V-CAM-1 and reduces inhibition of KF-kB (resulting in it's elevation.[@owens2019]
 
 | Classification | Description                                                             |
-|:--------------------:|--------------------------------------------------|
+|:----------------------:|------------------------------------------------|
 |       0        | Normal artery                                                           |
 |       1        | Initial atherosclerotic lesion                                          |
 |       2        | Fatty streak                                                            |
@@ -49,7 +49,7 @@ Atherosclerosis is particularly prone to developing at sites of arterial bifurca
 
     -   The **most significant modifiable risk factor** for developing peripheral arterial disease.
 
-    -   Causes endothelial dysfunction by reducing nitric oxide and triggering reactive-oxygen species, platelet ahesion, and permeability of endothelial surface to fibrinogen.[@unitedstatessurgeongeneralHealthConsequencesSmoking2014; @hackam2003].
+    -   Causes endothelial dysfunction by reducing nitric oxide and triggering reactive-oxygen species, platelet adhesion, and permeability of endothelial surface to fibrinogen.[@unitedstatessurgeongeneralHealthConsequencesSmoking2014; @hackam2003].
 
     -   Causes a prothrombotic environment by causing an increase in thromboxane A2 and decreasing prostacyclin thus overall resulting in increased prothrombotic environment for platelets.
 
@@ -61,7 +61,7 @@ Atherosclerosis is particularly prone to developing at sites of arterial bifurca
 
     -   The Odds Risk for developing PAD in patients with DM ranges from 1.89 to 4.05.
 
-    -   Factors associated with developing PAD in diabetics include female gender, chronicity/severity of DM, insulin dependence, African American race or hispanic ethnicity.[@regensteiner2015; @selvin2006; @wattanakit2005] An increase in HbA1C by 1% correlates with a 28% increase risk of developing PAD. [@adlerUKPDS59Hyperglycemia2002]
+    -   Factors associated with developing PAD in diabetics include female gender, chronicity/severity of DM, insulin dependence, African American race or Hispanic ethnicity.[@regensteiner2015; @selvin2006; @wattanakit2005] An increase in HbA1C by 1% correlates with a 28% increase risk of developing PAD. [@adlerUKPDS59Hyperglycemia2002]
 
     -   The following mechanisms may lead to PAD in diabetics
 
@@ -143,7 +143,7 @@ Atherosclerosis is particularly prone to developing at sites of arterial bifurca
 
     -   Autonomic: Sympathetic nervous system pathology
 
--   Structural deformaties and gait distrubances
+-   Structural deformities and gait disturbances
 
 -   Arterial disease of large and small vessels.
 
@@ -268,7 +268,7 @@ Other Guidelines:
 
 ### Management
 
-#### Medical Management
+#### Medical Management {#sec-pad-medical-management}
 
 **What is the initial management of Asymptomatic Patients with PAD?**
 
@@ -280,7 +280,7 @@ Other Guidelines:
 -   ***Anti-Platelet Therapy***
 
     -   The Aspirin for Asymptomatic Atherosclerosis Trial -- n=3350, aspirin versus placebo. 8 years follow up no difference in events [@fowkesAspirinPreventionCardiovascular2010] -- therefore benefit unknown
-    -   Literature reviews find benefits in secondary prevention with antiplatelet monotherapy (aspirin or clopidogrel) in symptomatic PAD.[@banerjee2015] Some initial studies did demonstrate benefit from vorapaxar as well.\@rooke2013
+    -   Literature reviews find benefits in secondary prevention with antiplatelet monotherapy (aspirin or clopidogrel) in symptomatic PAD.[@banerjee2015] Some initial studies did demonstrate benefit from vorapaxar as well.[@rooke2013]
 
 -   ***Statin Therapy***
 
@@ -290,7 +290,7 @@ Other Guidelines:
 
     -   Statins are particularly useful for risk reduction of cardiovascular events in diabetics.[@cholesteroltreatmenttrialists2008; @colhoun2004; @stamler1993]
 
-    -   Statin-associated muscle symptoms (SAMS) is the most common side effect and occurence has been reported as high as 30% in some cohorts.[@keen2014] Other side effects are rare (1.5-5% of patients) and include DM2 new onset, neurocognitive effects, hepatotoxicity, renal toxicity and pancreatitis.[@bitzur2013; @saxon2016; @ward2019]
+    -   Statin-associated muscle symptoms (SAMS) is the most common side effect and occurrence has been reported as high as 30% in some cohorts.[@keen2014] Other side effects are rare (1.5-5% of patients) and include DM2 new onset, neurocognitive effects, hepatotoxicity, renal toxicity and pancreatitis.[@bitzur2013; @saxon2016; @ward2019]
 
 -   ***Exercise and Limb Function***
 
@@ -305,11 +305,11 @@ Other Guidelines:
 
 -   **Smoking Cessation:** Multidisciplinary comprehensive smoking cessation interventions -- repeatedly until tobacco use has stopped *(Grade A -- 1)* First line therapy is behavioral therapy + varenicline/bupropion or nicotine replacement therapy (NRT) per EAGLES trial.[@anthenelli2016; @vogeler2016]
 
-    -   Preloading with varenicline (4wks) or bupropion (5-7d) prior to quitting has demonstrated higher abstinence at 12w.[@ratchford2011]
+    -   Preloading with varenicline (4 weeks) or bupropion (5-7d) prior to quitting has demonstrated higher abstinence at 12w.[@ratchford2011]
 
         -   Varenicline is a partial nicotine receptor agonist.[@cahill2016]
 
-        -   Buproprion is a selective dopamine and norepinephrine uptake inhibitor.[@hughes2014]
+        -   Bupropion is a selective dopamine and norepinephrine uptake inhibitor.[@hughes2014]
 
     -   NRT is preferred if rapid onset of action is needed.[@thomsen2014] However, contraindicated in setting of recent MI, severe angina, or life threatening arrhythmias.
 
@@ -318,7 +318,7 @@ Other Guidelines:
 -   **Anti-Platelet Therapy:** Aspirin therapy (75-325mg daily) is recommended to reduce cardiovascular events in patients with PAD *(Grade 1-Level A)* [@collaborationCollaborativeMetaanalysisRandomised2002; @antithrombotictrialists2009]
 
     -   There is evidence that Clopidogrel 75mg compared to Aspirin is better in event reduction. (CAPRIE)[@capriesteeringcommitteeRandomisedBlindedTrial1996]-- replacing Aspirin with Clopidogrel *(Grade 1-Level B)*
-    -   Recent evidence from the COMPASS trial has suggested that the addition of low dose rivaroxaban (2.5mg BID) to aspirin (100mg daily) has lowere MALE, composite endpoint of cardiovascular death, stroke and MI. Subgroup analysis suggested clopidogrel may be better with reduced risk of GI bleed and MACE.[@anand2018; @eikelboom2017]
+    -   Recent evidence from the COMPASS trial has suggested that the addition of low dose rivaroxaban (2.5mg BID) to aspirin (100mg daily) has lower MALE, composite endpoint of cardiovascular death, stroke and MI. Subgroup analysis suggested clopidogrel may be better with reduced risk of GI bleed and MACE.[@anand2018; @eikelboom2017]
 
 -   **Diabetes Mellitus:** -- Optimization of HbA1C \< 7% *(Grade 1-Level B)*[@lajoie2019]
 

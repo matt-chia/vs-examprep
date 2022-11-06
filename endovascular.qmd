@@ -38,7 +38,7 @@ The ability to obtain hemostasis is critical to be able to perform endovascular 
 
 Hemostasis is most commonly achieved through manual compression by compressing the artery against the femoral head. The brachial artery can also be compressed against the humerus, but because it's a more mobile vessel, compression is less effective and can lead to hematoma or pseudoaneurysm formation which may necessitate an operation to prevent compression of the median nerve
 
-Patients who will need to be uninterruptedly anticoagulated peri and postoperatively pose a challenge to hemostasis. The use of closure devices is very important in these situations to prevent access bleeding.
+Patients who will need to be uninterruptedly anticoagulated peri- and post-operatively pose a challenge to hemostasis. The use of closure devices is very important in these situations to prevent access bleeding.
 
 A variety of closure devices can also be used to assist in hemostasis, each with their own inherent advantages and disadvantages. In general, closure devices are contraindicated in small diameter and heavily calcified vessels.
 
@@ -104,7 +104,7 @@ Yes. Sometimes antegrade CFA access is used when performing an intervention dist
 
 Antegrade access is more challenging than retrograde access, however. This is particularly true in patients with a very short CFA, short distance between the inguinal ligament and the femoral bifurcation because the needle requires a steeper angle of entry to allow for cannulation well above the femoral bifurcation.
 
-Obtaining antegrade access is especially difficult in obese patients and will usually require an assistant to retract the pannus to allow proper needle placement. I would say antegrade access is relatively contra-indicated in morbidly obese patients with large pannus. Ultrasound guidance remains key here as well.
+Obtaining antegrade access is especially difficult in obese patients and will usually require an assistant to retract the pannus to allow proper needle placement. I would say antegrade access is relatively contraindicated in morbidly obese patients with large pannus. Ultrasound guidance remains key here as well.
 
 **What are some other commonly accessed arteries for endovascular procedures?**
 
@@ -168,7 +168,7 @@ Lastly, AV fistula can form and are usually between the femoral artery and vein 
 
 -   Best approximation of cumulative patient dose or peak skin dose (PSD).[@kwon2011]
 
--   Includes dose from fluorsocopy and fluorography acquisitions, however does not account for gantry angulation of changes in height.
+-   Includes dose from fluoroscopy and fluorography acquisitions, however does not account for gantry angulation of changes in height.
 
 **Substantial Radiation Dose Level (SRDL)** - defined as 5Gy exposure, which translates to a skin dose of 3Gy and should trigger specific patient follow up.[@baiter2011; @hirshfeld2005; @kirkwood2015; @stecker2009]
 
@@ -177,7 +177,7 @@ Lastly, AV fistula can form and are usually between the femoral artery and vein 
 The effects can impact both patients and clinicians. Patients often receive a higher dose during a single procedure, where as clinician doses, even with proper shielding, accumulate over multiple procedures throughout their careers. The effects of radiation are defined as either deterministic or stochastic.
 
 |  Dose   | Effect                                                                                             |
-|:-------------------:|---------------------------------------------------|
+|:--------------------:|--------------------------------------------------|
 |  0-2Gy  | No observable effects                                                                              |
 |  2-5Gy  | Transient skin erythema and dermatitis, full recovery 6w-1yr[@guesnier-dopagne2019; @kirkwood2014] |
 | 5-10Gy  | Erythema and epilation (hair loss), prolonged erythema up to 1y                                    |
@@ -290,13 +290,13 @@ Institutional Oversight - many institutions develop their own guidelines for emp
 
 ## Contrast Reduction
 
-The most common complications related to iodinated contrast during endovascular procedures are hypersensitivies and acute kidney injury. There are a number of mitigation strategies to limit the effect of contrast on patients undergoing endovascular procedures.
+The most common complications related to iodinated contrast during endovascular procedures are hypersensitivities and acute kidney injury. There are a number of mitigation strategies to limit the effect of contrast on patients undergoing endovascular procedures.
 
 In general patients with food allergies do have an increased incidence of contrast media allergies, however no specific common allergen has been identified. A new seafood allergy should not postpone or require pre-medication if a patient has previously tolerated IV contrast.[@schabelman2010]
 
 ### CO2 Angiography
 
-CO2 angiography is often utilized in place of iodinated contrast during fluoroscopy. A bolus of CO2 is injected, which then absorbs less ionizing radiation than surrounding tissue and provides a map of the arterial tree. CO2 can be used in a wide range of endovascular procedures, even a ruptured AAA.\@knipp2010 However, there are specific limitations and complications that should be understood.
+CO2 angiography is often utilized in place of iodinated contrast during fluoroscopy. A bolus of CO2 is injected, which then absorbs less ionizing radiation than surrounding tissue and provides a map of the arterial tree. CO2 can be used in a wide range of endovascular procedures, even a ruptured AAA.[@knipp2010] However, there are specific limitations and complications that should be understood.
 
 #### Limitations
 

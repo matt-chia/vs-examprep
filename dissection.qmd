@@ -60,10 +60,9 @@ Debakey
 
 **How about the new system proposed by Dr Lombardi, the SVS-STS classification system?**
 
-The new system published in 2020 keeps A and B and adds a number system which divides the aorta into zones from 0 proximaly to 12 distally in the mid SFA. [@lombardiSocietyVascularSurgery2020]
+The new system published in 2020 keeps A and B and adds a number system which divides the aorta into zones from 0 proximally to 12 distally in the mid SFA. [@lombardiSocietyVascularSurgery2020]
 
-![](images/thoracic_dissection1.png){fig-align="center"}
--   Type A is now JUST the ascending aorta to the innominate, also called Zone 0.
+![](images/thoracic_dissection1.png){fig-align="center"} - Type A is now JUST the ascending aorta to the innominate, also called Zone 0.
 
 -   Type B is now an entry tear in Zone 1 or greater and distally to whichever zone the dissection lands in.
 
@@ -75,8 +74,7 @@ So aside from the aortic dissection its self, you could see a bleb of contrast s
 
 Another key finding can be an **intramural hematoma** which is a hyper-dense crescent shaped hemorrhage within the aortic wall. There is no identifiable direct communication between the true and false lumen. IMH are classified in the same way but with the abbreviation IMH p-d zones.
 
-![](images/thoracic_dissection2.png){fig-align="center"}
-**Whats the significance of these two in combination?**
+![](images/thoracic_dissection2.png){fig-align="center"} **Whats the significance of these two in combination?**
 
 There is a higher chance of aortic rupture if a penetrating aortic ulcer is seen with intramural hematoma.
 
@@ -92,7 +90,7 @@ There is a higher chance of aortic rupture if a penetrating aortic ulcer is seen
 
 -   Complicated
 
-    -   End organ ischemia / malperfusjon
+    -   End organ ischemia / malperfusion
 
     -   Rupture or impending rupture
 
@@ -170,7 +168,7 @@ The big distinction is to find out if this is a type A or type B because the tre
 
 **What are the details of Type A treatment?**
 
-Operative treatment. 30% op mortality. Cardiothoracics take the lead on this one. However vascular surgeons should be involved in the management of type A as after the repair, a type A can become a functional type B.
+Operative treatment with a 30% operative mortality. Let cardiothoracic take the lead on this one. However vascular surgeons should be involved in the management of type A as after the repair, a type A can become a functional type B.
 
 **Type B is in the realm of vascular surgery. What is the first management step after we have diagnosed a type B dissection?**
 
@@ -190,7 +188,7 @@ In the acute setting mortality can be up to 50% with a 20% paraplegia risk. Its 
 
 **What is the management plan for a complicated Type B aortic dissection?**
 
-Start with invasive medical management and plan for TEVAR. The goal with TEVAR being to direct the blood flow into the true lumen and seal the entry tear. If there was a dynamic obstruction (flap occludes branching vessels.) Then TEVAR would reestablish the true lumen hence removing the dynamic obstruction. Endovascular fenestration can also equalise the pressure in the true and false lumen. [@lombardiSTABLEIIClinical2020]
+Start with invasive medical management and plan for TEVAR. The goal with TEVAR being to direct the blood flow into the true lumen and seal the entry tear. If there was a dynamic obstruction (flap occludes branching vessels.) Then TEVAR would reestablish the true lumen hence removing the dynamic obstruction. Endovascular fenestration can also equalize the pressure in the true and false lumen. [@lombardiSTABLEIIClinical2020]
 
 For a static occlusion there could be a thrombus or stenosis in the branched vessel so a stent might be indicated.
 
