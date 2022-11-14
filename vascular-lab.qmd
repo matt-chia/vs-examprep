@@ -346,7 +346,7 @@ A benign, cystic structure found in the popliteal fossa and arising from the joi
 
 Lowest frequency transducers (2-4MHz) are used for imaging abdominal vessels.
 
-### Aorta
+### Aorta {#sec-lab-aorta}
 
 **Abdominal Aortic Aneurysms (AAA):** Ultrasound screening of a AAA is non-invasive, accurate, and cost-effective.[@chaikof2018]
 
@@ -492,7 +492,7 @@ Components of a lower extremity DVT study include doppler waveforms in response 
 
 ![](images/vasc_lab2/Slide23.png){fig-align="center"} EHIT grades 3-4 are typically treated with anticoagulation to reduce risk of PE. To minimize the risk of EHIT, the catheter should be positioned at least 2 cm from the saphenofemoral junction.
 
-**Superficial vein thrombosis:** when scanning for superficial vein thrombosis, pornographers should scan superficial and deep veins of the ipsilateral leg and the contralateral central veins with doppler wave form, because the incidence of concomitant thrombosis is not insignificant.[@decousus2010; @iac2021; @societyforvascularultrasound2019] This is discussed more in our venous chapter: @superficial-vein-thrombosis
+**Superficial vein thrombosis:** when scanning for superficial vein thrombosis, pornographers should scan superficial and deep veins of the ipsilateral leg and the contralateral central veins with doppler wave form, because the incidence of concomitant thrombosis is not insignificant.[@decousus2010; @iac2021; @societyforvascularultrasound2019] This is discussed more in our venous chapter: @sec-superficial-vein-thrombosis
 
 ### Vein Mapping
 

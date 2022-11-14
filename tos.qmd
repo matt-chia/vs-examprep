@@ -1,15 +1,19 @@
-# Thoracic Outlet
+# Thoracic Outlet {#sec-thoracic-outlet}
 
-Author: *Nedal Katib*
+Author: *Nedal Katib and Matt Smith*
 
 ```{r echo=FALSE}
 library(embedr)
 
-embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_TOS_02auph.mp3")
+embed_audio("https://traffic.libsyn.com/audiblebleeding/Exam_Prep_2023_-_TOSau.mp3")
 
 ```
 
-Thoracic Outlet Syndrome = A constellation of signs and symptoms relating to the compression of the neurovascular structures that occurs as these structures travel between the thoracic aperture and the upper limb.
+## Overview
+
+### Demographics
+
+Thoracic Outlet Syndrome (TOS) is a constellation of signs and symptoms relating to the compression of the neurovascular structures that occurs as these structures travel between the thoracic aperture and the upper limb.
 
 Types: Neurogenic, Venous and Arterial
 
@@ -19,131 +23,109 @@ Types: Neurogenic, Venous and Arterial
 
 -   nTOS -- \>95% [@humphries124ThoracicOutlet2019]
 
-## Demographics
-
-### Anatomy
+#### Anatomy
 
 Understanding the anatomy of what is collectively referred to as the thoracic outlet is the best way to thoroughly appreciate this topic.
 
-Anatomy from anterior to posterior
+[Anatomy from anterior to posterior]{.underline}
 
--   Subclavian vein
+1.  Subclavian vein
 
--   Phrenic nerve
+2.  Phrenic nerve
 
--   Anterior scalene muscle attachment to the first rib
+3.  Anterior scalene muscle attachment to the first rib
 
--   The subclavian artery
+4.  The subclavian artery
 
--   The brachial plexus
+5.  The brachial plexus
 
--   The middle scalene muscle.
+6.  The middle scalene muscle
 
-Three spaces where the neurovascular structures are at risk of compression:
+[Three spaces where the neurovascular structures are at risk of compression]{.underline}
 
-1.  Interscalene Triangle
+1.  **Interscalene Triangle -** Appreciating the attachments of the Anterior and Middle Scalene Muscles on the first rib becomes important in the diagnosis of the various types and also the ultimate surgical management of the compression.
 
-2.  Costoclavicular Passage[@garygwindAnatomicExposuresVascular2013]
+    -   **Anterior Scalene -** Attachments: Anterior Tubercles of the four 'typical' cervical vertebrae (3-6) AND the scalene tubercle on the upper surface of the first rib.
 
-3.  Subcoracoid Space[@garygwindAnatomicExposuresVascular2013]
+        -   Phrenic nerve runs along anterior scalene muscle and injury can cause ipsilateral diaphragm paralysis.
 
-**Interscalene Triangle:**
+    -   **Middle Scalene -** Attachments: The posterior tubercles and intertubercular lamellae of all the cervical vertebrae AND the Quadrangular area between the neck and subclavian groove of the first rib. [@mcminnLastAnatomyRegional2019]
 
-Appreciating the attachments of the Anterior and Middle Scalene Muscles on the first rib becomes important in the diagnosis of the various types and also the ultimate surgical management of the compression.
+        -   Long thoracic nerve runs along middle scalene muscle and injury can cause winged scapula.
 
-**Anterior Scalene:**
+    -   **The First Rib -** The broadest and flattest of the ribs and is an 'Atypical Rib' because it only one articular facet.
 
-Attachments: Anterior Tubercles of the four 'typical' cervical vertebrae (3-6) AND the scalene tubercle on the upper surface of the first rib.
+        -   The upper surface of the first rib has the scalene and quadrangular tubercles for attachments of the anterior and middle scalene muscles respectively. There are also three grooves for the Subclavian Vein, artery and the Lower Trunk of the Brachial Plexus.
 
--   Phrenic nerve runs along anterior scalene muscle and injury can cause ipsilateral diaphragm paralysis.
+        -   The Inferior Surface is smooth and inferior and medially has an attachment for the suprapleural membrane, Sibson's fascia AKA scalenus minimus muscle, which is tethered to the C7 vertebrae.
 
-**Middle Scalene:**
+2.  **Costoclavicular Passage -** This is the passage of the subclavian vein largely as it emerges through the tight space created by the clavicle, the subclavius muscle and the costoclavicular ligament and also more posteriorly this can also compress the artery and nerves as the space can also be narrow in relation with the scapula and subscapularis. [@garygwindAnatomicExposuresVascular2013]
 
-Attachments: The posterior tubercles and intertubercular lamellae of all the cervical vertebrae AND the Quadrangular area between the neck and subclavian groove of the first rib. [@mcminnLastAnatomyRegional2019]
+    -   **Subclavius Muscle -** Attached to the costochondral junction of the first rib and is inserted into the subclavian groove on the inferior surface of the clavicle. [@mcminnLastAnatomyRegional2019]
 
--   Long thoracic nerve runs along middle scalene muscle and injury can cause winged scapula.
+3.  **Subcoracoid Space -** This space is best appreciated by intimate knowledge of three things[@garygwindAnatomicExposuresVascular2013]
 
-**The First Rib:**
+    1.  **The Coracoid Process**
 
--   The broadest and flattest of the ribs and is an 'Atypical Rib'.
+        -   Arising from the Scapula as a 'process', this broad-based bony landmark offers attachment to muscles and ligaments.
 
--   The upper surface of the first rib has the scalene and quadrangular tubercles for attachments of the anterior and middle scalene muscles respectively. There are also three grooves for the Subclavian Vein, artery and the Lower Trunk of the Brachial Plexus.
+        -   The relevant attachments being the pectoralis minor muscle occupying the medial border for about 2cm behind its tip. The tip itself having a medial and lateral facet for the short head of biceps and the coracobrachialis muscles respectively.
 
--   The Inferior Surface is smooth and inferior and medially has an attachment for the suprapleural membrane, Sibson's fascia AKA scalenus minimus, which is tethered to the C7 vertebrae.
+    2.  **Pectoralis Minor Muscle:**
 
--   This is the passage of the subclavian vein largely as it emerges through the tight space created by the clavicle, the subclavius muscle and the costoclavicular ligament and also more posteriorly this can also compress the artery and nerves as the space can also be narrow in relation with the scapula and subscapularis. [@garygwindAnatomicExposuresVascular2013]
+        -   Attached to the bone of the third, fourth and fifth ribs AND the medial border of the coracoid process.
 
-**Subclavius Muscle:**
+    3.  **Clavipectoral Fascia:**
 
--   Attached to the costochondral junction of the first rib and is inserted into the subclavian groove on the inferior surface of the clavicle. [@mcminnLastAnatomyRegional2019]
+        -   A sheet of fascial membrane that fills the space between the clavicle and pectoralis minor splitting and encompassing the subclavius muscle. Its superior portion is what can be thickened and become a tight band referred to as the costocoracoid ligament.
 
--   This space is best appreciated by intimate knowledge of three things:
+**Anomalous Anatomy**
 
-    -   The Coracoid Process and its attachments
+-   **Phrenic Nerve Anomaly -** The phrenic nerve normally runs anterior to the Subclavian Vein. A rare anomaly is the nerve compressing the vein anteriorly and in very rare circumstances due to the timing of development can run through the vein itself.
 
-    -   The Pectoralis Minor Muscle
+-   **Cervical Rib -** Anomalous anatomy can also cause TOS especially when patients have a Cervical Rib and anomalous first ribs or a congenital band attaching to the first rib.
 
-    -   The Clavipectoral Fascia
+    -   Incidence of anomalous first ribs and cervical ribs is 0.76% and 0.75% respectively.
 
-**The Coracoid Process:**
+    -   Incidence of bands are as high as 63% in the general population. [@humphries124ThoracicOutlet2019]
 
--   Arising from the Scapula as a 'process', this broad-based bony landmark offers attachment to muscles and ligaments.
+#### Etiology
 
--   The relevant attachments being the pectoralis minor muscle occupying the medial border for about 2cm behind its tip. The tip itself having a medial and lateral facet for the short head of biceps and the coracobrachialis muscles respectively.
+**nTOS**
 
-**Pectoralis Minor Muscle:**
+1.  Scalene Triangle compression -- most common cause of brachial plexus and neurogenic TOS
 
-Attached to the bone of the third, fourth and fifth ribs AND the medial border of the coracoid process.
+2.  Cervical Rib and Anomalous First Rib
 
-**Clavipectoral Fascia:**
+**aTOS**
 
-A sheet of fascial membrane that fills the space between the clavicle and pectoralis minor splitting and encompassing the subclavius muscle. Its superior portion is what can be thickened and become a tight band referred to as the costocoracoid ligament.
+1.  Cervical Rib and Anomalous First Rib - most common
 
-**Phrenic Nerve Anomaly:**
+2.  Scalene Triangle compression
 
-The Phrenic Nerve normally runs anterior to the Subclavian Vein. A rare anomaly is the nerve compressing the vein anteriorly and in very rare circumstances due to the timing of development can run through the vein itself.
+**vTOS**
 
-Anomalous anatomy can also cause TOS especially when patients have a Cervical Rib and anomalous first ribs or a congenital band attaching to the first rib.
+1.  Costoclavicular Passage - most common
 
--   Incidence of anomalous first ribs and cervical ribs is 0.76% and 0.75% respectively.
+2.  Subcoracoid Space
 
--   Incidence of bands are as high as 63% in the general population. [@humphries124ThoracicOutlet2019]
-
-nTOS
-
--   Scalene Triangle compression -- most common cause of brachial plexus and neurogenic TOS
-
--   Cervical Rib and Anomalous First Rib
-
-aTOS
-
--   Cervical Rib and Anomalous First Rib
-
--   Scalene Triangle compression
-
-vTOS
-
--   Costoclavicular Passage
-
--   Subcoracoid Space
-
-### Presentation
+#### Presentation
 
 -   Identify symptoms and thoroughly interrogate timing
 
--   Exclude history of trauma
+-   Exclude history of trauma - clavicle fracture and malunion
 
 -   Associated symptoms like headache, visual disturbance, neurology in the upper limb
 
--   Exclude Carpal Tunnel and Antecubital Tunnel Syndromes if symptoms are isolated to the arm or forearm or hand
+    -   Exclude Carpal Tunnel and Antecubital Tunnel Syndromes if symptoms are isolated to the arm or forearm or hand
 
--   Patients with vTOS may present acutely and have acute or sub acute Upper Limb DVT
+-   Patients with vTOS may present acutely and have acute or sub-acute upper limb DVT
 
 -   Patients with aTOS need to be investigated and assessed urgently given risk of ischemia.
 
-## Evaluation
+### Evaluation
 
-### Clinical Examination
+#### Clinical Examination
 
 Provocative maneuvers are largely used for nTOS. While these are described and mentioned in most texts their utility largely is beyond the scope of a vascular surgeon's assessment and diagnosis of nTOS.
 
@@ -169,29 +151,47 @@ Provocative maneuvers are largely used for nTOS. While these are described and m
 
 -   A further maneuver is then performed, laterally flex the head on each side, if pain is elicited on the contralateral side to which the head is flexed then test is positive. [@humphries124ThoracicOutlet2019]
 
-### Non-invasive imaging or vascular lab studies
+#### Imaging
 
--   DBI
+**Vascular Lab**
 
--   Arterial Duplex
+-   Digital Brachial Index (DBI)
+
+-   Arterial Duplex - can identify subclavian artery aneurysms.
+
+    -   Can also be performed with provocative maneveurs
 
 -   Venous Duplex
 
--   CT -- CTV commonly performed in acute upper limb DVT and suspicion of vTOS
+**Axial Imaging**
+
+-   CTV commonly performed in acute upper limb DVT and suspicion of vTOS
 
 -   CTA for the evaluation of aTOS and excluding other causes of embolisation
 
 -   MRI -- for further evaluation of the anatomy and related neurovascular compression
 
--   Electromyography and Nerve Conduction Studies for nTOS
+**Angiography**
 
-## Management
+-   In the setting of vTOS, some advocate for upper extremity venogram with provocative maneuvers to evaluate upper arm collaterals and compression
+
+**Other studies**
+
+-   Electromyography and nerve conduction studies for nTOS - performed after evaluation with neurologist and physiotherapist.
+
+-   In the setting of nTOS, scalene block can be diagnostic if the patient has temporary relief.
+
+### Management
 
 After the appropriate evaluation, if decompression of thoracic outlet is deemed appropriate, there are multiple approaches to the first rib resections.
 
 **Transaxillary**
 
--   *Advantages:* Cosmetically more appealing as it has a limited hidden scar
+-   *Advantages:*
+
+    -   Cosmetically more appealing as it has a limited hidden scar
+
+    -   Allows for removal of a significant portion of the rib anteriorly and posteriorly
 
 -   *Disadvantages:*
 
@@ -200,6 +200,12 @@ After the appropriate evaluation, if decompression of thoracic outlet is deemed 
     -   Risk of injury to T1 nerve root, phrenic nerve, long thoracic, brachial plexus , subclavian vein and arterial with limited exposure to repair
 
     -   Not able to approach cervical ribs, scalene triangle or patch vein.
+
+::: callout-tip
+## Take a Look
+
+Check out [Dr. Freischlag's operative video](https://youtu.be/OQ43puTJ8Jc) where she reviews her approach to a transaxillary rib resection.
+:::
 
 **Supraclavicular**
 
@@ -214,6 +220,12 @@ After the appropriate evaluation, if decompression of thoracic outlet is deemed 
     -   Unable to decompress venous compression or visualize vein adequately
 
     -   Cosmetically less appealing
+
+::: callout-tip
+## Take a Look
+
+Check out [our How I Do It Presentation](https://youtu.be/0VNwl-Je9Xo) where Dr Westley Ohman and Dr. Robert Thompson review their approach to a supraclavicular rib resection.
+:::
 
 **Infraclavicular**[@siracuseInfraclavicularFirstRib2015]
 
@@ -241,13 +253,13 @@ After the appropriate evaluation, if decompression of thoracic outlet is deemed 
 
     -   Requires two incisions one above and below the clavicle
 
-### Post operative complications
+#### Complications
 
 -   Post operative patients with hemodynamic instability and ipsilateral effusion on xray should go back to OR for exploration and hemorrhage control. [@rinehardtCurrentPracticeThoracic2017]
 
 -   Chyle leak often managed with adequate drainage and medium chain fatty acid diet. Persistent leak should undergo wound exploration and ligation of thoracic duct (most often encountered on the left) or VATS thoracic duct ligation.[@delaney2017] IR embolization has also been shown to be effective.[@cope1999]
 
-## vTOS
+## Venous (vTOS)
 
 ### Demographics
 
@@ -265,7 +277,7 @@ After the appropriate evaluation, if decompression of thoracic outlet is deemed 
 
     -   Paget Schroetter Syndrome accounts for 10-20% of all upper extremity deep vein thrombosis. [@sekharYearbookVascularEndovascular2018]
 
-### Presentation
+#### Presentation
 
 -   Upper Limb edema, pain and cyanosis. Edema affects the shoulder, arm and hand and characteristically non pitting.
 
@@ -273,7 +285,7 @@ After the appropriate evaluation, if decompression of thoracic outlet is deemed 
 
 -   Pain on exertion of the upper limb described as stabbing, aching or tightness.
 
--   The reported incidence of PE following Upper Limb DVT is \<12%. [@humphries123ThoracicOutlet2019]
+-   The reported incidence of PE following upper limb DVT is \<12%. [@humphries123ThoracicOutlet2019]
 
 ### Evaluation
 
@@ -309,53 +321,47 @@ Limited evidence due to lack of RCT's. Majority of evidence based on retrospecti
 
 #### Medical Management
 
--   As per ACCP Guidelines: Initial management is anticoagulation regardless of etiology. [@kearonAntithromboticTherapyVTE2016]
+As per ACCP Guidelines: Initial management is anticoagulation regardless of etiology. [@kearonAntithromboticTherapyVTE2016]
 
-    -   The limitations of anticoagulation alone are that the slow recanalization of the thrombus may lead to eventual valvular damage and intravenous scarring. [@sekharYearbookVascularEndovascular2018]
+-   The limitations of anticoagulation alone are that the slow recanalization of the thrombus may lead to eventual valvular damage and intravenous scarring. [@sekharYearbookVascularEndovascular2018]
 
-    -   Thrombolysis has been considered superior to anticoagulation alone in minimizing valvular damage due to residual clot. [@urschelSurgeryRemainsMost2008]
+Catheter Directed Thrombolysis (CDT) has been considered superior to anticoagulation alone in minimizing valvular damage due to residual clot and carries a lower risk of intracranial hemorrhage.[@urschelSurgeryRemainsMost2008]
 
-    -   Systemic Lysis -- non favored due to risk of intracranial hemorrhage. [@grunwaldCatheterDirectedThrombolysisTreatment2004]
+-   Systemic Lysis -- non favored due to risk of intracranial hemorrhage. [@grunwaldCatheterDirectedThrombolysisTreatment2004]
 
-    -   Catheter Directed Lysis (CDT) -- carries a lower risk of intracranial hemorrhage.
+-   Optimal timing of CDT - Within 14 days of onset of thrombosis. Excellent results have been reported following CDT if initiated before 14 days. [@wilsonFibrinolyticTherapyIdiopathic1990]
 
-    -   Patient should be maintained in a compression sleeve until definitive decompression can be performed.
-
--   Optimal timing of CDT
-
-    -   Within 14 days of onset of thrombosis. Excellent results have been reported following CDT if initiated before 14 days. [@wilsonFibrinolyticTherapyIdiopathic1990]
+Patient should be maintained in a compression sleeve until definitive decompression can be performed.
 
 #### Surgery
 
--   After initial management patients are generally divided into two groups, unsuccessful or successful thrombolysis.
+After initial management patients are generally divided into two groups, unsuccessful or successful thrombolysis.
 
 -   Persistent stenosis or signs of extrinsic compression, on venography, has generally been perceived as a significant risk of recurrent thrombosis.
 
--   Surgery for vTOS remains to be mainly Rib Resection and decompression of the subclavian vein with or without venolysis and patch plasty either surgical or endovenous.
+Surgery for vTOS remains to be mainly Rib Resection and decompression of the subclavian vein with or without venolysis and patch plasty either surgical or endovenous.
 
 -   Surgical treatment of severe resistant subclavian vein stenosis in the setting of vTOS is rib resection by paraclavicular approach and vein patch plasty. [@melbyComprehensiveSurgicalManagement2008]
 
--   Venous occlusion in vTOS may be treated with jugular turn down or venous bypass to IJ of SVC if patients remain symptomatic. [@vemuriDiagnosisTreatmentEffortinduced2016]
+Venous occlusion in vTOS may be treated with jugular turn down or venous bypass to IJ of SVC if patients remain symptomatic. [@vemuriDiagnosisTreatmentEffortinduced2016]
 
 ### Summary
 
 #### Controversy
 
--   There is a lack of consensus around the necessity of surgical rib resection, the timing and the requirement for vein patch plasty.
+There is a lack of consensus around the necessity of surgical rib resection, the timing and the requirement for vein patch plasty. Options post recanalization:
 
--   Options post recanalization:
+-   Deferring surgical decompression for 1-3 months after thrombolysis to allow for healing of the venous endothelium and resolution of the acute inflammatory process. [@humphries123ThoracicOutlet2019]
 
-    -   Deferring surgical decompression for 1-3 months after thrombolysis to allow for healing of the venous endothelium and resolution of the acute inflammatory process. [@humphries123ThoracicOutlet2019]
+-   Decompression during the same admission, as the thrombolysis, with the main benefit being to reduce the risk of re-occlusion. [@humphries123ThoracicOutlet2019; @molinaPagetSchroetterSyndromeTreated2007]
 
-    -   Decompression during the same admission, as the thrombolysis, with the main benefit being to reduce the risk of re-occlusion. [@humphries123ThoracicOutlet2019; @molinaPagetSchroetterSyndromeTreated2007]
-
-    -   Post decompression venography and treatment 2 weeks post rib resection may help to prevent recurrence and long term vein patency. [@changRoutineVenographyFollowing2012]
+-   Post decompression venography and treatment 2 weeks post rib resection may help to prevent recurrence and long term vein patency. [@changRoutineVenographyFollowing2012]
 
 #### Landmark papers
 
 1.  Lugo J et al -- Acute Paget Schroetter syndrome: does the first rib routinely need to be removed after thrombolysis? Annals of Vascular Surgery 2015 [@lugoAcutePagetSchroetter2015]
 
-    1.  Systematic literature review analysis. Patients divided into three groups
+    -   Systematic literature review analysis. Patients divided into three groups
 
         1.  First Rib resection (FRR) -- n=448
 
@@ -363,57 +369,63 @@ Limited evidence due to lack of RCT's. Majority of evidence based on retrospecti
 
         3.  No further intervention after Thrombolysis n=168
 
-    2.  Symptom relief after initial follow up more likely in FRR (95%) and FRR and PLASTY (93%) compared to no rib removed (54%) -- p\<0.0001
+    -   Symptom relief after initial follow up more likely in FRR (95%) and FRR and PLASTY (93%) compared to no rib removed (54%) -- p\<0.0001
 
-    3.  Results showed superior patency with FRR and PLASTY and FRR compared to anticoagulation alone.
+    -   Results showed superior patency with FRR and PLASTY and FRR compared to anticoagulation alone.
 
-    4.  Conclusion was that patients are more likely to experience greater long-term results with FRR compared to no FRR.
+    -   Conclusion was that patients are more likely to experience greater long-term results with FRR compared to no FRR.
 
 2.  Sajid MS et al -- Upper limb vein thrombosis: a literature review to streamline the protocol for management. Acta Haematology 2007 [@sajidUpperLimbDeep2007]
 
     -   Comprehensive review identifying the key papers on this topic and allows for a clear view of the best management strategy.
 
-3.  Vemuri, C., Salehi, P., Benarroch-Gampel, J., McLaughlin, L. N., & Thompson, R. W. (2016). Diagnosis and treatment of effort-induced thrombosis of the axillary subclavian vein due to venous thoracic outlet syndrome. *Journal of Vascular Surgery: Venous and Lymphatic Disorders*, *4*(4), 485--500. [@vemuriDiagnosisTreatmentEffortinduced2016]
+3.  Freischlag J - The art of caring in the treatment of thoracic outlet syndrome. Diagnostics 2018.[@freischlag2018]
 
-    -   Comprehensive summary of management strategy for effort induced thrombosis.
+    -   Review of key publications guiding her Dr. Freischlag's care of these patients.
 
-## aTOS
+::: callout-tip
+## Take a Listen
+
+Check [our interview with Dr Julie Freischlag](https://www.audiblebleeding.com/freischlag/) where she discusses her career and management of patients with thoracic outlet syndrome.
+:::
+
+## Arterial (aTOS)
 
 ### Presentation
 
--   Most common: Hand ischemia due to arterial compression or microembolization with subclavian artery aneurysm and pulsatile supraclavicular mass [@boll122ThoracicOutlet2019]
+Most common: Hand ischemia due to arterial compression or microembolization with subclavian artery aneurysm and pulsatile supraclavicular mass [@boll122ThoracicOutlet2019]
 
--   Less common: Exertional pain, unilateral Raynaud's Phenomena, retrograde embolisation and neurological symptoms
+Less common: Exertional pain, unilateral Raynaud's Phenomena, retrograde embolisation and neurological symptoms
 
--   Differential Diagnosis
+Differential Diagnosis
 
-    -   Trauma
+-   Trauma
 
-    -   Primary and Secondary Raynaud's Phenomena
+-   Primary and Secondary Raynaud's Phenomena
 
-    -   Small Vessel Vasculitis
+-   Small Vessel Vasculitis
 
-    -   Connective Tissue Disorders
+-   Connective Tissue Disorders
 
-    -   Thromboangiitis Obliterans
+-   Thromboangiitis Obliterans. For more see @sec-buergers-disease
 
-    -   Arterial Embolization -- Aortic or Central Source
+-   Arterial Embolization -- Aortic or Central Source
 
-    -   Radiation Arteritis
+-   Radiation Arteritis
 
-    -   Atherosclerotic / Dissection causes
+-   Atherosclerotic / Dissection causes
 
--   The different anatomical abnormalities causing aTOS [@boll122ThoracicOutlet2019]
+The different anatomical abnormalities causing aTOS [@boll122ThoracicOutlet2019]
 
-    -   Cervical Rib (60%)
+-   Cervical Rib (60%)
 
-    -   Anomalous First Rib (18%)
+-   Anomalous First Rib (18%)
 
-    -   Fibrocartilaginous band (15%)
+-   Fibrocartilaginous band (15%)
 
-    -   Clavicular Fracture (6%)
+-   Clavicular Fracture (6%)
 
-    -   Enlarged C7 transverse process (1%)
+-   Enlarged C7 transverse process (1%)
 
 ### Evaluation
 
@@ -431,23 +443,23 @@ Most useful studies are pulse volume recordings (PVR) and duplex to identify ane
 
 ### Management
 
--   Symptomatic patients are generally indicated for treatment. Unlike asymptomatic patients in whom it may be appropriate to manage conservatively. [@boll122ThoracicOutlet2019]
+Symptomatic patients are generally indicated for treatment. Unlike asymptomatic patients in whom it may be appropriate to manage conservatively. [@boll122ThoracicOutlet2019] Symptoms are classified according the the Scher staging system.
 
-    -   Scher Staging of aTOS
+-   **Scher Staging of aTOS**[@scher1984]
 
-        -   Stage 0: Asymptomatic
+    -   Stage 0: Asymptomatic
 
-        -   Stage 1: Stenosis of Subclavian Artery with minor post stenotic dilatation with no intimal disruption
+    -   Stage 1: Stenosis of Subclavian Artery with minor post stenotic dilatation with no intimal disruption
 
-        -   Stage 2: Subclavian artery aneurysm with intimal damage and mural thrombus
+    -   Stage 2: Subclavian artery aneurysm with intimal damage and mural thrombus
 
-        -   Stage 3: Distal embolisation from subclavian artery disease
+    -   Stage 3: Distal embolisation from subclavian artery disease
 
--   Supraclavicular rib resection is the most suitable for adequate arterial reconstruction. Transaxillary has been argued to offer more complete rib resection however arterial repair is not possible in this approach.
+Supraclavicular rib resection is the most suitable for adequate arterial reconstruction. Transaxillary has been argued to offer more complete rib resection however arterial repair is not possible in this approach.
 
--   Subclavian artery repair is necessary in Scher Stages 2 and 3 and in some cases 1. Arterial repair with conduit either GSV, Femoral Vein or prosthetic have been described. Ringed PTFE offers good patency and resistance to kinking in this functional anatomical location.
+Subclavian artery repair is necessary in Scher Stages 2 and 3 and in some cases 1. Arterial repair with conduit either GSV, Femoral Vein or prosthetic have been described. Ringed PTFE offers good patency and resistance to kinking in this functional anatomical location.
 
-## nTOS
+## Neurogenic (nTOS)
 
 ### Demographics
 
@@ -485,7 +497,7 @@ Neurogenic TOS is largely a clinical diagnosis with symptoms and signs pertainin
 
     -   Lying supine with arms overhead
 
-    -   Overhead activities -occupational or recreational
+    -   Overhead activities - occupational or recreational
 
 -   Weakness and Muscle Atrophy
 
