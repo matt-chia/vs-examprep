@@ -4,7 +4,9 @@ project:
 book:
   title: "Vascular Surgery Exam Prep"
   author: "Audible Bleeding"
-  date: "11/6/2022"
+  date: "11/14/2022"
+  description: "eBook Companion for Audible Bleeding Podcast Series"
+  cover-image: images/ab_examprep_cover.png
   chapters:
     - index.qmd
     - authors.qmd
@@ -30,8 +32,8 @@ book:
     - part: "Abdomen"
       chapters:
         - abdominal-aneurysms.qmd
-        - mesenteric.qmd #need updating
-        - renal.qmd #needs updating
+        - mesenteric.qmd
+        - renal.qmd
         - trauma-arterial.qmd
         - trauma-venous.qmd
          
@@ -51,12 +53,14 @@ book:
     - references.qmd
 
   repo-url: https://github.com/adam-mdmph/vs-examprep.git
-  sharing: [twitter]
   google-analytics: "G-T4DWNE55D1"
   cookie-consent: true
   number-sections: true
   crossref:
     chapters: true
+  open-graph: true
+  twitter-card: true
+  favicon: images/ab_examprep_icon.png
   
 bibliography: references.bib
 

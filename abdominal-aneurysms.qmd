@@ -150,7 +150,7 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_AAA_post_auphonic.
 -   Ultrasound, when feasible, is the preferred imaging modality for aneurysm screening and surveillance.
 
     -   The Society for Vascular Surgery (SVS) recommends a one-time ultrasound screening in men and women ages 65 to 75 years with either a history of smoking or a family history of AAA, as well as men and women over the age of 75 with a smoking history in otherwise good health who have not previously undergone screening. [@chaikofSocietyVascularSurgery2018a]
-    -   For more technical details on duplex screening see @aorta.
+    -   For more technical details on duplex screening see @sec-lab-aorta.
 
 | Size on Imaging | Surveillance Interval |
 |:---------------:|:---------------------:|

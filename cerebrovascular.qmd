@@ -295,17 +295,16 @@ Transfemoral Approach vs Transcarotid approach
 -   ROADSTER Trial - single arm study with flow reversal for cerebral protection. Suggested lower rates of post-op stroke in patients undergoing TCAR.
 -   TCAR contraindications include previous CCA intervention, CCA disease at entry site, \<5cm CCA (clavicle to bifurcation) for sheath, CCA \< 6mm, contralateral recurrent laryngeal or vagus nerve injury.[@kwolek2015]
 -   Patient needs to be preloaded with dual antiplatelet medications for at least 5-7d, should delay procedure if has not been appropriately loaded with antiplatelets.[@brott2010; @kwolek2015; @valls2017]
--   Studies with TCD have shown that there may be reduced embolization rates with TCAR over transfemoral stenting.[@plessers2016]
+-   Studies with TCD have shown that there may be reduced embolization rates with TCAR over transfemoral stenting.[@plessers2016]Complications
+
+Post stenting ICA thrombosis should first be treated with abciximab and catheter directed thrombolysis, followed by endo-salvage with suction thrombectomy, repeat angioplasty or stenting. May require eventual conversion to CEA.[@coelho2019; @naylor2018]
 
 ::: callout-tip
 ## Take a Look
 
-Check out [our TCAR - How I Do It (HIDI) video](https://youtu.be/-IZZbwGLPnk) on tips and tricks for how to perform a safe TCAR.
+Check out [our How I Do It Presentation](https://youtu.be/-IZZbwGLPnk) where Dr Christopher Henry reviews their approach to TCAR at Baylor Scott & White.
 :::
 
-#### Complications
-
-Post stenting ICA thrombosis should first be treated with abciximab and catheter directed thrombolysis, followed by endo-salvage with suction thrombectomy, repeat angioplasty or stenting. May require eventual conversion to CEA.[@coelho2019; @naylor2018]
 
 #### Outcomes and Surveillance
 

@@ -177,7 +177,7 @@ Lastly, AV fistula can form and are usually between the femoral artery and vein 
 The effects can impact both patients and clinicians. Patients often receive a higher dose during a single procedure, where as clinician doses, even with proper shielding, accumulate over multiple procedures throughout their careers. The effects of radiation are defined as either deterministic or stochastic.
 
 |  Dose   | Effect                                                                                             |
-|:--------------------:|--------------------------------------------------|
+|:--------------------:|-------------------------------------------------|
 |  0-2Gy  | No observable effects                                                                              |
 |  2-5Gy  | Transient skin erythema and dermatitis, full recovery 6w-1yr[@guesnier-dopagne2019; @kirkwood2014] |
 | 5-10Gy  | Erythema and epilation (hair loss), prolonged erythema up to 1y                                    |
@@ -217,6 +217,14 @@ Certain patient, procedure and clinician factors put patients at increased risk 
 ### Reduction strategies
 
 The main source of radiation to the clinicians is scatter from the patient. There are a number of techniques that can be used to reduce exposure of clinicians to this radiation.[@heidbuchel2014; @kirkwood2013]
+
+-   Preoperative planning is paramount to efficient use of radiation during a procedure. Recent ESVS guidelines recommend utilization of a 3D pre-operative planning software and image fusion (when available) for complex endovascular procedures.[@modarai2022]
+
+::: callout-tip
+## Take a Look
+
+Check out [Dr. Ellozy's operative planning video](https://youtu.be/El62hiIhNnA) where he reviews how to plan for an EVAR procedure utilizing Tera-Recon 3D imaging software.
+:::
 
 -   Reduce the time of exposure, keeping a close eye on fluoroscopy time and dosages as a procedure progresses.
 
