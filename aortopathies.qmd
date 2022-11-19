@@ -1,6 +1,8 @@
-# Aortopathies
+# Aortopathies {#sec-aortopathies}
 
 Authors: *Anna Ohlsson and Sherene Shalhub*
+
+*Contributor: Wen Kawaji*
 
 ```{r echo=FALSE}
 
@@ -10,11 +12,13 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/Aortopathies_post_auphon
 
 ```
 
+## General Considerations
+
 **What are the common genetic aortopathies?**
 
-There are several well-known genetic disorders which account for genetic aortopathies. The most well-known are Marfan syndrome, Loeys-Dietz Syndrome, and Vascular Ehlers-Danlos Syndrome,
+There are several well-known genetic disorders which account for genetic aortopathies. The most well-known are Marfan syndrome, Loeys-Dietz Syndrome, and Vascular Ehlers-Danlos Syndrome.
 
-There are less commonly known ones such as Familial Thoracic Aortic Aneurysms and Dissections due to pathogenic variants smooth muscle cells genes such as *ACTA2*. There are others in which the causative gene is not known.
+There are less commonly known ones such as Familial Thoracic Aortic Aneurysms and Dissections due to pathogenic variants smooth muscle cells genes such as *ACTA2*. There are others in which the causative gene is not known.[@black2019]
 
 **Why are they such a big deal?**
 
@@ -32,13 +36,13 @@ But before we dive in, I want you to keep in mind some of shared features. One i
 
 One is that these are inherited in an autosomal dominant matter but there can be variation in how the pathogenic variants are expressed among affected people and even within families. The other thing to remember, is that in roughly half of these cases, the affected patient is the first in their family to have a given pathogenic mutation. The flip side of this, is in half the cases, there is a family history of aortic aneurysms, dissections, and sudden death.
 
+## Demographics
+
 **We will start with Marfan syndrome.**
 
 [Marfan syndrome]{.underline} is caused by pathogenic variants in the *FBN1* gene (also known as fibrillin-1 gene). These variants lead to improper formation of the microfibrils that maintain elastin, a key component of the arterial wall.
 
-These patients are prone to aneurysmal degeneration and dissections of the aortic root but can also dissect the descending thoracic aorta. They commonly have lens dislocations (ectopia lentis). They have common skeletal features such as
-
-being tall, thin, with long arms and legs, scoliosis, pectus deformities (carnitatum or excavatum), and club feet. They can also have a history of spontaneous pneumothorax and mitral valve prolapse.
+These patients are prone to aneurysmal degeneration and dissections of the aortic root but can also dissect the descending thoracic aorta. They commonly have lens dislocations (ectopia lentis). They have common skeletal features such as being tall, thin, with long arms and legs, scoliosis, pectus deformities (carnitatum or excavatum), and club feet. They can also have a history of spontaneous pneumothorax and mitral valve prolapse.
 
 **How is Marfan syndrome similar or different from the other genetically triggered aortopathies that you mentioned?**
 
@@ -56,15 +60,21 @@ Patient's with vEDS don't have the same hypermobile skin or joint laxity as we c
 
 In both types you can see subclavian, carotid, SMA, and iliac artery aneurysms and dissections, as well as less frequently vertebral, SFA, and popliteal aneurysms and dissections.
 
+## Evaluation
+
 **How do you diagnose these genetically triggered aortopathies?**
 
 There are clinical diagnostic criteria for each, but ultimately genetic and laboratory testing is very important for the final diagnosis.
 
-Ghent criteria is used to clinically diagnose Marfan syndrome. The big ones are aortic root dilation, known family history of Marfan's or not, the diagnosis of ectopia lentis which clinically is manifested as iridodonesis (lens shimmering). Additionally, genetic testing for pathogenic FBN1 variants is also diagnostic.
+Ghent criteria is used to clinically diagnose [Marfan syndrome]{.underline}. The big ones are aortic root dilation, known family history of Marfan's or not, the diagnosis of ectopia lentis which clinically is manifested as iridodonesis (lens shimmering). Additionally, genetic testing for pathogenic FBN1 variants is also diagnostic.
 
-To date, there are 5 types of Loeys-Dietz as of last check. These are due to pathogenic variants in the TGF-B signaling pathway, such as TGF-beta receptors and SMAD3 genes.
+To date, there are 5 types of [Loeys-Dietz]{.underline} as of last check. These are due to pathogenic variants in the TGF-B signaling pathway, such as TGF-beta receptors and SMAD3 genes.
 
-Vascular EDS is caused by a mutation in the COL3A1 gene which encodes a defective type of III procollagen. The defect in the procollagen makes it unable to properly fold into a triple helix that forms the normal collagen structure. This causes the defective procollagen to be degraded intracellularly and as a result there is an overall deficit in type III collagen which is an important component of arterial walls and other structures. The confirmatory test for VEDS is collagen testing which can confirm the collagen III defect.
+[Vascular EDS]{.underline} is caused by a mutation in the COL3A1 gene which encodes a defective type of III procollagen. The defect in the procollagen makes it unable to properly fold into a triple helix that forms the normal collagen structure. This causes the defective procollagen to be degraded intracellularly and as a result there is an overall deficit in type III collagen which is an important component of arterial walls and other structures. The confirmatory test for VEDS is collagen testing which can confirm the collagen III defect.
+
+## Management
+
+### Medical Management
 
 **How would you manage these patients?**
 
@@ -74,17 +84,31 @@ We start with lifestyle modification. Avoid "burst" exertions such as sprinting 
 
 In order to minimize aortic shear stress, a resting heart rate of under 70 beats per minute and an exercising heart rate under 100 should be the goal. This can be accomplished with beta blockers. Propranolol has been shown to significantly decrease the rate of aortic growth in Marfans patients with a baseline aortic root diameter under 4cm. There is research into the use of Losartan in murine models that suggests it inhibits TGF-beta in the aortic wall, which is an important pathway that contributes to the breakdown of the wall. However, randomized controlled studies have failed to show an increased benefit of Losartan over beta blockers in Marfans patients. ACE inhibitors are also being tested and are shown to decrease the risk of type b aortic dissection over 6 years.
 
-In vascular EDS instead of propranolol, celiprolol has been studied by the French and shown to reduce vascular rupture from 50 down to 20% in vEDS, although the mechanism of this is not yet clear and does not appear to be necessarily the same as decreasing shear stress as in Marfan's syndrome. In general taking care of these patients involves trying to minimize complications from procedures and interventions. For instance, use ultrasound for any line that is necessary and avoid arterial lines, intramuscular injections, or other invasive lines if possible to minimize the chance of a complication. Patients are advised to wear medical bracelets notifying that they have vEDS.
+In vascular EDS instead of propranolol, celiprolol has been studied by the French and shown to reduce vascular rupture from 50 down to 20% in vEDS, although the mechanism of this is not yet clear and does not appear to be necessarily the same as decreasing shear stress as in Marfan's syndrome.[@ong2010] In general taking care of these patients involves trying to minimize complications from procedures and interventions. For instance, use ultrasound for any line that is necessary and avoid arterial lines, intramuscular injections, or other invasive lines if possible to minimize the chance of a complication. Patients are advised to wear medical bracelets notifying that they have vEDS.
 
 We also discuss the importance of forming a care team based on their needs. This usually includes a cardiologist, a cardiac surgeon, a vascular surgeon, and a primary care physician.
 
+### Surgery
+
 **What about surgical treatment for those who need it?**
 
-For patients with Marfan's, prophylactic surgery is recommended for aortic root dilation \>5cm or thoracic aorta \>5.5cm. Often times the thoracic and abdominal aorta are involved. Open and endovascular surgery are options for these patients. Open procedures often include open thoracoabdominal aortic aneurysm repairs, open cardiac surgery for arch replacement, or cervical debranching procedures. Endovascular procedures can include regular TEVARs or branched TEVARs which require extensive aortic coverage. Open surgery can be well tolerated and is ideal in the sense that you can replace the entire aorta which avoids the future complications from continued aneurysmal degeneration, loss of proximal or distal seal zones, or device issues that can plague endovascular methods. However open surgery, of course caries higher complication risk and morbidity up front and does share some complications with endovascular treatments as well. Sometimes these patients will have hybrid procedures and often their care will require multiple surgery teams including cardiac and vascular surgery. An important thing to be up front with all of these patients about is that this is a long term relationship with their surgeon, as they often require multiple staged procedures, things aren't fixed in one procedure, and even after they have been surgically addressed there is a lifetime of maintenance and surveillance. Ultimately, the decision for open vs. endovascular approaches will vary between patients based on their specific anatomy and arterial issues, what their body can tolerate, and ultimately what their goals of care are.[@lumEndovascularProceduresPatients2012a] Some may require having their entire aorta replaced, while others may only need ongoing medical therapy and surveillance and it's important to set expectations early.
+For patients with Marfan's, prophylactic surgery is recommended for aortic root dilation \>5cm or thoracic aorta \>5.5cm. Often times the thoracic and abdominal aorta are involved. Open and endovascular surgery are options for these patients. Open procedures often include open thoracoabdominal aortic aneurysm repairs, open cardiac surgery for arch replacement, or cervical debranching procedures. Endovascular procedures can include regular TEVARs or branched TEVARs which require extensive aortic coverage.
+
+Open surgery can be well tolerated and is ideal in the sense that you can replace the entire aorta which avoids the future complications from continued aneurysmal degeneration, loss of proximal or distal seal zones, or device issues that can plague endovascular methods. However open surgery, of course caries higher complication risk and morbidity up front and does share some complications with endovascular treatments as well.
+
+Sometimes these patients will have hybrid procedures and often their care will require multiple surgery teams including cardiac and vascular surgery. An important thing to be up front with all of these patients about is that this is a long term relationship with their surgeon, as they often require multiple staged procedures, things aren't fixed in one procedure, and even after they have been surgically addressed there is a lifetime of maintenance and surveillance.
+
+Ultimately, the decision for open vs. endovascular approaches will vary between patients based on their specific anatomy and arterial issues, what their body can tolerate, and ultimately what their goals of care are.[@lumEndovascularProceduresPatients2012a] Some may require having their entire aorta replaced, while others may only need ongoing medical therapy and surveillance and it's important to set expectations early.
 
 **What about VEDS, when surgery cannot be avoided? How do you mitigate the risk of complications?**
 
-The tissue is very fragile. So using instruments that are the least traumatic is key -- like fogarty clamps for vessels. Sutures often must be pledgeted to reinforce them. Leave no tension on anastomoses or suture lines. Always keep a backup plan in mind-- when arteries cannot be repaired, can they safely be ligated or embolized? Generally any large bore access for endovascular treatment is avoided because access site complications are high and can lead to devastating consequences. In situations of extremis, like a rupture, these patients' tissues have been known to completely breakdown. Try to avoid the worst case scenario, but of course sometimes it's the only option left to get out of the OR. Be upfront with the patient about how complications may arise, set expectations, and think about goals of care early.
+The tissue is very fragile. So using instruments that are the least traumatic is key -- like fogarty clamps for vessels. Sutures often must be pledgeted to reinforce them. Leave no tension on anastomoses or suture lines. Always keep a backup plan in mind-- when arteries cannot be repaired, can they safely be ligated or embolized. Generally any large bore access for endovascular treatment is avoided because access site complications are high and can lead to devastating consequences. Some have described a technique of open exposure and buttressed repair, when endovascular approaches are required.[@black2019]
+
+In situations of extremis, like a rupture, these patients' tissues have been known to completely breakdown. This is often their first presentation of their aortopathy so there is no time for previously discussed work up or considerations. Try to avoid the worst case scenario, but of course sometimes it's the only option left to get out of the OR. Be upfront with the patient about how complications may arise, set expectations, and think about goals of care early.
+
+Some specific considerations for TEVAR in these patients is that it may be important to have cardiac surgery readily available because they are high risk for retrograde dissection. Also, avoid aggressive oversizing, consider not ballooning if no leak is identified and avoid excessive wire manipulation.
+
+## Summary
 
 **We discussed earlier that these aortopathies can have shared phenotypic characteristics, some of which can be used in a clinical diagnosis, but are all of these genetic aortopathies syndromic?**
 
@@ -96,10 +120,10 @@ This ties into another genetic aortopathy that we have not discussed yet which a
 
 Don't forget the family. Once you've made the diagnosis in one of them, remember it is autosomal dominant, so it's important to make sure the family understands and that they are set up with the appropriate care team and monitoring. They may not all develop the same medical issues, however as we discussed, ongoing medical management and lifestyle changes are the key.
 
-## LINKS:
+## Additional Resources
 
 VEDS Research Collaborative study:
 
-[[https://www.vedscollaborative.org/get-involved]{.underline}](https://www.vedscollaborative.org/get-involved)
+-   [[https://www.vedscollaborative.org/get-involved]{.underline}](https://www.vedscollaborative.org/get-involved)
 
-[[https://depts.washington.edu/vedscoll/]{.underline}](https://depts.washington.edu/vedscoll/)
+-   [[https://depts.washington.edu/vedscoll/]{.underline}](https://depts.washington.edu/vedscoll/)

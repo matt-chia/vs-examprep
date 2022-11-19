@@ -1,4 +1,4 @@
-# Aortic Dissection
+# Aortic Dissection {#sec-aortic-dissection}
 
 Authors: *Matt Spreadbury, Adham Elmously, Einar Brevik, and Joseph Lombardi*
 
@@ -62,9 +62,11 @@ Debakey
 
 The new system published in 2020 keeps A and B and adds a number system which divides the aorta into zones from 0 proximally to 12 distally in the mid SFA. [@lombardiSocietyVascularSurgery2020]
 
-![](images/thoracic_dissection1.png){fig-align="center"} - Type A is now JUST the ascending aorta to the innominate, also called Zone 0.
+![](images/thoracic_dissection1.png){fig-align="center"}
 
--   Type B is now an entry tear in Zone 1 or greater and distally to whichever zone the dissection lands in.
+Type A is now JUST the ascending aorta to the innominate, also called Zone 0.
+
+Type B is now an entry tear in Zone 1 or greater and distally to whichever zone the dissection lands in.
 
 #### Penetrating Aortic Ulcer and Intramural Hematoma
 
@@ -74,7 +76,9 @@ So aside from the aortic dissection its self, you could see a bleb of contrast s
 
 Another key finding can be an **intramural hematoma** which is a hyper-dense crescent shaped hemorrhage within the aortic wall. There is no identifiable direct communication between the true and false lumen. IMH are classified in the same way but with the abbreviation IMH p-d zones.
 
-![](images/thoracic_dissection2.png){fig-align="center"} **Whats the significance of these two in combination?**
+![](images/thoracic_dissection2.png){fig-align="center"}
+
+**Whats the significance of these two in combination?**
 
 There is a higher chance of aortic rupture if a penetrating aortic ulcer is seen with intramural hematoma.
 
@@ -124,9 +128,9 @@ The presence of multiple false lumens is associated with increased risk of aorti
 
 **What kind of patients get aortic dissections?**
 
-Hypertension (older patients) / cocaine or Meth (younger patients)
+Hypertension (older patients) vs cocaine or Meth (younger patients)
 
-Marfans, Loeys-Dietz, Ehlers Danlos Type 4, Turners, arteritis, Bicuspid aortic valve.
+Marfans, Loeys-Dietz, Vascular Ehlers Danlos (Type 4), Turners, arteritis, Bicuspid aortic valve.
 
 We also have a traumatic cause of aortic dissections. That being called blunt thoracic aortic injury:
 
@@ -138,6 +142,8 @@ We also have a traumatic cause of aortic dissections. That being called blunt th
 
 -   Grade 4: Aortic rupture.
 
+For more on the management of blunt aortic trauma, see @sec-trauma-endo
+
 ### Presentation
 
 **How do these patients present?**
@@ -146,9 +152,9 @@ Signs and symptoms -- Chest pain 90% tearing pain radiating between the shoulder
 
 Chest pain extending to the abdomen abdomen? Think mesenteric ischemia or aortic tear
 
-Type A - Stroke 5-10%,Syncope 15%, tamponade, carotid dissection, paralysis.
+Type A - Stroke 5-10%, Syncope 15%, tamponade, carotid dissection, paralysis.
 
-Others: MI -- Hypovolemic shock -- leg ischemia
+Others: MI, Hypovolemic shock, leg ischemia
 
 ## Evaluation
 
@@ -182,7 +188,7 @@ Initial CT, 72 hours, 3 months x 4, q6 months x2, q12 month. (Descending thoraci
 
 **Why isn't open surgery indicated for type B dissections?**
 
-Open surgery is not recommended due to the high mortality 30% if \< 48 hours. 18% if \> 49 hours.
+Open surgery is not recommended due to the high mortality 30% if \< 48 hours. 18% if \> 49 hours.[@trimarchi2006]
 
 In the acute setting mortality can be up to 50% with a 20% paraplegia risk. Its been described as sowing tissue paper.
 
@@ -208,7 +214,13 @@ For a static occlusion there could be a thrombus or stenosis in the branched ves
 
 -   Stent induced new entry.
 
-**Is there a role for TEVAR in uncomplicated type B dissections?**
+::: callout-tip
+## Take a Listen
+
+Check out [Dr Arko's conversation on the BackTable podcast](https://www.backtable.com/shows/vi/articles/aortic-dissection-complications-during-treatment) to learn more about the complications of TEVAR management in dissections.
+:::
+
+**Is there a role for TEVAR in [uncomplicated]{.underline} type B dissections?**
 
 The INSTEAD and INSTEAD XL trials looked at uncomplicated Type B dissections. There was NO statistical difference at 2 years comparing OMT vs TEVAR but at 5 years there was good aortic remodeling and better long term survival in patients treated in the sub-acute stage.
 
