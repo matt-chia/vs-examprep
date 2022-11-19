@@ -4,10 +4,9 @@ This content was developed to accompany our Audible Bleeding Exam Prep podcast s
 
 Editors: Editors: *Adam P Johnson; Matt Smith; and [Audible Bleeding Team](https://www.audiblebleeding.com/about-1/)*
 
-Version 01.01.04
+Version 01.01.05
 
 ## Usage
-
 
 ```{r echo=FALSE}
 
@@ -16,7 +15,6 @@ library(embedr)
 embed_audio("https://traffic.libsyn.com/audiblebleeding/1._Exam_Prep_2023_-_Introductionau.mp3")
 
 ```
-
 
 This e-book is intended to be a high level, easily accessible review for exam preparation and paired with our podcast content to help streamline your studying.
 
