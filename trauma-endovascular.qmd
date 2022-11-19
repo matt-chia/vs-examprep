@@ -1,4 +1,4 @@
-# Trauma - Endo
+# Trauma - Endo {#sec-trauma-endo}
 
 Authors: *Kevin Kniery, Marlin "Wayne" Causey, Nakia Sarad, and Todd Rasmussen*
 
