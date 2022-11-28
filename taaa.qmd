@@ -12,6 +12,16 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/Rouleaux_Club_TAA_Studio
 
 ```
 
+Treatment for thoracoabdominal aneurysms has become a bit of sub-specialization within vascular surgery, with the best outcomes achieved at high-volume centers with close partnerships with cardiothoracic surgery.[@cowan2003] While the majority of vascular surgeons may not manage these patients in their day to day practice, and many trainees have limited exposure, this topic is still fair game for examinations and should be reviewed. However, endovascular techniques are still evolving and practice varies widely between centers and so covering this topic may not be particularly high yield.
+
+::: callout-tip
+## Take a Listen
+
+Check out [our conversation with Dr. Tom Forbes](https://www.audiblebleeding.com/forbes/) where we discuss some challenges and opportunities in specialized aortic training and centralization of services.
+:::
+
+This chapter was developed by surgeons in the United Kingdom, where manufactured custom devices have broader regulatory approval and are more widely available. The availability of these devices in the United States is more limited and so management decisions are different depending on what devices are available. However, the basic principles of open management and overall clinical decision making are shared no matter what side of the Atlantic ocean you practice.
+
 ## Demographics
 
 ### Anatomy
