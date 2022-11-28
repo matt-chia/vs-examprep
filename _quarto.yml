@@ -6,7 +6,7 @@ book:
   author: "Audible Bleeding"
   date: "11/14/2022"
   description: "eBook Companion for Audible Bleeding Podcast Series"
-  cover-image: images/ab_examprep_cover.png
+  cover-image: images/ab_examprep_cover.jpg
   chapters:
     - index.qmd
     - authors.qmd
