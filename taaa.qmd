@@ -2,13 +2,15 @@
 
 Authors: *Rachael Forsythe, Mohamed Barkat, Nicholas Greaves, and Michael Jenkins*
 
-Contributors: *Sharif Ellozy and Leanna Erete*
+Contributors: *Sharif Ellozy, Leanna Erete*
+
+This episode was developed as a collaboration between Audible Bleeding and [The Rouleaux Club](https://rouleauxclub.com) in the United Kingdom.
 
 ```{r echo=FALSE}
 
 library (embedr)
 
-embed_audio("https://traffic.libsyn.com/audiblebleeding/Rouleaux_Club_TAA_Studio_sound_version_11-17-21_Auphonic.mp3")
+embed_audio("https://traffic.libsyn.com/audiblebleeding/Exa_m_Prep_2023_-_TAAAau.mp3")
 
 ```
 
