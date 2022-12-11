@@ -10,69 +10,11 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/Abdominal_Trauma_Part_On
 
 ```
 
-**We are going to skip the preoperative workup and description of anatomy and zones of abdominal vascular trauma, so please review this on your own. As a side note, we are also going to skip the management of iliac artery injuries as we covered that as part of our peripheral vascular trauma session.**
+[Click here for a comprehensive review of anatomy and zones of abdominal vascular trauma](https://link.springer.com/chapter/10.1007/978-3-319-95114-0_24) [@aseni2019]
 
-**Scenario: "You have a patient with a gunshot wound to the abdomen. General surgery has already prepped them from the neck to the knees, and performed a laparotomy from the xiphoid to the pubis. They packed the abdomen and temporarily have control. There was note of pulsatile bleeding from Zone I. Can you take us through how to get supraceliac control?**
+## General Principles
 
-A case like this should not proceed without close communication of the entire resuscitation team. I would start by making sure that I was on good terms with my anesthesia colleagues. So, they know what we were facing in this situation and that they were pursuing all the key tenets of damage-control resuscitation --- leading with blood product or whole blood resuscitation, keeping the patient warm, etc. As far as from a technical standpoint, you can't sew what you can't see. So, I immediately assess my exposure --- which is the laparotomy. The laparotomy in this case was from the xiphoid to pubis. That's a great start, but for the approach you have referenced, we will need to come up higher and go between the costal margin and almost begin the first 2 to 3 centimeters of a sternotomy. It is not a sternotomy, but, it comes along the side of the xiphoid to release the inferior costal margins of the thoracic area under the diaphragm to pull the costal margins laterally and up. You want to suspend your costal margins so that you are almost suspending the patient's rib cage up and away from the aorta and the abdominal contents. So making a good assessment of your exposure initially is really important. In a case that I am prepping and operating on, I try my best to use a retractor. Such as the Omni, that will allow for retractors to be placed underneath the costal margin so one can spread those costal margins and try to lift the thoracic area away from the abdominal contents. If you do not have an Omni retractor, you can still makes sure that you are suspending the superior aspect of your exposure.
-
-Once that is done, the other part of communicating with anesthesia is to see if they have a nasogastric tube down. In this case, supraceliac control is almost always facilitated by having a nasogastric tube in the esophagus to allow one to open the esophagus here and be able to get around that esophagus circumferentially --- with either umbilical tape or penrose drain. This will allow for appropriate left-sided retraction of the esophagus, away from the crus that is surrounding the aorta.
-
-The next maneuver is mobilizing the left lateral segment of the liver, so that it can either be brought cephalad or tucked inferiorly and brought to the right side (or the whole portion of the liver). So now, you have the left lateral segment out of the way. At this point, one is left with the crus that is overlying the aorta.
-
-The other maneuver here, dependent upon the situation, is to put the patient in reverse Trendelenburg to let the stomach down and pull it inferiorly so that you create as big a window as you can --- with the esophagus retracted to the patient's left the stomach pulled down. Sometimes, you can have a resident or a an assistant put their hand on the stomach and retract it towards the pelvis.
-
-Now, you have a window in which you can work. Next is to divide the skeletal muscle, which is the crus overlying the aorta. This can be facilitated with a large right angle and a bovie extender, and hopefully you can feel the aorta with a pulse (even a weak pulse) and divide the crus over the aorta with blunt dissection on either side. Typically, you do not try to spend time to get circumferential control of the aorta. It is not like an elective aneurysm repair where you want to get around the entire aorta. In these cases, if you can get on either side of the aorta down fine, that is what is needed and is most efficient in these emergencies.
-
-**Scenario: You enter a patient's abdomen and there is a large rush of blood. You think it may be coming from somewhere in the upper aorta. Is it worth taking the time to get supraceliac control before doing a medial-visceral rotation and exposing the aorta in that way? Or are there any scenarios in which you do a medial-visceral rotation first before you get supraceliac control? Can you take us through a medial-visceral rotation and pitfalls/advantages of doing each of those approaches, ie when to leave the kidney down and when to take it up?**
-
-It is worth getting super celiac control if it is a Zone I hematoma, especially if you have some time with someone holding pressure. Now, if you initially believe that the bleeding is from Zone I, but when you are actually able to enter the abdomen it looks like the bleeding is coming from the spleen or a different area, then you can readjust. The left medial-visceral rotation is designed to give optimal exposure of the para-visceral segment of the aorta. The para-visceral segment of the aorta includes the supraceliac segment all the way down to the aortic bifurcation, primarily the left common iliac artery. In this case with the left medial-visceral rotation, it is performed through dividing the white line of Toldt along the sigmoid colon and the left colon. You want to establish this plane in the retroperitonium, which a good portion is achieved through steady blunt dissection facilitated with Bovie electrocautery. In the setting of trauma, this dissection plane is taken from the sigmoid/left colon up to divide the attachments ingrained in the spleen and the left kidney, then to the mid-line and then ultimately to the patient's right. In the setting of trauma, the left kidney is almost always brought up. It is generally easier and faster, because you do not have to take the time to find the plane above the left kidney.
-
-Check out this [video](https://www.youtube.com/watch?v=DPxiDYzJwcY) for an example of a left medial visceral rotation
-
-**Management of bleeding from the spleen**
-
-One of the key tenets of splenic injury is exposure --- good retraction with incision up to xiphoid and alongside the left costal margin. Compromised exposure is a contributor to splenic injury.
-
-**With regard to exposure and eviscerating the bowel, there are some nuances. A method includes finding a moist lap pad that is large enough to cover the bowel, then place a clamp around it with someone holding it outside the abdomen. However, this method may not be as secure and also result in the bowel still being in the way. Do you have any tips on how to eviscerate and control the small bowel?**
-
-This is difficult to describe, because sometimes you just have to feel it. However, this is the main purview and job of the surgeon that is on the patient's right. It takes a strong and big right hand, extending as wide as possible, to get the bowel over to the patient's right side --- pulling it from the left to the right. It is not a subtle maneuver. Also, I do not use lap pads. I use an operative towel and ask to moisten the blue towel. You take the blue towel in your left hand and put it underneath your right hand (which has the viscera) to try to get it down to the base and laid out --- the blue towel and your right fingers are essentially coming across the aorta passed midline. Then, my preference is to use the Omni retractor to take the place of your right hand, which will come on top of that blue towel and hold all the viscera to the right of patient's mid-line.
-
-**With the left medial visceral rotation (Mattox maneuver), we perform the maneuver because of a suspected aortic injury or a close branch off the aorta. However, sometimes we need to do a right medial visceral rotation (Cattell-Braasch maneuver), especially when concerned about an IVC injury. What are some of the nuances of a right medial visceral rotation?**
-
-As you are on the other side, it still requires dividing the white line of Toldt starting at the cecum and coming along the right colon. You bring the cecum and right colon cephalad and then to the patient's left. It is actually not so much of a rotation to the midline and then the left, but bringing everything up cephalad and then left to the patient's left costal margin --- almost bringing the cecum and right colon up onto the patient's left chest. This is a plane that is also similar to the medial visceral rotation on the left side as it is largely developed with blunt dissection. However, it is a combination with opening the retroperitoneum with some Bovie electrocautery. You will also almost immediately see the left iliac vein and then the vena cava. Then, you continue to bring the left colon up until you see the right renal vein and kidney. At the superior extent, this will expose the head of the pancreas and duodenum. And similarly, you use a blue operative towel to cover and bring up the viscera to be held with the large retractors so your hands are free to operate. Spine exposures with orthopedic and neurosurgical colleagues and transplant procurements are also a great opportunity to learn the tenets of rotating the viscera either right or left and exposing the retroperitoneum.
-
-Check out this [video](https://www.youtube.com/watch?v=KVuMiAuw5zc) for an example of a right medial visceral rotation.
-
-**Technique for exposure of the Infrarenal Aorta**
-
-The exposure of the infrarenal aorta is also called the transperitoneal inframesocolic exposure and is considered to be a straightforward maneuver. Inframesocolic means that the transverse colon is reflected cephalad. One of the first aspects of this maneuver is to hold up the transverse colon and drape it up cephalad to patient's costal margin (can be held up with a blue towel and retractor). Next, you divide the ligament of Treitz (by the surgeon on the patient's right) and get down to the fourth portion of the duodenum which should be to the left of patient's midline. Once divided, the left colon remains on the patient's left and everything else goes to patient's right. However, this is not a medial visceral rotation because only the fourth portion of the duodenum and all of the small bowel is partitioned to patient's right. At this point, one should see the infrarenal aorta. The left renal vein is the most cephalad extent and the aortic bifurcation is the most caudal extent (located at root of colon mesentery). The left renal vein can be ligated if necessary to facilitate aortic control. However, it is best to try to preserve the branches of the left renal vein that drain the left kidney (gonadal and lumbar) so that dividing the left renal vein is not as much of a detriment to the kidney.
-
-**Tips for getting umbilical tape or vessel loop around aorta, especially in supraceliac region.**
-
-You can achieve this with a combination of Metzenbaum scissors and controlled pressure. You are trying to free the aorta from the connective tissue around it to get back to the spine. You can use a metallic pediatric yankauer (small profile and blunt tip) as a dissection tool and push with the Metzenbaum scissors along with direct feel to get the aorta freed. Then, you can use a right angle to get underneath the aorta. You also want to make sure to identify the lumbar vessels --- "find the outside before you find the inside" --- so you can clip them with medium/large Weck clips.
-
-**Techniques of exposing and repairing branches off of aorta: Celiac Artery**
-
-The origin of the celiac artery can be seen with left medial visceral rotation as it will show the entire paravisceral segment of the aorta and also with an anterior approach through the lesser sac (very similar to exposure needed for the supraceliac aortic exposure). The stomach is retracted caudally towards the pelvis, lesser sac is opened, and then the stomach is pulled down further. The pancreas is pulled down as well and the origin of the first centimeter of the celiac artery is now exposed. For injuries to the proximal portions of the celiac, if able to be repaired primarily --- use 4-0 or 5-0 prolene sutures. If injury is large and there is destruction of vessel wall, then primary repair is not an option and this becomes a damage-control situation to control the bleeding. With damage control, ligation is even considered as an initial step to save a patient's life.
-
-**Techniques of exposing and repairing branches off of aorta: Common Hepatic Artery**
-
-The common hepatic artery is best visualized through that similar transperitoneal anterior approach for exposure of the celiac artery through the lesser sac. Prior to identifying the common hepatic, you have to find the celiac and follow the branches. Patient should be in reverse Trendelenberg, the stomach inferior, and costal margins flared up to have the appropriate space. This will expose the second and third portions of the celiac artery, and its major branches --- including the common hepatic. The common hepatic artery can not be visualized using left medial visceral rotation. Primary repair is ideal, however, in damage control surgery ligation may be the only choice. If possible, ligation of the common hepatic proximal to the GDA is preferable as there will be retrograde flow from the GDA into the proper hepatic to maintain the viability of the duodenum, pancreas, and liver.
-
-**Techniques of exposing and repairing branches off of aorta: Gastroduodenal Artery (GDA)**
-
-The gastroduodenal artery is the first branch off of the common hepatic artery and defines the junction between the common and proper hepatic arteries. Primary repair should be sought if possible. If it is a damage control situation, then the GDA must be ligated to control hemorrhage. If ligated, assess patient's condition, resuscitate, utilize the doppler, and assess the area distal to ligation to evaluate the consequences. For example, if ligation showed appropriate collaterals, then the vessel can remain ligated. However, if there is clear ischemia, then there is a difficult decision between repair vs. shunt vs. permanent ligation along with its metabolic consequences. The decision is dependent on each situation. The principles of damage control resuscitation and damage control surgery should always be maintained.
-
-**Techniques of exposing and repairing branches off of aorta: Superior Mesenteric Artery (SMA)**
-
-The SMA is divided into segments based on its course, from aorta to pancreas to root of mesentery to the small bowel. Approach to SMA visualization is dependent on the segment that needs to be exposed. The first segments of the SMA can be seen through left medial visceral rotation. The distal segments of the SMA can be seen through the anterior transperitoneal approach. Since the SMA (second segment) is near the head of the pancreas, if the proximal segment of the SMA is injured, then the head of the pancreas may need to be divided to get appropriate exposure. If the segment of the SMA that is injured is distal to the pancreas, then it can be visualized through the inframesocolic approach. With regards to ligation, distal SMA segments will be more tolerant of ligation. All efforts should be made to mantain flow through the SMA. Primary repair can be performed on small injuries with 4-0 or 5-0 prolene suturing. Larger injuries can be repaired with patch angioplasty or interposition graft (PTFE, Dacron, or autologous tissue such as proximal greater saphenous vein or deep femoral vein). Autologous vein is preferred in contaminated field, but can also use rifampin-soaked Dacron. Tunneling is dependent on location, proximal segments would need 6-8 mm of graft while distal segments would need 3-4 mm. It is important to remember that a majority of these axial injuries are typically unsurvivable and proximal SMA repair is uncommon in the trauma setting. Even if the SMA is repaired and the bowel appears viable, it is preferred to delay abdominal closure and perform a second look 24-36 hours later or sooner depending on the patient's condition.
-
-**Techniques of exposing and repairing branches off of aorta: Inferior Mesenteric Artery (IMA)**
-
-The majority of times, the IMA can be ligated. Prior to ligation, assess the patency of the iliac vessels --- specifically the internal iliac vessels. Also, if both celiac and SMA are patent, then the IMA ligation can be tolerated. If there is concern for atherosclerotic disease or occlusion in the internal iliacs, then ligation may not be the preferred option and re-implantation may be considered.
-
-**Techniques of exposing and repairing branches off of aorta: Renal Arteries**
+As in all traumatic injuries, ensure that the patient is appropriately resuscitated with supportive care.
 
 It is important to consider the broad principles and approach:
 
@@ -88,12 +30,332 @@ It is important to consider the broad principles and approach:
 
 Decision to maintain patency of a vessel vs. ligation is dependent upon the situation. During damage-control procedures where bleeding is not controlled and location of hemorrhage not known, the inclination is to ligate. The risk is organ ischemia, but the benefit would be patient survival.
 
-The renal artery is similar to the SMA, unlikely to be reconstructed in a trauma setting. In renal trauma, the renal artery is either not injured (with only injury to renal parenchyma) or renal artery is injured and thrombosed. If renal artery is injured and thrombosed, salvageability is unlikely due to prolonged warm ischemic time of the kidney. Repair of the renal artery would truly occur if there is an expanding hematoma in Zone II that warranted exploration and it was found that the source of the hemorrhage was from an injured renal artery that still has flow. In this case, again, would do primary repair with smaller injuries with a 4-0, 5-0, or even 6-0 monofilament prolene suture. If a primary repair would compromise the lumen, then consider patch angioplasty. However, most commonly, if renal artery is injured it is ligated for damage-control. With regard to incidental CT findings, an intimal flap , fistula, and/or possible pseudoaneurysm of the renal artery, the injury can be observed if there is continued renal perfusion and no flow limitation. If it is a flow limiting injury with more than 50% stenosis caused by the intimal flap, it may be amenable to endovascular placement of bare metal stent to tack down the flap. Distal branch artery injuries can also be managed with endovascular coil embolization. Again, the decision to take the time to coil embolize is dependent on the patient's current hemodynamics. Most commonly, if there is an expanding hematoma in Zone II and the renal artery/parenchyma is damaged and confirmed as source of hemorrhage, a nephrectomy is warranted and there is no indication for repair.
+Angiography can be utilized in conjunction to open operative explorations in areas of injury that are difficult to access/control (i.e. Zone 4 retroperitoneal hematomas)
 
 **General Guidelines of Penetrating vs. Blunt Retroperitoneal Exploration**
 
-**Zone I hematomas:** explore whether penetrating or blunt mechanism.
+-   **Zone I hematomas:** explore whether penetrating or blunt mechanism.
 
-**Zone II hematomas:** always explore if penetrating, do not explore during blunt unless expanding. Kidneys are in Zone II and are in the lateral gutters.
+-   **Zone II hematomas:** always explore if penetrating, do not explore during blunt unless expanding. Kidneys are in Zone II and are in the lateral gutters.
 
-**Zone III hematomas:** always explore if penetrating, do not explore during blunt unless expanding.
+-   **Zone III hematomas:** always explore if penetrating, do not explore during blunt unless expanding.
+
+## Basic Exposure Techniques
+
+Procedural Sequence in Operative Abdominal Trauma
+
+-   Expose
+
+-   Achieve Proximal Control
+
+-   Explore and Evaluate Injury
+
+-   Restore Flow
+
+Supraceliac aortic and thoracic cross-clamping are important surgical maneuvers to control massive intra-abdominal bleeding in hemodynamically unstable patients.
+
+**Tips and Tricks**
+
+-   In order to get umbilical tape or vessel loop around aorta, use combination of Metzenbaum scissors and controlled pressure.
+
+    -   As you try to free the aorta from the connective tissue around it to get back to the spine, can use a metallic pediatric yankauer (small profile and blunt tip) as a dissection tool and push with the Metzenbaum scissors along with direct feel to get the aorta freed.
+
+    -   Can then use a right angle to get underneath the aorta.
+
+-   Ensure that lumbar vessels are identified when trying to get around the aorta
+
+    -   "find the outside before you find the inside"
+
+    -   Can clip lumbar vessels with medium/large Weck clips
+
+-   Use blue operative towels to cover and bring up the viscera to be held with the large retractors (i.e. Omni retractor) so your hands are free to operate.
+
+-   Spine exposures with orthopedic and neurosurgical colleagues and transplant procurements are also a great opportunity to learn the tenets of rotating the viscera either right or left and exposing the retroperitoneum
+
+### Supraceliac Control
+
+Supraceliac control is recommended prior to any medial visceral rotations if it is a Zone I hematoma.
+
+**Exposure**
+
+-   Basics
+
+    -   Exposure starts with midline laparotomy incision from xiphoid to pubis that may be extended to the first 2-3 cm of a sternotomy.
+
+        -   This releases the inferior costal margins of the thoracic area under the diaphragm to pull the costal margins laterally and up -- which suspends the patient's rib cage up and away from the aorta and the abdominal contents
+
+    -   Recommend use of Omni retractor so that retractors can be placed under costal margin
+
+    -   Ensure that there is nasogastric tube placed by anesthesia
+
+        -   Allows circumferential control of esophagus with either umbilical tape or penrose drain for appropriate left-sided retraction of the esophagus, away from the crus that is surrounding the aorta
+
+-   Steps
+
+    -   Midline laparotomy incision supraxiphoid to pubis with release of costal margin (suspended away from abdominal contents)
+
+    -   Clear left lateral segment of liver by mobilizing left lateral segment either cephalad or tucked inferiorly to the right side (or the whole portion of the liver).
+
+        -   Crus overlying aorta now left
+
+    -   For better exposure, place patient in reverse Trendelenburg to let the stomach down and pull it inferiorly to create a better window
+
+        -   Esophagus is retracted to the patient's left and the stomach pulled down (further retraction can be performed by a resident or operative assistant by putting their hand on the stomach and retracting it towards the pelvis)
+
+    -   Next, divide the skeletal muscle, which is the crus overlying the aorta, using a large right angle and a bovie extender
+
+        -   Maintain adequate control during muscle dissection by feeling the aorta and its pulse (even a weak pulse)
+
+        -   Divide the crus over the aorta with electrocautery and with blunt dissection on either side.
+
+        -   Note: do not need to spend time to get circumferential control of the aorta like in an elective aneurysm repair.
+
+    -   Supraceliac aorta should now be exposed enough on either side to have a clamp appropriately placed to gain control
+
+### Visceral Rotation
+
+**Left medial visceral rotation (Mattox Maneuver)**
+
+-   Maneuver performed when aortic injury or a close branch off the aorta is suspected
+
+-   Designed to give optimal exposure of the para-visceral segment of the aorta
+
+-   The para-visceral segment of the aorta includes the supraceliac segment all the way down to the aortic bifurcation, primarily the left common iliac artery
+
+-   Steps
+
+    -   Divide the white line of Toldt along the sigmoid colon and the left colon.
+
+    -   Establish plane in the retroperitonium
+
+        -   Achieved through steady blunt dissection facilitated with Bovie electrocautery
+
+    -   The dissection plane is taken from the sigmoid/left colon up to divide the attachments ingrained in the spleen and the left kidney, then to the mid-line and then ultimately to the patient's right.
+
+    -   Left kidney is almost always brought up
+
+        -   It is generally easier and faster, because you do not have to take the time to find the plane above the left kidney
+
+::: callout-tip
+## Take a Look
+
+Check out this [video](https://www.youtube.com/watch?v=DPxiDYzJwcY) for an example of a left medial visceral rotation.
+:::
+
+**Right medial visceral rotation (Cattell-Braasch Maneuver)**
+
+-   Important when concerned about an IVC injury
+
+-   Steps
+
+    -   Divide the white line of Toldt starting at the cecum and coming along the right colon.
+
+    -   Bring the cecum and right colon cephalad and then to the patient's left.
+
+        -   Note: it is actually not so much of a rotation to the midline and then the left, but bringing everything up cephalad and then left to the patient's left costal margin --- almost bringing the cecum and right colon up onto the patient's left chest.
+
+    -   This plane is similar to the left medial visceral rotation as it is largely developed with blunt dissection in combination with Bovie electrocautery to open the retroperitoneum.
+
+    -   At this point, you will almost immediately see the left iliac vein and then the vena cava.
+
+    -   Continue to bring the left colon up until you see the right renal vein and kidney.
+
+        -   At the superior extent, this will expose the head of the pancreas and duodenum.
+
+::: callout-tip
+## Take a Look
+
+Check out this [video](https://www.youtube.com/watch?v=KVuMiAuw5zc) for an example of a right medial visceral rotation.
+:::
+
+### Exposure of Infrarenal Aorta
+
+The exposure of the infrarenal aorta is also called the transperitoneal inframesocolic exposure
+
+Inframesocolic means that the transverse colon is reflected cephalad.
+
+Steps
+
+-   Hold up the transverse colon and drape it up cephalad to patient's costal margin (can be held up with a blue towel and retractor).
+
+-   Divide the ligament of Treitz (by the surgeon on the patient's right) and get down to the fourth portion of the duodenum which should be to the left of patient's midline.
+
+-   Once divided, the left colon remains on the patient's left and everything else goes to patient's right.
+
+    -   Note: this is not a medial visceral rotation because only the fourth portion of the duodenum and all of the small bowel is partitioned to patient's right.
+
+-   At this point, one should see the infrarenal aorta. The left renal vein is the most cephalad extent and the aortic bifurcation is the most caudal extent (located at root of colon mesentery).
+
+-   The left renal vein can be ligated if necessary to facilitate aortic control
+
+    -   Note: try to preserve the branches of the left renal vein that drain the left kidney (gonadal and lumbar) so that dividing the left renal vein is not as much of a detriment to the kidney
+
+## Management - Surgery
+
+### Celiac Artery 
+
+**Exposure**
+
+-   Origin of the celiac artery can be seen with left medial visceral rotation.
+
+    -   This maneuver will expose the entire paravisceral segment of the aorta
+
+-   Can also use anterior approach through the lesser sac (very similar to exposure needed for the supraceliac aortic exposure)
+
+    -   Stomach is retracted caudally towards the pelvis, lesser sac is opened, and then the stomach is pulled down further.
+
+    -   Pancreas is pulled down as well and the origin of the first centimeter of the celiac artery is now exposed.
+
+**Repair**
+
+-   Small and proximal injuries to celiac
+
+    -   Primary repair --- use 4-0 or 5-0 prolene sutures.
+
+-   Large injuries with destruction of vessel wall
+
+    -   Primary repair not an option
+
+    -   Considered as damage-control situation to control bleeding and ligation considered as an initial step to save a patient's life
+
+### Common Hepatic Artery (CHA)
+
+**Exposure**
+
+-   Best visualized through that similar transperitoneal anterior approach for exposure of the celiac artery through the lesser sac.
+
+-   Prior to identifying the common hepatic, you have to find the celiac and follow the branches
+
+-   Recommend positioning in reverse Trendelenberg, the stomach inferior, and costal margins flared up to have the appropriate space
+
+    -   This will expose the second and third portions of the celiac artery, and its major branches --- including the common hepatic.
+
+-   The common hepatic artery can not be visualized using left medial visceral rotation.
+
+**Repair**
+
+-   Primary repair is ideal
+
+-   Ligation may be only option in damage control surgery
+
+    -   If possible, ligation of the common hepatic proximal to the GDA is preferable as there will be retrograde flow from the GDA into the proper hepatic to maintain the viability of the duodenum, pancreas, and liver.
+
+### Gastroduodenal Artery (GDA)
+
+The gastroduodenal artery is the first branch off of the common hepatic artery and defines the junction between the common and proper hepatic arteries.
+
+Primary repair should be sought if possible. If it is a damage control situation, then the GDA must be ligated to control hemorrhage.
+
+**Tenets to Ligation**
+
+-   Assess patient's condition, resuscitate, utilize the doppler, and assess the area distal to ligation to evaluate the consequences
+
+-   If ligation showed appropriate collaterals, then the vessel can remain ligated
+
+-   If there is clear ischemia, then there is a difficult decision between repair vs. shunt vs. permanent ligation
+
+-   Consider metabolic consequences of ligation as well.
+
+-   Decision is situationally dependent - the principles of damage control resuscitation and damage control surgery should always be maintained.
+
+### Superior Mesenteric Artery (SMA)
+
+It is important to remember that a majority of these axial injuries are typically unsurvivable and proximal SMA repair is uncommon in the trauma setting. Even if the SMA is repaired and the bowel appears viable, it is preferred to delay abdominal closure and perform a second look 24-36 hours later or sooner depending on the patient's condition.
+
+**SMA divided into 3 segments based on its course**
+
+-   Segment 1: Aorta to Pancreas
+
+-   Segment 2: Pancreas to Root of Mesentery
+
+-   Segment 3: Mesentery to Small Bowel
+
+**SMA exposure**
+
+-   Visualization is dependent on the segment that needs to be exposed
+
+-   Segment 1 (most proximal) - left medial visceral rotation.
+
+-   Segment 2 (near head of pancreas)
+
+    -   Head of pancreas may need to be divided to get appropriate exposure
+
+    -   If distal to head of pancreas, can use inframesocolic approach
+
+-   Segment 3 (most distal) - anterior transperitoneal approach
+
+**Repair**
+
+-   All efforts should be made to maintain flow through the SMA
+
+-   Primary repair - performed on small injuries with 4-0 or 5-0 prolene suturing
+
+-   Patchy angioplasty of interposition graft
+
+    -   For larger injuries
+
+    -   Conduit types: PTFE, Dacron, or autologous tissue such as proximal greater saphenous vein or deep femoral vein
+
+    -   Autologous vein is preferred in contaminated field, but can also use rifampin-soaked Dacron.
+
+    -   Tunneling is dependent on location, proximal segments would need 6-8 mm of graft while distal segments would need 3-4 mm.
+
+**Ligation**
+
+-   Distal SMA segments will be more tolerant of ligation.
+
+### Inferior Mesenteric Artery (IMA)
+
+IMA can be ligated in majority of cases.
+
+Prior to ligation, assess the patency of the iliac vessels --- specifically the internal iliac vessels.
+
+If both celiac and SMA are patent, then the IMA ligation can be tolerated.
+
+If there is concern for atherosclerotic disease or occlusion in the internal iliacs, then ligation may not be the preferred option and re-implantation may be considered.
+
+### Renal Arteries
+
+Renal artery is unlikely to be reconstructed in a trauma setting (similar to SMA)
+
+Most commonly, if there is an expanding hematoma in Zone II and the renal artery/parenchyma is damaged and confirmed as source of hemorrhage, a nephrectomy is warranted and there is no indication for repair.
+
+In renal trauma, the renal artery is either not injured (with only injury to renal parenchyma) or renal artery is injured and thrombosed.
+
+-   If renal artery thrombosed, salvageability is unlikely due to prolonged warm ischemic time of the kidney.
+
+**Repair**
+
+-   Occurs if source of hemorrhage is from an injured renal artery that still has flow
+
+    -   Seen during exploration of expanding hematoma in Zone II
+
+-   Most commonly, if renal artery is injured it is ligated for damage-control
+
+-   If patient hemodynamically stable, primary repair recommended
+
+    -   4-0, 5-0, or even 6-0 monofilament prolene suture
+
+    -   If a primary repair would compromise the lumen, then consider patch angioplasty
+
+-   Distal branch artery injuries can be managed with endovascular coil embolization.
+
+    -   Again, the decision to take the time to coil embolize is dependent on the patient's current hemodynamics
+
+**Incidental CT findings**
+
+-   Types: intimal flap, fistula, and/or possible pseudoaneurysm of the renal artery
+
+-   Management
+
+    -   The injury can be observed if there is continued renal perfusion and no flow limitation.
+
+    -   If it is a flow limiting injury with more than 50% stenosis caused by the intimal flap, it may be amenable to endovascular placement of bare metal stent to tack down the flap.
+
+## Splenic Injury Management 
+
+One of the key tenets of splenic injury is exposure.
+
+Ensure good retraction with incision up to xiphoid and alongside the left costal margin. Compromised exposure is a contributor to splenic injury.
+
+Low threshold for splenectomy for control of hemorrhage.

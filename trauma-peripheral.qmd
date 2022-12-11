@@ -10,196 +10,516 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/Rasmussen_Final_Final.mp
 
 ```
 
-**Hard and Soft Signs of Vascular Injury**
+## General Principles
 
-Hard signs of a peripheral vascular injury:
+**DO NOT GET DISTRACTED**
 
--   Obvious bleeding (arterial or venous)
+-   These patients are often poly-trauma patients with likely other injuries
 
-    -   can be pulsatile or even history of bleeding in the field
+-   Follow ABCDE of the primary survey
+
+    -   Identify bleed and hold pressure to stop the bleeding
+
+    -   Pressure can be manual pressure, such as placing a finger in the wound, or applying a tourniquet
+
+    -   Once bleeding is effectively controlled, RESUSCITATE and continue the primary survey to address other life threatening injuries
+
+### Epidemiology
+
+Penetrating extremity trauma is leading cause of peripheral vascular injuries (75-80%)
+
+Most common arterial injury found in femoral or popliteal arteries (50-60%), then brachial artery (30%)
+
+### Types of Injuries
+
+Can occur with either blunt or penetrating trauma
+
+1.  Complete Wall Defect (hemorrhage or pseudoaneurysm)
+2.  Intimal Injury (subintimal/intramural hematomas, flaps, disruptions)
+3.  Arteriovenous fistulas
+4.  Complete Transection (with hemorrhage or occlusion)
+5.  Spasm
+
+### Presentation
+
+**Hard Signs of Peripheral Vascular Injury**
+
+-   Active Hemorrhage
+
+    -   Obvious bleeding (arterial or venous)
+
+    -   Can be pulsatile or history of bleeding in field
+
+-   Profound Ischemia of the extremity
+
+    -   Determined by absence of palpable pulse or dopplerable signal beyond the area of injury
 
 -   Expanding hematoma
 
-    -   underneath a closed wound/injury
+    -   Can occur underneath a closed wound/injury
 
--   Profound ischemia of the extremity
+-   Audible Bruit or Palpable thrill near site of injury
 
-    -   determined by the absence of a palpable pulse or dopplerable signal beyond the area of injury
+    -   Concern for an arterial-venous fistula, often high flow
 
--   Presence of an audible bruit or palpable thrill near site of injury
+**Soft Signs of Peripheral Vascular Injury**
 
-    -   concern for an arterial-venous fistula, often high flow
+-   Subjective reduced or unequal pulses
 
-Soft signs of a peripheral vascular injury:
+    -   Diminished blood flow to extremity
 
--   Injury pattern often associated with a vascular injury (i.e. posterior knee dislocation)
+    -   Weak, but audible arterial doppler signal
 
--   Diminished blood flow to extremity
+-   Large non-pulsatile hematoma
 
-    -   weak, but audible arterial doppler signal
+-   Orthopedic injury patterns carrying a high index of suspicion of vascular injury
+
+    -   Examples - posterior knee dislocation, displaced long bone fractures
 
 -   Penetrating wound in proximity to a major axial vessel
 
--   Peripheral nerve injuries
+-   Peripheral Nerve Injuries
 
     -   Femoral nerve injury
-        -   parasthesia to anterior thigh
-        -   decreased hip flexion and knee extension
+
+        -   Paresthesia to anterior thigh
+
+        -   Decreased hip flexion and knee extension
+
     -   Sciatic nerve injury
-        -   parasthesia to lateral leg and dorsal/lateral/plantar foot
-        -   weakness of foot plantar flexion
+
+        -   Paresthesia to lateral leg and dorsal/lateral/plantar foot
+
+        -   Weakness of foot plantar flexion
+
     -   Tibial nerve injury
-        -   parasthesia over heel
-        -   weakness of plantar flexion
+
+        -   Paresthesia over heel
+
+        -   Weakness of plantar flexion
+
     -   Deep peroneal nerve injury
-        -   parasthesia of first digital interspace
-        -   foot drop[@bulger2014]
 
-**Initial principles of managing a bleeding extremity**
+        -   Paresthesia of first digital interspace
 
--   DO NOT GET DISTRACTED
-    -   These patients are often poly-trauma patients with likely other injuries
-    -   Follow ABCDE of the primary survey
-        -   Identify bleed and hold pressure to stop the bleeding
-        -   Pressure can be manual pressure, such as placing a finger in the wound, or applying a tourniquet
-        -   Once bleeding is effectively controlled, RESUSCITATE and continue the primary survey to address other life threatening injuries
+        -   Foot drop [@bulger2014]
 
-**In Rich's Vascular Trauma Book, they described the injury extremity index. Could you explain this concept?**
+### Imaging
 
-If I had to take one tool with me into resuscitation room or an austere location to evaluate for vascular injury, it would be the continuous wave Doppler. It's only more powerful if you can combine it with a manual blood pressure cuff and together allow one to obtain an objective measure of perfusion. One can slowly inflate the blood pressure cuff, just proximal to the arterial signal, kind of like taking a blood pressure, and measure the pressure at which the arterial signal goes away. That can then be compared to a normal or non-injured extremity. If there is no flow limiting arterial injury, the ratio should be one or slightly greater than one.
+**Continuous Wave Doppler**
 
-Conversely, if the ratio for the injured extremity is less than 0.9, then that's indicative of flow limiting injury in the artery to that extremity. If the patient happens to be in shock or cold and clamped down, the injured extremity index can be repeated 10 or 15 minutes later as the patient is resuscitated and warmed.[@rasmussen2022]
+-   Handheld device that can amplify arterial signal to measure quality of pulse
 
-**So what do you think the role of CTA is in the workup of extremity with concern for vascular trauma?**
+    -   Triphasic, biphasic, monophasic, or absent
 
-If there are hard signs of arterial injury, oftentimes the patient will require an intervention without obtaining formal imaging. The question about imaging often comes into play when there's a soft sign of vascular injury, such as a reduced injury extremity index, audible bruit, or injury pattern. We spent decades saying that the traditional arteriography was the gold standard, but I think we can say now that CTA has become the gold standard for the evaluation of extremity vascular injury. CTA has improved in quality and it can also get imaging of the head, torso, or other other extremities.
+-   Injury Extremity Index
 
-**And so whether the patient has a hard sign or a soft sign with a vascular injury, can you talk us through some of the principles of operating on peripheral vascular trauma?**
+    -   Utilizes continuous wave doppler with manual blood pressure cuff to obtain objective measurements of perfusion
 
-Foremost important is to resuscitate the patient and to be mindful of his or her physiology and hemodynamics. As we said, an extremity vascular injury can be somewhat distracting. Make sure the patient is being resuscitated and warmed, ventilator settings are being corrected, and monitoring is in place -- which takes a lot of communication with the anesthesia team, the circulating nurse, the technicians, and the blood bank.
+    -   On injured extremity, inflate cuff proximal to arterial signal and measure pressure at which arterial signal diminishes. Compare to a normal/non-injured extremity. Injury extremity index is the ratio between these two values.
 
-I think once the patient is set and you have the team resuscitating him or her, then you can turn your attention to the injured extremity. I will prep that patient widely and be mindful that the incision is likely to take more than what you think it will. For example, for an above the knee popliteal artery, I will still prep that patient from their umbilicus down to both legs; because you need to anticipate getting proximal control, or doing an angiogram at the femoral artery level and anticipate the potential harvesting of saphenous vein for conduit.
+    -   If patient in shock and cold, repeat injury extremity index as the patient is resuscitated and warmed
 
-I also leave the tourniquet on and just prep it into the case. Taking that tourniquet down prematurely can be problematic for a couple of reasons. It may result in arterial bleeding, which in itself can be catestrophic, but it can also result in hypotension which poses risk to multiple organ systems. So, I just prep them into the field and then communicate with anesthesia to tell them when I am going to let this tourniquet down. Prior to doing so, I ensure they are ready, they have blood going, and have a secondary measure to control bleeding as you let that tourniquet down.
+    -   **Arterial Pulse Index \> 0.9**, no flow limiting vascular injury
 
-For the incisions, they just need to be probably twice as long as you think they do. You can't fix what you can't see and if you can't see it, you can't control it, and you certainly can't repair it.
+        -   Recommend observation
 
-**Do you routinely heparinize all these patients?**
+    -   **Arterial Pulse Index \<0.9**, flow limiting vascular injury likely
 
-I hate to equivocate, but it depends. It depends on whether or not they have other injuries. So if it's an isolated extremity injury and the patient does not have any torso bleeding, head trauma, or very extensive soft tissue injury, then I will then be more inclined to use systemic heparin during revascularization. If they have any of the above injuries, then I will use regional heparin flushed up and down the injured vessel.[@liang2016; @fox2012]
+        -   Recommend further imaging with CTA [@rasmussen2022]
 
-**One question that I've heard come up a handful of times is can you use saphenous vein from the injured extremity?**
+**CT angiography (CTA)**
 
-Our teaching, as you referenced, has always been to use a saphenous vein from the contralateral extremity, but I am quite practical about it. I certainly have used ipsilateral saphenous vein. If there's no deep vein injury and it's part of the incision and exposure, then I will use ipsilateral reversed greater saphenous vein. If there is concern for deep venous injury or if I have another person to harvest and who can prep the other leg, then often I'll defer to that and use contralateral. I'll be more deferential to using the contralateral saphenous vein in the reverse configuration.[@liang2016; @fox2012]
+-   Gold standard for evaluation of extremity vascular injury
 
-**So you have a vascular injury and you have debride it back to healthy tissue. How do you make the decision between, primary repair, patch repair, or interposition graft with autologous vein or prosthetic?**
+-   Ensure appropriate timing of contrast to follow-through to distal extremity
 
-You know, you can picture it now, you have vascular control with clamp proximal and distal. Now you're setting up, you are really shifting gears into a different phase of this operation. It's important to just take a deep breath, I think at this point, and check with anesthesia and make sure the patient's doing all right from a global standpoint.
+    -   Can occur in conjunction with CT imaging of head/chest/abdomen/other extremities to evaluate for traumatic injury
 
-I think the other thing is that at this point, I have sometimes overlooked the importance of performing a proximal and distal thrombectomy using the Fogarty catheter. I'll make sure that I've passed a Fogarty catheter distally to completely clear the outflow of thrombus. Then I'll use regional heparin, 40-60cc of heparin saline down the outflow before I apply the clamp. I'll do the same in the inflow and that buys you a little time as you're sort of thinking about and sizing up what's in front of you.[@liang2016; @fox2012]
+**Invasive angiography**
 
-I think in my experience, the majority of patients need an interposition graft. Certainly, if it's a grazing wound or a stab wound from a knife, there may be a role for primary repair or patch. But if one thinks there's going to be any compromise of the arterial lumen or tension on the repair, then you're better off with an interposition. [@liang2016; @fox2012]
+-   Has been readily replaced by CTA for evaluation of extremity vascular injury
 
-There are some special cases where primary repair might be appropriate. Veins are much more compliant and you can often get away with a lateral venorrhaphy. Then sometimes the upper extremities, such as the brachial artery, has more redundancy. If it's a very focal injury and you can get a little stretch, then you will often be able to get the brachial artery back together primarily. Of note, upper extremity disability can have a significant impact on quality of life. Long term functional impairment is measured by the Disabilities of Arm, Should, Hand (DASH) questionnaire. Impairment most closely associated with duration and severity of ischemia and concomitant nerve injury (36%). Open reconstruction preferred, patency rates are high.[@frech2016]
+### Management
 
-I suspect in the majority of my experience, vascular injuries require an interposition graft. Then in regards to conduit, because most of the wartime injuries were contaminated and quite dirty, we deferred to autologous saphenous vein the vast majority of the time. However, if you are in a pinch, can't find vein or don't have time to harvest vein, the wound isn't too contaminated, and the injury is proximal, axillary or subclavian, proximal femoral, or iliac, then I think using a prosthetic, either Dacron or expanded PTFE Gore-Tex is also acceptable. Some recent civilian literature says PTFE may be better than vein, but that has not been our experience in the deployed setting.
+If patient has hard sign of vascular injury, OR for exploration and vascular repair/bypass
 
-**Now that we have covered some basic principles, lets dive in a little deeper on each kind of peripheral vascular injury. First we're going to talk about junctional hemorrhage, which is an injury in the junctional area between the torso and extremity, such as the distal external iliac/common femoral or subclavian/axillary region. These are some our biggest fears and most difficult to deal with. Can you take us through a hematoma in the groin or pelvis just above inguinal ligament--what are the best ways to get control of this?**
+If patient has suspicion of vascular injury (soft signs), recommend bedside injury extremity index.
 
-For the iliac artery or even just the proximal common femoral, I think a retroperitoneal exposure to the lower quadrant of the abdomen is preferred. We sometimes refer to that as a transplant incision, which is quite suitable depending upon the injury pattern.
+If injury extremity index \> 0.9, recommend observation.
 
-As I alluded to before, don't underestimate the exposure you're going to need. So, if it truly is a groin hematoma, think that this could be common femoral or external iliac and in those cases, either a transplant incision in a retroperitoneal fashion to get that controlled up to the common iliac, or just doing a laparotomy and finding it through the abdomen would suffice.
+If injury extremity index \< 0.9, recommend further imaging with CTA or angiography (if patient stable). If CTA positive for occlusion or extravasation, OR for operative repair.
 
-**What if you encountered an internal iliac injury deep in the pelvis that you weren't able to control, what are the consequences of ligating that?**
+### Operative Approach
 
-That's real tiger country, in those cases it's really damaged control. One of the things we haven't mentioned is the important tenant -- that maybe arguably is one of the most important tenants in vascular damage control -- is ligation. We've talked a lot about setting up for a vascular repair, but one of the reasons to check with anesthesia and to assess the whole of the patient is to recognize that in some scenarios the best thing is ligation and then dealing with whatever consequences may result from that.
+**Exposure Basics**
 
-Keeping in mind, the idea of life over limb and not being too aggressive about trying to do some sort of exposure and repair of a vessel that takes hours and many, many units of blood. So in that context, I think, if you find bleeding from the internal iliac or hypogastric vessels, I think ligating those is quite acceptable. There can be instances of pelvic ischemia, but if the contralateral iliac artery is open, then that's quite rare.
+-   Prep patient widely
 
-Also, often one is dealing with artery and vein injury because they're right there together. And as I mentioned, that's real tiger country. If that's happening in those situations, keep in mind the tenants of exposure, light, two suctions, and don't use too small of a needle. That's where the SH blunt tip needle on a 3-0 or 4-0 prolene needle works well. Don't try to be too finesse about this because, in the pelvis, you won't be able to see your needle.
+    -   Any lower extremity injury, prep patient from umbilicus down to both legs
 
-**Let's take the same injury and move it now to the external iliac--what are the consequences of ligating the external iliac artery and what are some of your options?**
+    -   Anticipate need for proximal control, intraoperative angiograms at the femoral level, and potential harvesting of saphenous vein for conduit
 
-Because it's the axial vessel to that extremity, I would not ligate the external iliac artery with such impunity. I think in those situations, controlling it and making that assessment of whether or not to repair it is paramount. I think that the consequences of ligating an external iliac artery are going to be significant and include proximal extremity ischemia, including thigh, and probable need for above the knee amputation and even disarticulation of the hip.
+-   Recommend leaving tourniquet on and prep into field
 
-So I think the external iliac needs to be preserved at all costs. And whether you reconstruct immediately or use a temporary vascular shunt as a damage control is dependent upon how the patient's doing or if you are in the field and there are other triage concerns.
+    -   Removing tourniquet prematurely can result in arterial bleeding, leading to hypotension, hemorrhagic shock, and multi-organ system failure
 
-**Some can find shunts a little tricky, can you give some advice to listeners on how to best use temporary vascular shunts for damage control?**
+    -   Communicate with anesthesia and OR team when tourniquet will be put down and have blood ready for transfusion
 
-I think it's important to know what shunts you have available before you are in this situation. So stroll through the operating room or your stock room, wherever you are, when it's not busy and check out the stock of shunts. There are four or five different types of shunts, anything from what's referred to as the Javid shunt, Sundt shunt, or there's the Argyle shunt. Then there can be makeshift shunts, such as small caliber chest tubes, which are temporary plastic tubes that can be placed into the injured vessel proximally, and then controlled with either a ligature around the vessel to lock that shunt place or a rubber vessel loop.
+-   Incision
 
-And then you want to make sure that you did not blow out any clot with that shunt. So you let some heartbeats go with red blood running through the shunt, then occlude it with the clamp, and then insert it to the vessel that is distal to the injury.
+    -   Recommend making incision twice as long as what you would initially anticipate
 
-Likewise, you have to make sure that the thrombus has been removed, and I mentioned this earlier from that distal vessel. I think it is very important before you place the shunt in that you try to clear as much of the thrombus as you can, proximal and distal, and then place that shunt in and secure it either with a heavy silk tie or plastic vessel loops.
+    -   Important to have long incision to get appropriate control and visualization of injury
 
-Most of those shunts you can listen with the Doppler and you will see arterial flow in it. So you can listen on the surface of the plastic shunt with a little water or acoustic gel and hear the arterial flow in those shunts.
+-   Junctional Hemorrhages
 
-**For our military docs out there, if they're deploying to a role and their supply sergeant calls them and asks what kind of shunts do you want us to have --- what sizes and what types? What recommendations would you give to make sure that you have them on hand?**
+    -   Junctional area between the torso and extremity, most difficult to control
 
-Yeah, it's a great question for now and it's a challenge for us in the future. I think here and now, I would try to really make sure that the surgeon put his or her hands on Argyle shunts. The Argyle shunts come four in a container, there's a 12 French, 14 French, 10 French, and an 8 French all sort of in the same container. And its important to make sure he has those. As the larger 14 French Argyle can work on an iliac. So that would be one, and another would be to look for a 14 French chest tube. And I would say, "so these are my shunt options and I would need to have these available."
+    -   Lower extremity vessels include distal external iliac and common femoral
 
-The other shunts, the Sundt and Javid shunts, are the other ones you could ask for, but then you only have one size for those. And so those and the thrombectomy catheters is what I would have. Because I think it's very difficult to do an effective arterial repair without the ability to do the thrombectomy, proximal and distal, because you will be repairing that segment into thrombosed vessel with thrombosed inflow and thrombosed outflow.
+        -   Commonly presents as a groin hematoma
 
-I think you have to get that vascular repair kit, if you will, assembled and communicated with your scrub team ahead of time, so as to include the specifics of each item: specific heparin saline dose, shunts to be used, SH needle and some of the smaller ones, and thrombectomy catheters. It is important to go through that series of tools that you may find yourself needing. Also, keep in mind, we don't use pulmonary artery catheters as much anymore, but they can be used as a thrombectomy catheter in a pinch. And then those thrombectomy catheters can be used as good proximal inflow control. You can insert a large thrombectomy catheter proximal and inflate the balloon with a three-way stopcock and that will afford you inflow control in a pinch as well.
+    -   Upper extremity vessels include subclavian and axillary
 
-**Say you're having a patient transferred in from the Role II to the higher level of care. Do you recommend these patients be heparinized, if able, when they have shunts whether arterial or venous**
+::: callout-tip
+## Take a Look
 
-If they can be, then yes. It is dependent on whether there are other injuries to the head, torso, extensive soft tissue, etc. If there is massive bleeding, then the recommendation is to not shunt or put these patients on heparin.
+[You can review surgical exposure of lower extremity arteries here.](https://thoracickey.com/surgical-exposure-of-the-lower-extremity-arteries/)
 
-The best anticoagulant is flow. If you have high flow in those larger proximal vessels (above the knee or elbow), the shunts will stay patent without heparin (typically for 4-6 hours). The distal shunts, if they do clot off, what we have found is that they do not cause harm when they clot off. You basically are just back to square one with the occluded vessel and you have to do the thrombectomy, assessment, and repairs.
+[You can review surgical exposure of upper extremity arteries here.](https://onlinelibrary.wiley.com/doi/epdf/10.1002/9781118481370.ch25)
+:::
 
-So even if the shunts do thrombose, our experience has been -- at least in the short term of the temporary shunts -- that in two, four, five, six hours they do not cause harm when they thrombose. You just have to do the thrombectomy and assessment at that time.
+**Repair**
 
-**To close out iliac artery injuries, if you did need to ligate either the common or external iliac artery due to severe injury, what kind of options do you have there?**
+-   Gain proximal and distal control
 
-Well, that all really depends on the patient and their overall condition. If you have found yourself not being able to put a shunt in and in that scenario you had to ligate the external iliac, that patients is presumably in a really bad situation.
+-   Debride injury back to healthy tissue
 
-You can ligate it temporarily. So thinking that I am going to ligate it and then get some help. But in 2-3 hours, I am going t o have to go back and try to re-establish inline flow with another set of hands, with more blood, a different surgeon, different lighting, different tools, because leaving it ligated will incur a tremendous amount of ischemia into that extremity.
+-   Perform thrombectomy
 
-There are the options of a cross femoral graft. I don't think I have ever done that in the setting of trauma, bringing a PTFE graft from the other groin, the other femoral artery over to the injured femoral artery. That would be extraordinary or unusual. But when the options are just life over limb, and you have to just say: "I can't repair it." The scenario, whatever the reason, does not allow me to establish inline flow and the patient's going to get an amputation and we are going to work on saving his or her life, and move on.
+    -   Both proximal and distal to area of injury using Fogarty catheter to completely clear the inflow/outflow thrombus
 
-**As we move our way down the leg, I want to stop and focus on the common femoral and just discuss the principles of controlling the vessel --- the options and if ligation is an option at this level for any of the branches? Also, in residency, we would talk about blast injuries and accessing the common femoral to get hemorrhage control. Is this a common maneuver performed in the combat trauma?**
+    -   Once thrombus burden removed, apply 40-60cc of regional heparinized saline down the outflow before applying the clamp. Perform again on the inflow.
 
-The common femoral is not much less consequential than the iliac. In fact, it's probably every bit as consequential, as far as ligating it. So it can be ligated as a damage control maneuver, but the consequences will be significant if ligating the common femoral -- just as significant as the external iliac.
+-   Types
 
-There's three femoral arteries: the common, the deep femoral, and the superficial femoral. I think similar to what I mentioned before, all efforts should be maintained to try to maintain or establish flow through those three, if at all possible, and balancing the situation at hand, which sometimes means I have got to ligate it -- because of the flow of casualties, because of the capability I have at a given leve. Again, ligation if its life over limb is still an important damage control maneuver. You just have to be ready for the consequences of that and move on.
+    -   Primary Repair
 
-So controlling it, I think the Fogarty catheters are useful to control the deep femoral. Sometimes from the open common, you can insert a small Fogarty down into the orifice of the deep femoral and inflate that balloon and control back bleeding from the profunda. Often there are two profunda femoris arteries. They are difficult to control as they are right adjacent to the deep femoral vein. So, oftentimes controlling those deep femoral vessels from the inside using the small Fogarty and a three-way stopcock is quite handy. Then, the same tenets apply with either placing a shunt and trying to do a primary repair or some sort of interposition repair. If the patient is unstable, then a shunt should be placed and the patient brought back for definitive repair.[@abouali2017; @subramanian2008]
+        -   Good for focal injuries (grazing wounds or stab wounds from a knife) where there is minimal tension and arterial lumen maintains its integrity after debridement to healthy tissue
 
-**The popliteal artery is an area that we frequently see injuries and they can be quite difficult to manage. Can you discuss just a little bit about how you best expose and set up the patient when you are trying to access the popliteal artery, both above and below the knee.**
+        -   Can consider with venous injuries due to higher compliance or when vessels are redundant (ie brachial artery)
 
-Yeah, I will. And I skipped a question there. You asked about accessing the common for control. I think that's acceptable, I mean, it just depends on where the injury is and who is managing the case. I think if it's an individual who has done, 15 or 20 or 30 of these sorts of cases, and they feel comfortable about accessing the common femoral to control it -- I don't think there's anything at all wrong with that. On the flip side, if it's a distal SFA (superficial femoral artery) injury or a popliteal artery injury, in those situations, most of the time it should not require just a virgin cut down on an uninjured common femoral.
+    -   Patch Repair
 
-Now for popliteal, I think it is really important to get in-flow control to the popliteal. One has to expose the above knee popliteal artery, which is really the distal segment of the superficial femoral artery as it comes through the adductor magnus or Hunter's canal.
+        -   Also good for focal injuries not amenable to primary repair
 
-You would start with a wide, long incision from above the knee to the mid thigh. It is important to make sure to have a small sort of bump with rolled towels that are placed underneath the calf, so that you prop the leg up in a "frog leg position" and let gravity pull a lot of the musculature of the leg down. Then, find the the distal superficial femoral which is proximal to the above knee popliteal, just at or beyond Hunter's canal.
+        -   Again, can perform if there is no concern for tension or compromise of arterial lumen
 
-And now move the bump above the knee. Then, make a separate medial incision below the knee, again using sort of gravity in a way to pull the gastrocnemius and soleus down, so that you can open up that below knee popliteal space -- you are taking the muscles right down on the medial, inferior edge of the tibia to open up that below the knee popliteal space.
+    -   Interposition graft
 
-In this situation, you are going to need Weitlaner retractors. Oftentimes, we have something called a popliteal retractor, which has different depths of blades on the retractor. That's also referred to as a Henly popliteal retractor or Pilling retractor (must be the company that makes it). Those are awfully handy because you may need varying depths in blades, deeper than the standard Weitlaner retractor.
+        -   Most common repair type, avoids issue of tension and compromise of arterial lumen
 
-And then being able to really put a narrow handheld retractor, like an appendiceal or a Wylie renal vein retractor, that allows you to really retract. If you are above the knee and you are not that well exposed, you can put that narrow handheld on the inferior aspect of the wound and sort of toe in and really get down into the popliteal space itself.
+        -   Conduit types
 
-If you are below the knee, you put that narrow handheld in the proximal extent and again, toe in and you really can try to get that popliteal space itself exposed. If you need to, you can join the above and below knee incisions -- sometimes with the trauma, the injuries are joined anyway. Those are sort of some tenets.
+            -   Autologous vein (great saphenous vein)
 
-Lastly, lighting. It can not be overstated how important lighting is, sometimes that's a luxury for those of you who are in a deployed setting. But these are the top line things to think about with popliteal artery exposure.
+                -   Preferred choice with concern for contamination and for more distal extremity injuries (i.e. brachial, radial, SFA, and popliteal)
 
-From one of my own clinical experiences, especially in young patients, with repairing or bypassing the popliteal artery, many times these patients have very severe vasospasm at the end of the case. So that, even though you may do a beautiful bypass, you have minimal Doppler signals in the foot at the conclusion of the case. Have you experienced this and do you have any thoughts on this?
+                -   Saphenous vein from contralateral extremity (non-injured) routinely recommended
 
-Yeah, for sure. If the bypass has sort of an above knee-to-below knee and you have excluded or ligated the injured popliteal artery, then absolutely, a lot of times the patient will be relatively cold and in a vasoconstrictive condition. As long as you feel like there's flow in the reverse vein bypass -- ie: you can hear audible flow and it's not a water hammer signal, meaning that there's some diastolic flow in the arterial signal, and then there's some sort of weak signal at the ankle -- most of the time, I will just be done, warm the patient up, and resuscitate them. If any of those things are not true, you don't have any arterial signal in the graft, or if you do and it's only a water hammer signal, or where there's no signal at all at the foot or beyond the graft -- then, you have to open it up. Pass thrombectomy catheters, proximal and distal, and get that regional heparinized saline, and really make sure that there's not a real problem. But, that's really a judgment call and it is anxiety-provoking for sure.
+                -   Ipsilateral saphenous vein CAN be used if there is no deep vein injury and it is part of the incision/exposure
 
-But you have to have faith. I do think that if you feel like technically you saw all of your stitches, you felt it was good, you had some good outflow back bleeding before you did the distal, you didn't forget to the thrombectomy proximally, and you have signals -- even if they are in spasm and you feel it's not as good as it should be -- in some of those cases, you warm the patient up and resuscitate them and the signal will improve.
+            -   Prosthetic
 
-You can also do an on-the-table angiogram, but that puts you in an austere location and can be a little bit of going down a rabbit hole. You will see the spasm and then say: "well, geez, now i need to intervene on the spasm." An on-table angiogram is certainly an option and it should not be discounted, but I also would encourage folks that as long as those things are true -- you saw your anastomosis, you thrombectomized proximally and distally, you feel good about your inflow/outflow, you have an arterial signal that has got some diastolic flow (not water hammer in the graft), and you have some signal beyond it -- warm up the patient and see how they do.
+                -   Preferred choice if vein not available or injury is more proximal (axillary, subclavian, proximal femoral, iliac)
 
-**As we continue down the leg, we encounter our tibial vessels. How do you decide on repairing tibial vessels versus just ligating them?**
+                -   ePTFE or Dacron
 
-So there's a great paper I would refer you and your listeners to that was published in the Journal of Vascular Surgery in 2010 with Gabriel Burkhardt as the lead author.[@burkhardt2010] It was a review of the U.S. military experience with the practice of selective tibial artery repair. When you think about what that means, selective repair, it means we repair some but not all tibial arteries. So how do you determine which ones to repair? That was a good review article in the Journal of Vascular Surgery that I think looked at maybe a hundred tibial artery injuries. What we found from that experience was some principles of selective repair which led us fix those patients in which all three tibial arteries were injured. This means that it was not just the posterior tibial artery, but because of the injury pattern, the peroneal and anterior tibial had also been severed and there was just no flow in the foot. So in those situations, we did repair them with a reverse saphenous vein graft. That's the exception. Majority of times, as you are alluding to and in that case series, we did not repair them because we could ligate the single tibial artery injury since there was redundant arterial flow to the foot. So you can ligate it, listen on the table, and if the other tibial vessels are patent then it can remain ligated and should remain ligated because tibial artery repairs are even more technically challenging and time-consuming.
+    -   Ligation
 
-**We are going to shift our focus to cover venous injuries. What are your thoughts? We have been talking a lot about the possibilities of ligating arterial injuries. How do you approach venous injuries and ligation?**
+        -   Dependent on location of injury and overall hemodynamic status of patient
 
-This would also fall under the descriptor of selective repair, which means you repair some but not all. Without going into too much detail, it depends. In almost all of the upper extremity veins, can and just should be ligated. There is not enough muscle mass and flow in the upper extremity veins to bother with repair. The exceptions might be a proximal axillary vein or subclavian vein. But, by and large, the distal axillary, brachial, basilic, cephalic veins can be ligated. In the lower extremity, similarly, the small tibial veins can and should be ligated -- there should be no attempt to repair those. Coming proximally in the lower extremity, popliteal and then the femoral vein, if the patient is physiologically stable and performing a repair is possible or placing a venous shunt (we have had good luck venous shunts staying patent), then we have deferred to fixing the veins in those cases. If the patient is not in profound shock and if the expertise is there and present to do it with operating time, I think there is benefit to fixing those veins. There have been studies that confirm that this approach affords better arterial flow in the arterial repair because the venous outflow is not impeded.[@quan2008; @clouse2007; @rasmussen2022] Even if those veins thrombose over time, they do it slowly and do not lead to pulmonary emboli. So, when we can, we will fix those veins in the popliteal and femoral segments. Conversely, if the capability does not exist, the surgeon is not accustomed to repair, the patient is not doing well physiologically, or there's the need for the operating table -- then you just have to ligate those. I think ligating those veins in the popliteal or femoral segment are also acceptable as a damage control maneuver.
+        -   If patient unstable, ligate as damage control maneuver [@liang2016; @fox2012]
 
-**We could not finish a peripheral vascular trauma talk without discussing fasciotomies. What are your advice for listeners regarding fasciotomies?**
+**Heparinization**
 
-In the military setting, we have been liberal about the performance of two incision-four compartment-lower extremity fasciotomy. I think they should be done more liberally in our setting in the military. We advocate for them and have shown that they can be done without substantial additional morbidity and mortality. In fact, waiting to do a fasciotomy or missing a fasciotomy has been shown to be associated with mortality from early data from the wars. So part of that is in our system, we often are going to lose track of these patients. We will see them at a Role II, and then we would like to think, they don't need the fasciotomy at the Role II because they will do it at the Role III. And then we are not going to do it the Role III, because they can do it in the Role IV. But again, we are going to be evacuating these patients at altitude and they are going to go out of our care. So I err on the side of prophylactic, two incision-four compartment fasciotomy in the setting of lower extremity vascular injury certainly with wartime vascular injuries.
+-   Recommend selective heparinization
+
+-   If patient has isolated extremity injury, recommend systemic heparin during revascularization
+
+-   If patient has concomitant injuries (i.e. head trauma, torso bleeding, or extensive soft tissue injury), recommend regional heparin flushed up and down injured vessel [@liang2016; @fox2012]
+
+**Shunts**
+
+-   Can be utilized in damage control maneuvers to prevent need for ligation and achieve temporary perfusion
+
+-   Larger caliber vessels with high flow can be shunted without need for heparinization for 4-6 hours
+
+-   Smaller caliber vessels (in distal extremities) usually clot off but do not cause harm when clot occurs intra-operatively as the vessel needs to be re-assessed for repair
+
+    -   However, recommend that shunts are used in patients that do not have contraindications to systemic heparin use
+
+-   Types
+
+    -   Javid
+
+    -   Sundt
+
+    -   Argyle
+
+        -   Has advantage of multiple sizes
+
+    -   Pruitt-Inahara
+
+    -   Makeshift shunts -- small caliber chest tubes
+
+        -   Can place in injured vessel proximally and controlled with either ligature around vessel to lock shunt in place or rubber vessel loop
+
+-   Placement
+
+    -   Insert in injured vessel proximally first, then allow some pulsatile bleeding to allow any thrombus to exit before inserting it distally
+
+    -   Shunts can be secured either with heavy silk tie or plastic vessel loops
+
+    -   Can use doppler with water or acoustic gel over shunt to verify arterial flow
+
+    -   [More information about the types and use of intravascular shunts can be found here.](https://thoracickey.com/surgical-damage-control-and-temporary-vascular-shunts/)
+
+**Fasciotomies**
+
+-   Avoid hesitation to perform 4-compartment fasciotomies in threatened limb ischemia
+
+-   Recommend prophylactic fasciotomy to avoid compartment syndrome
+
+-   Especially important when transporting patients to higher level of care facilities
+
+-   Two-incision Four Compartment Lower Extremity Fasciotomy can reviewed here [@bowyer2015]
+
+    -   [Reference points for lateral incision here.](https://link.springer.com/article/10.1007/s40719-014-0002-7/figures/2)
+
+    -   [Reference points for medial incision here.](https://link.springer.com/article/10.1007/s40719-014-0002-7/figures/3)
+
+-   [Comprehensive review of fasciotomy techniques in both upper and lower extremities can be reviewed here.](https://www.wheelessonline.com/disaster-preparedness-toolbox/4-fasciotomy/)
+
+## Lower Extremity Arterial Injury and Management
+
+### Iliac Vessels
+
+**Exposure**
+
+-   Retroperitoneal exposure preferred - oblique incision in lower quadrant of abdomen (i.e. transplant incision)
+
+-   Midline laparotomy can also be considered
+
+-   Groin hematomas can either be iliac or femoral etiology, recommend extensive prep with either transplant incision or midline laparotomy incision to be able to gain common iliac artery control if needed
+
+**Repair**
+
+-   Internal iliac injury
+
+    -   Prefer ligation
+
+        -   Difficult access for exposure and repair
+
+        -   Patients usually in hemorrhagic shock and control is time-consuming and difficult to achieve
+
+        -   Can be safely achieved, pelvic ischemia rare due to collateral blood supply from contralateral iliac vessel
+
+    -   If repair can be performed, recommend larger needle (SH blunt tip needle on 3-0 or 4-0) for repair due to low visibility in pelvis
+
+-   External iliac injury
+
+    -   Repair at all costs
+
+        -   Gain control first then decide on method of repair depending on patient stability (immediate repair or temporary repair with vascular shunt)
+
+        -   14 French Argyle vascular shunts can be used on iliac vessels
+
+        -   May need to use prosthetic interposition graft due to larger caliber of vessels
+
+    -   Ligation has high morbidity and mortality, should be avoided
+
+        -   If external iliac artery is ligated, patient will experience proximal limb ischemia and will either need an above knee amputation (AKA) or hip disarticulation
+
+        -   In life or death situations, ligation and subsequent amputation is inevitable to save a patient's life
+
+        -   Can consider temporary ligation with return to OR in 2-3 hours to re-establish inline flow (consider cross femoral graft) when patient is more resuscitated, however, not common in trauma situation
+
+### Femoral Vessels
+
+Includes the Common Femoral Artery (CFA), Superficial Femoral Artery (SFA), and the Deep Femoral (Profunda femoris)
+
+**Exposure**
+
+-   Proximal CFA exposure similar to exposure of external iliac (midline laparotomy or transplant incision)
+
+-   Distal CFA, SFA, and Deep Femoral can be exposed with vertical groin incision (below inguinal ligament midway between pubis and ASIS over anterior proximal thigh) or oblique groin incision (directly beneath inguinal ligament or few centimeters distal)
+
+**Repair**
+
+-   Gain control
+
+    -   May be difficult to only use vessel clamps for more proximal injuries
+
+    -   At common femoral junction, can use Fogarty catheter into orifice of deep femoral with balloon inflated to control back bleeding
+
+    -   If SFA injured, can clamp distal CFA for control
+
+-   Recommend shunt placement
+
+-   Repair with primary, patch, or interposition graft (autologous vein preferred)
+
+-   Ligation also has high morbidity and mortality, should be avoided (see iliac section for consequences of ligation and options of shunting) [@abouali2017; @subramanian2008]
+
+### Popliteal Artery
+
+**Exposure**
+
+-   Need to gain control of popliteal artery above and below knee
+
+    -   Above knee popliteal artery is a continuation of the distal SFA through the adductor magnus (Hunter's canal)
+
+-   Position patient in "frog-leg" with bump of rolled towels placed underneath calf
+
+-   Make medial incision from above the knee to mid-thigh
+
+    -   Locate the distal SFA just at or beyond Hunter's canal in order to locate the above knee popliteal artery
+
+-   Move bump to above the knee and make a medial incision from below knee to mid calf
+
+    -   Expose the gastrocnemius and soleus muscles and bring down to the inferior edge of the tibia to open the below the knee popliteal space
+
+-   Retraction and good lighting is key
+
+    -   Can use Weitlaner retractor, Pilling retractor, or Henly popliteal retractor to retract muscles and better visualize space
+
+    -   Recommend narrow handheld retractor (appendiceal or Wylie renal vein retractor) on either the superior or inferior aspect of below or above knee incision, respectively, to gain more exposure of the popliteal space
+
+**Repair**
+
+-   Recommend bypass repair (autologous vein preferred if available)
+
+    -   Inflow from distal SFA to distal below knee popliteal target
+
+-   Always check repair with intraoperative doppler and check distal flow to foot
+
+    -   If signal goes down and you are concerned about the technical repair, be prepared to re-open and pass thrombectomy catheters proximally and distally to evaluate issue
+
+-   Even with good technical repair, spasm may occur
+
+    -   Common among young patients
+
+    -   Signal usually improves after re-warming and resuscitation
+
+    -   Ensure that there is audible flow in the bypass and patient well resuscitated prior to re-opening injury to assess repair
+
+    -   On-table angiogram also an option, however, spasm may appear as occlusion and repair is unnecessarily re-opened
+
+    -   **Important to note: Water hammer signal is not appropriate audible flow as it indicates diastolic flow in the arterial signal**
+
+### Tibial Vessels
+
+Repair is selective on extent of injury
+
+Recommend repair if all three tibial vessels are injured and there is no flow to the foot (anterior tibial, posterior tibial, and peroneal arteries) [@burkhardt2010]
+
+-   Saphenous vein graft preferred
+
+Recommend ligation if one or two tibial vessels injured, as there is redundant arterial flow to the lower extremity
+
+::: callout-tip
+## Take a Look
+
+[Find additional resources for lower artery exposure here.](https://basicmedicalkey.com/surgical-exposure-of-the-lower-extremity-arteries/#:~:text=Exposure%20of%20the%20distal%20portions,and%20stenting%20or%20aortofemoral%20bypass))
+:::
+
+## Upper Extremity Arterial Injury and Management
+
+**Important to keep in mind, upper extremity disability can have a significant impact on quality of life.**
+
+Long term functional impairment is measured by the Disabilities of Arm, Should, Hand (DASH) questionnaire. Impairment most closely associated with duration and severity of ischemia and concomitant nerve injury (36%). Open reconstruction is preferred and patency rates are high.[@frech2016]
+
+### Subclavian and Proximal Axillary Arteries
+
+Due to protected anatomic location of subclavian vessels, most subclavian artery trauma is usually cause by penetrating mechanism.
+
+Considered a junctional region for hemorrhage with difficult access for exposure
+
+Endovascular approach with covered stents may be used in traumatic axillo-subclavian injuries that are stable enough for intervention (i.e. do not require a resuscitative thoracotomy) [@xenos2003; @branco2016]
+
+**Exposure**
+
+-   Requires thoracotomy or sternotomy associated with clavicular incision for access
+
+-   Right subclavian/axillary arteries
+
+    -   Median sternotomy with extension to supraclavicular incision
+
+    -   Divide sternocleidomastoid muscle 1 cm above clavicle to expose subclavian vein
+
+    -   Retract vein and divide anterior scalene muscle to expose subclavian artery
+
+    -   Careful to locate and avoid phrenic nerve (traverse laterally over anterior scalene)
+
+    -   Aberrant right subclavian artery directly arises from thoracic aorta (0.5-2%) of population
+
+-   Left subclavian/axillary arteries
+
+    -   Left posterolateral thoracotomy is most optimal, however, requires lateral recumbent positioning
+
+    -   If patient is requiring midline laparotomy for operative management of abdominal trauma, recommend anterolateral thoracotomy in 3rd or 4th intercostal space
+
+        -   Extension with supraclavicular incision or median sternotomy to better expose proximal subclavian
+
+        -   Extension with infraclavicular incision to deltopectoral groove to gain access to proximal axillary artery
+
+**Repair**
+
+-   Primary, patch repair, interposition graft, or bypass dependent on extent of injury after debridement to healthy tissue and follows tenets of avoiding tension and preserving arterial lumen integrity
+
+### Distal Axillary and Brachial Arteries 
+
+Brachial artery is continuation of distal axillary artery
+
+**Repair**
+
+-   Primary Repair can be considered in brachial artery if there is redundancy, lack of tension, injury is focal, and no compromise to arterial lumen.
+
+-   Great saphenous vein preferred over prosthetic for conduit.
+
+-   Ligation should be avoided as upper extremity limb ischemia is highly disabling and morbid
+
+### Radial and Ulnar Artery
+
+**Repair**
+
+-   Ligation can be considered if there is appropriate collateralization from either the radial or ulnar artery into the distal palmar arch
+
+-   If either radial or ulnar injury causes distal hand ischemia, should be repaired
+
+## Extremity Venous Injury and Management
+
+Venous injuries can be selectively repaired. More proximal venous injuries should be repaired, while distal injuries can be ligated.
+
+Primary repair with lateral venorrhaphy can be performed due to higher intrinsic compliance of veins.
+
+### Lower Extremity Venous Injury
+
+Proximal Vessels (popliteal and femoral veins)
+
+-   Ligate if patient unstable, acceptable as damage-control maneuver
+
+-   Repair if patient is stable and not in profound shock
+
+    -   Can consider venous shunts as well
+
+-   Studies confirm that venous repair improves arterial flow in the arterial repair since venous outflow is not impeded [@quan2008; @clouse2007; @rasmussen2022]
+
+-   Even if repair of injured venous vessels thrombose over time, thrombosis occurs slowly and does not lead to pulmonary emboli
+
+### Upper Extremity Venous Injury
+
+All EXCEPT proximal axillary and subclavian vein injuries can be ligated in the upper extremity (ie distal axillary, basilic, cephalic, brachial, veins).
+
+Repair can be performed primarily or with graft (autologous or synthetic)
