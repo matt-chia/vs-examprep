@@ -2,6 +2,8 @@
 
 Authors: *Kevin Kniery, Adham Elmously, Nakia Sarad, and Todd Rasmussen*
 
+These trauma episodes were developed in collaboration with [Behind the Knife: The Premier Surgery Podcast](https://behindtheknife.org).
+
 ```{r echo=FALSE}
 
 library(embedr)
@@ -30,7 +32,7 @@ It is important to consider the broad principles and approach:
 
 Decision to maintain patency of a vessel vs. ligation is dependent upon the situation. During damage-control procedures where bleeding is not controlled and location of hemorrhage not known, the inclination is to ligate. The risk is organ ischemia, but the benefit would be patient survival.
 
-Angiography can be utilized in conjunction to open operative explorations in areas of injury that are difficult to access/control (i.e. Zone 4 retroperitoneal hematomas)
+Angiography can be utilized in conjunction to open operative explorations in areas of injury that are difficult to access/control (i.e. Zone 3 retroperitoneal hematomas)
 
 **General Guidelines of Penetrating vs. Blunt Retroperitoneal Exploration**
 

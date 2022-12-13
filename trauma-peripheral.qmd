@@ -1,16 +1,20 @@
 # Trauma - Peripheral {#sec-trauma-peripheral}
 
-Authors: *Kevin Kniery, Nakia Sarad, and Todd Rasmussen*
+Authors: *Kevin Kniery, Jason Bingham, Nakia Sarad, and Todd Rasmussen*
+
+These trauma episodes were developed in collaboration with [Behind the Knife: The Premier Surgery Podcast](https://behindtheknife.org).
 
 ```{r echo=FALSE}
 
 library(embedr)
 
-embed_audio("https://traffic.libsyn.com/audiblebleeding/Rasmussen_Final_Final.mp3")
+embed_audio("https://traffic.libsyn.com/audiblebleeding/Exam_Prep_2023_-_Trauma__Peripheralau.mp3")
 
 ```
 
-## General Principles
+For relevant images and a more in depth discussion of this topic, please review **Chapter 21: Upper Extremity and Junctional Zone Injuries**[@vuoncino2022] and **Chapter 22: Lower Extremity Injuries**[@kauvar2022] in Dr. Rasmussen's 4th Edition of *Rich's Vascular Trauma.*
+
+## Demographics
 
 **DO NOT GET DISTRACTED**
 
@@ -23,6 +27,14 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/Rasmussen_Final_Final.mp
     -   Pressure can be manual pressure, such as placing a finger in the wound, or applying a tourniquet
 
     -   Once bleeding is effectively controlled, RESUSCITATE and continue the primary survey to address other life threatening injuries
+
+Vascular trauma requires close collaboration between vascular surgeons and trauma surgeons. The decision of which specialty should manage which injuries varies across different centers. Through these trauma chapters we will discuss what management decisions the majority of vascular surgeons should be comfortable managing as a part of a multidisciplinary trauma team.
+
+::: callout-tip
+## Take a Listen
+
+Check our [debate between leading trauma and vascular surgeons](https://www.audiblebleeding.com/vasc-trauma-panel/) about how to best develop a collaborative team to manage vascular trauma.
+:::
 
 ### Epidemiology
 
@@ -104,7 +116,7 @@ Can occur with either blunt or penetrating trauma
 
         -   Foot drop [@bulger2014]
 
-### Imaging
+## Evaluation
 
 **Continuous Wave Doppler**
 
@@ -112,21 +124,17 @@ Can occur with either blunt or penetrating trauma
 
     -   Triphasic, biphasic, monophasic, or absent
 
--   Injury Extremity Index
+-   **Injured Extremity Index**[@vuoncino2022]
 
     -   Utilizes continuous wave doppler with manual blood pressure cuff to obtain objective measurements of perfusion
 
     -   On injured extremity, inflate cuff proximal to arterial signal and measure pressure at which arterial signal diminishes. Compare to a normal/non-injured extremity. Injury extremity index is the ratio between these two values.
 
+        -   **Injured Extremity Index \> 0.9**, no flow limiting vascular injury - Recommend observation
+
+        -   **Injured Extremity Index \<0.9**, flow limiting vascular injury likely - Recommend further imaging with CTA
+
     -   If patient in shock and cold, repeat injury extremity index as the patient is resuscitated and warmed
-
-    -   **Arterial Pulse Index \> 0.9**, no flow limiting vascular injury
-
-        -   Recommend observation
-
-    -   **Arterial Pulse Index \<0.9**, flow limiting vascular injury likely
-
-        -   Recommend further imaging with CTA [@rasmussen2022]
 
 **CT angiography (CTA)**
 
@@ -140,17 +148,17 @@ Can occur with either blunt or penetrating trauma
 
 -   Has been readily replaced by CTA for evaluation of extremity vascular injury
 
-### Management
+## Management
 
 If patient has hard sign of vascular injury, OR for exploration and vascular repair/bypass
 
 If patient has suspicion of vascular injury (soft signs), recommend bedside injury extremity index.
 
-If injury extremity index \> 0.9, recommend observation.
+If injured extremity index \> 0.9, recommend observation.
 
-If injury extremity index \< 0.9, recommend further imaging with CTA or angiography (if patient stable). If CTA positive for occlusion or extravasation, OR for operative repair.
+If injured extremity index \< 0.9, recommend further imaging with CTA or angiography (if patient stable). If CTA positive for occlusion or extravasation, OR for operative repair.
 
-### Operative Approach
+### General Considerations
 
 **Exposure Basics**
 
@@ -230,17 +238,21 @@ If injury extremity index \< 0.9, recommend further imaging with CTA or angiogra
 
                 -   Ipsilateral saphenous vein CAN be used if there is no deep vein injury and it is part of the incision/exposure
 
-            -   Prosthetic
+            -   Prosthetic - ePTFE or Dacron
 
-                -   Preferred choice if vein not available or injury is more proximal (axillary, subclavian, proximal femoral, iliac)
-
-                -   ePTFE or Dacron
+                -   Suitable if vein is not available, wound with minimal contamination or injury is more proximal (axillary, subclavian, proximal femoral, iliac)
 
     -   Ligation
 
         -   Dependent on location of injury and overall hemodynamic status of patient
 
         -   If patient unstable, ligate as damage control maneuver [@liang2016; @fox2012]
+
+::: callout-tip
+## Take a Listen
+
+Check out our [Vascular Origins Story outlining the history of arterial injury management in military medicine](https://www.audiblebleeding.com/mash-part-1/) and the transition from ligation to arterial repair during the Korean war.
+:::
 
 **Heparinization**
 
@@ -301,8 +313,6 @@ If injury extremity index \< 0.9, recommend further imaging with CTA or angiogra
     -   [Reference points for medial incision here.](https://link.springer.com/article/10.1007/s40719-014-0002-7/figures/3)
 
 -   [Comprehensive review of fasciotomy techniques in both upper and lower extremities can be reviewed here.](https://www.wheelessonline.com/disaster-preparedness-toolbox/4-fasciotomy/)
-
-## Lower Extremity Arterial Injury and Management
 
 ### Iliac Vessels
 
@@ -418,6 +428,12 @@ Includes the Common Femoral Artery (CFA), Superficial Femoral Artery (SFA), and 
 
     -   **Important to note: Water hammer signal is not appropriate audible flow as it indicates diastolic flow in the arterial signal**
 
+::: callout-tip
+## Take a Listen
+
+Check out [our discussion with Mr. Paul Blair](https://www.audiblebleeding.com/rouleaux-blair/) where he discusses management of peripheral arterial trauma during the troubles in Northern Ireland. This episode was developed in collaboration with the [Rouleaux Club](https://rouleauxclub.com).
+:::
+
 ### Tibial Vessels
 
 Repair is selective on extent of injury
@@ -434,13 +450,11 @@ Recommend ligation if one or two tibial vessels injured, as there is redundant a
 [Find additional resources for lower artery exposure here.](https://basicmedicalkey.com/surgical-exposure-of-the-lower-extremity-arteries/#:~:text=Exposure%20of%20the%20distal%20portions,and%20stenting%20or%20aortofemoral%20bypass))
 :::
 
-## Upper Extremity Arterial Injury and Management
+### Subclavian and Proximal Axillary Arteries
 
 **Important to keep in mind, upper extremity disability can have a significant impact on quality of life.**
 
 Long term functional impairment is measured by the Disabilities of Arm, Should, Hand (DASH) questionnaire. Impairment most closely associated with duration and severity of ischemia and concomitant nerve injury (36%). Open reconstruction is preferred and patency rates are high.[@frech2016]
-
-### Subclavian and Proximal Axillary Arteries
 
 Due to protected anatomic location of subclavian vessels, most subclavian artery trauma is usually cause by penetrating mechanism.
 
@@ -498,7 +512,7 @@ Brachial artery is continuation of distal axillary artery
 
 -   If either radial or ulnar injury causes distal hand ischemia, should be repaired
 
-## Extremity Venous Injury and Management
+## Venous Injury
 
 Venous injuries can be selectively repaired. More proximal venous injuries should be repaired, while distal injuries can be ligated.
 
@@ -522,4 +536,4 @@ Proximal Vessels (popliteal and femoral veins)
 
 All EXCEPT proximal axillary and subclavian vein injuries can be ligated in the upper extremity (ie distal axillary, basilic, cephalic, brachial, veins).
 
-Repair can be performed primarily or with graft (autologous or synthetic)
+Repair can be performed primarily or with graft (autologous or synthetic).
