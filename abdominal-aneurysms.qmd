@@ -429,7 +429,7 @@ Check out [our conversation with Drs Gregorio Sicard and Frank Caputo](https://w
 
     -   Usually necessitates graft explantation and open repair or re-lining of the graft.
 
-### Open Repair
+### Open Repair {#sec-aaa-open-repair}
 
 **Now we can move onto open repair. Describe an open infrarenal aneurysm repair.** [@mooreVascularEndovascularSurgery2019; @garygwindAnatomicExposuresVascular2013]
 
