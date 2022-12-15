@@ -8,11 +8,19 @@ These trauma episodes were developed in collaboration with [Behind the Knife: Th
 
 library(embedr)
 
-embed_audio("https://traffic.libsyn.com/audiblebleeding/Abdominal_Trauma_Part_One.mp3")
+embed_audio("https://traffic.libsyn.com/audiblebleeding/Exam_Prep_2023_-_Trauma__Abd_Arterialau.mp3")
 
 ```
 
-[Click here for a comprehensive review of anatomy and zones of abdominal vascular trauma](https://link.springer.com/chapter/10.1007/978-3-319-95114-0_24) [@aseni2019]
+Vascular trauma requires close collaboration between vascular surgeons and trauma surgeons. The decision of which specialty should manage which injuries varies across different centers. Through these trauma chapters we will discuss what management decisions the majority of vascular surgeons should be comfortable managing as a part of a multidisciplinary trauma team.
+
+::: callout-tip
+## Take a Listen
+
+Check our [debate between leading trauma and vascular surgeons](https://www.audiblebleeding.com/vasc-trauma-panel/) about how to best develop a collaborative team to manage vascular trauma.
+:::
+
+For relevant images and a more in depth discussion of this topic, please review **Chapter 18: Abdominal Aortic Trauma, Iliac and Visceral Vessel Injuries[@aylwin2022]** in Dr. Rasmussen's 4th Edition of *Rich's Vascular Trauma.*
 
 ## General Principles
 
@@ -22,17 +30,23 @@ It is important to consider the broad principles and approach:
 
 1.  Urgency of situation
 
-2.  Optimal Exposure
+2.  Resuscitation Efforts
 
-3.  Resuscitation Efforts
+3.  Communication with Team
 
-4.  Communication with Team
+4.  Optimal Exposure
 
 5.  Appropriate Equipment
 
 Decision to maintain patency of a vessel vs. ligation is dependent upon the situation. During damage-control procedures where bleeding is not controlled and location of hemorrhage not known, the inclination is to ligate. The risk is organ ischemia, but the benefit would be patient survival.
 
 Angiography can be utilized in conjunction to open operative explorations in areas of injury that are difficult to access/control (i.e. Zone 3 retroperitoneal hematomas)
+
+::: callout-tip
+## Take a Look
+
+Here is an [image of the zones of the retroperitoneum](https://basicmedicalkey.com/wp-content/uploads/2016/08/DA9DB10C254FF1.jpg), hosted by basicmedicalkey.com.
+:::
 
 **General Guidelines of Penetrating vs. Blunt Retroperitoneal Exploration**
 
@@ -74,6 +88,12 @@ Supraceliac aortic and thoracic cross-clamping are important surgical maneuvers 
 
 -   Spine exposures with orthopedic and neurosurgical colleagues and transplant procurements are also a great opportunity to learn the tenets of rotating the viscera either right or left and exposing the retroperitoneum
 
+::: callout-tip
+## Take a Listen
+
+Check out [our conversation with spine surgeons at HSS in New York City](https://www.audiblebleeding.com/spine-exposure/) on collaborative work between vascular and spine surgeons to improve the safety of spine surgery.
+:::
+
 ### Supraceliac Control
 
 Supraceliac control is recommended prior to any medial visceral rotations if it is a Zone I hematoma.
@@ -96,15 +116,13 @@ Supraceliac control is recommended prior to any medial visceral rotations if it 
 
     -   Midline laparotomy incision supraxiphoid to pubis with release of costal margin (suspended away from abdominal contents)
 
-    -   Clear left lateral segment of liver by mobilizing left lateral segment either cephalad or tucked inferiorly to the right side (or the whole portion of the liver).
-
-        -   Crus overlying aorta now left
+    -   Clear left lateral segment of liver by mobilizing left lateral segment either cephalad or tucked inferiorly to the right side.
 
     -   For better exposure, place patient in reverse Trendelenburg to let the stomach down and pull it inferiorly to create a better window
 
         -   Esophagus is retracted to the patient's left and the stomach pulled down (further retraction can be performed by a resident or operative assistant by putting their hand on the stomach and retracting it towards the pelvis)
 
-    -   Next, divide the skeletal muscle, which is the crus overlying the aorta, using a large right angle and a bovie extender
+    -   Next, divide the crus overlying the aorta, using a large right angle and a bovie extender
 
         -   Maintain adequate control during muscle dissection by feeling the aorta and its pulse (even a weak pulse)
 
@@ -113,6 +131,8 @@ Supraceliac control is recommended prior to any medial visceral rotations if it 
         -   Note: do not need to spend time to get circumferential control of the aorta like in an elective aneurysm repair.
 
     -   Supraceliac aorta should now be exposed enough on either side to have a clamp appropriately placed to gain control
+
+For more on exposure of the visceral aorta, check out @sec-taaa
 
 ### Visceral Rotation
 
@@ -141,7 +161,7 @@ Supraceliac control is recommended prior to any medial visceral rotations if it 
 ::: callout-tip
 ## Take a Look
 
-Check out this [video](https://www.youtube.com/watch?v=DPxiDYzJwcY) for an example of a left medial visceral rotation.
+Check out [this video for an example of a left medial visceral rotation](https://www.youtube.com/watch?v=KVuMiAuw5zc) by Dr. Alan Lumsden at Houston Methodist.
 :::
 
 **Right medial visceral rotation (Cattell-Braasch Maneuver)**
@@ -167,7 +187,7 @@ Check out this [video](https://www.youtube.com/watch?v=DPxiDYzJwcY) for an examp
 ::: callout-tip
 ## Take a Look
 
-Check out this [video](https://www.youtube.com/watch?v=KVuMiAuw5zc) for an example of a right medial visceral rotation.
+Check out [this video for an example of a right medial visceral rotation](https://www.youtube.com/watch?v=DPxiDYzJwcY) by Dr. Alan Lumsden at Houston Methodist.
 :::
 
 ### Exposure of Infrarenal Aorta
@@ -192,9 +212,9 @@ Steps
 
     -   Note: try to preserve the branches of the left renal vein that drain the left kidney (gonadal and lumbar) so that dividing the left renal vein is not as much of a detriment to the kidney
 
-## Management - Surgery
+## Management
 
-### Celiac Artery 
+### Celiac Artery
 
 **Exposure**
 
@@ -210,15 +230,17 @@ Steps
 
 **Repair**
 
--   Small and proximal injuries to celiac
+-   Small and proximal injuries to celiac - Primary repair may be an option use 4-0 or 5-0 prolene sutures.
 
-    -   Primary repair --- use 4-0 or 5-0 prolene sutures.
+**Ligation**
 
--   Large injuries with destruction of vessel wall
+-   Large injuries with destruction of vessel wall - Primary repair may not be an option
 
-    -   Primary repair not an option
+-   Considered as damage-control situation to control bleeding and ligation considered as an initial step to save a patient's life
 
-    -   Considered as damage-control situation to control bleeding and ligation considered as an initial step to save a patient's life
+-   Ligation may be tolerated if there is robust GDA collateral circulation. However, once bleeding is controlled, this should be assessed with doppler.
+
+-   If the patient is stable or improving and particularly if there is clear signs of liver, pancreas or duodenal ischemia, then this should be reconstructed.
 
 ### Common Hepatic Artery (CHA)
 
@@ -244,11 +266,15 @@ Steps
 
 ### Gastroduodenal Artery (GDA)
 
+**Exposure**
+
 The gastroduodenal artery is the first branch off of the common hepatic artery and defines the junction between the common and proper hepatic arteries.
+
+**Repair**
 
 Primary repair should be sought if possible. If it is a damage control situation, then the GDA must be ligated to control hemorrhage.
 
-**Tenets to Ligation**
+**Ligation**
 
 -   Assess patient's condition, resuscitate, utilize the doppler, and assess the area distal to ligation to evaluate the consequences
 
@@ -260,11 +286,17 @@ Primary repair should be sought if possible. If it is a damage control situation
 
 -   Decision is situationally dependent - the principles of damage control resuscitation and damage control surgery should always be maintained.
 
+### Splenic Artery
+
+One of the key tenets of splenic injury is exposure. Ensure good retraction with incision up to xiphoid and alongside the left costal margin.
+
+Low threshold for splenectomy for control of hemorrhage from the splenic artery or splenic parenchyma.
+
 ### Superior Mesenteric Artery (SMA)
 
 It is important to remember that a majority of these axial injuries are typically unsurvivable and proximal SMA repair is uncommon in the trauma setting. Even if the SMA is repaired and the bowel appears viable, it is preferred to delay abdominal closure and perform a second look 24-36 hours later or sooner depending on the patient's condition.
 
-**SMA divided into 3 segments based on its course**
+**SMA is divided into 3 segments based on its course**
 
 -   Segment 1: Aorta to Pancreas
 
@@ -272,7 +304,7 @@ It is important to remember that a majority of these axial injuries are typicall
 
 -   Segment 3: Mesentery to Small Bowel
 
-**SMA exposure**
+**Exposure**
 
 -   Visualization is dependent on the segment that needs to be exposed
 
@@ -302,9 +334,17 @@ It is important to remember that a majority of these axial injuries are typicall
 
     -   Tunneling is dependent on location, proximal segments would need 6-8 mm of graft while distal segments would need 3-4 mm.
 
+-   Again, repair in a strictly traumatic setting is rare, because injuries that include the proximal mesenteric arteries are unlikely to be survivable. However, these techniques can be applied to other situations when assisting other surgeons who have to resect the SMA as a part of an oncologic resection or have induced an iatrogenic injury.
+
+::: callout-tip
+## Take a Listen
+
+Check [our episode where we discuss the role of a vascular surgeon in assisting with oncologic resections.](https://www.audiblebleeding.com/oncovascular/)
+:::
+
 **Ligation**
 
--   Distal SMA segments will be more tolerant of ligation.
+-   Distal SMA segments may be more tolerant of ligation.
 
 ### Inferior Mesenteric Artery (IMA)
 
@@ -315,6 +355,8 @@ Prior to ligation, assess the patency of the iliac vessels --- specifically the 
 If both celiac and SMA are patent, then the IMA ligation can be tolerated.
 
 If there is concern for atherosclerotic disease or occlusion in the internal iliacs, then ligation may not be the preferred option and re-implantation may be considered.
+
+For more discussion of evaluation and re-implantation of the IMA, see @sec-aaa-open-repair
 
 ### Renal Arteries
 
@@ -353,11 +395,3 @@ In renal trauma, the renal artery is either not injured (with only injury to ren
     -   The injury can be observed if there is continued renal perfusion and no flow limitation.
 
     -   If it is a flow limiting injury with more than 50% stenosis caused by the intimal flap, it may be amenable to endovascular placement of bare metal stent to tack down the flap.
-
-## Splenic Injury Management 
-
-One of the key tenets of splenic injury is exposure.
-
-Ensure good retraction with incision up to xiphoid and alongside the left costal margin. Compromised exposure is a contributor to splenic injury.
-
-Low threshold for splenectomy for control of hemorrhage.

@@ -1,4 +1,4 @@
-# TAAA
+# TAAA {#sec-taaa}
 
 Authors: *Rachael Forsythe, Mohamed Barkat, Nicholas Greaves, and Michael Jenkins*
 
