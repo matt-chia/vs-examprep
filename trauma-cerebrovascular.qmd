@@ -1,14 +1,26 @@
 # Trauma - Cerebrovascular
 
-Authors: *Kevin Kniery, Adam P Johnson, Nicole Rich, Nakia Sarad, and Todd Rasmussen*
+Authors: *Kevin Kniery, Nicole Rich, Nakia Sarad, and Todd Rasmussen*
+
+These trauma episodes were developed in collaboration with [Behind the Knife: The Premier Surgery Podcast](https://behindtheknife.org).
 
 ```{r echo=FALSE}
 
 library(embedr)
 
-embed_audio("https://traffic.libsyn.com/audiblebleeding/Cerbrovascular_Trauma_auphonic.mp3")
+embed_audio("https://traffic.libsyn.com/audiblebleeding/Exam_Prep_2023_-_Trauma_Cerebrovascularau.mp3")
 
 ```
+
+Vascular trauma requires close collaboration between vascular surgeons and trauma surgeons. The decision of which specialty should manage which injuries vary across different centers. Through these trauma chapters we will discuss what management decisions the majority of vascular surgeons should be comfortable managing as a part of a multidisciplinary trauma team.
+
+::: callout-tip
+## Take a Listen
+
+Check our [debate between leading trauma and vascular surgeons](https://www.audiblebleeding.com/vasc-trauma-panel/) about how to best develop a collaborative team to manage vascular trauma.
+:::
+
+For relevant images and a more in-depth discussion of this topic, please review **Chapter 20: Neck and Thoracic Outlet**[@magee2022] in Dr. Rasmussen's 4th Edition of *Rich's Vascular Trauma.*
 
 ## Neck Exposure Techniques
 
@@ -46,7 +58,7 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/Cerbrovascular_Trauma_au
 
         -   First branch is superior thyroid artery (near bifurcation)
 
-        -   Terminate in parotid gland, divide into superificial temporal and maxillary arteries
+        -   Terminate in parotid gland, divide into superficial temporal and maxillary arteries
 
     -   Internal carotid artery
 
@@ -186,7 +198,7 @@ Detailed exposure techniques can be found here[@kwon2019]
 
 **Considerations**
 
--   Consider the overall injury severity of the trauma patient with any concomitant injuries that may prevent antiplatelet/anticoagulation initiation (i.e. TBI) or intervention
+-   Consider the overall injury severity of the trauma patient with any concomitant injuries that may prevent antiplatelet/anticoagulation initiation (i.e. TBI) or intervention[@bromberg2010]
 
     -   Oftentimes have other blunt vascular injuries, such as aortic injuries, that need to be addressed as well
 
@@ -196,7 +208,7 @@ Detailed exposure techniques can be found here[@kwon2019]
 
 -   If unable to obtain a reliable neurological exam, can consider transcranial doppler or EEG if accessible, but is not mandatory
 
--   Continue supportive measures to prevent secondary injuries, ie optimize cerebral perfusion pressure
+-   Continue supportive measures to prevent secondary injuries, i.e. optimize cerebral perfusion pressure
 
 -   Repeat imaging with change in neurological status
 
@@ -256,7 +268,7 @@ Guidelines and treatment algorithm can be found here[@geddes2016]
 
 ## Penetrating Trauma
 
-**Levels**
+**Levels[@roon1979]**
 
 -   Zone I: thoracic inlet (sternal notch) to level of cricothyroid cartilage
 
@@ -286,7 +298,7 @@ Guidelines and treatment algorithm can be found here[@geddes2016]
 
 -   Direct to OR for exploration, especially with high suspicion of carotid injury and neurovascular deficits (hard sign)
 
--   Repair carotid artery if injured, even if thrombosed
+-   Repair carotid artery if injured, even if thrombosed.
 
     -   The risk of reperfusion injury causing an intracranial hemorrhage was traditionally considered a reason to not repair.
 
@@ -362,11 +374,13 @@ Guidelines and treatment algorithm can be found here[@geddes2016]
 
 -   Assess repair with removal of thrombus and once back-bleeding restored
 
--   Duplex US (continuous wave doppler)
+-   Duplex US
 
     -   Best option when time is limited to assess flow
 
     -   Usually also used most often with elective carotid repairs
+
+    -   If ultrasound is not available, then a continuous wave doppler is at least necessary to demonstrate monophasic signal with diastolic flow in the revascularized internal carotid artery.
 
 -   Intraoperative arteriograms
 
@@ -386,18 +400,8 @@ Guidelines and treatment algorithm can be found here[@geddes2016]
 
 Guideline Algorithm for Penetrating Neck Trauma[@sperry2013]
 
-Paper that first presented the anatomic neck zones[@roon1979]
-
 ## Internal Jugular Vein Injuries
 
 -   If patient has significant TBI, consider repairing Internal Jugular venous injuries to maintain venous outflow to that side of the brain --- especially if there is a transduced venous pressure gradient. Cases include patients who have intracranial hypertension and require a decompressive craniectomy.
 
 -   Otherwise, able to ligate without much consequential effects in most patients due to appropriate amounts of collateral outflow.
-
-EAST Blunt Cerebrovascular Injury Guidelines
-
-<https://www.east.org/education/practice-management-guidelines/blunt-cerebrovascular-injury>
-
-Check out Rich's Vascular Trauma
-
-<https://www.elsevier.com/books/richs-vascular-trauma/9781455712618>

@@ -2,6 +2,8 @@
 
 Authors: *Kevin Kniery, Marlin "Wayne" Causey, Nakia Sarad, and Todd Rasmussen*
 
+These trauma episodes were developed in collaboration with [Behind the Knife: The Premier Surgery Podcast](https://behindtheknife.org). In addition, Dr. Causey is a co-host for [WarDocs: Military Medicine Podcast](https://www.wardocspodcast.com).
+
 ```{r echo=FALSE}
 
 library(embedr)
@@ -10,7 +12,17 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/Rasmussen_Endovascular_T
 
 ```
 
-Although open surgical treatment is the mainstay of trauma management, there are some unique injuries where endovascular management has started to become the standard of care in centers with the resources and expertise to perform it.[@katsanos2009]
+Vascular trauma requires close collaboration between vascular surgeons and trauma surgeons. The decision of which specialty should manage which injuries vary across different centers. Through these trauma chapters we will discuss what management decisions the majority of vascular surgeons should be comfortable managing as a part of a multidisciplinary trauma team.
+
+::: callout-tip
+## Take a Listen
+
+Check our [debate between leading trauma and vascular surgeons](https://www.audiblebleeding.com/vasc-trauma-panel/) about how to best develop a collaborative team to manage vascular trauma.
+:::
+
+For relevant images and a more in-depth discussion of this topic, please review **Chapter 11: Resuscitative Endovascular Balloon Occlusion of the Aorta\[**\@yi2022\]and **Chapter 17: Blunt Thoracic Aortic Injury**[@demetriades2022] in Dr. Rasmussen's 4th Edition of *Rich's Vascular Trauma.*
+
+Although open surgical treatment is the mainstay of trauma management, there are some unique injuries where endovascular management has become the standard of care in centers with the resources and expertise to perform it.[@katsanos2009]
 
 ## Blunt Thoracic Aortic Injury (BTAI)
 
@@ -18,27 +30,11 @@ Although open surgical treatment is the mainstay of trauma management, there are
 
 #### Guidelines
 
-[SVS Guidelines for Blunt Thoracic Aortic Injury](https://www.jvascsurg.org/article/S0741-5214(10)01924-5/fulltext)
-
-Seminal Papers in Blunt Thoracic Aortic Injury
-
--   [AAST 1997 Paper](https://pubmed.ncbi.nlm.nih.gov/9095103/)
-
--   [AAST 2008 Paper](https://pubmed.ncbi.nlm.nih.gov/18545103/)
-
--   [JVS 2011 Paper](https://pubmed.ncbi.nlm.nih.gov/20974523/)
-
--   [Timing of repair of BTAI JVS 2020](https://www.jvascsurg.org/article/S0741-5214(20)31575-5/fulltext)
-
-[Dr. Ben Starnes' podcast on Behind The Knife on BTAI](https://bit.ly/2LuycWq)
+[SVS Guidelines for Blunt Thoracic Aortic Injury](https://www.jvascsurg.org/article/S0741-5214(10)01924-5/fulltext)[@lee2011]
 
 #### Epidemiology
 
--   Rare, but lethal
-
--   Less than 1% of all blunt traumas
-
--   Second leading cause of death in blunt trauma
+-   Rare, but lethal. Less than 1% of all blunt traumas but second leading cause of death in blunt trauma.
 
 -   Due to high velocity mechanism of injury, usually are polytrauma patients with other severe injuries (i.e. intracranial injury)
 
@@ -55,6 +51,18 @@ Seminal Papers in Blunt Thoracic Aortic Injury
 -   Most patients have unsurvivable devastating injuries (75%) and pass prior to arrival to hospital for definitive care
 
 -   Rates of paraplegia, rates of blood utilization, and mortality rates have decreased with prominence of endovascular repair of injuries
+
+::: callout-tip
+## Further Reading
+
+Seminal Papers in Blunt Thoracic Aortic Injury (BTAI) outlining the evolution of management from open to endovascular treatment.
+
+-   Fabian et al. (1997). Prospective study of blunt aortic injury: Multicenter Trial of the American Association for the Surgery of Trauma. The Journal of Trauma, 42(3), 374--380[@fabian1997]
+
+-   Demetriades et al. (2008). Diagnosis and treatment of blunt thoracic aortic injuries: Changing perspectives. The Journal of Trauma, 64(6), 1415--1418[@demetriades2008]
+
+-   Alarhayem et al. (2021). Timing of repair of blunt thoracic aortic injuries in the thoracic endovascular aortic repair era. Journal of Vascular Surgery, 73(3), 896--902[@alarhayem2021]
+:::
 
 #### Anatomy
 
@@ -90,9 +98,7 @@ Seminal Papers in Blunt Thoracic Aortic Injury
 
     -   Intimal tear and/or thrombus of \<10mm in length or width
 
-    -   Treatment: No intervention
-
-    -   Surveillance with follow-up imaging
+    -   Treatment: No intervention and surveillance with follow-up imaging
 
         -   Antiplatelet therapy
 
@@ -131,6 +137,12 @@ Seminal Papers in Blunt Thoracic Aortic Injury
     -   Treatment: Emergent repair
 
         -   BTAI takes first priority
+
+::: callout-tip
+## Take a Listen
+
+Check the [BTK episode](https://behindtheknife.org/podcast/2-benjamin-starnes-m-d-military-surgery-future-of-vascular-surgery-training-and-blunt-vascular-injury/) with Dr. Benjamin Starnes discussing blunt thoracic aortic trauma and this classification scheme.
+:::
 
 ### Evaluation
 
@@ -248,7 +260,7 @@ Seminal Papers in Blunt Thoracic Aortic Injury
 
 -   Can deploy too proximal or too distal
 
--   "Bird Beaking" - Where the lesser curve of the graft is not well approximated to the lesser curve of the aorta (i.e. the lifting of the inferior aspect of the most proximal endograft with the first covered stent ring now lifted off into the inner curve of the aortic arch)[@frohlich2020] Can cause endoleaks. Methods to avoid "bird beaking"
+-   "Bird Beaking" - Where the lesser curve of the graft is not well approximated to the lesser curve of the aorta (i.e. the lifting of the inferior aspect of the most proximal endograft with the first covered stent ring now lifted off into the inner curve of the aortic arch)[@frohlich2020] This can cause endoleaks. Methods to avoid "bird beaking"
 
     -   Use stiff wire to get into the aortic root (i.e. Amplatz or Lunderquist wires) with forward pressure to have a constant tension
 
