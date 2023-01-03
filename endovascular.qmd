@@ -177,7 +177,7 @@ Lastly, AV fistula can form and are usually between the femoral artery and vein 
 The effects can impact both patients and clinicians. Patients often receive a higher dose during a single procedure, where as clinician doses, even with proper shielding, accumulate over multiple procedures throughout their careers. The effects of radiation are defined as either deterministic or stochastic.
 
 |  Dose   | Effect                                                                                             |
-|:-------:|----------------------------------------------------------------------------------------------------|
+|:-----------:|-----------------------------------------------------------|
 |  0-2Gy  | No observable effects                                                                              |
 |  2-5Gy  | Transient skin erythema and dermatitis, full recovery 6w-1yr[@guesnier-dopagne2019; @kirkwood2014] |
 | 5-10Gy  | Erythema and epilation (hair loss), prolonged erythema up to 1y                                    |
@@ -282,11 +282,13 @@ Strategies to reduce exposure include:
 
 Joint Commission Oversight - sentinel radiation reporting is aimed to promote awareness of preventable events perform root cause analyses to understand the reasons for events.[@thejointcommission2019] It is important to escalate events early, as effects may not occur until much later.[@arbique] Sentinel events include:
 
-1.  Cumulative dose of 15 Gy for a single field over 6mo - 1yr.
+1.  The patient has a permanent cutaneous injury and the proper dose saving techniques were not used during the procedure
 
-2.  Delivery of radiotherapy to the wrong body region.
+2.  Cumulative dose of 15 Gy for a single field over 6mo - 1yr.
 
-3.  Actual dose more than 25% above planned radiotherapy dose.[@jones2011]
+3.  Delivery of radiotherapy to the wrong body region.
+
+4.  Actual dose more than 25% above planned radiotherapy dose.[@jones2011]
 
 Institutional Oversight - many institutions develop their own guidelines for employee exposure and mitigation strategies. Some common policies regarding dose limits include:
 

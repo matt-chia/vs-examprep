@@ -8,11 +8,9 @@ Authors: *Anna Ohlsson and Sherene Shalhub*
 
 library (embedr)
 
-embed_audio("https://traffic.libsyn.com/audiblebleeding/Exam_Prep_2023_-_Aortopathies_02au.mp3")
+embed_audio("https://traffic.libsyn.com/audiblebleeding/Exam_Prep_2023_-_Aortopathiesau.mp3")
 
 ```
-
-If you have the time, please complete this [10-minute anonymous survey on genetics in vascular surgery for US vascular surgeons and trainees](https://redcap.iths.org/surveys/?s=8RW9D3J8HT9YX4EK) administered by Dr. Shalhub. The survey is open until **December 16, 2022**.
 
 ## General Considerations
 
