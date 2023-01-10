@@ -154,7 +154,7 @@ Lastly, AV fistula can form and are usually between the femoral artery and vein 
 
 ## Radiation Safety
 
-**Authors:** *Adam P Johnson*
+**Authors:** *Adam P Johnson,*
 
 ### Important Terms
 
@@ -218,7 +218,12 @@ Certain patient, procedure and clinician factors put patients at increased risk 
 
 The main source of radiation to the clinicians is scatter from the patient. There are a number of techniques that can be used to reduce exposure of clinicians to this radiation.[@heidbuchel2014; @kirkwood2013]
 
--   Preoperative planning is paramount to efficient use of radiation during a procedure. Recent ESVS guidelines recommend utilization of a 3D pre-operative planning software and image fusion (when available) for complex endovascular procedures.[@modarai2022]
+-   Reduce the time of exposure, keeping a close eye on fluoroscopy time and dosages as a procedure progresses.
+    -   Preoperative planning is paramount to efficient use of radiation during a procedure. Recent ESVS guidelines recommend utilization of a 3D pre-operative planning software and image fusion (when available) for complex endovascular procedures.[@modarai2022]
+
+    -   Use last image hold to allow for procedural planning
+
+    -   Decrease the frame rate to reduce the frequency of radiation exposure per second.
 
 ::: callout-tip
 ## Take a Look
@@ -226,23 +231,19 @@ The main source of radiation to the clinicians is scatter from the patient. Ther
 Check out [Dr. Ellozy's operative planning video](https://youtu.be/El62hiIhNnA) where he reviews how to plan for an EVAR procedure utilizing Tera-Recon 3D imaging software.
 :::
 
--   Reduce the time of exposure, keeping a close eye on fluoroscopy time and dosages as a procedure progresses.
-
 -   Position the source as far away from the operator as possible to still achieve optimal imaging. Radiation dose changes according to the inverse square of distance. Therefore twice the distance results in one quarter the dose.
 
     -   For example, left anterior oblique (LAO) will bring the source to the patient's right side, causing higher doses to clinicians on that side of the patient.[@kirkwood2013; @sailer2019]
 
 -   Appropriate shielding
 
+    -   Collimation can be helpful to reduce patient and operator dose, scatter and improve image quality.[@haqqani2012]
+
     -   The location with the highest exposure to scatter is below the table.[@gonzales2014; @miller2010] Therefore, leaded skirt and extended lower body shields reduce radiation to the operator's legs.[@kirkwood2015]
 
     -   Of note: leaded caps DO NOT reduce radiation exposure to the brain because the majority of radiation is received as scatter from the patient up through the face and neck.[@kirkwood2018]
 
     -   Lead shielding should be regularly inspected and discarded if damaged. Particularly if defect is \>15mm2 on a critical organ area, \>670mm2 along a seem/overlapping area, \>11mm2 on a thyroid shield.[@officeofhealthcareinspections2014; @university]
-
--   Collimation can be helpful to reduce patient and operator dose, scatter and improve image quality.[@haqqani2012]
-
--   Use last image hold to allow for procedural planning
 
 ### Pregnancy considerations
 
