@@ -29,8 +29,14 @@ Atherosclerosis begins with an injury to the intimal lining of the arterial wall
 
 Atherosclerosis is particularly prone to developing at sites of arterial bifurcation (i.e. carotid bifurcation, femoral bifurcation) because turbulent flow and low laminar shear stress results in the down regulation of eNOS and NO production. This in turn increases V-CAM-1 and reduces inhibition of KF-kB (resulting in it's elevation.[@owens2019]
 
+::: callout-tip
+## Take a Listen
+
+Check out [our episode with Dr. Melina Kibbe, who is actively researching the role of nitric oxide in vascular pathology.](https://www.audiblebleeding.com/kibbe/)
+:::
+
 | Classification | Description                                                             |
-|:--------------:|--------------------------------------------------------|
+|:------------------:|----------------------------------------------------|
 |       0        | Normal artery                                                           |
 |       1        | Initial atherosclerotic lesion                                          |
 |       2        | Fatty streak                                                            |
@@ -43,7 +49,7 @@ Atherosclerosis is particularly prone to developing at sites of arterial bifurca
 
 Since the publication of WIfI in 2014 a lot has changed in the way we view PAD leading up to last years new Global Vascular Guidelines on CLTI, which as a term has replaced CLI (see @sec-clti). [@millsSocietyVascularSurgery2014a; @conteGlobalVascularGuidelines2019a]
 
-### Risk Factors
+### Risk Factors {#sec-pad-risk-factors}
 
 **What are the risk factors for atherosclerosis?**
 
@@ -184,7 +190,7 @@ The progression of intermittent claudication was historically graded by Fontaine
 Rutherford et al. Ad Hoc Committee on Reporting Standards, SVS/North American Chapter ISCVS:
 
 | Grade | Category |                     Clinical Description                     |
-|:----------:|:----------:|:----------------------------------------------:|
+|:---------------:|:---------------:|:------------------------------------:|
 |   0   |    0     | A symptomatic - no hemodynamic significant occlusive disease |
 |   I   |    1     |                      Mild Claudication                       |
 |   I   |    2     |                    Moderate Claudication                     |
@@ -247,7 +253,7 @@ Furthermore patients with single level iliac disease may present with buttock/th
 **What is the ultrasound duplex criteria for defining PAD?**
 
 | Stenosis Category |       Peak Systolic Velocity       | Velocity Ratio | Distal Artery Spectral Waveform |
-|:-------------:|:--------------------:|:-------------:|:------------------:|
+|:----------------:|:------------------:|:----------------:|:----------------:|
 |      Normal       |               \<150                |     \<1.5      |      Triphasic, Normal PSV      |
 |      30-49%       |              150-200               |     1.5-2      |      Triphasic, Normal PSV      |
 |      50-75%       |              200-400               |      2-4       |     Monophasic, reduced PSV     |
@@ -270,11 +276,17 @@ Additional Guidelines
 
 -   AHA/ACC Guidelines[@gerhard-herman2017] - multidisciplinary, involving vascular surgeons
 
+::: callout-tip
+## Take a Listen
+
+Check out [our episode with Dr. Leila Mureebe, where we briefly discuss her role in the multidisciplinary development of the AHA/ACC guidelines.](https://www.audiblebleeding.com/mureebe/)
+:::
+
 ### Management
 
 #### Medical Management {#sec-pad-medical-management}
 
-**What is the initial management of Asymptomatic Patients with PAD?**
+**What is the initial management of asymptomatic patients with PAD?**
 
 1.  Smoking Cessation -- Multidisciplinary comprehensive smoking cessation interventions -- repeatedly until tobacco use has stopped *(Grade A -- 1)* First line therapy is behavioral therapy + varenicline/bupropion or nicotine replacement therapy (NRT) per EAGLES trial.[@anthenelli2016; @vogeler2016]
     -   Preloading with varenicline (4 weeks) or bupropion (5-7d) prior to quitting has demonstrated higher abstinence at 12w.[@ratchford2011]
@@ -380,6 +392,8 @@ Additional Guidelines
 
         -   Direct Surgical reconstruction (bypass, endarterectomy) in patients with reasonable surgical risk and diffuse aortoiliac occlusive disease not amenable to endovascular approach, after one or more failed attempts at EVT, or combined occlusive and aneurysmal disease. *(Grade 1 Evidence B)*
 
+        -   Bilateral external iliac occlusion may be best treated with end to side aorto-bifemoral bypass to allow for continued perfusion of the pelvis. [@jaquinandi2008; @vandenakker1992; @brewster1978]
+
     -   ***Infrainguinal Disease:*** Reviewing historical data comparing all EVT compared with surgical bypass EVTs are less durable, especially when there's diffuse or long segments of occlusion/multilevel infrainguinal disease. **Most recommendations are based on low level evidence when comparing EVT versus Open Surgery**
 
         -   Endovascular therapy has become first line therapy for focal SFA disease not involving the vessel origin. *(Grade 1 Level C)*
@@ -401,3 +415,9 @@ Additional Guidelines
             -   Extensive diffuse calcification in SFA
 
             -   Average or Low Operative Risk *(Grade 1 Level B)*
+
+::: callout-tip
+## Take a Listen
+
+Check out [our episode where we discuss overuse of early peripheral interventions in patients with claudication with Dr. Caitlin Hicks.](https://www.audiblebleeding.com/hicks/)
+:::

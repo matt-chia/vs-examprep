@@ -274,7 +274,7 @@ If no obvious source of embolism can be identified, further investigation for un
 
 ## Non-atheromatous Popliteal Artery Disease
 
-### Popliteal Artery Entrapment Syndrome (PAES)
+### Popliteal Artery Entrapment Syndrome (PAES) {#sec-paes}
 
 #### Etiology and Presentation
 
