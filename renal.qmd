@@ -200,7 +200,7 @@ For starters, all of these patients should receive medical therapy to control th
 
 First, medical therapy alone- this generally involves ACE-I or ARB and as we discussed.
 
-RAS can worsen ACE-I and ARB induced renal dysfunction due to systemic hypotension, efferent arterial vasodilation, and reduced glomerular hydrostatic pressure, in turn lowering GFR. [[@rickey125RenovascularDisease2019; @schoolwerthRenalConsiderationsAngiotensin2001]\]
+RAS can worsen ACE-I and ARB induced renal dysfunction due to systemic hypotension, efferent arterial vasodilation, and reduced glomerular hydrostatic pressure, in turn lowering GFR. \[[@rickey125RenovascularDisease2019; @schoolwerthRenalConsiderationsAngiotensin2001]\]
 
 **Okay, in other words we can have chronic normalization of the systemic pressure that might eventually lead to ischemic atrophy due to the reduced renal perfusion pressure distal to the stenosis? Any other concerns with medical management alone?**
 
@@ -936,7 +936,7 @@ CT scan is best. Difficult to visualize native renal vein on duplex imaging. [@a
 
 ### Management
 
--   Renal vein thrombosis initially managed with heparin, then warfarin for 6mo. [[@asgharRenalVeinThrombosis2007; @velazquez-ramirez129RenovascularDisease2019]\]
+-   Renal vein thrombosis initially managed with heparin, then warfarin for 6mo. \[[@asgharRenalVeinThrombosis2007; @velazquez-ramirez129RenovascularDisease2019]\]
 
 -   Thrombectomy or thrombolysis reserved for acutely threatened kidney in young patient, complication of AC or thrombosis of solitary kidney with renal failure.
 
