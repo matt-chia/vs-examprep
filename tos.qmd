@@ -389,7 +389,7 @@ There is a lack of consensus around the necessity of surgical rib resection, the
 Check [our interview with Dr Julie Freischlag](https://www.audiblebleeding.com/freischlag/) where she discusses her career and management of patients with thoracic outlet syndrome.
 :::
 
-## Arterial (aTOS)
+## Arterial (aTOS) {#sec-atos}
 
 ### Presentation
 

@@ -6,7 +6,7 @@ Authors: *Leanna Erete, Andrew Nickinson, Aminder Singh and Manj Gohel*
 
 library(embedr)
 
-embed_audio("https://traffic.libsyn.com/audiblebleeding/Rouleaux_Club_-_Venous_Review_02auph.mp3")
+embed_audio("https://traffic.libsyn.com/audiblebleeding/Exam_Prep_2023_-_Venousau.mp3")
 
 ```
 
@@ -36,7 +36,9 @@ So CEAP\--clinical, etiological (with an E because it's American), anatomical, p
 
 So if you have a patient that comes into your clinic with a venous problem, it's a system to allow you to describe that patient's current status in an objective, clear way. What it does not do is give you any information about prognostication and it isn't useful for measuring responses to treatment.
 
-So it is purely a descriptive classification system. And the most commonly used part is the clinical bit, which is C1 to C6. CEAP was just recently revised last year, a 25 year revision, which again, I would urge trainees to have a look at, Dr. Fedor Lurie was the lead author, and this was a useful revision of CEAP.[@lurie2020]
+So it is purely a descriptive classification system. And the most commonly used part is the clinical bit, which is C1 to C6. CEAP was just recently revised last year, a 25 year revision, which again, I would urge trainees to have a look at, Dr. Fedor Lurie was the lead author, and th is was a useful revision of CEAP.[@lurie2020]
+
+![](images/ceap.jpeg)
 
 Now in response to the limitations of CEAP, the Venous Clinical Severity Score (VCSS) was created. So this is a 10 item scoring system, each item scores between zero and three. So you get a maximum score of 30. Now this is designed to be responsive to treatment and complimentary to CEAP.[@vasquez2010]
 
@@ -88,12 +90,18 @@ So I think the most important thing is not necessarily what you use, it's doing 
 
 -   Acute superficial vein thrombosis.
 
+::: callout-tip
+## Take a Listen
+
+Check out [our episode with Dr. Andrew Meltzer](https://www.audiblebleeding.com/meltzer/) as he discusses some controversies in variations in practice regarding the use of endovenous ablation procedures in the United States.
+:::
+
 **When we are consenting patients for endovenous intervention, what risks should we discuss with the patient and that they need to be aware of?**
 
-You can spend an hour doing this, if you're being very diligent. But what I say to patients are that there are generic risks of venous thromboembolism, as is the risk of any intervention. And I think that's worthy of specific discussion after endovenous procedures, but I quote a risk of around one in 200 for most endovenous interventions. Extension of proximal thrombus into the deep system is termed endothermal heat-induced thrombosis (EHIT) and is evaluated and treated aggressively in the United States.[@sadek2013; @kabnick2021] EHIT is defined as:
+You can spend an hour doing this, if you're being very diligent. But what I say to patients are that there are generic risks of venous thromboembolism, as is the risk of any intervention. And I think that's worthy of specific discussion after endovenous procedures, but I quote a risk of around one in 200 for most endovenous interventions. ***Extension of proximal thrombus into the deep system is termed endothermal heat-induced thrombosis (EHIT) and is evaluated and treated aggressively in the United States.***[@sadek2013; @kabnick2021] EHIT is defined as:
 
 | EHIT Grade | Description                                            | Treatment                            |
-|:-----------------:|--------------------------------|----------------------|
+|:-----------------:|-------------------------------|----------------------|
 |     1      | Extension to SFJ                                       | None                                 |
 |     2      | Extension into deep system \<50% of lumen diameter     | Close observation vs anticoagulation |
 |     3      | Extension into the deep system \>50% of lumen diameter | Anticoagulation                      |
@@ -125,11 +133,11 @@ The venous forum produced some guidance the year before last in exactly this are
 
 However, if they are really that high risk, you've really got to question whether a superficial venous intervention is needed, balancing the risks and the benefits. But since for some patients the high risk period persists for at least another six weeks afterwards, be careful not to stop prophylaxis too soon.
 
-**Moving on to a more specific question about treatment, what is the role for treating and competent perforator veins in these patients?**
+**Moving on to a more specific question about treatment, what is the role for treating and incompetent perforator veins in these patients?**
 
 In general, the more advanced the venous disease, the more likely it is that the disease is recurrent, the more likely there is to be deep venous disease or posts thrombotic disease, and the more likely you are to finding incompetent perforators. If you imagine these patients with venous ulcer, it is very common to find perforators, and if you take a sort of super aggressive role saying you've got to obliterate every single bit of reflux you can find, then you'd be doing a couple of perforators in every single patient, and that is the approach of a number of centers around the world.
 
-The pragmatic reality is, number one, if you ablate the superficial reflux, we know that a lot of these perforators actually become competent because we've got rid of the outflow or you've changed the dynamics in some other way, and they've become competent. Number two, even if they've stayed incompetent, the clinical benefit is still there and is usually still pretty durable. The clinical criteria most often used to as an indication for treatment is \>350ms of deep to superficial reflux, diameter greater than 3.5mm (associated with reflux in 90% of patients)[@sandri1999] and near a healed or active ulcer.[@odonnell2014; @min2003; @rueda2013]
+The pragmatic reality is, number one, if you ablate the superficial reflux, we know that a lot of these perforators actually become competent because we've got rid of the outflow or you've changed the dynamics in some other way, and they've become competent. Number two, even if they've stayed incompetent, the clinical benefit is still there and is usually still pretty durable. ***The clinical criteria most often used to as an indication for treatment is \>350ms of deep to superficial reflux, diameter greater than 3.5mm (associated with reflux in 90% of patients)***[@sandri1999] ***and near a healed or active ulcer**.*[@odonnell2014; @min2003; @rueda2013]
 
 Now, of course, there may be some people that develop recurrent problems and then there can be a more targeted approach to the perforator. The ESCHAR and EVRA studies did not target perforators at all and the outcomes in the EVRA study was the best healing rate of any published prospective leg ulcer study. So, putting all that together, it's difficult to make a case for aggressive treatment of perforators first up. Having said that for some people with recurrent disease, it's not uncommon to have a big mid thigh Huntarian perforator or Cocker's perforator lower down on the medial calf. So, I do treat perforators, but almost always it's in recurrent disease with recurrence or deteriorating symptoms.
 
@@ -145,7 +153,7 @@ So, I think there has to be a move towards endovenous, but there are lots of thi
 
 For deep venous reflux, surgical management follows a relatively complex algorithm.[@odonnell2014] Valve prolapse due to vein wall dilation may be treated with external banding. Isolated valve prolapse may be treated with external valvuloplasty, and in severe cases an internal valvuloplasty. When no adequate valve exists, then valve transplant from a distant source, such as the axilla, may be necessary.[@kabbani2011] These are not commonly performed procedures and should be referred to centers with significant experience.
 
-#### Medical Therapy
+#### Medical Management
 
 **So we've talked about endovenous and surgical treatment, but are there any pharmacological therapies that can be used in patients with chronic venous insufficiency?**
 
@@ -155,7 +163,7 @@ So flavonoids are naturally occurring, venoactive compounds. There are a whole v
 
 But I don't think we're very receptive in the UK in general, not in the vascular surgery community to prescribe pharmacological or herbal type remedies.
 
-Wound management in patients with venous insufficiency however has many medical adjuncts. Topic agents include excimer (cadexomer) iodine, silver sulfadiazine, silver-containing dressings, growth factors or cell-based therapy.
+***Wound management in patients with venous insufficiency however has many medical adjuncts.***Topical agents include excimer (cadexomer) iodine, silver sulfadiazine, silver-containing dressings, growth factors or cell-based therapy.
 
 **What are the healthcare costs associated with the lower extremity venous disease?**
 
@@ -283,7 +291,7 @@ To step back a little, trainees should make sure they understand some basics beh
 
 Warfarin induced skin necrosis is important to understand, although very rare (0.01-0.1%). This occurs shortly after initiating warfarin and presents with purple, cool, painful toes and punctate areas of necrosis and petechiae. Treatment includes immediate cessation of warfarin and transition to LMWH, normalization of INR with Vit K and FFP.[@pourdeyhimi2014; @tran2013]
 
-Reversal agents are also another tested topic in the medical management of vascular disease. Other anticoagulants and their reversal agents include:
+***Reversal agents are also another tested topic in the medical management of vascular disease. Other anticoagulants and their reversal agents include:***
 
 -   Dabigitran - Idarucizumab.[@glund2019]
 
@@ -291,7 +299,7 @@ Reversal agents are also another tested topic in the medical management of vascu
 
 -   Nonspecific with some effect on other DOACs - PPC, Factor 7, and activated PPC.[@cuker2019; @kearon2016]
 
-Finally it is also good to be aware of a few additional coagulation factors and their function:
+***Finally it is also good to be aware of a few additional coagulation factors and their function:***
 
 -   Integrin glycoprotein GPIa/IIa - platelet aggregation
 
@@ -311,7 +319,7 @@ So there is a big section in the ESVS guidelines about the role of compression a
 
 ##### Complications - Pulmonary Embolism
 
-More and more vascular surgeons are becoming involved with Pulmonary Embolism Response Teams (PERT) and so surgeons should be familiar with the acute management of DVTs that progress to pulmonary embolism. The majority of pulmonary embolisms simply require anticoagulation.
+More and more vascular surgeons are becoming involved with ***Pulmonary Embolism Response Teams (PERT)*** and so surgeons should be familiar with the acute management of DVTs that progress to pulmonary embolism. The majority of pulmonary embolisms simply require anticoagulation.
 
 However, if a patient becomes hemodynamically unstable, such as develops hypotension, then the patient should undergo systemic thrombolysis.[@kearon2016] Contraindications to systemic thrombolysis include:
 
@@ -411,13 +419,13 @@ So that's the sort of most severe and extreme form. I don't think anybody has co
 
 So again, the terminology is important. So it's venous outflow obstruction. Obstruction implies that there's a physiological issue causing the consequences. As opposed to occlusion, which is an anatomical term. So venous outflow obstruction, is essentially anything that reduces the ability of venous blood to escape the leg via deep venous channels will cause an obstruction.
 
-And again, going back to a bit of physiology. Poiseuille's Law talks about the flow rate being proportional to the fourth power of the radius. So it's really interesting. A question to ask is that if you've got a two centimeter vein, how many, one centimeter veins would it take to carry the same potential flow as a single two centimeter vein?
+And again, going back to a bit of physiology. [Poiseuille's Law](https://en.wikipedia.org/wiki/Hagen–Poiseuille_equation) talks about the flow rate being proportional to the fourth power of the radius. So it's really interesting. A question to ask is that if you've got a two centimeter vein, how many, one centimeter veins would it take to carry the same potential flow as a single two centimeter vein?
 
 The long story short is that it takes 16 one centimeter veins to carry the same amounts of potential flow as a single two centimeter vein. So it doesn't take much of a narrowing to have a great potential impact on flow. Of course, most of the time, you don't need that flow potential, it's only an absolute extremes of circulatory stress that you'll need that sort of potential, but it is interesting. And again, it also challenges when people say there's great collaterals and that will be enough. Well unless they're enormous, you need 16 of them to have the same potential blood carrying capacity.
 
 So in terms of the causes, the most common by far is post-thrombotic disease. So when you've had a DVT, one of three things happens. If you're lucky, the vein will recanalize completely. If you're unlucky, it will obstruct completely. And if you're somewhere in between, you'll end up with partial stenosis and obstruction. What's important is even if the vein is open, what you almost always lose in the post-thrombotic vein is venous compliance. It's not the same compliant vein that can respond to demands and physiological need that you have, in a primary non-scarred vein.
 
-Other potential causes are a non-thrombotic iliac vein lesion, or May-Thurner lesion. So the original paper, 1957, is very interesting reading.[@may1957] There were a couple of Austrian pathologists who identified that a very high proportion of people, particularly those had left-sided DVT had, not only the overriding iliac artery causing compression, but they had a secondary tight fibrosis in the iliac vein.[@nazzal2015] So it's not just the compression because any one of us in a certain position we'll have a squashed vein. It's the fact that there's a secondary inflammatory fibrotic change, which is what's causing the obstruction. So that's a true May-Thurner or non-thrombotic lesion.[@liddell2018; @rollo2017]
+Other potential causes are a non-thrombotic iliac vein lesion, or ***May-Thurner lesion***. So the original paper, 1957, is very interesting reading.[@may1957] There were a couple of Austrian pathologists who identified that a very high proportion of people, particularly those had left-sided DVT had, not only the overriding iliac artery causing compression, but they had a secondary tight fibrosis in the iliac vein.[@nazzal2015] So it's not just the compression because any one of us in a certain position we'll have a squashed vein. It's the fact that there's a secondary inflammatory fibrotic change, which is what's causing the obstruction. So that's a true May-Thurner or non-thrombotic lesion.[@liddell2018; @rollo2017]
 
 The other big group of patients of course, is malignant lymph node or retroperitoneal fibrosis related venous outflow obstruction. For example, a patient with a large retroperitoneal leiomyosarcoma may be involving the vena cava. In this case, these patients may require en bloc resection of the IVC and reconstruction with ringed PTFE, sized off the preoperative imaging.[@quinones-baldrich2012; @fiore2012] But in the end, post-thrombotic by far was the most commonly diagnosed pathology.
 
@@ -439,7 +447,7 @@ And on the duplex imaging of the leg, if there are changes in the common femoral
 
 **So you mentioned IVUS, what is intravascular ultrasound and what are the particular benefits of using this technique over venography alone?**
 
-IVUS is a 9F probe that is inserted into the vein and it gives you a 360 degree view in B-mode ultrasound---traditionally without color flow, just B mode---of the anatomical structures. What it's very useful for is identifying venous anatomy, confluences, identifying the size of veins, so it allows you to plan sizes of stents. It really is an important adjunct to venography and other imaging modalities. We did our first 30 or so cases of deep venous stenting without IVUS and thought we were brilliant and IVUS was a waste of money. And then we started using IVUS and realized I can't believe we were doing this without. Once you start using it, you suddenly realize that it's a really useful adjunct. Recommended oversizing for vein stenting is 10-15% of largest diameter of adjacent vein.[@gloviczki2011; @odonnell2014; @raju2002; @raju2010]
+IVUS is a 9F probe that is inserted into the vein and it gives you a 360 degree view in B-mode ultrasound---traditionally without color flow, just B mode---of the anatomical structures. What it's very useful for is identifying venous anatomy, confluences, identifying the size of veins, so it allows you to plan sizes of stents. It really is an important adjunct to venography and other imaging modalities. We did our first 30 or so cases of deep venous stenting without IVUS and thought we were brilliant and IVUS was a waste of money. And then we started using IVUS and realized I can't believe we were doing this without. Once you start using it, you suddenly realize that it's a really useful adjunct. ***Recommended oversizing for vein stenting is 10-15% of largest diameter of adjacent vein.***[@gloviczki2011; @odonnell2014; @raju2002; @raju2010]
 
 In terms of when you use it, in some parts of the world it's commonly used for diagnostic purposes, but beware of the risk of over-diagnosis. More commonly, almost routinely, IVUS is used for therapeutic, particularly when we're stenting deep veins to plan our landing zones. When CTA/MRA shows compression, it must be confirmed with IVUS prior to treatment. IVUS has far greater sensitivity and specificity and must show a cross-sectional surface area reduction of greater than 50%.[@gagne2018; @forauer2002]
 
@@ -470,6 +478,12 @@ So that's a sort of protocol that we have and in general, what we've seen is tha
 There was a systematic review done a few years ago where all of the published literature for deep venous stenting was reviewed and I think the authors identified 28 different regimens for anticoagulation of the stenting.[@notten2021] The honest answer is nobody knows, our approach is to have low molecular weight heparin as the primary anticoagulant for the initial two week period. And then at the two week point, they undergo a stent. If there's no issues, they get transitioned to a DOAC.
 
 In addition, the patients get six weeks of clopidogrel as an anti-platelet. And again, the reason for that is that it's a foreign material into the vein. Yes, the role of anti-platelets in preventing venous thrombosis is very limited but there has to be some platelet related activity and platelet activation involved there. So it makes logical sense to have some anti-platelet activity. Of course the downside is that there's an increasing bleeding risk. These are the constant tightropes that you're walking with these patients.
+
+::: callout-tip
+## Take a Listen
+
+Check out [our episode with Drs. David Gordon and David Williams](https://www.audiblebleeding.com/jvs-gordon-and-williams/) on a recent publication looking at the evolution of in stent restenosis and the classification of thrombus forming in venous stents.
+:::
 
 #### Surgery
 
@@ -511,12 +525,6 @@ Angioplasty and stenting are first line treatment for benign etiology.[@rizvi200
 
 SVC syndrome secondary to malignancy, bronchogenic or lymphoma, is often most effectively treated with palliative radiotherapy with good response.[@talapatra2016] Endovascular or open recannalization is often reserved only for those with severe symptoms refractory to radiation or chemotherapy.[@higdon2006] Lymphedema pumps can help with symptom management as well.
 
-## Venous Trauma
-
-Iliac vein injury often able to be accessed by ligating the internal iliac artery and mobilizing the common and external iliac artery. Transection of iliacs should only be used as a last resort if this fails. [@leeIliacVesselInjuries2002]
-
-For more on venous trauma, see @sec-trauma-venous.
-
 ## Lymphedema
 
 Here we will discuss lymphedema of the lower extremity. This is a broad topic, but the management decisions are relatively straightforward and knowledge is required for examinations. For upper extremity lymphedema, see @sec-upper-extremity-lymphedema
@@ -532,7 +540,7 @@ Lymphedema can be thought of as a primary dysfunction of the lymphatic channels 
 The management of lymphedema is determined primarily on its clinical stage at presentation.[@grada2017] The staging for lymphedema is as follows:
 
 | Lymphedema Stage |        Description         | Symptoms                                                                 |
-|:-----------------:|:-----------------:|------------------------------------|
+|:-----------------:|:-----------------:|----------------------------------|
 |        0         |        Sub-clinical        | No swelling, heaviness or discomfort                                     |
 |        1         |   Spontaneous Reversible   | Swelling improved with limb elevation                                    |
 |        2         |  Spontaneous Irreversible  | Pitting and swelling, not improved with elevation                        |

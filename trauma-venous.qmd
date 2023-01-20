@@ -58,6 +58,8 @@ We will then discuss management of portal vein and SMV separately.
 
 -   Immediate control of hemorrhage may require ligation. However, once the field is cleared, coordinate with anesthesia to confirm they are making progress with resuscitation and then evaluate whether the patient can tolerate reconstruction at that time or whether you need to continue to follow damage control principles.
 
+-   Iliac vein injury often able to be accessed by ligating the internal iliac artery and mobilizing the common and external iliac artery. Transection of iliacs should only be used as a last resort if this fails. [@leeIliacVesselInjuries2002]
+
 ### Primary repair
 
 -   Option for partial tears without risk of narrowing lumen
