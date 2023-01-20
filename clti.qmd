@@ -59,7 +59,7 @@ The latter stages of both the Rutherford and Fontaine Classification systems hig
 Rutherford et al. Ad Hoc Committee on Reporting Standards, SVS/North American Chapter ISCVS:
 
 | Grade | Category |                    Clinical Description                    |
-|:----------------------:|:----------------------:|:----------------------:|
+|:-----:|:--------:|:----------------------------------------------------------:|
 |   0   |    0     | Asymptomatic -no hemodynamic significant occlusive disease |
 |   I   |    1     |                     Mild Claudication                      |
 |   I   |    2     |                   Moderate Claudication                    |
@@ -334,7 +334,7 @@ Profunda-popliteal collateral index (Segmental pressures AK-BK/AK) of less than 
 
 **What evidence do we have for deciding between Endo and Open management? What is the BASIL trial?**
 
-In November of 2022, the first results of the **BEST-CLI** were published in the NEJM. BEST-CLI is the first international, open-label, multicenter, superiority trial of its scope and scale. The key results found that in patients with adequate great saphenous vein conduit, the surgical group demonstrated a lower incidence of major adverse limb events and death (the study's primary endpoint) than the endovascular group. They found relatively equivalent outcomes in patients with inadequate autogenous conduit.[@farber2022] The full impact of the results of this study is yet to be determined, and there will likely be several additional analyses published from this study's data. It is unlikely that this data will impact what is tested on this year's exams. However, you should keep an eye out for future results!
+In November of 2022, the first results of the **BEST-CLI** were published in the NEJM. BEST-CLI is the first international, open-label, multicenter, superiority trial of its scope and scale. The key results found that in patients with adequate great saphenous vein conduit, the surgical group demonstrated a lower incidence of major adverse limb events or death (the study's primary endpoint) than the endovascular group. They found relatively equivalent outcomes in patients with inadequate autogenous conduit.[@farber2022] The full impact of the results of this study is yet to be determined, and there will likely be several additional analyses published from this study's data. It is unlikely that this data will impact what is tested on this year's exams. However, you should keep an eye out for future results!
 
 ::: callout-tip
 ## Take a Listen

@@ -1,4 +1,4 @@
-## Acute Limb Ischemia {#sec-acute-limb-ischemia}
+# Acute Limb Ischemia {#sec-acute-limb-ischemia}
 
 Authors: *Alex Forsyth and Sarah Carlson*
 
@@ -8,9 +8,15 @@ Contributors: *Eilidh Gunn*
 
 library(embedr)
 
-embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_ALI_postauphonic.mp3")
+embed_audio("https://traffic.libsyn.com/audiblebleeding/Exam_Prep_2023_-_ALIau.mp3")
 
 ```
+
+## Overview
+
+### Demographics
+
+#### Etiology
 
 **What is Acute Limb Ischemia and what does it encompass?**
 
@@ -36,25 +42,19 @@ Acute Limb Ischemia (ALI) is defined as any process that leads to an abrupt cess
 
 -   **Thrombosis**
 
-    -   ***Aneurysm***
+    -   ***Aneurysm -*** Small aneurysms (such as popliteal) are less likely to rupture, but more likely to thrombose or embolize distally, causing an acute limb ischemic event.
+
+    -   ***Acute on Chronic Progression of Atherosclerosis -*** Acute on Chronic Progression of Atherosclerosis: Once a chronic stenosis becomes critically tight, platelet thrombus can develop leading to an acute occlusion; or unstable plaque can "rupture" leading to an acute occlusion of a chronic lesion.
 
     -   ***Bypass Graft***
 
-    -   ***Acute on Chronic Progression of Atherosclerosis***
+    -   ***Dissection*** - for more, see @sec-aortic-dissection
 
-    -   ***Dissection***
+    -   ***Thoracic Outlet Syndrome*** in the upper extremity - fore more, see @sec-atos
 
-    -   ***Thoracic Outlet Syndrome*** -- in the upper extremity
+    -   ***Vasospasm*** (severe) - for more, see @sec-vasospastic-disorders
 
-    -   ***Vasospasm*** (severe)
-
-For clarification:
-
-1.  Acute on Chronic Progression of Atherosclerosis: Once a chronic stenosis becomes critically tight, platelet thrombus can develop leading to an acute occlusion; or unstable plaque can "rupture" leading to an acute occlusion of a chronic lesion.
-
-2.  Regarding Aneurysms: Small aneurysms (such as popliteal) are less likely to rupture, but more likely to thrombose and cause an acute limb ischemic event.
-
-### Presentation and Diagnosis
+#### Presentation
 
 **What is the patient presentation of ALI? Are there any differences between upper and lower extremity presentations?**
 
@@ -104,6 +104,8 @@ From Rutherford RB, Baker JD, Ernst C, et  al. Recommended standards for repor
 
     -   Arterial Signal: Absent; Venous Signal: Absent
 
+### Evaluation
+
 **What does the work up for ALI entail? How is the diagnosis made?**
 
 -   The diagnosis can often be made on history, physical exam, and bilateral ABPIs. Imaging can be done in patients in who the diagnosis is uncertain.
@@ -126,37 +128,59 @@ In patients with severe renal insufficiency, MRA or MR time-of-flight can be hel
 
 -   ***Labs***: A full panel including serum chemistry with BUN, Cr, CBC, and coagulation studies should be obtained. Baseline plasma CPK can be helpful to monitor for evidence of rhabdomyolysis after reperfusion.
 
-**What are some of the options for treatment of ALI?**
+#### Medical Management
 
--   **Medical**: Primarily with anticoagulation using heparin or a direct Xa inhibitor.
+Primarily with anticoagulation using heparin or a direct Xa inhibitor.
 
--   **Open Surgical Management**:
+#### Surgical Management
 
-    -   ***Thrombectomy***: Balloon catheter based (Fogarty embolectomy balloon -- Dr. Fogarty invented this while he was a medical student)
+-   ***Thrombectomy***: Balloon catheter based (Fogarty embolectomy balloon -- Dr. Fogarty invented this while he was a medical student)
 
-        -   Patients with acute limb ischemia, neuro deficit and distal pop embolism may be best treated with popliteal exposure and open thrombectomy. [@darwoodSurgeryThrombolysisInitial2018; @kempeResultsSurgicalManagement2014]
+    -   Patients with acute limb ischemia, neuro deficit and distal pop embolism may be best treated with popliteal exposure and open thrombectomy. [@darwoodSurgeryThrombolysisInitial2018; @kempeResultsSurgicalManagement2014]
 
-    -   ***Bypass***
+-   ***Bypass***
 
-        -   Patients with aortic occlusion and significant comorbidities, and significant aortoiliac baseline disease may likely benefit from primary axillo-bifemoral bypass. [@mohapatraRiskFactorsPerioperative2018]
+    -   Patients with aortic occlusion, multiple life limiting comorbidities, and significant aortoiliac baseline disease may benefit from primary axillo-bifemoral bypass. [@mohapatraRiskFactorsPerioperative2018]
 
-    -   ***Endarterectomy*** -- not necessarily required but might be used for common femoral exposure and distal access depending on vessel disease burden.
+-   ***Endarterectomy*** -- not necessarily required but might be used for common femoral exposure and distal access depending on vessel disease burden.
 
--   **Endovascular**
+#### Endovascular Management
 
-    -   ***Pharmacological Catheter Directed Thrombolysis***
+-   ***Pharmacological Catheter Directed Thrombolysis***
 
-        -   Absolute contraindications include active bleeding disorder, CVA (\<6mo), CNS injury or head injury (\<3mo), or GI bleed (\<10d).
+    -   Absolute contraindications include active bleeding disorder, CVA (\<6mo), CNS injury or head injury (\<3mo), or GI bleed (\<10d).
 
-        -   Relative contraindications include recent major surgery, uncontrolled hypertension, intracranial tumor, pregnancy, recent eye surgery, hepatic failure, CPR (\<10d), or bacterial endocarditis.
+    -   Relative contraindications include recent major surgery, uncontrolled hypertension, intracranial tumor, pregnancy, recent eye surgery, hepatic failure, CPR (\<10d), or bacterial endocarditis.
 
-        -   1-2% risk of hemorrhagic stroke. If neurologic deficit develops during thrombolysis, stop lysis and perform immediate CT head. [@ourielComparisonRecombinantUrokinase1998]
+    -   1-2% risk of hemorrhagic stroke. If neurologic deficit develops during thrombolysis, stop lysis and perform immediate CT head. [@ourielComparisonRecombinantUrokinase1998]
 
-        -   If fibrinogen drops below 100mg/dl, recommend immediate cessation of lytic agent and consider cyroprecipitate (includes fibrinogen, factor VIII, von Willebrand's factor, factor XIII).[@mann2019]
+    -   If fibrinogen drops below 100mg/dl, recommend immediate cessation of lytic agent and consider cyroprecipitate (includes fibrinogen, factor VIII, von Willebrand's factor, factor XIII).[@mann2019]
 
-    -   ***Percutaneous Thrombus Aspiration***: Useful for small fresh thrombi such as after angioplasty, as distal diameter of the catheter tip limits the size of the thrombus that can be removed. 
+    -   Pharmacological thrombolysis may be delivered over a short duration in the operation room, or a catheter may be left and tPA administered over a longer period. Two catheters for delivery include an Cragg-McNamara catheter with multiple side holes or an EKOS catheter that uses ultrasonic waves to aid with thrombus lysis.
 
-    -   ***Mechanical Thrombolysis and Aspiration***: Are also useful for patients with contraindications for thrombolytic therapy, and also may allow for a lower dose of a thrombolytic agent, but risk damage to the arterial wall.
+-   ***Percutaneous Thrombus Aspiration***: Useful for small fresh thrombi such as after angioplasty, as distal diameter of the catheter tip limits the size of the thrombus that can be removed. 
+
+-   ***Mechanical Thrombolysis and Aspiration***: Are also useful for patients with contraindications for thrombolytic therapy, and also may allow for a lower dose of a thrombolytic agent, but risk damage to the arterial wall.
+
+#### Relevant Literature
+
+***STILE Trial***: One of the first large RCTs comparing catheter thrombolysis with open surgery.
+
+-   Overall the study showed some short term benefit to open surgery however this can probably be attributed to:
+
+    1.  In 28% of patients randomized to CDT they weren't able to get a catheter in place so these patients were considered treatment failures and crossed over to the surgery arm.
+
+    2.  Patients with very long duration of ischemia, up to 6 months, were also included in the study.
+
+-   When outcomes for patients who had been symptomatic for less than 2 weeks were analysed, the thrombolysis patients actually did better. [@thestileinvestigatorsResultsProspectiveRandomized1994]
+
+***TOPAS Trial***: Larger RCT which enrolled patients who had an acute arterial occlusion of less than 14 days. This showed no difference in mortality or amputation-free survival between the open surgery and CDT groups but higher major bleeding in the CDT group. [@ourielComparisonRecombinantUrokinase1998]
+
+***Meta Analysis***: Originally published in 2002 but updated in 2013 and 2018. Demonstrated no difference in mortality or limb salvage between surgical and thrombolytic therapy, but endovascular demonstrated higher rates of complications including ongoing limb ischemia and bleeding within 30 days of treatment. Previously they had reported higher rates of stroke in the thrombolysis category but the most recent update is unable to support this finding. [@darwoodSurgeryThrombolysisInitial2018]
+
+-   Evidence considered, it is very reasonable to think about a catheter-directed therapy especially if the presentation is acute, less than 2 weeks or so. There are, however, certain anatomical locations, such as common femoral or brachial arteries, that most surgeons would favor a simple open procedure (i.e. balloon thrombectomy).
+
+#### Decision Making
 
 **Who gets which kinds of treatment? Who needs emergent treatment?**
 
@@ -166,27 +190,17 @@ In patients with severe renal insufficiency, MRA or MR time-of-flight can be hel
 
     -   If symptoms have been present for less than 2 weeks endovascular therapy is preferred
 
-    -   If more than 2 weeks or lytic therapy has failed then surgical intervention is preferred 
+    -   If more than 2 weeks or lytic therapy has failed then surgical intervention is preferred
 
--   **Class IIb** need immediate revascularization. Historically surgical revascularization has been preferred because of its immediacy, but catheter directed thrombolysis and percutaneous mechanical thrombectomy have shortened time to revascularization. 
+-   **Class IIb** need immediate revascularization. Historically surgical revascularization has been preferred because of its immediacy, but catheter directed thrombolysis and percutaneous mechanical thrombectomy have shortened time to revascularization.
 
--   Related Studies:
+-   **Class III** ALI is usually treated with primary amputation because revascularization is unlikely to restore function to the limb and restoring blood flow can cause the patient serious harm.
 
-    -   ***STILE Trial***: One of the first large RCTs comparing catheter thrombolysis with open surgery. Overall the study showed some short term benefit to open surgery however this can probably be attributed to: (1) in 28% of patients randomized to CDT they weren't able to get a catheter in place so these patients were considered treatment failures and crossed over to the surgery arm, and (2) patients with very long duration of ischemia, up to 6 months, were also included in the study. When outcomes for patients who had been symptomatic for less than 2 weeks were analysed, the thrombolysis patients actually did better. [@thestileinvestigatorsResultsProspectiveRandomized1994]
-
-    -   ***TOPAS Trial***: Larger RCT which enrolled patients who had an acute arterial occlusion of less than 14 days. This showed no difference in mortality or amputation-free survival between the open surgery and CDT groups but higher major bleeding in the CDT group. [@ourielComparisonRecombinantUrokinase1998]
-
-    -   ***Meta Analysis***: Originally published in 2002 but updated in 2013 and 2018. Demonstrated no difference in mortality or limb salvage between surgical and thrombolytic therapy, but endovascular demonstrated higher rates of complications including ongoing limb ischemia and bleeding within 30 days of treatment. Previously they had reported higher rates of stroke in the thrombolysis category but the most recent update is unable to support this finding. [@darwoodSurgeryThrombolysisInitial2018]
-
-        -   Evidence considered it is very reasonable to think about a catheter-directed therapy especially if the presentation is acute, less than 2 weeks or so. There are, however, certain anatomical locations that most surgeons would favor a simple open procedure such as balloon thrombectomy , such as embolism to the common femoral or brachial arteries.   
-
--   **Class III** ALI is usually treated with primary amputation because revascularization is unlikely to restore function to the limb and restoring blood flow can cause the patient serious harm. 
-
-**What are the risks of revascularization for a class III or prolonged ischemia?**
-
-Myonephropathic metabolic syndrome: muscle cells undergo liquefaction necrosis due to ischemia. Potassium, myoglobin, lactic acid, and superoxide accumulate and can perfuse through the body or can have a sudden increase in the event of revascularization which leads to hyperkalemia, arrhythmias, pulmonary edema, metabolic acidosis, myoglobinuria, and can even cause sudden death from heart and/or renal failure. [@obaraAcuteLimbIschemia2018] Treatment of this is largely supportive with fluids.
+    -   **What are the risks of revascularization for a class III or prolonged ischemia?** Myonephropathic metabolic syndrome: muscle cells undergo liquefaction necrosis due to ischemia. Potassium, myoglobin, lactic acid, and superoxide accumulate and can perfuse through the body or can have a sudden increase in the event of revascularization which leads to hyperkalemia, arrhythmias, pulmonary edema, metabolic acidosis, myoglobinuria, and can even cause sudden death from heart and/or renal failure. [@obaraAcuteLimbIschemia2018] Treatment of this is largely supportive with fluids.
 
 ## Compartment Syndrome
+
+### Etiology
 
 **What is the pathophysiology and presentation of compartment syndrome?**
 
@@ -197,6 +211,8 @@ Myonephropathic metabolic syndrome: muscle cells undergo liquefaction necrosis d
 -   The pathophysiology underlying acute extremity compartment syndrome is related to the arteriovenous pressure gradient theory. Increased compartment pressure reduces the gradient, reducing arterial pressure and increasing venous pressure.[@frink2010; @mcqueen1996; @elliott2003; @papalambros1989]
 
 -   Clinically patients can have neurological dysfunction with sensory motor deficits, but the most common presentation is a tense extremity with severe pain on passive movement of the muscles in the compartment. If the lower leg is affected this is often on dorsiflexion/plantar flexion of the ankle. A sensitive indicator is loss of two point discrimination (proprioception).
+
+### Evaluation
 
 **How do you diagnose compartment syndrome?**
 
@@ -212,7 +228,9 @@ Myonephropathic metabolic syndrome: muscle cells undergo liquefaction necrosis d
 
     -   ***Normal compartment pressure is \<10-20mmHg***; greater than 30 is highly concerning.  More accurate than an absolute number is comparing the compartment pressure to the mean arterial pressure or diastolic pressure.  If the compartment pressure is within 40mmHg of the MAP (for example, MAP is 60 and compartment pressure is 25 -- this is concerning) -- OR -- if the difference between compartment pressure and diastolic pressure is less than 10 (for example, diastolic pressure is low at 30, and compartment pressure is 22).
 
-If the clinical suspicion of compartment syndrome is high, do not be reassured by "normal" compartment pressures.  It is relatively low risk to do fasciotomies, but the risk of limb loss is high for a missed compartment syndrome.
+If the clinical suspicion of compartment syndrome is high, do not be reassured by "normal" compartment pressures. It is relatively low risk to do fasciotomies, but the risk of limb loss is high for a missed compartment syndrome.
+
+### Management
 
 **Management of compartment syndrome is a fasciotomy, what are the types of fasciotomies?**
 
@@ -320,7 +338,7 @@ Above the knee amputations are most often performed with a fish mouth incision. 
 
 Below the knee amputation often performed with a long posterior, or Burgess, flap. Each tibial neuro vascular bundle is ligated individually. The fibula is transected 2-3cm more proximally than the tibia to avoid weight bearing from the prosthetic.
 
-Although hotly debated, a Cochrane review demonstrated no difference in outcomes based on flap type. Although it does recommend performing in two stages in the setting of wet gangrene.[@tisi2014]
+Although hotly debated, a Cochrane review demonstrated no difference in outcomes based on flap type. However, the review does recommend performing amputations in two stages in the setting of wet gangrene.[@tisi2014]
 
 ### Transmetatarsal amputation (TMA)
 
