@@ -2,10 +2,18 @@
 
 **Authors:** *Adam P Johnson and Melissa Kirkwood*
 
+```{r echo=FALSE}
+
+library(embedr)
+
+# embed_audio("https://traffic.libsyn.com/audiblebleeding/Exam_Prep_2023_-_Venousau.mp3")
+
+```
+
 ::: callout-tip
 ## Take a Listen
 
-Check out our [previous episode with a panel with Drs. Kirkwood, Wohlauer, and Chandra discussing occupation hazards for the vascular surgeon](https://www.audiblebleeding.com/occupational-hazards/), of which an important hazard includes radiation safety.
+Check out our [previous episode where Drs. Kirkwood, Wohlauer, and Chandra discuss occupation hazards for the vascular surgeon](https://www.audiblebleeding.com/occupational-hazards/), of which an important hazard includes radiation safety.
 :::
 
 ## Important Terms
@@ -13,6 +21,8 @@ Check out our [previous episode with a panel with Drs. Kirkwood, Wohlauer, and C
 **Absorbed Dose** - energy deposited by ionizing radiation in a medium per unit mass. Dosage measured and communicated most commonly in Gray (Gy) equal to 100 rad.[@reed2019]
 
 **Effective Dose** - energy deposited by ionizing radiation in a medium, taking into account the sensitivity of the specific tissue, time and duration of exposure. These factors compose a weighting factor (W) and thus this is calculated by multiplying absorbed dose (Gy) by the weighting factor (W). Dosage measured and communicated most commonly in Sievert (Sv) equal to 100 rem.[@reed2019]
+
+-   **Equivalent Dose** - energy deposited by ionizing radiation in a medium, taking into account the sensitivity for *an individual organ*. These are then combined to come to the effective dose, which is used more commonly for the whole body.
 
 **Reference Air Karma (RAK)** - Radiation output at a specific reference point along a fluoroscopic axis.[@kirkwood2013]
 
@@ -29,7 +39,7 @@ Check out our [previous episode with a panel with Drs. Kirkwood, Wohlauer, and C
 The effects can impact both patients and clinicians. Patients often receive a higher dose during a single procedure, where as clinician doses, even with proper shielding, accumulate over multiple procedures throughout their careers. The effects of radiation are defined as either deterministic or stochastic.
 
 |  Dose   | Effect                                                                                             |
-|:---------------:|------------------------------------------------------|
+|:----------------:|------------------------------------------------------|
 |  0-2Gy  | No observable effects                                                                              |
 |  2-5Gy  | Transient skin erythema and dermatitis, full recovery 6w-1yr[@guesnier-dopagne2019; @kirkwood2014] |
 | 5-10Gy  | Erythema and epilation (hair loss), prolonged erythema up to 1y                                    |

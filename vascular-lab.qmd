@@ -414,15 +414,15 @@ Other abnormalities that may be visualized are portal vein thrombosis - often as
 
 Mesenteric duplex can also assess for functioning of TIPS (transjugular intrahepatic portosystemic shunt). A sign of a failing TIPS is portal vein peak systolic velocity less than 30cm/s.
 
-### Renal arteries
+### Renal arteries {#sec-lab-renal}
 
 **Awesome, and so before jumping fully into venous circulation, let's complete our discussion of abdominal ultrasound evaluation with a discussion of the renal vasculature.**
 
 [Renal Pathologies:]{.underline} ostial (atherosclerotic) vs mid-artery (FMD)
 
-[Atherosclerotic stenosis:]{.underline} PSV \> 285 cm/s and Renal-aortic ratio (RAR) \>3.5, suggest \>60% stenosis.[@schäberle2016] However aortic PSV needs to be within normal range (40-100) to be appropriately interpreted.
+[Atherosclerotic stenosis:]{.underline} PSV \> 200 cm/s and Renal-aortic ratio (RAR) \>3.5, suggest \>60% stenosis, however some labs use higher PSV criteria (250-285 cm/s).[@schäberle2016;@rickey2019] Of note, for RAR, the aortic PSV needs to be within normal range (40-100) to be appropriately interpreted.
 
-The renal resistive index (RRI) is calculated as the RA (PSV-EDV)/PSV. The RRI (\>0.8) is an indicator of intrinsic parenchymal renal disease. RRI has been used for assessment of transplant renal allograft rejection, decision making for treatment of renal artery stenosis and to evaluate progression of CKD. Diabetic nephropathy will demonstrate elevated RRI, signifying parenchymal disease.[@viazzi2014] One study showed it was associated with poor renal and overall outcome in critically ill patients.[@ledorze2012]
+The renal resistive index (RRI) is calculated as the RA (PSV-EDV)/PSV. The RRI (\>0.8) is an indicator of intrinsic parenchymal renal disease. RRI has been used for assessment of transplant renal allograft rejection, decision making for treatment of renal artery stenosis and to evaluate progression of CKD.[@radermacher2001] Diabetic nephropathy will demonstrate elevated RRI, signifying parenchymal disease.[@viazzi2014] One study showed it was associated with poor renal and overall outcome in critically ill patients.[@ledorze2012]
 
 [FMD:]{.underline} Fibromuscular dysplasia (FMD) will demonstrate tortuous renal arteries with turbulent flow and increased PSV of the mid-distal portions. Beading may be difficult to see on ultrasound (compared to the extracranial carotid). Atherosclerosis disease is primarily ostial in nature.
 
